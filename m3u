@@ -64,9 +64,9 @@ group-title="NOMBRE DE LA CATEGORIA", Simpsom
 https://usher.ttvnw.net/api/channel/hls/f1lold020.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=4106217&play_session_id=830dcbde0c327be56b10061691b3be8e&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=1e089ec44e49af482b3d009b5008534ede1301cd&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22f1lold020%22%2C%22channel_id%22%3A911071455%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%227400d186a27d0a26%22%2C%22expires%22%3A1684846201%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2278.20.113.187%22%2C%22version%22%3A2%7D&transcode_mode=vbr_v1&cdm=wv&player_version=1.19.0
 
 
-#EXTINF:-1 tvg-logo="http://XXXXXXXXXXXX.jpg" 
-group-title="NOMBRE DE LA CATEGORIA", Tu universo
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w513456064.m3u8
+#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" 
+group-title="NOMBRE DE LA CATEGORIA", Cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" 
 group-title=“España”, HBO
