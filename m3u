@@ -75,3 +75,18 @@ https://usher.ttvnw.net/api/channel/hls/bocx148.m3u8?acmb=e30%3D&allow_source=tr
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" 
 group-title="Guatemala", Canal Antigua
 https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=78.20.113.187/e38a20258fa7ae00af3577d558d26fdad5435e75c8d581f27fadeb2b37b78c4c/feedlatino1/feedlatino1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" 
+group-title=“Latino”, CXTv
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" 
+group-title=“Latino”, canela clásicos 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+
+#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg" 
+group-title=“Latino”, Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+
+
