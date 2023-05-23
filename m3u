@@ -88,5 +88,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 group-title=“Latino”, Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.dw.com/image/15705485_303.jpg" 
+group-title=“Latino”, DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
