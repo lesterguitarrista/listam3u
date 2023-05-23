@@ -30,10 +30,29 @@ group-title=“MEXICO”, CANELA TV
 https://stream.ads.ottera.tv/cl/230516chhog84ucqi4hghoqsb0/854x480_1355200_2_f.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cortofilms.com/wp-content/uploads/2022/02/Logo-CortoFilms-web.png" 
-group-title=“ESPAÑA”, CORTO FILMS
-https://livelist01.yowi.tv/lista/7b69fc60c67962d703e9c95b60cb17c56b921b75/index-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://www.elinformadorchile.cl/wp-content/uploads/2021/06/fb-lared-img-773x380.jpg" 
+group-title=“Chile”, La Red
+https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" 
+group-title=“Chile”, Retro Plus 
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w492662126.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" 
+group-title=“Mexico”, Accion Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" 
+group-title=“Guatemala”, Tvs Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" 
+group-title=“Venezuela”, Novelisima
+https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/a2f861ef-15bb-4660-8214-9b101ed9ba9e:GRQ/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" 
