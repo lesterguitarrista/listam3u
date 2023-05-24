@@ -153,3 +153,7 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/La_Red_Logotipo.svg" 
 group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" 
+group-title=“Latino”, Univision
+https://webudit.salamus1.lol/lb/premium132/index.m3u8
