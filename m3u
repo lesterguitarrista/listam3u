@@ -52,8 +52,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" 
 group-title=“Venezuela”, Novelisima
-https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/a2f861ef-15bb-4660-8214-9b101ed9ba9e:GRQ/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
-
+https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/dcfdbdb3-3d7e-4098-bf3c-7570a61587ed:GRQ/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" 
 group-title=“ESPAÑA”, ID
@@ -151,3 +150,6 @@ https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 group-title=“Guatemala”, Canal 100 Quiche
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/La_Red_Logotipo.svg" 
+group-title=“Chile”, La Red
+https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
