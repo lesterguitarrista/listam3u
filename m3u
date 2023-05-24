@@ -91,3 +91,63 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 group-title=“Latino”, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" 
+group-title=“Guatemala”, TV Globo 
+https://cdn.streamhispanatv.net:3862/live/teveglobolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_72ffb2f4a5e246dc90b7f6a63afd962a~mv2.jpg" 
+group-title=“Guatemala”, Visión TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" 
+group-title=“Guatemala”, Toto Visión 
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipN4Ds8zftd54MDlxBNVad2-4NSzTvejD-d3dOhb=w768-h768-n-o-v1" 
+group-title=“Guatemala”, Barbe Tv
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fullchannel.com.gt/wp-content/uploads/2022/06/logo-1.png" 
+group-title=“Guatemala”, Full Channel
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4fcffbf0a9d34c5ab6514f1ed913ef48~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_4fcffbf0a9d34c5ab6514f1ed913ef48~mv2.jpg" 
+group-title=“Guatemala”, Yepo Tv
+https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg" 
+group-title=“Guatemala”, Canal 9 Solola
+https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/guatv.webp" 
+group-title=“Guatemala”, GuaTv
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" 
+group-title=“Guatemala”, Tunevision
+https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_3e1035966c6443d8a18aca291c038e4a~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Penielky.png" 
+group-title=“Guatemala”, Canal Piel K&Y
+https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/277565337_469315541600691_4180594648300084735_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=11i8AieP-BYAX9sgLk4&_nc_ht=scontent-bru2-1.xx&oh=00_AfD4PWXUUDJd50OgY3payFrL-NIGa8Z6Ipv9kFuboxtRZA&oe=6473809D" 
+group-title=“Guatemala”, Sas Tv
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvinsur.com/img/gt/canal-8-santa-rosa.webp" 
+group-title=“Guatemala”, Canal 8
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg" 
+group-title=“Guatemala”, Nim Tv
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/323693414_578746050930651_8593393958884917851_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=R_Deo_6j6NkAX8sR-u6&_nc_ht=scontent-bru2-1.xx&oh=00_AfDK1MFBHPD8pd7xXVnExBM2X5Xnu99koUxOrr4tJBItGQ&oe=6473550A" 
+group-title=“Guatemala”, Aurora Films
+https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png" 
+group-title=“Guatemala”, Canal 100 Quiche
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+
