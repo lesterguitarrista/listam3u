@@ -207,3 +207,88 @@ https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8?
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521686597.jpg" group-title="Chileiptv" , TV Chile 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
+#EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV | CL
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="505" tvg-name="Weather Channel" tvg-logo="https://www.m3u.cl/logo/505_Weather_Channel.png", Weather Channel  | US
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Animé Acción (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVAnimeClasico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Anime Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVAnimakidsSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Animakids (Spain) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Bob Esponja (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVGarfield.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Garfield (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Toons Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Canales de Cultura", NatGeo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="Canales de Cultura", NatGeo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="Canales de Cine", Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="Canales de Cine", Max Prime
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Canales de Cine", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", AMC
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 1
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="Canales Mexicanos", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+
+#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/ef/TC_Premium.png"",TC Premium HD
+http://138.68.84.181/loadbalance/telecinepremium/chunks.m3u8?pxAuth=kyWMqIxxdoGrx8Dya4MIKDV1hOqFgL7p
+
+#EXTINF:0 tvg-logo="http://lh3.googleusercontent.com/EbiTHPbyLuyZQG60RI878XCxLKjcSvSWUdOuoaMttZtK4HihkMgHntwpSibT7Vt4iA=w300" group-title="",Universal Play HD
+http://107.170.209.248/loadbalance/universalch/chunks.m3u8?pxAuth=fuqfhye0alJQcLZWHtcVl5nInPEQ7RV8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest/scale-to-width-down/2000?cb=20160228233323"",TC Action HD
+http://104.131.135.246/loadbalance/telecineaction/chunks.m3u8?pxAuth=xznAiZ6OevYW5IPfTOGwy2ZP38FNXaDe
+
+#EXTINF:0 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-1GvqHmZDx9A/TsKvM43BzMI/AAAAAAAAARE/kVkjYTykVmI/s1600/canal_space_logo.jpg"",Space HD
+http://138.68.84.181/loadbalance/spacehd/chunks.m3u8?pxAuth=sBc0l2AVTlEhoefK3VpbtlxQBwrsh5p7
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Warner_Bros._Pictures_logo.svg/1093px-Warner_Bros._Pictures_logo.svg.png"",Warner Brothers
+http://107.170.209.59/loadbalance/warnerchannel/chunks.m3u8?pxAuth=gIRCLIl647FFIpLnG5hpBHnLe6JfwAJS
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"",TNT Series
+http://165.227.181.85/tntserieshd/tracks-v1a1/index.m3u8?pxAuth=N1C8y2cjw3asZT1L3Oi3PJl0YH8DLcET
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FX_2008_logo.svg/2000px-FX_2008_logo.svg.png"",FOX HD
+http://104.131.145.70/loadbalance/fox-hd/chunks.m3u8?pxAuth=qPj1nrHLdlETSInXqoeCqMLsHcXbkWJI
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"",TNT
+http://165.227.181.85/tnt/tracks-v1a1/index.m3u8?pxAuth=GQ2INdJFqYu5C4o3CTzpsBXE0GcBSpzS
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png"",Sony HD
+http://207.154.248.20/loadbalance/55987292618779665195/chunks.m3u8?pxAuth=NFsREPaEE4ZWSRtjlpVWIUwXveLsg011
+
