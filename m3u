@@ -174,3 +174,15 @@ https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=
 group-title=“Latino”, Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w118293894.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/800px-NRJ_Hits_2017.svg.png" 
+group-title=“Belgica”, NRJ Hits
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1136538790_b3268608.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.nieuwsblad.be/Assets/Images_Upload/2023/03/01/logo-atv.jpg" 
+group-title=“Belgica”, ATV
+https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" 
+group-title=“Argentina”, Canal 13
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
+
