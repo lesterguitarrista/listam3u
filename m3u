@@ -8,47 +8,37 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 group-title=“GUATEMALA”, TN23
 https://d1dqr580c2izza.cloudfront.net/hls/canal23.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" 
 group-title=“GUATEMALA”, CANAL 7
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" 
 group-title=“GUATEMALA”, TvAzteca Guate
 https://5fe2654d6127d.streamlock.net/aztecaguate/videoaztecaguate/chunklist_w1338260672.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDIzIDE6MDE6MzggUE0maGFzaF92YWx1ZT1JbkFvL0xMNEdRelJJL3RrWXZxdzVnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" 
 group-title=“ESPAÑA”, TVe
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/audienceawardsimages/Misc/UnTagged/165583771621.png" 
 group-title=“MEXICO”, CANELA TV 
 https://stream.ads.ottera.tv/cl/230525chnlr2ggv6thhnu88880/1280x720_3071200_0_f.m3u8?i=475_653
 
-
 #EXTINF:-1 tvg-logo="https://www.elinformadorchile.cl/wp-content/uploads/2021/06/fb-lared-img-773x380.jpg" 
 group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" 
 group-title=“Chile”, Retro Plus 
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w492662126.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" 
 group-title=“Mexico”, Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" 
 group-title=“Guatemala”, Tvs Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" 
 group-title=“Venezuela”, Novelisima
@@ -56,7 +46,7 @@ https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/dcfdbdb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" 
 group-title=“ESPAÑA”, ID
-https://video-weaver.lhr08.hls.ttvnw.net/v1/playlist/CoQFAsSrnkG__Yp8tUbIHVGQFWDrEBObuqRnIMU14K2DBANeBWXBinjYapHyiHLfDbNpzgCEpiIt7Rpkce4HQ6fvt47V7uJg4lb6KoEIOFYbdePMOiO73mVpAPCcehOw4PP65CXYCRHqkOt5Z6x2PfjIx7Xf39tmu7T0goKGiwCECzSi0q8xNJahNQwtaR_9RYc2HogiWPeBCh8cAaEXBQC5eYMMecnUw515dqTYygdCbXZAP5IBVvAzzJmf7KGKs_PueKGskjWtetz__vK_xxpMxmnnePULFL3xSjL08mJxbtrz2cJXAJwegT4qaQ7q3R1ZZwmMLj174U364wzIMdsWfqIblmxl2N2JZmor90aEJnVYusj8zWT5KxtACilP1MSLVhLb-AUt1ta4WDSX2E7nJ4JxSX1ifmH_8HkShO1Btf7-0TxJ9Jdt89LIcPWdoWxaTB0s9cLjI_OshxwmSWtSQoveFnha4XFEMaATzf3T-ZeEBsXm15h6Sf66xSxPvWjnceSrRNHbQS9Nby9HzKkAC2VzxBZyzeN1svo2VjcNaJU-oymNbQ8c2_3ovWetA4Y4pXw_HRMUbrNVdUSRiLYxY37zZ2G5sT5XpoLdBO_0UNVmiURaUfFpJ6r5eSmYfLB6ANAWlndZkiJVU_6VGtcZjVYHZfobT4HF8sAI_y1m8b309r3F85jzgXWVTbPRzHyLXjSXDL6VHs82vjHG4hKWfsWvqdJ9HBlzic2pCMGowQHJiv6c_inGW3LWEP-fXxS6y5fQmsxsJqgwxFmYo0_HtZ-KV47TL939XmVwJpFl5MjqnyJUTYfnmYz1QPd9kNEse09Yw64awG_KmIPzyFIaWdfgyXoaDBtYoHf-yJNBFhoDESABKglldS13ZXN0LTIw0QY.m3u8
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CoEFhoenFr8OB_8Ku8mx0wCba-KUrE5eVqv36aLroWZyWCZuxsxkDVXJlZen4k3wlvPi2c1nmNDRZWTECMY1iwYR-tTdc9ZKVa_rq_am8syvcFx5XV4kY7-1C4owj-MTQ00cm_Ej4A6xj6LWioAxcCHFLmWZcikTs-xloukceRPcjXcAabzrUmq3Qxj9Q4XxvnFxLEmjicI51Jyj5HFM9Ury_fRRmTcpyD2yrOerZa05u1InTxS-1pKfMADe-GOWXTkqhy_GxIIZ_u9CFVEL7ue0rqv5jzJEPjF_lzVIlAzO649CbNJ6M-lXs2r30bJHPaVrd8BbfAHrmSmJNjGIoP5DehHHT_Yyidcf7uD73v9jqtn4U1tXk4O-zIxcySqlLbn8MK1FjYlUaa3P1uM4U9P_zcDd4qP8F08P0DESt4VqbqPwgN3QZ2WukB1HMbQbNfqJfq8UwQUoG5RWJbMum5v7vhfYz6qEOX6BO7z-PlvidCV-sqf_s5N9hSddKDQ6FfhKDHfUdR9VlIHEPRMudvmzGqHcUR9t75ZNbYXowzM2dCq_CoASWj6dfl4AQ5xHnxDrKngVP_mTDrw2DqHVcX1E8aIVsi2OcCXZ6_4JwbqrH36o2qd4zFfdHixchBTsMzV_aSSQHpiNx2wLnoajP3-Yyxm1yhmL0-XjsKwpyEIidAPb6pcvWqpyfGYcDREgt8PO2N3mGcBdhjquAyRY7L4JxVY0NJFTtO6g79Qun2WxIxacTl_hixlmsw0qJF_y_F7-_FfPD3L3YI4mr3IcZZk3jr9-0DueQ6geRij8opEDkjf6UA14gQaoJx5B-v-bDInoHfjlj7HD_ae7YGcE5GeX8xQaDM6piQHMOKgvWEO0UCABKglldS13ZXN0LTIw0wY.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" 
 group-title="NOMBRE DE LA CATEGORIA", Simpsom
@@ -68,7 +58,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" 
 group-title=“España”, HBO
-https://usher.ttvnw.net/api/channel/hls/bocx148.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=5854645&play_session_id=bb34c44664a02f3c633d4a7f2453ecd3&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=4d740b1f5a544b3f425db20d72813f4ba4c7887a&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22bocx148%22%2C%22channel_id%22%3A834704862%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%227400d186a27d0a26%22%2C%22expires%22%3A1684845825%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2278.20.113.187%22%2C%22version%22%3A2%7D&transcode_mode=vbr_v1&cdm=wv&player_version=1.19.0
+https://usher.ttvnw.net/api/channel/hls/bfex279.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=4644352&play_session_id=ca353b08e0f5b8c0386b1cb749521799&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=3772734e9a189b5cfa16d4d80153ab4fe3ac0680&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22bfex279%22%2C%22channel_id%22%3A834706676%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%228fa11ea4830ad1c6%22%2C%22expires%22%3A1685025225%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2278.20.113.187%22%2C%22version%22%3A2%7D&transcode_mode=vbr_v1&cdm=wv&player_version=1.19.0
 
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" 
 group-title="Guatemala", Canal Antigua
@@ -185,4 +175,24 @@ https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" 
 group-title=“Argentina”, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png" 
+group-title=“Argentina”, 24 horas
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/57d1a22064f5d85712b20dab/publish/media_1500.m3u8?aid=51c2f628b440bd797900051f&uid=VtXFMTAxoFn7opnm5Z0jN8pEZnbjVoLL&sid=XoafmxawiDYfHGzOCPb6LFmGAea98GAr&pid=OJbe7B37X2kqVxDCt2QJsnm9Uj8bQpMA&ref=https%3A%2F%2Fwww.24horas.cl%2Fsenal-24hplay&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1685107956505&ot=6Lrf0Iz34Ci-qe-JtbYEJg&proto=https&pz=us
+
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/activa-tv.webp" 
+group-title=“Honduras”, Activa Tv
+https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/chunklist_w1927736917.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqP2WRZcroy04QpcgBXqHVVHfabRy0T_wKrDhaD6-g=s900-c-k-c0x00ffffff-no-rj" 
+group-title=“Honduras”, Canal 11 Tu Tv
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/chunks.m3u8?nimblesessionid=5681356&_HLS_msn=48171&_HLS_part=5
+
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/970.jpg" 
+group-title=“RDominicana”, Canal 11 Tu Tv
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w778018222.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vt3VUAK3EE0giYB3nZctm1B90qQDm40nEtDGKM7A0d2oyUFbzrPFKdSwXl7Z2IqQtRelyy3t=s900-c-k-c0x00ffffff-no-rj" 
+group-title=“Honduras”, Metro Tv
+https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 
