@@ -196,3 +196,14 @@ https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w778018222.m3u8
 group-title=“Honduras”, Metro Tv
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="Lo Mas Visto", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220759941.png" 
+group-title=“Chile”, chile visión
+https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8?
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521686597.jpg" group-title="Chileiptv" , TV Chile 
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
