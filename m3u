@@ -413,7 +413,6 @@ http://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
@@ -427,72 +426,17 @@ https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="A&EMundo" group-title="Claro-COL", A&E Mundo
-http://190.131.228.59:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="AMCSD" group-title="Claro-COL", AMC
-http://190.131.228.59:8000/play/a0r3/index.m3u8
-#EXTINF:-1 tvg-id="AMC HD" group-title="Claro-COL", AMC HD
-http://190.131.228.59:8000/play/a0jc/index.m3u8
-#EXTINF:-1 tvg-id="AXN" group-title="Claro-COL", AXN
-http://190.131.228.59:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Animal Planet
-http://190.131.228.59:8000/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-id="CNNEspanol" group-title="Claro-COL", CNN Espanol
-http://190.131.228.59:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="CARACOLSD" group-title="Claro-COL", Canal Caracol
-http://190.131.228.59:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Claro-COL", Cartoon Network
-http://190.131.228.59:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal" group-title="Claro-COL", Cinecanal
-http://190.131.228.59:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax" group-title="Claro-COL", Cinemax
-http://190.131.228.59:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="DISCOV" group-title="Claro-COL", Discovery Channel
-http://190.131.228.59:8000/play/a0qu/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERYH&H" group-title="Claro-COL", Discovery H&H HD
-http://190.131.228.59:8000/play/a0re/index.m3u8
-#EXTINF:-1 tvg-id="FX" group-title="Claro-COL", FX
-http://190.131.228.59:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="FILM" group-title="Claro-COL", Film&Arts
-http://190.131.228.59:8000/play/a0qv/index.m3u8
-#EXTINF:-1 tvg-id="HBO" group-title="Claro-COL", HBO
-http://190.131.228.59:8000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="HBO2SD" group-title="Claro-COL", HBO 2
-http://190.131.228.59:8000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilySD" group-title="Claro-COL", HBO Family
-http://190.131.228.59:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus" group-title="Claro-COL", HBO Plus
-http://190.131.228.59:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="HBOXTREMESD" group-title="Claro-COL", HBO XTREME SD
-http://190.131.228.59:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel" group-title="Claro-COL", History Channel
-http://190.131.228.59:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="NatGeo" group-title="Claro-COL", Nat Geo
-http://190.131.228.59:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="STARCHANNEL" group-title="Claro-COL", STAR CHANNEL
-http://190.131.228.59:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="Sony" group-title="Claro-COL", Sony
-http://190.131.228.59:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="Space" group-title="Claro-COL", Space
-http://190.131.228.59:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="STUDIOSD" group-title="Claro-COL", Studio Universal
-http://190.131.228.59:8000/play/a0i0/index.m3u8
-#EXTINF:-1 tvg-id="TCM" group-title="Claro-COL", TCM
-http://190.131.228.59:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="TLC" group-title="Claro-COL", TLC
-http://190.131.228.59:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="TNT" group-title="Claro-COL", TNT
-http://190.131.228.59:8000/play/a0r2/index.m3u8
-#EXTINF:-1 tvg-id="TNTSERIESHD" group-title="Claro-COL", TNT Series HD
-http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-id="Universal" group-title="Claro-COL", Universal
-http://190.131.228.59:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="Warner" group-title="Claro-COL", Warner
-http://190.131.228.59:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", TNT SERIES FHD
-http://190.60.39.62:8000/play/99
-#EXTINF:-1  group-title="CABLE KINGS", Food Network
-http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/417885
+
+#EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
+https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", 4 GDL
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+
+
+
 #EXTINF:-1  group-title="CABLE KINGS IPTV", CRIME INVESTIGATION
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577905
 #EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY
