@@ -410,27 +410,4 @@ https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logointeralmeriatv.jpg" group-title="SPAIN",interalmeria tv HD
 http://interalmeria.tv/directo/live.m3u8
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Canal 5 HD" tvg-logo="http://iptvmexico.xyz/logos/png/294.png", Canal 5 HD
-http://www.iptvmexico.xyz/294.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="Azteca 13 HD" tvg-logo="http://iptvmexico.xyz/logos/png/26.png", Azteca 13 HD
-http://www.iptvmexico.xyz/26.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="Boomerang" tvg-logo="http://iptvmexico.xyz/logos/png/224.png", Boomerang
-http://www.iptvmexico.xyz/224.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="Cartoon Network" tvg-logo="http://iptvmexico.xyz/logos/png/36.png", Cartoon Network
-http://www.iptvmexico.xyz/36.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="http://iptvmexico.xyz/logos/png/2035.png", Los Simpson
-http://www.iptvmexico.xyz/2035.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="AMC" tvg-logo="http://iptvmexico.xyz/logos/png/232.png", AMC
-http://www.iptvmexico.xyz/232.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="Cine Latino" tvg-logo="http://iptvmexico.xyz/logos/png/2047.png", Cine Latino
-http://www.iptvmexico.xyz/2047.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="De Pelicula" tvg-logo="http://iptvmexico.xyz/logos/png/365.png", De Película
-http://www.iptvmexico.xyz/365.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="Golden Edge" tvg-logo="http://iptvmexico.xyz/logos/png/179.png", Golden Edge
-http://www.iptvmexico.xyz/179.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="Space HD" tvg-logo="http://iptvmexico.xyz/logos/png/2061.png", Space HD
-http://www.iptvmexico.xyz/2061.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="AE" tvg-logo="http://iptvmexico.xyz/logos/png/323.png", A&E
-http://www.iptvmexico.xyz/323.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name="FX" tvg-logo="http://iptvmexico.xyz/logos/png/115.png", FX
-http://www.iptvmexico.xyz/115.m3u8
+
