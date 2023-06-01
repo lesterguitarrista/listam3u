@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/Cartoon_Network_2010_logo.svg.png/revision/latest?cb=20160115030351&path-prefix=es" 
+group-title=“Latino“,, CartoonNetwork Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" 
 group-title=“GUATEMALA”, CANAL3 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
