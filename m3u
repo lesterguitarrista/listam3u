@@ -40,10 +40,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 group-title=“Guatemala”, Tvs Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" 
-group-title=“Venezuela”, Novelisima
-https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/dcfdbdb3-3d7e-4098-bf3c-7570a61587ed:GRQ/variant/54c453476fbead279fe703463914a702/bandwidth/3071200.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" 
 group-title=“ESPAÑA”, ID
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CoEFhoenFr8OB_8Ku8mx0wCba-KUrE5eVqv36aLroWZyWCZuxsxkDVXJlZen4k3wlvPi2c1nmNDRZWTECMY1iwYR-tTdc9ZKVa_rq_am8syvcFx5XV4kY7-1C4owj-MTQ00cm_Ej4A6xj6LWioAxcCHFLmWZcikTs-xloukceRPcjXcAabzrUmq3Qxj9Q4XxvnFxLEmjicI51Jyj5HFM9Ury_fRRmTcpyD2yrOerZa05u1InTxS-1pKfMADe-GOWXTkqhy_GxIIZ_u9CFVEL7ue0rqv5jzJEPjF_lzVIlAzO649CbNJ6M-lXs2r30bJHPaVrd8BbfAHrmSmJNjGIoP5DehHHT_Yyidcf7uD73v9jqtn4U1tXk4O-zIxcySqlLbn8MK1FjYlUaa3P1uM4U9P_zcDd4qP8F08P0DESt4VqbqPwgN3QZ2WukB1HMbQbNfqJfq8UwQUoG5RWJbMum5v7vhfYz6qEOX6BO7z-PlvidCV-sqf_s5N9hSddKDQ6FfhKDHfUdR9VlIHEPRMudvmzGqHcUR9t75ZNbYXowzM2dCq_CoASWj6dfl4AQ5xHnxDrKngVP_mTDrw2DqHVcX1E8aIVsi2OcCXZ6_4JwbqrH36o2qd4zFfdHixchBTsMzV_aSSQHpiNx2wLnoajP3-Yyxm1yhmL0-XjsKwpyEIidAPb6pcvWqpyfGYcDREgt8PO2N3mGcBdhjquAyRY7L4JxVY0NJFTtO6g79Qun2WxIxacTl_hixlmsw0qJF_y_F7-_FfPD3L3YI4mr3IcZZk3jr9-0DueQ6geRij8opEDkjf6UA14gQaoJx5B-v-bDInoHfjlj7HD_ae7YGcE5GeX8xQaDM6piQHMOKgvWEO0UCABKglldS13ZXN0LTIw0wY.m3u8
@@ -54,10 +50,6 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" 
 group-title="NOMBRE DE LA CATEGORIA", Cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" 
-group-title=“España”, HBO
-https://usher.ttvnw.net/api/channel/hls/bfex279.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=4644352&play_session_id=ca353b08e0f5b8c0386b1cb749521799&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=3772734e9a189b5cfa16d4d80153ab4fe3ac0680&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22bfex279%22%2C%22channel_id%22%3A834706676%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%228fa11ea4830ad1c6%22%2C%22expires%22%3A1685025225%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2278.20.113.187%22%2C%22version%22%3A2%7D&transcode_mode=vbr_v1&cdm=wv&player_version=1.19.0
 
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" 
 group-title="Guatemala", Canal Antigua
@@ -435,6 +427,11 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", 4 GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
 
 #EXTINF:-1  group-title="CABLE KINGS IPTV", CRIME INVESTIGATION
@@ -445,5 +442,76 @@ http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=5
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577901
 #EXTINF:-1  group-title="CABLE KINGS IPTV", NAT GEO
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577909
+
+#EXTINF:-1 group-title="Bics", 8 MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+#EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", TN23
+https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO CA
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Bics Extra", ATRES CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+
+#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=851089595&_cdn_timestamp=1685720826&_cdn_token=bf977eb9378d1ab2e61add752379148802c3428e
+#EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=851089811&_cdn_timestamp=1685720832&_cdn_token=5ccccc9748ad3e1da43f022be43b2c6b029662bd
+#EXTINF:-1  group-title="Bics Extra", ESPN USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=851094115&_cdn_timestamp=1685720943&_cdn_token=0854785c5056b821968bedf83bbfb61f2c9e9283
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=851096379&_cdn_timestamp=1685720993&_cdn_token=20f0c974fd3e88112a8893085923a942b7052f48
+#EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=851095827&_cdn_timestamp=1685720983&_cdn_token=38175b2193fab2f014ff73d92008aa82203d7e06
+#EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=851104195&_cdn_timestamp=1685721242&_cdn_token=38fea22d36ec30582a88840c6995bfe042a874bd
+#EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=851104523&_cdn_timestamp=1685721250&_cdn_token=0caa67db8b2ba5ba71e62b6d740db701beb3b9c9
+
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 1
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 10
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+#EXTINF:-1 group-title="RokuTV", EVENTOS TyC PLAY 11
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
+
+#EXTINF:-1 tvg-id="A&EMundo" group-title="Claro-COL", A&E Mundo
+http://190.131.228.59:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="AMCSD" group-title="Claro-COL", AMC
+http://190.131.228.59:8000/play/a0r3/index.m3u8
+#EXTINF:-1 tvg-id="AMC HD" group-title="Claro-COL", AMC HD
+http://190.131.228.59:8000/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-id="AXN" group-title="Claro-COL", AXN
+http://190.131.228.59:8000/play/a04i/index.m3u8
 
 
