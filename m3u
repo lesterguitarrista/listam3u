@@ -14,7 +14,7 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" 
 group-title=“GUATEMALA”, TvAzteca Guate
-https://5fe2654d6127d.streamlock.net/aztecaguate/videoaztecaguate/chunklist_w1606705601.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjMgMTo1MToyNSBQTSZoYXNoX3ZhbHVlPVJyN2tFZzg5UHl4QUNFK0hRQW92bFE9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
+https://5ca39be538307.streamlock.net/aztecaguate/videoaztecaguate/chunklist_w866851661.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDIzIDEyOjE0OjEyIFBNJmhhc2hfdmFsdWU9clFHME4wTm40RlVpSFQ4bm0ybEVFQT09JnZhbGlkbWludXRlcz01JmlkPQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" 
 group-title=“ESPAÑA”, TVe
@@ -752,3 +752,21 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724
 #EXTINF:-1 ,AXN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+
+#EXTINF:-1 group-title="Bics", 4 GDL
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+#EXTINF:-1 group-title="Bics", 8 MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA 7 2
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="Bics Extra", ESTRELLA TV USA
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", 24 HORAS ES
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="Bics Extra", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
