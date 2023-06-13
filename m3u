@@ -1875,4 +1875,15 @@ http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2041
 #EXTINF:-1 tvg-ID="24/7 INCOGNITO" tvg-name="24/7 INCOGNITO" tvg-logo="https://i.imgur.com/tiMxwAO.png" group-title="CANALES 24/7",24/7 INCOGNITO
 http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=1120
 
+#EXTINF:-1,  Univision TDN
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/IFAOJ-1011001101111010010101101001101-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9Zb3VUVk9wMg==/visita-exabytetv.m3u8
+#EXTINF:-1,  UFC NETWORK
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1, Tv Pop
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+#EXTINF:-1, Mundo Auto Tv
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:-1,  Azteca Trece 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
 
