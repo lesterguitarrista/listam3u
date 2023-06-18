@@ -2063,6 +2063,13 @@ https://v3.playerlatino.live/stream/m3u8/274
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/837
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" 
+group-title=“Latino“,, TeleVenezuela
+https://stream-05.ix7.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLs_K1nvgBrXjv3SC9wj91gHqz3IyyNwcDxbbj--pR_JY)/dm/3/x828i6j/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-1/324194589_726663695785100_2766882904520281456_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=foXk0K5eFXEAX8bNhXg&_nc_ht=scontent-bru2-1.xx&edm=AKsJ254EAAAA&oh=00_AfB_F9eb3iphAC0HgID3_mjWnPzyarXvafdrZ-r35cgicQ&oe=649533F0" 
+group-title=“Latino“,, TeleVen
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+
 
 
 
