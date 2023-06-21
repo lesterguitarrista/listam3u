@@ -138,10 +138,6 @@ https://inliveserver.com:1936/11530/11530/chunklist_w1452252569.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" 
 group-title=“Latino”, Rock
-https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w1622070128.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" 
-group-title=“Latino”, Rock
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=1abd702b-09d6-4502-b93c-ad4c77ccb472&streamSessionId=8f8736bb-b6c6-4c82-9f40-7ce2cdb3b445&code=TELEATLANTIC&expires=1667520000000&playUrl=true&ctrl=cb0a09d375980612253a7c7a9e7f71c936ff2151b6b82275eb38cd859b79a8edcfe67272be059b5384f6091043e4eb9a636aa8926ce7dd5e523990dafa69c1d3
 
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" 
@@ -173,21 +169,13 @@ group-title=“Honduras”, Canal 11 Tu Tv
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/chunks.m3u8?nimblesessionid=5681356&_HLS_msn=48171&_HLS_part=5
 
 #EXTINF:-1 tvg-logo="https://domintapi.com/images/station/970.jpg" 
-group-title=“RDominicana”, Canal 11 Tu Tv
+group-title=“RDominicana”, Ame47
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w778018222.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vt3VUAK3EE0giYB3nZctm1B90qQDm40nEtDGKM7A0d2oyUFbzrPFKdSwXl7Z2IqQtRelyy3t=s900-c-k-c0x00ffffff-no-rj" 
 group-title=“Honduras”, Metro Tv
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220759941.png" 
-group-title=“Chile”, chile visión
-https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8?
-
-#EXTINF:-1 tvg-id="505" tvg-name="Weather Channel" tvg-logo="https://www.m3u.cl/logo/505_Weather_Channel.png", Weather Channel  | US
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Animé Acción (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
