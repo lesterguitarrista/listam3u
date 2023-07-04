@@ -2109,4 +2109,5 @@ group-title=“Mexico, TUDN
 http://190.61.102.67:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TUDNUS.us" status="online",TUDN [Geo-blocked] 
 https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1= 
-
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://190.61.102.67:31589/play/a08j/index.m3u8
