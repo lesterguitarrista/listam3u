@@ -2111,3 +2111,313 @@ http://190.61.102.67:2000/play/a08j/index.m3u8
 https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1= 
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
 http://190.61.102.67:31589/play/a08j/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN 
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/698
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN (Pocos Datos)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/822
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN USA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/86
+
+#EXTINF:-1 tvg-id="ForensicFiles.us",Pluto TV Forensic Files en ESP (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=
+#EXTINF:-1 tvg-id="ForensicFiles.us",Pluto TV Forensic Files en ESP (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCocinaSpain.es",Pluto TV Cocina (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCocinaSpain.es",Pluto TV Cocina (Spain) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=
+
+
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt",Amigos TV Chiquimula (480p)
+https://tv91.hostingnuclear.com:19360/amigostv/amigostv.m3u8
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt",Aurora Media Films (720p)
+http://204.12.202.90:8080/playgt/playgt2023/104
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+#EXTINF:-1 tvg-id="BarbeTV.gt",Canal 9 Barbe TV (720p)
+http://204.12.202.90:8080/playgt/playgt2023/103
+#EXTINF:-1 tvg-id="BarbeTV.gt",Canal 9 Barbe TV (720p)
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-id="Canal3.gt",Canal 3 (480p)
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
+#EXTINF:-1 tvg-id="Canal8SantaRosa.gt",Canal 8 Santa Rosa (720p)
+http://204.12.202.90:8080/playgt/playgt2023/105
+#EXTINF:-1 tvg-id="Canal8SantaRosa.gt",Canal 8 Santa Rosa (720p)
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:-1 tvg-id="Canal9Toliman.gt",Canal 9 Tolimán (720p)
+https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+#EXTINF:-1 tvg-id="Canal13Esquipulas.gt",Canal 13 Esquipulas (720p)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1 tvg-id="Canal27.gt",Canal 27 (1080p)
+https://live.appclicksgt.com:3305/live/tvcanal27live.m3u8
+#EXTINF:-1 tvg-id="Canal100Chinique.gt",Canal 100 Chinique (480p)
+http://204.12.202.90:8080/playgt/playgt2023/106
+#EXTINF:-1 tvg-id="Canal100Chinique.gt",Canal 100 Chinique (480p)
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 tvg-id="CanalPeniel.gt",Peniel (720p)
+http://204.12.202.90:8080/playgt/playgt2023/135
+#EXTINF:-1 tvg-id="CanalPeniel.gt",Canal Peniel (720p)
+https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
+#EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt",Canal TV Radio Maya TGBA
+https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
+#EXTINF:-1 tvg-id="CandelariaTV.gt",Candelaria TV (720p) [Not 24/7]
+http://204.12.202.90:8080/playgt/playgt2023/128
+#EXTINF:-1 tvg-id="CandelariaTV.gt",Candelaria TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8
+#EXTINF:-1 tvg-id="CarinosaTV.gt",Cariñosa TV (720p) [Not 24/7]
+http://204.12.202.90:8080/playgt/playgt2023/142
+#EXTINF:-1 tvg-id="CarinosaTV.gt",Cariñosa TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
+#EXTINF:-1 tvg-id="CNI.gt",CNI Digital (720p) [Not 24/7]
+http://204.12.202.90:8080/playgt/playgt2023/143
+#EXTINF:-1 tvg-id="EsquipulasTV.gt",Esquipulas TV (1080p)
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+#EXTINF:-1 tvg-id="ExpresionTV.gt",Expresión TV (720p)
+http://204.12.202.90:8080/playgt/playgt2023/129
+#EXTINF:-1 tvg-id="ExpresionTV.gt",Expresión TV (720p)
+https://cdn.streamhispanatv.net:3508/live/extvlive.m3u8
+#EXTINF:-1 tvg-id="FeViviente.gt",Fe Viviente (480p)
+https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
+#EXTINF:-1 tvg-id="FranchsTV.gt",Franchs TV (720p)
+https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
+#EXTINF:-1 tvg-id="FullChannel.gt",Full Channel (720p)
+http://204.12.202.90:8080/playgt/playgt2023/130
+#EXTINF:-1 tvg-id="FullChannel.gt",Full Channel (720p)
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt",Guatevisión (1080p)
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="GuaTV.gt",GuaTV (720p) [Not 24/7]
+http://204.12.202.90:8080/playgt/playgt2023/131
+#EXTINF:-1 tvg-id="GuaTV.gt",GuaTV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+#EXTINF:-1 tvg-id="IglesiaDelCamino.gt",Iglesia Del Camino (480p) [Not 24/7]
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="IxchiguanEstereoTV.gt",Canal 9 Ixchiguán (720p)
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 tvg-id="IzabalTV.gt",Izabal TV (720p)
+http://204.12.202.90:8080/playgt/playgt2023/133
+#EXTINF:-1 tvg-id="IzabalTV.gt",Izabal TV (720p)
+https://cdn.streamhispanatv.net:3340/live/izabaltvlive.m3u8
+#EXTINF:-1 tvg-id="JesusTV.gt",Canal 98 Jesús TV (720p)
+http://204.12.202.90:8080/playgt/playgt2023/97
+#EXTINF:-1 tvg-id="JesusTV.gt",Canal 98 Jesús TV (720p)
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+#EXTINF:-1 tvg-id="Knal4Quiche.gt",Knal 4 (720p)
+https://cdn.streamhispanatv.net:3261/live/knal4gtlive.m3u8
+#EXTINF:-1 tvg-id="MiCanal.gt",Mi Canal (576p) [Not 24/7]
+http://204.12.202.90:8080/playgt/playgt2023/100
+#EXTINF:-1 tvg-id="MiCanal.gt",Mi Canal (576p) [Not 24/7]
+http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8
+#EXTINF:-1 tvg-id="NimTV.gt",Nim TV (720p) [Not 24/7]
+http://204.12.202.90:8080/playgt/playgt2023/134
+#EXTINF:-1 tvg-id="NimTV.gt",Nim TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-id="NuevoMundoTV.gt",Nuevo Mundo TV (720p)
+https://tvlatina.live:1936/8030/8030/playlist.m3u8
+#EXTINF:-1 tvg-id="PenielKY.gt",Peniel Kids & Young (480p)
+http://204.12.202.90:8080/playgt/playgt2023/136
+#EXTINF:-1 tvg-id="PenielKY.gt",Peniel Kids & Young (480p)
+https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
+#EXTINF:-1 tvg-id="PenielMusical.gt",Peniel Musical (720p)
+http://204.12.202.90:8080/playgt/playgt2023/137
+#EXTINF:-1 tvg-id="PenielMusical.gt",Peniel Musical (720p)
+https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
+#EXTINF:-1 tvg-id="PenielMusical.gt",Peniel Musical (720p)
+https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayMediosDigital.gt",PlayMedios Digital (720p)
+http://204.12.202.90:8080/playgt/playgt2023/61
+#EXTINF:-1 tvg-id="PresenciaTelevision.gt",Presencia TV (720p)
+https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt",Rhema TV (720p)
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+#EXTINF:-1 tvg-id="SASTV.gt",SAS TV (720p)
+http://204.12.202.90:8080/playgt/playgt2023/138
+#EXTINF:-1 tvg-id="SASTV.gt",SAS TV (720p)
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1 tvg-id="TDS.gt",TDS Televisión Departamental Sololá (720p)
+http://204.12.202.90:8080/playgt/playgt2023/102
+#EXTINF:-1 tvg-id="Telecosta.gt",Telecosta (480p)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id="Telemax.gt",Canal 32 Telemax (720p) [Not 24/7]
+http://204.12.202.90:8080/playgt/playgt2023/99
+#EXTINF:-1 tvg-id="Televisiete.gt",Televisiete (480p)
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
+#EXTINF:-1 tvg-id="TeveGlobo.gt",Teve Globo (720p)
+http://204.12.202.90:8080/playgt/playgt2023/95
+#EXTINF:-1 tvg-id="TeveGlobo.gt",Teve Globo (720p)
+https://cdn.streamhispanatv.net:3862/live/teveglobolive.m3u8
+#EXTINF:-1 tvg-id="TN23.gt",TN 23 (480p)
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
+#EXTINF:-1 tvg-id="Totovision.gt",Totovisión (720p)
+http://204.12.202.90:8080/playgt/playgt2023/62
+#EXTINF:-1 tvg-id="Totovision.gt",Totovisión (720p)
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1 tvg-id="Tunevision.gt",Tunevisión (720p)
+http://204.12.202.90:8080/playgt/playgt2023/139
+#EXTINF:-1 tvg-id="Tunevision.gt",Tunevisión (720p)
+https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+#EXTINF:-1 tvg-id="TVFlorencia.gt",TV Florencia (720p)
+http://204.12.202.90:8080/playgt/playgt2023/96
+#EXTINF:-1 tvg-id="TVFlorencia.gt",TV Florencia (720p)
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
+#EXTINF:-1 tvg-id="TVMaya.gt",TV Maya (480p)
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSRetro.gt",TVS Retro (720p)
+http://204.12.202.90:8080/playgt/playgt2023/60
+#EXTINF:-1 tvg-id="TVSRetro.gt",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="TVTun.gt",TV Tun (240p) [Not 24/7]
+https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
+#EXTINF:-1 tvg-id="UnicaTV.gt",Única TV (480p) [Not 24/7]
+http://204.12.202.90:8080/playgt/playgt2023/98
+#EXTINF:-1 tvg-id="UnicaTV.gt",Única TV (480p) [Not 24/7]
+https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
+#EXTINF:-1 tvg-id="VisionTV.gt",Visión TV (720p)
+http://204.12.202.90:8080/playgt/playgt2023/59
+#EXTINF:-1 tvg-id="VisionTV.gt",Visión TV (720p)
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-id="Canal5Solola.gt",Canal 5 Sololá (720p)
+http://204.12.202.90:8080/playgt/playgt2023/141
+#EXTINF:-1 tvg-id="Canal35Yepocapa.gt",Canal 35 Yepocapa (720p)
+https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
+#EXTINF:-1 tvg-id="SolTV.gt",Sol TV (720p)
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1 tvg-id="TVMaria.gt",TV María (720p)
+https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
+
+
+#EXTINF:-1 tvg-id="A24.ar" user-agent="iPhone",A24 (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-id="A24.ar",A24 (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar",Aire de Santa Fe (480p)
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BayresTV.ar",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-id="VTM.be",VTM (720p)
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+#EXTINF:-1 tvg-id="",AVF Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",MavTV Global
+https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Rakuten Family
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx",Canal 5 (480p)
+http://190.61.102.67:2000/play/a038/index.m3u8#EXTINF:-1 tvg-id="Canal5.mx",Canal 5 (480p)
+http://190.61.102.67:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Filmex.mx",Filmex (Xumo) (1080p) [Geo-blocked]
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmexClasico.mx",Filmex Clásico (1080p) [Geo-blocked]
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXCineClub.mx",ViX Cine Club (720p)
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXFamilia.mx",ViX Familia (720p)
+https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXJajaja.mx",ViX Jajaja (1080p)
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXLoMejordeLaLiga.mx",ViX Lo Mejor De La Liga MX (720p)
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="VixNovelasdeOro.mx",ViX Novelas de Oro (720p)
+https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXNovelasdeRomance.mx",ViX Novelas de Romance (720p)
+https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXParejas.mx",ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDNMexico.mx",TUDN México (540p)
+http://190.61.102.67:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="XHXTDT1.mx",Las Estrellas-HD (XHX-TDT1) (480p)
+http://190.61.102.67:2000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx",Las Estrellas Latin America (1080p)
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVArchivosForenses.us",Pluto TV Archivos Forenses (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAsesinatosdeMidsomer.us",Pluto TV Asesinatos de Midsomer (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAventura.us",Pluto TV Aventura (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVElEncantadordePerros.us",Pluto TV El Encantador de Perros (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVMutanteX.us",Pluto TV Mutante X (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-id="48Hours.us",48 Hours (Pluto TV) (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="247Retro.us",247 Retro TV (432p) [Not 24/7]
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericanHorrors.us",American Horrors (480p)
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassicCinema.us",Classic Cinema (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us",CNN en Español
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="GoldenPanregional.mx",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us",Law & Crime (720p)
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 tvg-id="RetroTVEast.us",Retro TV (720p)
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1 tvg-id="ScreamFactoryTV.us",Scream Factory TV (720p)
+https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ScreenDreams.us",Screen Dreams (720p)
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:-1 tvg-id="TUDN.us",TUDN [Geo-blocked]
+https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us",TVS Music Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgia.us",TVS Nostalgia (472p)
+https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us",TVS Nostalgia Movies (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="VevoHipHop.us",Vevo Hip Hop (1080p)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us",Vevo Latino (1080p) [Not 24/7]
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us",Vevo Pop Europe (1080p)
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1 tvg-id="VH1East.us",VH1 (1080p)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxADULTxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-id="13T.cl",13 Teleseries (720p)
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNChile.cl",AXN (1080p)
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LawCrime.us",Law & Crime (720p)
+https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
