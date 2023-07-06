@@ -2267,6 +2267,18 @@ https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 2
+https://linear-441.frequency.stream/441/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 3
+https://linear-442.frequency.stream/442/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 4
+https://linear-489.frequency.stream/489/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 5
+https://linear-490.frequency.stream/490/hls/master/playlist.m3u8
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
