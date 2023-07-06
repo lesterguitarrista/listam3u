@@ -26,10 +26,6 @@ https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w1249237511_
 group-title=“ESPAÑA”, TVe
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/audienceawardsimages/Misc/UnTagged/165583771621.png" 
-group-title=“MEXICO”, CANELA TV 
-https://stream.ads.ottera.tv/cl/230525chnlr2ggv6thhnu88880/1280x720_3071200_0_f.m3u8?i=475_653
-
 #EXTINF:-1 tvg-logo="https://www.elinformadorchile.cl/wp-content/uploads/2021/06/fb-lared-img-773x380.jpg" 
 group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
