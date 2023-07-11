@@ -2193,8 +2193,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d18009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVArchivosForenses.us",Pluto TV Archivos Forenses (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVAvidamodernadeRocko.us",Pluto TV A vida moderna de Rocko (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVAvidamodernadeRocko.us",Pluto TV A vida moderna de Rocko 
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -2246,9 +2247,6 @@ https://linear-338.frequency.stream/338/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",La Promesa
 https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",De pelicula
-https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ViX",Pinkfong Baby Shark
 https://linear-355.frequency.stream/355/hls/master/playlist.m3u8
 
@@ -2258,25 +2256,14 @@ https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",VEVO Reggaeton y Trap
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",De pelicula Plus
-https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ViX",The Weather Channel EspaÃƒÂ±ol
 https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 2
 https://linear-441.frequency.stream/441/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 3
 https://linear-442.frequency.stream/442/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 4
 https://linear-489.frequency.stream/489/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 5
 https://linear-490.frequency.stream/490/hls/master/playlist.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -2354,18 +2341,6 @@ https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Proj
 #EXTINF:-1 tvg-logo="fox-news-live-banner.png" 
 group-title=“USA”, FOX Live Now USA
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-peliculas-bo.png" 
-group-title=“Panamá”, SEO TV Películas 
-https://list.iptvcat.com/my_list/s/3d244d30a19a9701c96d77ae1c1e97fb.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="vix jajaja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png”
-group-title=“Panamá”, Vix Jajaja
-https://list.iptvcat.com/my_list/s/6b1b1627b1be0f5a4d87be8e24e0e498.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Vix Parejas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png”
-group-title=“Panamá”, Vix Parejas
-https://list.iptvcat.com/my_list/s/d9411c25a09f2f369c15dbe3aab3ab32.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver – Pluto TV" tvg-logo="https://i.imgur.com/bz9IwWU.png" group-title="VOD Italy",MacGyver – Pluto TV
