@@ -2815,3 +2815,27 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb053712f22a0007ff14
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvD2QvT/Las-Estrellas-logo-2016.png" tvg-group="MEXICO", LAS ESTRELLAAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/estrellas.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcjbMg1/Logotipo-Canal-5-M-xico.png" tvg-group="MEXICO", CANAL 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/canal5.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="ENTRETENIMIENTO", DE PELICULA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/depelicula.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="ENTRETENIMIENTO", DE PELICULA PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/depeliculaplus.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
+
