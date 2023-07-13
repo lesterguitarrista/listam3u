@@ -2694,16 +2694,18 @@ https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Proj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 8 (Español)
 https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Project%208.mp4
 
-#EXTINF:-1 tvg-logo="fox-news-live-banner.png" 
+#EXTINF:-1 tvg-id="Fox Live Now USA" tvg-name="Fox Live Now USA" tvg-logo="fox-news-live-banner.png" 
 group-title=“USA”, FOX Live Now USA
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver – Pluto TV" tvg-logo="https://i.imgur.com/bz9IwWU.png" group-title="VOD Italy",MacGyver – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="" tvg-name="Catfish" tvg-logo="https://i.imgur.com/KajHKoP.png" group-title="Argentina",Catfish – Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-id="" tvg-name="Catfish" tvg-logo="https://i.imgur.com/KajHKoP.png" group-title="Francia",Catfish – Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="" tvg-name="Mastercheff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png”
 group-title=“Argentina”, Mastercheff
@@ -2818,51 +2820,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMEXICOXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="MEXICO",SET TelevisiÃ³n Canal 26.1
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="MEXICO",SET TelevisiÃ³n Canal 26.2
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="MEXICO",Telemax
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/86V9Ktc/foxsports3mx.png" tvg-group="DEPORTES", FOX SPORTS 3 MX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/foxsports3mx.json
-https://dtvott-cbc.akamaized.net/dash_live_1124/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WDTGR5W/foxsportsmx.png" tvg-group="DEPORTES", FOX SPORTS MX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/foxsmx.json
-https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/86V9Ktc/foxsports3mx.png" tvg-group="DEPORTES", FOX SPORTS 3 MX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/foxsports2mx.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JBzgk1f/espn2mx.png" tvg-group="DEPORTES", ESPN 2 MX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/espn2mx.json
-https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcjbMg1/Logotipo-Canal-5-M-xico.png" tvg-group="MEXICO", CANAL 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/canal5.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SvD2QvT/Las-Estrellas-logo-2016.png" tvg-group="MEXICO", LAS ESTRELLAAS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/estrellas.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K9LBszC/Televisa-afiliados-canales-unicable.jpg" tvg-group="MEXICO", UNICABLE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/unicable.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SsNPsnR/adn-40-m.png" tvg-group="MEXICO", ADN40
 http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
