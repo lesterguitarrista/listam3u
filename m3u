@@ -2837,11 +2837,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr5VJq9/telemax.png" tvg-group="MEXICO", TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/26b8b661c5ecf258a39694278ca284d9.png" group-title="ESPAÑA",LA 2
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/110043
 
-#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/647b427a0610a5f361c285d11b9b34a2.png" group-title="ESPAÑA",::::::::::::::: MOVISTAR CINE  :::::::::::::::
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/110094
 
 #EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png" group-title="ESPAÑA",MOVISTAR  ESTRENOS FHD
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/110100
@@ -2861,8 +2857,7 @@ http://daleplay.club:8080/Yolanda23/527aBzvSY896/13435
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="ESPAÑA",MOVISTAR ESTRENOS 2 HD
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/110101
 
-#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/95e69be11fae1b753bbe056915b26c11.png" group-title="ESPAÑA",MOVISTAR ACCION
-http://daleplay.club:8080/Yolanda23/527aBzvSY896/110103
+
 
 #EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/f3f830d35aa9d191e8c15499e9bdcfc3.png" group-title="ESPAÑA",MOVISTAR DRAMA
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/110109
