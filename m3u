@@ -2813,6 +2813,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e914
 #EXTINF:-1 tvg-id="" tvg-name="Transformrts Tv" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5" group-title="Anime Lester", Tranformers Tv
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema www.achoapps.com
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Tres Chiflados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicFRCuUvwutmbPM-fN-DuSNO7TjLyQb80NZH5ZoFkDaK-RhInBCMMJWAyNR0SYP9YDdIHQF_YTM1Lp_2nJ--_vDrV5KOMO7eQNT8L6lB2m6ZfM0-8c_Elpuimfdf0SFBRHRXrb_40ZAMjxs2jx_kzESwzoGknvmlJ7zcNJmEYc_0ZZOYJ8pXtw6ZDdFw/s800/3chifladoplutotv.jpg" group-title="Anime Lester",Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
@@ -2832,7 +2835,36 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr5VJq9/telemax.png" tvg-group="MEXICO", TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" group-title="Mexico",Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
+#EXTINF:-1,HBO 2 International
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+
+
+#EXTINF:-1,ANTENA 3 ESP
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1,Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1,GOLDEN PLUS
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1,SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+#EXTINF:-1,TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,DANIEL EL TRAVIESO (CLASICA)
+https://archive.org/download/31052017_201705678678687687/31052017.mkv?Pelixmax1.mkv
+
+#EXTINF:-1 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso |
+https://bit.ly/2GajoTS
 
 
 
