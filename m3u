@@ -12,6 +12,9 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal23.m3u8
 group-title=“GUATEMALA”, CANAL 7
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
 
+#EXTINF:-1 group-title="GUATEMALA",Canal 13 GUT
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/223643
+
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" 
 group-title=“GUATEMALA”, TvAzteca Guate
 https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/4.m3u8
@@ -2813,8 +2816,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e914
 #EXTINF:-1 tvg-id="" tvg-name="Transformrts Tv" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5" group-title="Anime Lester", Tranformers Tv
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema www.achoapps.com
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Los Tres Chiflados" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicFRCuUvwutmbPM-fN-DuSNO7TjLyQb80NZH5ZoFkDaK-RhInBCMMJWAyNR0SYP9YDdIHQF_YTM1Lp_2nJ--_vDrV5KOMO7eQNT8L6lB2m6ZfM0-8c_Elpuimfdf0SFBRHRXrb_40ZAMjxs2jx_kzESwzoGknvmlJ7zcNJmEYc_0ZZOYJ8pXtw6ZDdFw/s800/3chifladoplutotv.jpg" group-title="Anime Lester",Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -2835,36 +2837,72 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr5VJq9/telemax.png" tvg-group="MEXICO", TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" group-title="Mexico",Las Estrellas
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/26b8b661c5ecf258a39694278ca284d9.png" group-title="ESPAÑA",LA 2
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110043
 
-#EXTINF:-1,HBO 2 International
-http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/647b427a0610a5f361c285d11b9b34a2.png" group-title="ESPAÑA",::::::::::::::: MOVISTAR CINE  :::::::::::::::
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110094
 
+#EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png" group-title="ESPAÑA",MOVISTAR  ESTRENOS FHD
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110100
 
-#EXTINF:-1,ANTENA 3 ESP
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="ESPAÑA",MOVISTAR ESTRENOS 2 FHD
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110102
 
-#EXTINF:-1,Canal 5
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/09ab04e233864f2f4d992c86a663671a.jpg" group-title="ESPAÑA",MOVISTAR COMEDIA FHD
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110108
 
-#EXTINF:-1,GOLDEN PLUS
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/e83dd3525e0f59d7c4e8c78796d59ce9.png" group-title="ESPAÑA",MOVISTAR FEST FHD
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110114
 
-#EXTINF:-1,TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZRwtewzf_RQdfp8oULWbq11-frdivSAteQ&usqp=CAU" group-title="ESPAÑA",ES | MOVISTAR CINEDOC&ROLL HD.
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/13435
 
-#EXTINF:-1,SPACE HD
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="ESPAÑA",MOVISTAR ESTRENOS 2 HD
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110101
 
-#EXTINF:-1,TNT HD
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/95e69be11fae1b753bbe056915b26c11.png" group-title="ESPAÑA",MOVISTAR ACCION
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110103
 
-#EXTINF:-1,DANIEL EL TRAVIESO (CLASICA)
-https://archive.org/download/31052017_201705678678687687/31052017.mkv?Pelixmax1.mkv
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/f3f830d35aa9d191e8c15499e9bdcfc3.png" group-title="ESPAÑA",MOVISTAR DRAMA
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110109
 
-#EXTINF:-1 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso |
-https://bit.ly/2GajoTS
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/f3f830d35aa9d191e8c15499e9bdcfc3.png" group-title="ESPAÑA",MOVISTAR DRAMA HD
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA",MOVISTAR  CINE ESPAÑOL
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/110118
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw82pd0GvckzhcuVUOmcVLeSNsxU3tZUAMdA&usqp=CAU" group-title="ESPAÑA",ES | MOVISTAR DRAMA HD.
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/13436
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCsDBs4S34m-f_q7ZjbiHweVQ8z-lYK81PA&usqp=CAU" group-title="ESPAÑA",ES | MOVISTAR ACCI©N HD.
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/13438
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIYVJdMqvGvYPx_UsHgK6hWDn5RJpqUkz1A&usqp=CAU" group-title="ESPAÑA",ES | MOVISTAR ESTRENOS HD.
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/13442
+
+#EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/4d370e5062dd7c9fa7f1f6eb6a2d1a67.png" group-title="LATINOS",MX: Az Clic
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/63184
+
+#EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/109cbd24b7f84f340475580d94ea10ca.png" group-title="LATINOS",MX: Azteca 7
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/63185
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/034029ff32e52a9c5a0f0e062d4225fe.png" group-title="LATINOS",MX: Hola TV
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/63186
+
+#EXTINF:-1 tvg-logo="http://daleplay.club:8080/images/ffa6d65bbbcdbda230c37ff5a49ca239.png" group-title="LATINOS",MX: Mas Chic
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/63187
+
+#EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/79d8789b856e6d384a6494fcf45f74a9.png" group-title="LATINOS",MX: AZ Corazon
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/63191
+
+#EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/143ce71aa57a0d7b07c28cec04167c18.png" group-title="LATINOS",M | Las Estrellas FHD
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/70908
+
+#EXTINF:-1 tvg-logo="http://mirror.streamhubtv.me:8080/images/442799ddc7e12d6b9edd8324a438bc65.png" group-title="LATINOS",MX: CANAL 5
+http://daleplay.club:8080/Yolanda23/527aBzvSY896/114283
+
 
 
 
