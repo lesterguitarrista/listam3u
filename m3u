@@ -2898,6 +2898,16 @@ http://daleplay.club:8080/Yolanda23/527aBzvSY896/70908
 #EXTINF:-1 tvg-logo="http://mirror.streamhubtv.me:8080/images/442799ddc7e12d6b9edd8324a438bc65.png" group-title="LATINOS",MX: CANAL 5
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/114283
 
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png", WOW TV  | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV  | US
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg", TV Pop  | CL
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 
 
