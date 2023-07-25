@@ -2913,6 +2913,20 @@ https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3  | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png", TOP Latino TV  | PE
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-rec="0",Bridge Rock
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/17043/index.m3u8
+
+#EXTINF:0 tvg-rec="0",MTV Classic USA
+#EXTGRP:музыка
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/19148/index.m3u8
+
+
+#EXTINF:0 tvg-rec="7",MMA-TV.com
+#EXTGRP:спорт
+http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/843/index.m3u8
+
+
+
+
 
