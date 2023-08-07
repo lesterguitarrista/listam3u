@@ -2907,17 +2907,6 @@ https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3  | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-rec="0",Bridge Rock
-#EXTGRP:музыка
-http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/17043/index.m3u8
-
-#EXTINF:0 tvg-rec="0",MTV Classic USA
-#EXTGRP:музыка
-http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/19148/index.m3u8
-
-#EXTINF:0 tvg-rec="7",MMA-TV.com
-#EXTGRP:спорт
-http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/843/index.m3u8
 
 #EXTINF:-1 ,007. A&E
 http://45.5.117.182:8000/play/a0hr/index.m3u8
@@ -2969,6 +2958,14 @@ http://45.5.117.182:8000/play/a0eq/index.m3u8
 #EXTINF:-1 ,Paramount
 http://45.5.117.182:8000/play/a0e3/index.m3u8
 
+#EXTINF:-1 ,Cartoon Network
+http://45.5.117.182:8000/play/a0en/index.m3u8
 
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="Music",Now 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
