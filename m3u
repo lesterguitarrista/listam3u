@@ -3003,7 +3003,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 1 HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 1 HD
 https://live.seo.tv.bo/live/1SEO.m3u8
-https://github.com/ToonizakiStudios/lista-IPTV/blob/main/listam3u
 
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 3 NOVELAS HD" tvg-logo="https://i.imgur.com/iUf7GNf.png" group-title="LATINO",SEO TV 3 NOVELAS HD
 https://live.seo.tv.bo/live/3SEO.m3u8
