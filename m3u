@@ -3040,6 +3040,18 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
+EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
+#EXTINF:0,Qwest Jazz Music
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Wild Earth TV
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+
 
 
 
