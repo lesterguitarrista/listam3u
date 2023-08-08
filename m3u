@@ -2974,7 +2974,8 @@ https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
 https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Eqko3Cm.png" group-title="JOVENES Y ADULTOS",Wow Channel
+#EXTINF:-1 tvg-id="wowchannel" tvg-logo="https://i.imgur.com/Eqko3Cm.png" group-title="JOVENES Y ADULTOS",Wow Channel
+https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 
 V#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV
