@@ -3053,6 +3053,116 @@ https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,Wild Earth TV
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1481329648382398468/K551SU6r_400x400.jpg" group-title="MEXICO", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" tvg-group="MEXICO", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+
+XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-logo="null" tvg-group="netflix", 10 Cosas que Odio de Ti 
+https://archive.org/download/10_20210221/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5217989.png" tvg-group="netflix", El cÃ³digo Da Vinci
+https://archive.org/download/01_20210519_20210519_1628/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5217990.png" tvg-group="netflix", La momia
+https://archive.org/download/01_20210519_20210519_1653/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5217994.png" tvg-group="netflix", La momia regresa
+https://archive.org/download/01_20210519_20210519_1719/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238085.png" tvg-group="netflix", Terminator 2: El juicio final
+https://archive.org/download/01_20210520_20210520_1544/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238088.png" tvg-group="netflix", 8 Mile: Calle de las ilusiones
+https://archive.org/download/01_20210521_20210521_1407/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238073.png" tvg-group="netflix", Army of the Dead Netflix 2021
+https://archive.org/download/01_20210521_20210521_1554/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_9615026.png" tvg-group="netflix", Civil War CapitÃ¡n AmÃ©rica
+https://archive.org/download/03_20210719_20210719_1607/03.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5729885.png" tvg-group="netflix", El Hombre del Agua Netflix 2021
+https://archive.org/download/01_20210717_20210717_2017/01.mp4
+
+#EXTINF:-1 tvg-logo="null" tvg-group="netflix", El es asi Netflix 2021
+https://archive.org/download/01_20210904_20210904_1946/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_6924554.png" tvg-group="netflix", Los Simpson La buena el malo y Loki Disney
+https://archive.org/download/01_20211011_20211011_2341/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7216281.png" tvg-group="netflix", It: capÃ­tulo dos
+https://archive.org/download/01_20211031_20211031_2044/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7216282.png" tvg-group="netflix", La noche de Halloween
+https://archive.org/download/01_20211031_20211031_1945/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7216283.png" tvg-group="netflix", It
+https://archive.org/download/01_20211031_20211031_1955/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7977357.png" tvg-group="netflix", Mi pobre angelito
+https://ia904604.us.archive.org/10/items/01_20211222_20211222_0952/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7977358.png" tvg-group="netflix", Mi Pobre Angelito 2: Perdido En Nueva York
+https://ia904600.us.archive.org/8/items/01_20211222_20211222_1002/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7977359.png" tvg-group="netflix", El Regalo Prometido
+https://ia804607.us.archive.org/27/items/01_20211222_20211222_1014/01.mp4
+
+#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+https://archive.org/download/01_20220529_20220529_1558/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7529626.png" tvg-group="HBO", Tom & Jerry 2021
+https://archive.org/download/03_20210301/03.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7529623.png" tvg-group="HBO", Mortal Kombat 2021
+https://archive.org/download/01_20210506_202105/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7940810.png" tvg-group="disney", X-Men DÃ­as del futuro pasado
+https://ia904509.us.archive.org/17/items/01_20210719_20210719_2017/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7940806.png" tvg-group="disney", X-Men (2000)
+https://ia804506.us.archive.org/24/items/01_20210719_20210719_1941/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7940807.png" tvg-group="disney", X-Men 2
+https://ia804505.us.archive.org/34/items/01_20210719_20210719_1951/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7940808.png" tvg-group="disney", X-Men La Batalla Final
+https://ia904502.us.archive.org/0/items/01_20210719_20210719_1957/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7940809.png" tvg-group="disney", X-men origenes Wolverine
+https://ia804502.us.archive.org/13/items/01_20210719_20210719_2005/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7940811.png" tvg-group="disney", X-Men Primera generaciÃ³n
+https://ia804504.us.archive.org/31/items/01_20210719_20210719_2024/01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733003.png" tvg-group="premier", Harry Potter y las Reliquias de la Muerte - Parte 
+https://archive.org/download/02_20210717_202107/08.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733004.png" tvg-group="premier", Harry Potter y las Reliquias de la Muerte - Parte 
+https://archive.org/download/02_20210717_202107/07.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733005.png" tvg-group="premier", Harry Potter y el misterio del prÃ­ncipe 6
+https://archive.org/download/02_20210717_202107/06.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733006.png" tvg-group="premier", Harry Potter y la Orden del FÃ©nix 5
+https://archive.org/download/02_20210717_202107/05.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733007.png" tvg-group="premier", Harry Potter y el CÃ¡liz de Fuego 4
+https://archive.org/download/02_20210717_202107/04.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733008.png" tvg-group="premier", Harry Potter y el prisionero de Azkaban 3
+https://archive.org/download/02_20210717_202107/03.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733009.png" tvg-group="premier", Harry Potter y la cÃ¡mara secreta 2
+https://archive.org/download/02_20210717_202107/02.mp4
+
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733010.png" tvg-group="premier", Harry Potter y la piedra filosofal 1
+https://archive.org/download/02_20210717_202107/01.mp4
 
 
 
