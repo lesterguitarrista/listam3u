@@ -2971,12 +2971,17 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV
+https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
+
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
 https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WowChannel" tvg-logo="https://i.imgur.com/Eqko3Cm.png" group-title="JOVENES Y ADULTOS",Wow Channel
 https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="JOVENES Y ADULTOS",AnimeStation
+https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
@@ -3016,6 +3021,18 @@ https://live.seo.tv.bo/live/6SEO.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 7 HD" tvg-logo="https://i.imgur.com/EzJHkWV.png" group-title="LATINO",SEO TV 7 HD
 https://live.seo.tv.bo/live/7SEO.m3u8
+
+#EXTINF:-1 tvg-id="El Magic TV" tvg-name="El Magic TV" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
+https://kali.vdopanel.com:3448/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="Familiares",Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="LATINO",Horrorfy HD
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
@@ -3058,6 +3075,20 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" tvg-group="MEXICO", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="JOVENES Y ADULTOS",Lim TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="Familiares",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://i.imgur.com/y4STmJn.jpg" group-title="Familiares",Diti TV
+https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
+
+EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+
+
 
 
 XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -3162,7 +3193,7 @@ https://archive.org/download/02_20210717_202107/02.mp4
 https://archive.org/download/02_20210717_202107/01.mp4
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-3naSqGQmhGE/V4ZZLclrleI/AAAAAAAAF-Y/C2CqfwSRoNEL48VHclDwkEu8GmgrtV_MwCLcB/s1600/dragon%2Bball%2Bbardock%2Bel%2Bpadre%2Bde%2Bgoku.png" tvg-group="netflix", Dragon Ball
-https://archive.org/details/01_20210924_20210924_1548
+https://ia902309.us.archive.org/31/items/02_20210924_20210924/01.mp4
 
 #EXTINF:0 tvg-id="" tvg-name="DragonBallPeliculas" tvg-logo="https://1.bp.blogspot.com/-3naSqGQmhGE/V4ZZLclrleI/AAAAAAAAF-Y/C2CqfwSRoNEL48VHclDwkEu8GmgrtV_MwCLcB/s1600/dragon%2Bball%2Bbardock%2Bel%2Bpadre%2Bde%2Bgoku.png" tvg-group="netflix", Dragon Ball Peliculas
 https://archive.org/details/02_20210924_20210924/01.mp4
