@@ -57,17 +57,11 @@ https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
 group-title=“Latino”, canela clásicos 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg" 
-group-title=“Latino”, Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.dw.com/image/15705485_303.jpg" 
 group-title=“Latino”, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" 
-group-title=“GUATEMALA”, TV Globo 
-https://cdn.streamhispanatv.net:3862/live/teveglobolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_72ffb2f4a5e246dc90b7f6a63afd962a~mv2.jpg" 
 group-title=“GUATEMALA”, Visión TV
@@ -80,10 +74,6 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipN4Ds8zftd54MDlxBNVad2-4NSzTvejD-d3dOhb=w768-h768-n-o-v1" 
 group-title=“GUATEMALA”, Barbe Tv
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fullchannel.com.gt/wp-content/uploads/2022/06/logo-1.png" 
-group-title=“GUATEMALA”, Full Channel
-https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4fcffbf0a9d34c5ab6514f1ed913ef48~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_4fcffbf0a9d34c5ab6514f1ed913ef48~mv2.jpg" 
 group-title=“GUATEMALA”, Yepo Tv
@@ -142,7 +132,7 @@ https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=
 group-title=“Latino”, Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w118293894.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/800px-NRJ_Hits_2017.svg.png" 
+#EXTINF:-1 tvg-id="NRJ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/800px-NRJ_Hits_2017.svg.png" 
 group-title=“Belgica”, NRJ Hits
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1136538790_b3268608.m3u8
 
@@ -150,9 +140,6 @@ https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1136538790_b3268608.m3u8
 group-title=“Belgica”, ATV
 https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" 
-group-title=“Argentina”, Canal 13
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png" 
 group-title=“Argentina”, 24 horas
