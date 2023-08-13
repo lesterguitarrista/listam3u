@@ -33,7 +33,6 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" 
 group-title=“Mexico”, Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
