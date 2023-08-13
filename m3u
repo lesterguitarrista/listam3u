@@ -3189,23 +3189,26 @@ https://archive.org/download/02_20210717_202107/02.mp4
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733010.png" tvg-group="premier", Harry Potter y la piedra filosofal 1
 https://archive.org/download/02_20210717_202107/01.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="DragonBall" tvg-logo="https://m.media-amazon.com/images/I/91B84qDeZLL._AC_UF1000,1000_QL80_.jpg" tvg-group="netflix", Dragon Ball Z El Ataque del Dragón
+https://ia803400.us.archive.org/3/items/dragon-ball-z-13-el-ataque-del-dragon/Dragon%20Ball%20Z%20-%2013%20-%20El%20Ataque%20del%20Drag%C3%B3n%20.mp4
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/18/13/00/2556818.jpg" tvg-group="netflix", Dragon Ball
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/12/18/13/00/2556818.jpg" tvg-group="netflix", Dragon Ball Super Broly
 https://ia902304.us.archive.org/13/items/01_20210924_20210924_1548/01.mp4
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dragonball/images/2/28/EoBPoster.jpg/revision/latest?cb=20121118185207&path-prefix=es" tvg-group="netflix", Dragon Ball
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dragonball/images/2/28/EoBPoster.jpg/revision/latest?cb=20121118185207&path-prefix=es" tvg-group="netflix", Dragon Ball El Episodio de Bardock
 https://ia902309.us.archive.org/31/items/02_20210924_20210924/01.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="DragonBallPeliculas" tvg-logo="https://i.blogs.es/84e71f/tarble/450_1000.webp" tvg-group="netflix", Dragon Ball Peliculas
+#EXTINF:-1 tvg-id="" tvg-name="DragonBallPeliculas" tvg-logo="https://i.blogs.es/84e71f/tarble/450_1000.webp" tvg-group="netflix", Dragon Ball El Hermano de Vegeta
 https://ia902309.us.archive.org/31/items/02_20210924_20210924/03.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="DragonBallPeliculas" tvg-logo="https://image.tmdb.org/t/p/original/AfUkiiR0UKeiPXPgTx9bRO4snTB.jpg" tvg-group="netflix", Dragon Ball Peliculas
+#EXTINF:-1 tvg-id="" tvg-name="DragonBallPeliculas" tvg-logo="https://image.tmdb.org/t/p/original/AfUkiiR0UKeiPXPgTx9bRO4snTB.jpg" tvg-group="netflix", Dragon Ball The History of Trunks
 https://ia902309.us.archive.org/31/items/02_20210924_20210924/04.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="DragonBallPeliculas" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Episodio_de_Bardock-959743702-large.jpg" tvg-group="netflix", Dragon Ball Peliculas
 https://ia902309.us.archive.org/31/items/02_20210924_20210924/05.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="DragonBallPeliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/20/13/20/5517192.jpg" tvg-group="netflix", Dragon Ball Peliculas
+#EXTINF:-1 tvg-id="" tvg-name="DragonBallPeliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/20/13/20/5517192.jpg" tvg-group="netflix", Dragon Ball GT 100 Años despues
 https://ia802309.us.archive.org/31/items/02_20210924_20210924/06.mp4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7890656.png" tvg-group="paramount", Paw Patrol: La PelÃ­cula
