@@ -33,9 +33,6 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" 
-group-title=“Chile”, Retro Plus 
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w492662126.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" 
 group-title=“Mexico”, Accion Mexicana
