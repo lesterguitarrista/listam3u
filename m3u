@@ -3301,3 +3301,5 @@ https://ia904509.us.archive.org/30/items/jfk.-actualizacion-del-asesinato.-nuevo
 
 #EXTINF:-1 tvg-id="" tvg-name="Conciertos" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MjU0Mzk5OF5BMl5BanBnXkFtZTgwMjc5NTU4NDE@._V1_.jpg" tvg-group="netflix", G3 Tokyo
 https://m.youtube.com/watch?v=dIzObVL7140
+
+yt-dlp -O "#EXTINF:%(duration)s,%(upload_date>%d/%m/%Y)s %(title)s" -O webpage_url --playlist-end 10 https://www.youtube.com/watch?v=dIzObVL7140
