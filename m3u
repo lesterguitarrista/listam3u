@@ -2820,8 +2820,6 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr5VJq9/telemax.png" tvg-group="MEXICO", TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://daleplaypro.com:8080/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png" group-title="ESPAÑA",MOVISTAR  ESTRENOS FHD
 http://daleplay.club:8080/Yolanda23/527aBzvSY896/110100
 
@@ -3142,7 +3140,18 @@ https://ia804607.us.archive.org/27/items/01_20211222_20211222_1014/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bl686OSeMQOvs90IQAgt8QipCsB.jpg" tvg-group="netflix", Jackass 4.5 2022
 https://archive.org/download/01_20220529_20220529_1558/01.mp4
 
+#EXTINF:-1 tvg-logo="https://ia804500.us.archive.org/35/items/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo.jpg" tvg-group="netflix", El Cuervo
+https://ia804500.us.archive.org/35/items/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo.mp4
+
+#EXTINF:-1 tvg-logo="https://ia804500.us.archive.org/35/items/el-ejercito-de-los-muertos-2021-girohens/En%20busca%20de%20la%20felicidad.jpg" tvg-group="netflix", En Busca de lq Felicidad
+https://ia804500.us.archive.org/35/items/el-ejercito-de-los-muertos-2021-girohens/En%20busca%20de%20la%20felicidad.mp4
+
+#EXTINF:-1 tvg-logo="https://ia804500.us.archive.org/35/items/el-ejercito-de-los-muertos-2021-girohens/Entrevista%20con%20el%20vampiro.jpg" tvg-group="netflix", Entrevista con el Vampiro
+
+
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+
+
 
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7529626.png" tvg-group="HBO", Tom & Jerry 2021
