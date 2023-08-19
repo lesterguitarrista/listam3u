@@ -3081,8 +3081,12 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", 10 Cosas que Odio de Ti 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/10_razones_para_odiarte-228397540-large.jpg" tvg-group="netflix", 10 Cosas que Odio de Ti 
 https://archive.org/download/10_20210221/01.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sangre_por_sangre-966864140-large.jpg" tvg-group="netflix", sangre por sangre
+https://ia802508.us.archive.org/20/items/blood-in-blood-bound-by-honor-sangre-por-sangre/Blood%20In%20Blood%2C%20Bound%20By%20Honor%2C%20Sangre%20Por%20Sangre.mp4
+https://ia801607.us.archive.org/23/items/sangre-por-sangre_202302/sangre%20por%20sangre.mp4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5217989.png" tvg-group="netflix", El Codigo Da Vinci
 https://archive.org/download/01_20210519_20210519_1628/01.mp4
@@ -3135,8 +3139,11 @@ https://ia904600.us.archive.org/8/items/01_20211222_20211222_1002/01.mp4
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7977359.png" tvg-group="netflix", El Regalo Prometido
 https://ia804607.us.archive.org/27/items/01_20211222_20211222_1014/01.mp4
 
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bl686OSeMQOvs90IQAgt8QipCsB.jpg" tvg-group="netflix", Jackass 4.5 2022
 https://archive.org/download/01_20220529_20220529_1558/01.mp4
+
+#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7529626.png" tvg-group="HBO", Tom & Jerry 2021
 https://archive.org/download/03_20210301/03.mp4
