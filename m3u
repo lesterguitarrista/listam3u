@@ -46,9 +46,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 group-title=“GUATEMALA”, Tvs Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" 
 group-title="Latino", Cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
@@ -61,11 +58,9 @@ https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
 group-title=“Latino”, canela clásicos 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-
 #EXTINF:-1 tvg-logo="https://static.dw.com/image/15705485_303.jpg" 
 group-title=“Latino”, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_72ffb2f4a5e246dc90b7f6a63afd962a~mv2.jpg" 
 group-title=“GUATEMALA”, Visión TV
@@ -123,7 +118,6 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" 
 group-title=“Latino”, Rock
 https://inliveserver.com:1936/11530/11530/chunklist_w1452252569.m3u8
@@ -143,7 +137,6 @@ https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1136538790_b3268608.m3u8
 #EXTINF:-1 tvg-logo="https://static.nieuwsblad.be/Assets/Images_Upload/2023/03/01/logo-atv.jpg" 
 group-title=“Belgica”, ATV
 https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png" 
 group-title=“Argentina”, 24 horas
@@ -165,7 +158,6 @@ https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w778018222.m3u8
 group-title=“Honduras”, Metro Tv
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Animé Acción (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
@@ -183,7 +175,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a
 
 #EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Toons Clásico (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Canales de Cine", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
@@ -229,7 +220,6 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" 
 group-title=“España”, El Toro tv
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1432837088.m3u8
@@ -3158,11 +3148,11 @@ https://ia804500.us.archive.org/35/items/el-ejercito-de-los-muertos-2021-girohen
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY1NTUxMzQtZGZmYy00ZTNmLThkOGEtM2FkMTM2YTIzZWQ4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" tvg-group="netflix", El Halloween de hubie
 https://ia801806.us.archive.org/11/items/i-hate-summer-2020/El%20Halloween%20de%20Hubie%20%282020%29.mp4
 
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000018708949-181cuw-t500x500.jpg" tvg-group="netflix", Pokemon Best Wishes
+https://ia903205.us.archive.org/7/items/pokemon-pelicula-16/Pokemon%20Pelicula%2016.mp4
 
-
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51A9C68XxaL._AC_SY580_.jpg" tvg-group="netflix", Pokemon Diancie and the cocoon of destruction
+https://ia801903.us.archive.org/14/items/pokemon-pelicula-17/PKm%20Movie%2017.mp4
 
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
 
