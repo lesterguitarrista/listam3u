@@ -539,115 +539,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m
 #EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=851104523&_cdn_timestamp=1685721250&_cdn_token=0caa67db8b2ba5ba71e62b6d740db701beb3b9c9
 
-
-
-#EXTINF:-1 tvg-id="A&EMundo" group-title="Claro-COL", A&E Mundo
-http://190.131.228.59:8000/play/a05x/index.m3u8
-
-#EXTINF:-1 tvg-id="AMCSD" group-title="Claro-COL", AMC
-http://190.131.228.59:8000/play/a0r3/index.m3u8
-
-#EXTINF:-1 tvg-id="AMC HD" group-title="Claro-COL", AMC HD
-http://190.131.228.59:8000/play/a0jc/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN" group-title="Claro-COL", AXN
-http://190.131.228.59:8000/play/a04i/index.m3u8
-
-#EXTINF:-1 group-title="Claro-COL", Space
-http://190.60.39.62:8000/play/a049
-
-#EXTINF:-1 group-title="Claro-COL", SyFy
-http://190.60.39.62:8000/play/a09d
-
-#EXTINF:-1 group-title="Claro-COL", TBS
-http://190.60.39.62:8000/play/a02l
-
-#EXTINF:-1 group-title="Claro-COL", TCM
-http://190.60.39.62:8000/play/a00u
-
-#EXTINF:-1 group-title="Claro-COL", TLC
-http://190.60.39.62:8000/play/a02b
-
-#EXTINF:-1 group-title="Claro-COL", TNT
-http://190.60.39.62:8000/play/a00x
-
-#EXTINF:-1 group-title="Claro-COL", TNT SERIES FHD
-http://190.60.39.62:8000/play/99
-
-#EXTINF:-1 group-title="Claro-COL", Discovery ID
-http://190.60.39.62:8000/play/a02i
-
-#EXTINF:-1 group-title="Claro-COL", Discovery Channel
-http://190.60.39.62:8000/play/a01p
-
-#EXTINF:-1 group-title="Claro-COL", Cinemax
-http://190.60.39.62:8000/play/a046
-
-#EXTINF:-1 group-title="Claro-COL", Cartoon Network
-http://190.60.39.62:8000/play/a00w
-
-#EXTINF:-1 group-title="Claro-COL", CNN Espanol
-http://190.60.39.62:8000/play/a014
-
-#EXTINF:-1 group-title="Claro-COL", AXN
-http://190.60.39.62:8000/play/a048
-
-#EXTINF:-1 group-title="Claro-COL", AE Mundo
-http://190.60.39.62:8000/play/a01z
-
-#EXTINF:-1 group-title="Claro-COL", Canal Caracol
-http://190.60.39.62:8000/play/a033
-
-#EXTINF:-1 group-title="Claro-COL", Canal Estrellas
-http://190.60.39.62:8000/play/a02d
-
-#EXTINF:-1 group-title="Claro-COL", Cinecanal
-http://190.60.39.62:8000/play/a00m
-
-#EXTINF:-1 group-title="Claro-COL", Disney Channel
-http://190.60.39.62:8000/play/a01o
-
-#EXTINF:-1 group-title="Claro-COL", Disney Jr
-http://190.60.39.62:8000/play/a01k
-
-#EXTINF:-1 group-title="Claro-COL", FX
-http://190.60.39.62:8000/play/a04a
-
-#EXTINF:-1 group-title="Claro-COL", MTV
-http://190.60.39.62:8000/play/a00p
-
-#EXTINF:-1 group-title="Claro-COL", Nat Geo
-http://190.60.39.62:8000/play/a00k
-
-#EXTINF:-1 group-title="Claro-COL", STAR CHANNEL
-http://190.60.39.62:8000/play/a00t
-
-#EXTINF:-1 group-title="Claro-COL", Sony
-http://190.60.39.62:8000/play/a047
-
-#EXTINF:-1 group-title="Claro-COL", TNT
-http://190.60.39.62:8000/play/a00x
-
-#EXTINF:-1 group-title="Claro-COL", Universal
-http://190.60.39.62:8000/play/a00n
-
-#EXTINF:-1 group-title="Claro-COL", TRO
-http://190.60.39.62:8000/play/a06r
-
-#EXTINF:-1 group-title="Claro-COL", TVE
-http://190.60.39.62:8000/play/a012
-
-#EXTINF:-1 group-title="Claro-COL", UPDATE
-http://190.60.39.62:8000/play/a075
-
-#EXTINF:-1 group-title="Claro-COL", ViaX
-http://190.60.39.62:8000/play/a02c
-
-#EXTINF:-1 group-title="Claro-COL", Warner
-http://190.60.39.62:8000/play/a01r
-
-#EXTINF:-1 group-title="Claro-COL", Zona Latina
-http://190.60.39.62:8000/play/a00q
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 group-title="App2tv", HBO
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
@@ -718,115 +610,8 @@ https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encor
 #EXTINF:-1 group-title="App2tv", Starz Encore Suspense
 https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.suspense.eastern.us.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577890
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY +1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577888
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY HISTORY
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577887
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY SCIENCE
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577886
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY TURBO
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577885
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", FOOD NETWORK
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577876
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", INVESTIGATION DISCOVERY
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577901#EXTINF:-1  group-title="CABLE KINGS IPTV", HISTORY
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577904
-
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", NAT GEO
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577909
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", PARAMOUNT
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577900
-
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SYFY
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577898
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", AMC
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577360
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA ACTION
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577387
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA COMEDY
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577385
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA CRIME
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577375
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA DISNEY
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577370
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA DOCUMENTARIES
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577375
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA DRAMA
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577383
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA FAMILY
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577368
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA GREATS
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577382
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA HITS
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577381
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA OSCARS
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577380
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA PREMIER
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577379
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA SELECT
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577377
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA THRILLER
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577376
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY ACTION
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577341
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY ACTION+1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577340
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY CHANNEL
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577339
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY CHANNEL+1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577338
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY MOVIES
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577334
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY MOVIES+1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577333
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", TCM
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577361
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", BBC 1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577275
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", BBC 2
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577273
-
-#EXTINF:-1  group-title="CABLE KINGS IPTV", A&E
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=469345
-
-#EXTINF:-1 tvg-id="FILM" group-title="Claro-COL", Film&Arts
-http://190.131.228.59:8000/play/a0qv/index.m3u8
 
 #EXTINF:-1 tvg-id="5f4d882d5233170007ee880e" tvg-chno="924" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title=" PLUTOUSA En Español",Misterios sin resolver
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -846,9 +631,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679
 #EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-chno="325" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title=" PLUTOMX Maratones",Dog el cazarrecompensas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W032I0Q.jpg" group-title="JOVENES Y ADULTOS",Casa Grande TV
-https://acl-server.linky.com.co/hls/vintage2023.m3u8
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 group-title="Bics", 4 GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
@@ -856,9 +639,6 @@ https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", 8 MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-
-#EXTINF:-1 group-title="Bics Extra", AZTECA 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 group-title="Bics Extra", AZTECA 7 2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
