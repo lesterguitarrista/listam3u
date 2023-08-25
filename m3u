@@ -473,6 +473,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1  group-title="CABLE KINGS IPTV", CRIME INVESTIGATION
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577905
@@ -2261,7 +2262,7 @@ https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Rakuten Family
 https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx",Cartoon Network México (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
@@ -2749,10 +2750,26 @@ http://45.5.117.182:8000/play/a0en/index.m3u8
 
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="Music",Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICAS",Retro Music TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LATINO",Retro Plus TV 3 HD
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
