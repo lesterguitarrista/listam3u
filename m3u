@@ -1,160 +1,122 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" 
-group-title=“GUATEMALA”, CANAL3 
+#EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" 
-group-title=“GUATEMALA”, TN23
+#EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
 https://d1dqr580c2izza.cloudfront.net/hls/canal23.m3u8
 https://dy434h3s52eoj.cloudfront.net/Canal23GT/235557e601489a53ece741671338603f.sdp/Canal23GT/Canal23GT1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" 
-group-title=“GUATEMALA”, CANAL 7
+#EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13 Esquipulas" tvg-name="Canal 13 Esquipulas" tvg-logo="data:image/jpeg;base64,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" 
-group-title=“GUATEMALA”, Canal 13 Esquipulas
+#EXTINF:-1 tvg-id="Canal 13 Esquipulas" tvg-name="Canal 13 Esquipulas" tvg-logo="data:image/jpeg;base64,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" group-title=“GUATEMALA”, Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
-#EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" 
-group-title=“GUATEMALA”, TvAzteca Guate
+#EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
 https://vpngratis.win:8443/live/TVGuatemala/xt5HvqxAeP/4.m3u8
 
-#EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" 
-group-title="GUATEMALA", Canal Antigua
+#EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
 https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=78.20.113.187/e38a20258fa7ae00af3577d558d26fdad5435e75c8d581f27fadeb2b37b78c4c/feedlatino1/feedlatino1/chunks.m3u8
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w1249237511_b3428000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" 
-group-title=“ESPAÑA”, TVe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title=“ESPAÑA”, TVe
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elinformadorchile.cl/wp-content/uploads/2021/06/fb-lared-img-773x380.jpg" 
-group-title=“Chile”, La Red
+#EXTINF:-1 tvg-logo="https://www.elinformadorchile.cl/wp-content/uploads/2021/06/fb-lared-img-773x380.jpg" group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" 
-group-title=“Mexico”, Accion Mexicana
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" group-title=“Mexico”, Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-#EXTINF:-1 tvg-id="Tvs Retro" tvg-name="Tvs Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" 
-group-title=“GUATEMALA”, Tvs Retro
+#EXTINF:-1 tvg-id="Tvs Retro" tvg-name="Tvs Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" group-title=“GUATEMALA”, Tvs Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" 
-group-title="Latino", Cosmos
+#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Latino", Cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" 
-group-title=“Latino”, CXTv
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" group-title=“Latino”, CXTv
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" 
-group-title=“Latino”, canela clásicos 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" group-title=“Latino”, canela clásicos 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-1 tvg-logo="https://static.dw.com/image/15705485_303.jpg" 
-group-title=“Latino”, DW
+#EXTINF:-1 tvg-logo="https://static.dw.com/image/15705485_303.jpg" group-title=“Latino”, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_72ffb2f4a5e246dc90b7f6a63afd962a~mv2.jpg" 
-group-title=“GUATEMALA”, Visión TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_72ffb2f4a5e246dc90b7f6a63afd962a~mv2.jpg" group-title=“GUATEMALA”, Visión TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" 
-group-title=“GUATEMALA”, Toto Visión 
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title=“GUATEMALA”, Toto Visión 
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipN4Ds8zftd54MDlxBNVad2-4NSzTvejD-d3dOhb=w768-h768-n-o-v1" 
-group-title=“GUATEMALA”, Barbe Tv
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipN4Ds8zftd54MDlxBNVad2-4NSzTvejD-d3dOhb=w768-h768-n-o-v1" group-title=“GUATEMALA”, Barbe Tv
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4fcffbf0a9d34c5ab6514f1ed913ef48~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_4fcffbf0a9d34c5ab6514f1ed913ef48~mv2.jpg" 
-group-title=“GUATEMALA”, Yepo Tv
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4fcffbf0a9d34c5ab6514f1ed913ef48~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_4fcffbf0a9d34c5ab6514f1ed913ef48~mv2.jpg" group-title=“GUATEMALA”, Yepo Tv
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg" 
-group-title=“GUATEMALA”, Canal 9 Solola
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg" group-title=“GUATEMALA”, Canal 9 Solola
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/guatv.webp" 
-group-title=“GUATEMALA”, GuaTv
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/guatv.webp" group-title=“GUATEMALA”, GuaTv
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" 
-group-title=“GUATEMALA”, Tunevision
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title=“GUATEMALA”, Tunevision
 https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_3e1035966c6443d8a18aca291c038e4a~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Penielky.png" 
-group-title=“GUATEMALA”, Canal Piel K&Y
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_3e1035966c6443d8a18aca291c038e4a~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Penielky.png" group-title=“GUATEMALA”, Canal Piel K&Y
 https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/277565337_469315541600691_4180594648300084735_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=11i8AieP-BYAX9sgLk4&_nc_ht=scontent-bru2-1.xx&oh=00_AfD4PWXUUDJd50OgY3payFrL-NIGa8Z6Ipv9kFuboxtRZA&oe=6473809D" 
-group-title=“GUATEMALA”, Sas Tv
+#EXTINF:-1 tvg-logo="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/277565337_469315541600691_4180594648300084735_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=11i8AieP-BYAX9sgLk4&_nc_ht=scontent-bru2-1.xx&oh=00_AfD4PWXUUDJd50OgY3payFrL-NIGa8Z6Ipv9kFuboxtRZA&oe=6473809D" group-title=“GUATEMALA”, Sas Tv
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvinsur.com/img/gt/canal-8-santa-rosa.webp" 
-group-title=“GUATEMALA”, Canal 8
+#EXTINF:-1 tvg-logo="https://tvinsur.com/img/gt/canal-8-santa-rosa.webp" group-title=“GUATEMALA”, Canal 8
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg" 
-group-title=“GUATEMALA”, Nim Tv
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg" group-title=“GUATEMALA”, Nim Tv
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/323693414_578746050930651_8593393958884917851_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=R_Deo_6j6NkAX8sR-u6&_nc_ht=scontent-bru2-1.xx&oh=00_AfDK1MFBHPD8pd7xXVnExBM2X5Xnu99koUxOrr4tJBItGQ&oe=6473550A" 
-group-title=“GUATEMALA”, Aurora Films
+#EXTINF:-1 tvg-logo="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/323693414_578746050930651_8593393958884917851_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=R_Deo_6j6NkAX8sR-u6&_nc_ht=scontent-bru2-1.xx&oh=00_AfDK1MFBHPD8pd7xXVnExBM2X5Xnu99koUxOrr4tJBItGQ&oe=6473550A" group-title=“GUATEMALA”, Aurora Films
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png" 
-group-title=“GUATEMALA”, Canal 100 Quiche
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png" group-title=“GUATEMALA”, Canal 100 Quiche
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/La_Red_Logotipo.svg" 
-group-title=“Chile”, La Red
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/La_Red_Logotipo.svg" group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" 
-group-title=“Latino”, Rock
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" group-title=“Latino”, Rock
 https://inliveserver.com:1936/11530/11530/chunklist_w1452252569.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" 
-group-title=“Latino”, Rock
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" group-title=“Latino”, Rock
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=1abd702b-09d6-4502-b93c-ad4c77ccb472&streamSessionId=8f8736bb-b6c6-4c82-9f40-7ce2cdb3b445&code=TELEATLANTIC&expires=1667520000000&playUrl=true&ctrl=cb0a09d375980612253a7c7a9e7f71c936ff2151b6b82275eb38cd859b79a8edcfe67272be059b5384f6091043e4eb9a636aa8926ce7dd5e523990dafa69c1d3
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" 
-group-title=“Latino”, Rock
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" group-title=“Latino”, Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w118293894.m3u8
 
-#EXTINF:-1 tvg-id="NRJ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/800px-NRJ_Hits_2017.svg.png" 
-group-title=“Belgica”, NRJ Hits
+#EXTINF:-1 tvg-id="NRJ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/800px-NRJ_Hits_2017.svg.png" group-title=“Belgica”, NRJ Hits
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1136538790_b3268608.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.nieuwsblad.be/Assets/Images_Upload/2023/03/01/logo-atv.jpg" 
-group-title=“Belgica”, ATV
+#EXTINF:-1 tvg-logo="https://static.nieuwsblad.be/Assets/Images_Upload/2023/03/01/logo-atv.jpg" group-title=“Belgica”, ATV
 https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png" 
-group-title=“Argentina”, 24 horas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png" group-title=“Argentina”, 24 horas
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/57d1a22064f5d85712b20dab/publish/media_1500.m3u8?aid=51c2f628b440bd797900051f&uid=VtXFMTAxoFn7opnm5Z0jN8pEZnbjVoLL&sid=XoafmxawiDYfHGzOCPb6LFmGAea98GAr&pid=OJbe7B37X2kqVxDCt2QJsnm9Uj8bQpMA&ref=https%3A%2F%2Fwww.24horas.cl%2Fsenal-24hplay&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1685107956505&ot=6Lrf0Iz34Ci-qe-JtbYEJg&proto=https&pz=us
 
-#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/activa-tv.webp" 
-group-title=“Honduras”, Activa Tv
+#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/activa-tv.webp" group-title=“Honduras”, Activa Tv
 https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/chunklist_w1927736917.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqP2WRZcroy04QpcgBXqHVVHfabRy0T_wKrDhaD6-g=s900-c-k-c0x00ffffff-no-rj" 
-group-title=“Honduras”, Canal 11 Tu Tv
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqP2WRZcroy04QpcgBXqHVVHfabRy0T_wKrDhaD6-g=s900-c-k-c0x00ffffff-no-rj" group-title=“Honduras”, Canal 11 Tu Tv
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/chunks.m3u8?nimblesessionid=5681356&_HLS_msn=48171&_HLS_part=5
 
-#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/970.jpg" 
-group-title=“RDominicana”, Ame47
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/970.jpg" group-title=“RDominicana”, Ame47
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w778018222.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vt3VUAK3EE0giYB3nZctm1B90qQDm40nEtDGKM7A0d2oyUFbzrPFKdSwXl7Z2IqQtRelyy3t=s900-c-k-c0x00ffffff-no-rj" 
-group-title=“Honduras”, Metro Tv
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vt3VUAK3EE0giYB3nZctm1B90qQDm40nEtDGKM7A0d2oyUFbzrPFKdSwXl7Z2IqQtRelyy3t=s900-c-k-c0x00ffffff-no-rj" group-title=“Honduras”, Metro Tv
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Animé Acción (684p)
@@ -188,12 +150,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest/scale-to-width-down/2000?cb=20160228233323"",TC Action HD
 http://104.131.135.246/loadbalance/telecineaction/chunks.m3u8?pxAuth=xznAiZ6OevYW5IPfTOGwy2ZP38FNXaDe
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" 
-group-title=“Argentina, Cine.Ar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title=“Argentina, Cine.Ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1341926285.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" 
-group-title=“Francia“,, Runtime
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title=“Francia“,, Runtime
 https://stream.ads.ottera.tv/cl/230526cho84m29hjnhpo15qqb0/854x480_1355200_2_f.m3u8?i=475_2160
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W032I0Q.jpg" group-title="JOVENES Y ADULTOS",Vintage Channel
@@ -206,16 +166,13 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3spJ7BK.png" group-title="SPAIN",La 2 HD (geobloqueo)
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3spJ7BK.png" group-title="SPAIN",La 2 HD (geobloqueo) https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" 
-group-title=“España”, Trece
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title=“España”, Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" 
-group-title=“España”, El Toro tv
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title=“España”, El Toro tv
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
@@ -887,6 +844,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca831
 
 #EXTINF:-1 tvg-id="PlutoTVMutanteX.us",Pluto TV Mutante X (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 tvg-id="48Hours.us",48 Hours (Pluto TV) (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
@@ -1091,8 +1049,7 @@ https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Proj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 8 (Español)
 https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Project%208.mp4
 
-#EXTINF:-1 tvg-id="Fox Live Now USA" tvg-name="Fox Live Now USA" tvg-logo="fox-news-live-banner.png" 
-group-title=“USA”, FOX Live Now USA
+#EXTINF:-1 tvg-id="Fox Live Now USA" tvg-name="Fox Live Now USA" tvg-logo="fox-news-live-banner.png" group-title=“USA”, FOX Live Now USA
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver – Pluto TV" tvg-logo="https://i.imgur.com/bz9IwWU.png" group-title="VOD Italy",MacGyver – Pluto TV
@@ -1104,32 +1061,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976a
 #EXTINF:-1 tvg-id="" tvg-name="Catfish" tvg-logo="https://i.imgur.com/KajHKoP.png" group-title="Francia",Catfish – Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="Mastercheff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png”
-group-title=“Argentina”, Mastercheff
+#EXTINF:-1 tvg-id="" tvg-name="Mastercheff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” group-title=“Argentina”, Mastercheff
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="El Encata Perros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png”
-group-title=“24/7”, El Encanta Perros
+#EXTINF:-1 tvg-id="" tvg-name="El Encata Perros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” group-title=“24/7”, El Encanta Perros
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="Series Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png”
-group-title=“Argentina”, Series Retro
+#EXTINF:-1 tvg-id="" tvg-name="Series Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” group-title=“Argentina”, Series Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="La Voz" tvg-name="La Voz" tvg-logo="https://images.pluto.tv/series/641afd652b29ca001a8a3c05/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=70&w=1600&auto=&ixlib=react-9.1.5”
-group-title=“24/7”, La Voz
+#EXTINF:-1 tvg-id="La Voz" tvg-name="La Voz" tvg-logo="https://images.pluto.tv/series/641afd652b29ca001a8a3c05/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=70&w=1600&auto=&ixlib=react-9.1.5” group-title=“24/7”, La Voz
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6272ece151b6750007129f9b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra" tvg-logo="https://mms.businesswire.com/media/20200218005379/en/774026/23/beIN_SPORTS_Logo_POSM_RGB.jpg”
-group-title=“DEPORTES”, Bein Sports Extra
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra" tvg-logo="https://mms.businesswire.com/media/20200218005379/en/774026/23/beIN_SPORTS_Logo_POSM_RGB.jpg” group-title=“DEPORTES”, Bein Sports Extra
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra Español" tvg-logo="https://mms.businesswire.com/media/20200218005379/en/774026/23/beIN_SPORTS_Logo_POSM_RGB.jpg”
-group-title=“DEPORTES”, Bein Sports Extra Español
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra Español" tvg-logo="https://mms.businesswire.com/media/20200218005379/en/774026/23/beIN_SPORTS_Logo_POSM_RGB.jpg” group-title=“DEPORTES”, Bein Sports Extra Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="Bellador" tvg-logo="https://cdn.vox-cdn.com/thumbor/s7L5mvKN2rzMmmDCS_mAQfpdnVM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67168018/bellator_on_pluto.0.jpg”
-group-title=“DEPORTES”, Bellador
+#EXTINF:-1 tvg-id="" tvg-name="Bellador" tvg-logo="https://cdn.vox-cdn.com/thumbor/s7L5mvKN2rzMmmDCS_mAQfpdnVM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67168018/bellator_on_pluto.0.jpg” group-title=“DEPORTES”, Bellador
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine XOXO" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Pluto", Cine XOXO
@@ -1165,24 +1115,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e0900076858
 #EXTINF:-1 tvg-id="VEVO '90s" tvg-name="VEVO ‘90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412” group-title=“MUSICA”, VEVO ‘90s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="VEVO 2k" tvg-name="VEVO 2k" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024”
-group-title=“MUSICA”, VEVO 2K
+#EXTINF:-1 tvg-id="VEVO 2k" tvg-name="VEVO 2k" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024” group-title=“MUSICA”, VEVO 2K
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="VEVO LATINO" tvg-name="VEVO LATINO" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412”
-group-title=“MUSICA”, VEVO LATINO
+#EXTINF:-1 tvg-id="VEVO LATINO" tvg-name="VEVO LATINO" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412” group-title=“MUSICA”, VEVO LATINO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="VEVO POP" tvg-name="VEVO POP" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5”
-group-title=“MUSICA”, VEVO POP
+#EXTINF:-1 tvg-id="VEVO POP" tvg-name="VEVO POP" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5” group-title=“MUSICA”, VEVO POP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="VEVO RETRO ROCK" tvg-name="VEVO RETRO ROCK" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412”
-group-title=“MUSICA”, VEVO RETRO ROCK
+#EXTINF:-1 tvg-id="VEVO RETRO ROCK" tvg-name="VEVO RETRO ROCK" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412” group-title=“MUSICA”, VEVO RETRO ROCK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="MISION IMPOSIBLE" tvg-name="MISION IMPOSIBLE" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5”
-group-title=“USA”, MISIÓN IMPOSIBLE 
+#EXTINF:-1 tvg-id="MISION IMPOSIBLE" tvg-name="MISION IMPOSIBLE" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5” group-title=“USA”, MISIÓN IMPOSIBLE 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Death_Note_Logo.svg/1280px-Death_Note_Logo.svg.png" group-title="Anime Lester",Death Note
