@@ -89,13 +89,13 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/La_Red_Logotipo.svg" group-title=“Chile”, La Red
 https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" group-title=“Latino”, Rock
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock
 https://inliveserver.com:1936/11530/11530/chunklist_w1452252569.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" group-title=“Latino”, Rock
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=1abd702b-09d6-4502-b93c-ad4c77ccb472&streamSessionId=8f8736bb-b6c6-4c82-9f40-7ce2cdb3b445&code=TELEATLANTIC&expires=1667520000000&playUrl=true&ctrl=cb0a09d375980612253a7c7a9e7f71c936ff2151b6b82275eb38cd859b79a8edcfe67272be059b5384f6091043e4eb9a636aa8926ce7dd5e523990dafa69c1d3
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/hm6lhx41m388cqc/1684938017100.png/file" group-title=“Latino”, Rock
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w118293894.m3u8
 
 #EXTINF:-1 tvg-id="NRJ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/800px-NRJ_Hits_2017.svg.png" group-title=“Belgica”, NRJ Hits
