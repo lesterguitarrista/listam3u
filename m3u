@@ -1386,6 +1386,9 @@ https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Pluto", Tigueritos TV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+
 XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/10_razones_para_odiarte-228397540-large.jpg" tvg-group="netflix", 10 Cosas que Odio de Ti 
