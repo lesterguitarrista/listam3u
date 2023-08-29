@@ -38,10 +38,10 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Latino", Cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" group-title=“Latino”, CXTv
+#EXTINF:-1 tvg-logo="https://www.cxtvlive.com/assets/img/ui/logo-header.webp" group-title=“Latino”, CXTv
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/646a81653225177d10f8828f5dcbcd40.webp" group-title=“Latino”, canela clásicos 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/295917016b5d38eb70994d8a7b51e808.webp" group-title=“Latino”, canela clásicos 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-1 tvg-logo="https://static.dw.com/image/15705485_303.jpg" group-title=“Latino”, DW
