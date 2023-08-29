@@ -1790,4 +1790,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245cdb15d931000073ee4
 #EXTINF:-1 tvg-id="" tvg-name="Hechizada" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/hechizada_plutotv_vbig.jpg" group-title="Pluto", Hechizada
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-id="" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/series/62e25c60be1ffb0014093a00/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&q=75&w=1200" group-title="Pluto", Walker Texas Ranger
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/635659445b4c4700076d2ad1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera" tvg-logo="https://cdn.elgrupoinformatico.com/Noticias/2022/06/la-ninera-pluto-tv-720x405.jpg" group-title="Pluto", La Niñera
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f58f2278490000079bc47b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 
