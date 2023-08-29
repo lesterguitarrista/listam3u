@@ -1781,3 +1781,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731ea
 #EXTINF:-1 tvg-id="" tvg-name="Los 3chiflados" tvg-logo="https://images.pluto.tv/series/5f85afc5652fb5001add9be2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&q=75&w=1200" group-title="Pluto", Los 3chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-id="" tvg-name="Christmas 365" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/12/pluto-tv-navidad-2021.jpg" group-title="Pluto", Christmas 365
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fb6d4308f5ec0007453c09/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
