@@ -1535,10 +1535,15 @@ https://ia802701.us.archive.org/5/items/maverick-1994_202307/En%20el%20infierno%
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/74/Death_Warrant.jpg/revision/latest?cb=20111215220022&path-prefix=es" tvg-group="netflix", Contrato Para Matar j.Van Damme
 https://ia902708.us.archive.org/27/items/dia-de-la-independencia-1996_202308/Contrato%20para%20Matar%20%281990%29.mp4
 
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/04/10/29/213847.jpg" tvg-group="netflix", Constantine
 https://ia904702.us.archive.org/11/items/constantine_202301/Constantine.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/SFAMovie.jpg/220px-SFAMovie.jpg" tvg-group="netflix", SFA
+https://ia802702.us.archive.org/32/items/street-fighter-ii-the-animated-movie-1994-2160p-multiple-audio/Street%20Fighter%20Alpha%20Generations%20%282005%29%20720p%20-Tri%20Audio-.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/Street_Fighter_II_The_Animated_Movie_DVD.jpg/revision/latest?cb=20200805054301&path-prefix=es" tvg-group="netflix", Street Fighter II
+https://ia802702.us.archive.org/32/items/street-fighter-ii-the-animated-movie-1994-2160p-multiple-audio/Street%20Fighter%20II%20The%20Animated%20Movie%20-%20%281994%29%202160p%20-Multiple%20Audio-.mp4
+
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
 
 
@@ -1548,7 +1553,10 @@ https://ia904702.us.archive.org/11/items/constantine_202301/Constantine.mp4
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
 
 
+#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
 
+
+#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
 
 #EXTINF:-1 tvg-logo="https://ia804500.us.archive.org/35/items/el-ejercito-de-los-muertos-2021-girohens/Space%20Jam.jpg" tvg-group="netflix", space Jam
 https://ia804500.us.archive.org/35/items/el-ejercito-de-los-muertos-2021-girohens/Space%20Jam.mp4
