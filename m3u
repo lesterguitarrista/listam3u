@@ -1747,7 +1747,6 @@ https://ia902703.us.archive.org/10/items/kung-fu-panda-3_202308/Kung%20Fu%20Pand
 
 
 #EXTINF:-1 tvg-id="" tvg-name="G3Concierto" tvg-logo="https://i.scdn.co/image/ab67616d0000b273d4eddbf090d33cba3c2433a8" tvg-group="netflix", G3 johson,vai,satriani
-https://ia801901.us.archive.org/6/items/g-3-live-in-concert/G3%20Live%20in%20Concert%20%281997%29.ia.mp4
 https://ia601901.us.archive.org/6/items/g-3-live-in-concert/G3%20Live%20in%20Concert%20%281997%29.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="DreamTheaterTokyo" tvg-logo="https://i.discogs.com/h0JrrJ6NlfpVA4oRcf1ANduQf4x0xDda_XBuIhmbmIo/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzMz/MzItMTM4ODI4OTQ2/OS04NzU3LmpwZWc.jpeg" tvg-group="netflix", Dream Theater Live Tokyo 1993
@@ -1766,7 +1765,6 @@ https://ia902905.us.archive.org/18/items/yngwie-malmsteen-trial-by-fire-live-len
 https://ia801900.us.archive.org/0/items/1985.10.00_MTV_Heavy_Metal_Mania_with_Guest_VJ_Paul_Stanley_of_KISS_October_1985/1985.10.00_MTV_Heavy_Metal_Mania_with_Guest_VJ_Paul_Stanley_of_KISS_October_1985.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Angra" tvg-logo="https://propermusic.com/cdn/shop/products/4029759091202.jpg?v=1677071579&width=1200" tvg-group="netflix", Angra Angels Cry 20th Anniversary Tour
-https://ia903203.us.archive.org/20/items/angra-angels-cry-20th-anniversary-tour-2013/ANGRA%20-%20Angels%20Cry%2020th%20Anniversary%20Tour%20%282013%29.m4v
 https://ia903203.us.archive.org/20/items/angra-angels-cry-20th-anniversary-tour-2013/ANGRA%20-%20Angels%20Cry%2020th%20Anniversary%20Tour%20%282013%29.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="kissUnplugged" tvg-logo="https://napalmrecords.com/media/catalog/product/cache/2c98b5dedb058b51317c19b0b945bfc5/2/3/23692_kiss_unplugged_glam_rock_napalm_records.jpg" tvg-group="netflix", Kiss Mtv Unplugged
@@ -1822,19 +1820,29 @@ https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Sepultu
 #EXTINF:-1 tvg-id="" tvg-name="Slipknot Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Slipknot_-_Day_of_the_Gusano_Live_in_Mexico.png" tvg-group="netflix", Slipknot Day of the Gusano Mx
 https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Slipknot%20day%20of%20the%20gusano%20live%20in%20mexico%20%282017%29.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Metallica Live" tvg-logo="https://images.thebrag.com/td/uploads/2017/08/metallica-master-puppets.jpg" tvg-group="netflix", Metallica Master of Puppets
+#EXTINF:-1 tvg-id="" tvg-name="Slipknot Disasterpieces" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Disasterpieces.png" tvg-group="netflix", Slipknot Disasterpieces
+https://ia601509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Slipknot%20disasterpieces%20%282002%29.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Soundgarden Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fc8037a9197a6df3c103b169bd981b25462a4b9e1904fd34e954a4b3bc0b67a0._UY500_UX667_RI_TTW_.jpg" tvg-group="netflix", SoundGarden Itunes Festival
+https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Soundgarden%202014%20sxsw%20itunes%20festival%20%282014%29.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Metallica Live" tvg-logo="https://images.thebrag.com/td/uploads/2017/08/metallica-master-puppets.jpg" tvg-group="netflix", Metallica Master of Puppets
+#EXTINF:-1 tvg-id="" tvg-name="Stain Live" tvg-logo="https://m.media-amazon.com/images/I/71Z5EKfNRTL._UF1000,1000_QL80_.jpg" tvg-group="netflix", Stain Live Mohegan Sun
+https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Staind%20live%20from%20mohegan%20sun%20%282012%29.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Stone Temple Pilots Live" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/gracenote/assets/p12417204_b_h10_am.jpg?auto=webp&width=600" tvg-group="netflix", Stone Temple Pilots Live
+https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Stone%20Temple%20Pilots%20Alive%20In%20The%20Windy%20City%20%282012%29.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Metallica Live" tvg-logo="https://images.thebrag.com/td/uploads/2017/08/metallica-master-puppets.jpg" tvg-group="netflix", Metallica Master of Puppets
+#EXTINF:-1 tvg-id="" tvg-name="Suicide Silence Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/SuicideSilence2017.jpg" tvg-group="netflix", Suicide Silence Live
+https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Suicide%20silence%20ending%20is%20the%20beginning%20the%20mitch%20lucker%20memorial%20show%20%282012%29.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Testament Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Live_in_london_testament_cover.jpg" tvg-group="netflix", Testament Live in London
+https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Testament%20live%20in%20london%20%282005%29.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Metallica Live" tvg-logo="https://images.thebrag.com/td/uploads/2017/08/metallica-master-puppets.jpg" tvg-group="netflix", Metallica Master of Puppets
+#EXTINF:-1 tvg-id="" tvg-name="The Big Four Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/The_Big_4_Live_from_Sofia%2C_Bulgaria_cover.jpg" tvg-group="netflix", The Big Four Live
+https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/The%20big%20four%20live%20in%20sofia%20%28parte%201%29%20%282010%29.mp4
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Ramstein Live" tvg-logo="https://rammwiki.net/www/w/images/a/a2/V%C3%B6lkerball_DVD_Cover.jpg" tvg-group="netflix", Ramstein Volkerball live
+https://ia601008.us.archive.org/31/items/Rammstein.Volkerball.2006.DVDRip.XviDRedFlag/Rammstein.Volkerball.2006.DVDRip.XviD-RedFlag.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXDOCUMENTALESXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
