@@ -1427,8 +1427,16 @@ https://archive.org/download/01_20210520_20210520_1544/01.mp4
 https://archive.org/download/01_20210521_20210521_1407/01.mp4
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Soldado_universal-307149783-large.jpg" tvg-group="netflix", Soldado Universal
-https://ia601602.us.archive.org/18/items/soldado-universal-1992_202304/Soldado%20universal%20%281992%29.ia.mp4
 https://ia802702.us.archive.org/2/items/soldadouni/soldadouni.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIyNWJjM2MtMGEzZS00Zjk1LWEyYjItYTllYWVlNGEzMGExXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg" tvg-group="netflix", Soldado Universal 2
+https://ia800506.us.archive.org/28/items/soldado-universal-2-el-retorno/Soldado%20universal%202%2C%20El%20retorno.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b49a6cac3b511d262be52f9dca915af3461a422864d7d988eb6286c4fa8a77e6._RI_TTW_.jpg" tvg-group="netflix", Soldado Universal 3
+https://ia802704.us.archive.org/1/items/soldado-universal-3-regeneracion/Soldado%20Universal%203%2C%20Regeneraci%C3%B3n.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/25/Soldado-universal-4_-_el_juicio_final.jpg/revision/latest/thumbnail/width/360/height/450?cb=20220922022619&path-prefix=es" tvg-group="netflix", Soldado Universal 4
+https://ia800507.us.archive.org/6/items/soldado-universal-4-el-juicio-final/Soldado%20Universal%204%20el%20juicio%20final.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238073.png" tvg-group="netflix", Army of the Dead Netflix 2021
 https://archive.org/download/01_20210521_20210521_1554/01.mp4
@@ -1571,23 +1579,23 @@ https://ia601808.us.archive.org/34/items/y-donde-esta-el-policia-2/Y%20d%C3%B3nd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vmjxBhL_BmhnLNfSTtHPWyoOp9GlI7baQR4ILC3vpV4HUUO6nFvP0n4rzIHh9et6ALwc" tvg-group="netflix", Y Donde Esta el Policia 3
 https://ia801803.us.archive.org/28/items/y-donde-esta-el-policia-3/Y%20d%C3%B3nde%20est%C3%A1%20el%20polic%C3%ADa%203.mp4
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/31/YDODNDE.jpg/revision/latest?cb=20130321081543&path-prefix=es" tvg-group="netflix", Y Donde Esta el Fantasma 
+https://ia802703.us.archive.org/34/items/y-donde-esta-el-fantasma-1/Y%20donde%20esta%20el%20fantasma%201.mp4
 
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/4f/IN-ACTIVIDAD_PARANORMAL.jpg/revision/latest/thumbnail/width/360/height/450?cb=20140712065214&path-prefix=es" tvg-group="netflix", Y Donde Esta el Fantasma 2
+https://ia902701.us.archive.org/13/items/y-donde-esta-el-fantasma-2_202308/Y%20donde%20esta%20el%20fantasma%202.mp4
 
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/16/BH1.jpg/revision/latest?cb=20100720034110&path-prefix=es" tvg-group="netflix", Un Detective Suelto en Hollywood
+https://ia800508.us.archive.org/19/items/un-dedective-suelto-en-hollywood-1_202308/Un%20dedective%20suelto%20en%20Hollywood%201.mp4
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Beverly_Hills_Cop_II-872809373-large.jpg" tvg-group="netflix", Un Detective Suelto en Hollywood 2
+https://ia800509.us.archive.org/22/items/un-dedective-suelto-en-hollywood-3/Un%20dedective%20suelto%20en%20Hollywood%203.mp4
 
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Elite_Squad-710060008-large.jpg" tvg-group="netflix", Tropa de Elite
+https://ia800507.us.archive.org/30/items/tropa-de-elite-1/Tropa%20de%20Elite%201.mp4
 
-
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
-
-
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
-
-
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/R.I.P.D._Poster.jpg" tvg-group="netflix", RIPD Departamento de Policia Mortal
+https://ia802701.us.archive.org/18/items/r.-i.-p.-d.-departamento-de-policia-mortal-1/R.I.P.D.%20Departamento%20de%20Polic%C3%ADa%20Mortal%201.ia.mp4
 
 
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
