@@ -1391,6 +1391,12 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Pluto", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
+#EXTINF:-1 ,EDGESport (1080p)
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,TUDN 🇲🇽
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
 XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/10_razones_para_odiarte-228397540-large.jpg" tvg-group="netflix", 10 Cosas que Odio de Ti 
@@ -1609,11 +1615,14 @@ https://ia804708.us.archive.org/10/items/escuadron-suicida-2016_202301/Escuadr%C
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_Escuadraon_Suicida-629689677-large.jpg" tvg-group="netflix", Escuadron Suicida 2
 https://ia802709.us.archive.org/3/items/escuadron-suicida-2_202308/Escuadr%C3%B3n%20suicida%202.mp4
 
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" tvg-group="netflix", Armageddon
+https://ia801805.us.archive.org/21/items/desaparecido-en-combate-1984_202101/Armageddon%20%281998%29.mp4
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Blade-397609933-mmed.jpg" tvg-group="netflix",Blade (1998)
+https://archive.org/download/desaparecido-en-combate-1984_202101/Blade%20%281998%29.mp4
 
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/American_History_X_poster.png/220px-American_History_X_poster.png" tvg-group="netflix", Historia Americana X
+https://ia804501.us.archive.org/11/items/2-comando-commando-1985/Historia%20americana%20X.mp4
 
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
 
