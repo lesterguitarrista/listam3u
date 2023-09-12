@@ -1361,6 +1361,12 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
+#EXTINF:-1 tvg-chno="6",Recuerdos Retro
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno="8",Oldies
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?WebM3UCL
+
 #EXTINF:0,Qwest Jazz Music
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
@@ -1394,8 +1400,12 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 ,EDGESport (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ,TUDN 🇲🇽
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="1019" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN * | AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-id="1342" tvg-name="A24" tvg-logo="https://i.paste.pics/09d875300f8a37161b8e484e2d6f9652.png", A24 | AR
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
+
 
 XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
