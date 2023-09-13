@@ -762,8 +762,8 @@ https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Proj
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Catfish" tvg-logo="https://i.imgur.com/KajHKoP.png" group-title="Argentina",Catfish – Pluto TV
-
+#EXTINF:-1 tvg-id="" tvg-name="Catfish" tvg-logo="https://i.imgur.com/KajHKoP.png" tvg-shift="0" group-title="Argentina",Catfish – Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="" tvg-name="Mastercheff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” group-title=“Argentina”, Mastercheff
 
