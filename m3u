@@ -143,10 +143,10 @@ https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mat%C3%A9l%C3%A9_2014.png/1200px-Mat%C3%A9l%C3%A9_2014.png" group-title=“Belgica”,MaTele 
 https://live.matele.be/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="Notele.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Not%C3%A9l%C3%A9_logo.jpg" group-title=“Belgica”,Notele (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="Notele.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Not%C3%A9l%C3%A9_logo.jpg" group-title=“Belgica”,Notele
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://images1.persgroep.net/rcs/GJ4eiIK5J3hZlMqbpwavGJLL_nM/diocontent/220672773/_fitwidth/1280?appId=3a216f06aa8c2cdd889c30f3dad70c9a" group-title=“Belgica”,VTM (720p)
+#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://images1.persgroep.net/rcs/GJ4eiIK5J3hZlMqbpwavGJLL_nM/diocontent/220672773/_fitwidth/1280?appId=3a216f06aa8c2cdd889c30f3dad70c9a" group-title=“Belgica”,VTM 
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -184,8 +184,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a
 #EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Toons Clásico (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Canales de Cine", CINE +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 1
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -213,7 +211,7 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3spJ7BK.png" group-title="SPAIN",La 2 HD (geobloqueo) 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3spJ7BK.png" group-title="SPAIN",La 2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
@@ -223,11 +221,14 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title=“España”, El Toro tv
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV HD
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1432837088.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://platcon.tv/img/p/1/1/7/117-large_default.jpg" group-title="MUSICA",Retro Plus TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2051122622.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICA",Retro Plus TV 2 HD
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w195497615.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg" group-title="MUSICA",Retro Plus TV 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1902410539.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://latinartv.com/sites/default/files/logos/retro-plus.jpg" group-title="MUSICA",Retro Plus TV 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w26983359.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICA",Retro Music TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750000.m3u8
