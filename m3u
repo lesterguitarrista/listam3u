@@ -99,8 +99,8 @@ https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png" group-title=“GUATEMALA”, Canal 100 Quiche
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/La_Red_Logotipo.svg" group-title=“Chile”, La Red
-https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png" group-title=“Mexico”, Conecta Tv
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock
 https://inliveserver.com:1936/11530/11530/chunklist_w1452252569.m3u8
