@@ -460,14 +460,14 @@ https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encor
 #EXTINF:-1 group-title="App2tv", Starz Encore Suspense
 https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.suspense.eastern.us.m3u8
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPLUTO MARATONESXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-chno="263" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title=" PLUTOMX Curiosidad",Historias de Ultratumba
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-chno="263" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" tvg-shift="0" group-title=" PLUTOMX Curiosidad",Historias de Ultratumba
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-
-#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-chno="325" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title=" PLUTOMX Maratones",Dog el cazarrecompensas
-
+#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-chno="325" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" tvg-shift="0" group-title=" PLUTOMX Maratones",Dog el cazarrecompensas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ORDENAR XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -765,15 +765,17 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Catfish" tvg-logo="https://i.imgur.com/KajHKoP.png" tvg-shift="0" group-title="Argentina",Catfish – Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="Mastercheff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” group-title=“Argentina”, Mastercheff
+#EXTINF:-1 tvg-id="" tvg-name="Mastercheff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” tvg-shift="0" group-title=“Argentina”, Mastercheff
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="El Encata Perros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” group-title=“24/7”, El Encanta Perros
+#EXTINF:-1 tvg-id="" tvg-name="El Encata Perros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” tvg-shift="0" group-title=“24/7”, El Encanta Perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-name="Series Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” group-title=“Argentina”, Series Retro
+#EXTINF:-1 tvg-id="" tvg-name="Series Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png” tvg-shift="0" group-title=“Argentina”, Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="La Voz" tvg-name="La Voz" tvg-logo="https://images.pluto.tv/series/641afd652b29ca001a8a3c05/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=70&w=1600&auto=&ixlib=react-9.1.5” group-title=“24/7”, La Voz
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Dog El Casarecompensas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Dog_the_Bounty_Hunter_logo.png/220px-Dog_the_Bounty_Hunter_logo.png” tvg-shift="0" group-title=“Argentina”, Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   REVISAR REVISAR REVISAR REVISAR XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -798,9 +800,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0ec7b0f7015fbe0a3b
 
 #EXTINF:-1 tvg-id="Series con Ñ" tvg-name="Series con Ñ" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024” group-title=“PELICULAS”, Series con Ñ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="" tvg-name="the ed Sullivan Show" tvg-logo="https://www.edsullivan.com/files/2022/09/image.png” group-title=“USA”, the ed Sullivan Show
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62a8e433fbf5460007698214/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="VEVO '70s" tvg-name="VEVO ‘70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412” group-title=“MUSICA”, VEVO ‘70s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
