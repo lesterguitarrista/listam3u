@@ -24,11 +24,11 @@ https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=78.20
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/chunklist_w1249237511_b3428000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/09/Nuevo-Mundo-GT.webp" group-title=“GUATEMALA”, Nuevo Mundo Tv
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title=“ESPAÑA”, TVe
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.elinformadorchile.cl/wp-content/uploads/2021/06/fb-lared-img-773x380.jpg" group-title=“Chile”, La Red
-https://d5jxn18we1fqw.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" group-title=“Mexico”, Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
