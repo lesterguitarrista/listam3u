@@ -30,6 +30,9 @@ https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title=“GUATEMALA”, Teve Globo
 https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/La_rosa_de_Guadalupe.jpg" group-title=“Mexico”, La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
 EXTINF:-1 tvg-logo="https://ia800505.us.archive.org/34/items/img-0196_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Sol Tv
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
