@@ -30,22 +30,16 @@ https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title=“GUATEMALA”, Teve Globo
 https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Rosa de Guadalupe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/La_rosa_de_Guadalupe.jpg" group-title=“Mexico”, La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-
-EXTINF:-1 tvg-id="Sol Tv" tvg-logo="https://ia800505.us.archive.org/34/items/img-0196_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Sol Tv
+#EXTINF:-1 tvg-id="Sol Tv" tvg-logo="https://ia800505.us.archive.org/34/items/img-0196_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Sol Tv
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
-EXTINF:-1 tvg-id="El Roi Tv" tvg-logo="https://ia800508.us.archive.org/3/items/img-0195_202309/IMG_0195_thumb.jpg" group-title=“GUATEMALA”, El Roi Tv
-https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/image.jpg" group-title=“Venezuela”, Canela Telenovelas
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/image.jpg" group-title=“Venezuela”, Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-EXTINF:-1 tvg-id="Canela Kids" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-canela-kids-16x9.jpg" group-title=“Venezuela”, Canela Kids
+#EXTINF:-1 tvg-id="Canela Kids" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-canela-kids-16x9.jpg" group-title=“Venezuela”, Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/10/Knal-4-Quiche-Guatemala.webp" group-title=“GUATEMALA”, kanal 4 Quiche
