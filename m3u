@@ -120,11 +120,36 @@ https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=
 #EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Conciertos
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w118293894.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX BELGICA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-id="NRJ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/800px-NRJ_Hits_2017.svg.png" group-title=“Belgica”, NRJ Hits
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1136538790_b3268608.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.nieuwsblad.be/Assets/Images_Upload/2023/03/01/logo-atv.jpg" group-title=“Belgica”, ATV
-https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://bx1.be/wp-content/uploads/2019/10/Logo-bx1-M-dias-de-Bruxelles.jpg" group-title=“Belgica”,BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/EuropebySatellite.jpg" group-title=“Belgica”, Ebsp
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+
+#EXTINF:-1 tvg-id="BelRTL.be" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Bel-rtl-2023.svg/1200px-Bel-rtl-2023.svg.png" group-title=“Belgica”,Bel RTL 
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="CityMusicTV.be"tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2022/06/City-Music-Belgium.jpg" group-title=“Belgica”,City Music TV 
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/1200px-LN24_-_Logo.png" group-title=“Belgica”,LN24 
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mat%C3%A9l%C3%A9_2014.png/1200px-Mat%C3%A9l%C3%A9_2014.png" group-title=“Belgica”,MaTele 
+https://live.matele.be/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Notele.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Not%C3%A9l%C3%A9_logo.jpg" group-title=“Belgica”,Notele (576p) [Not 24/7]
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://images1.persgroep.net/rcs/GJ4eiIK5J3hZlMqbpwavGJLL_nM/diocontent/220672773/_fitwidth/1280?appId=3a216f06aa8c2cdd889c30f3dad70c9a" group-title=“Belgica”,VTM (720p)
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png" group-title=“Argentina”, 24 horas
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/57d1a22064f5d85712b20dab/publish/media_1500.m3u8?aid=51c2f628b440bd797900051f&uid=VtXFMTAxoFn7opnm5Z0jN8pEZnbjVoLL&sid=XoafmxawiDYfHGzOCPb6LFmGAea98GAr&pid=OJbe7B37X2kqVxDCt2QJsnm9Uj8bQpMA&ref=https%3A%2F%2Fwww.24horas.cl%2Fsenal-24hplay&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1685107956505&ot=6Lrf0Iz34Ci-qe-JtbYEJg&proto=https&pz=us
