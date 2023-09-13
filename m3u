@@ -12,6 +12,9 @@ https://dy434h3s52eoj.cloudfront.net/Canal23GT/235557e601489a53ece741671338603f.
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="GUATEMALA", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal 13 Esquipulas" tvg-name="Canal 13 Esquipulas" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Canal-13-Esquipulas-Chiquimula-TV-Guatemala-1.webp" group-title=“GUATEMALA”, Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
@@ -151,8 +154,6 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/24_Horas_TVN_logo.png" group-title=“Argentina”, 24 horas
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/57d1a22064f5d85712b20dab/publish/media_1500.m3u8?aid=51c2f628b440bd797900051f&uid=VtXFMTAxoFn7opnm5Z0jN8pEZnbjVoLL&sid=XoafmxawiDYfHGzOCPb6LFmGAea98GAr&pid=OJbe7B37X2kqVxDCt2QJsnm9Uj8bQpMA&ref=https%3A%2F%2Fwww.24horas.cl%2Fsenal-24hplay&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1685107956505&ot=6Lrf0Iz34Ci-qe-JtbYEJg&proto=https&pz=us
 
 #EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2022-12/activa-tv.webp" group-title=“Honduras”, Activa Tv
 https://multimedia.tmcreativos.com:1936/mbcrtzxnxd/mbcrtzxnxd/chunklist_w1927736917.m3u8
@@ -166,46 +167,19 @@ https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w778018222.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vt3VUAK3EE0giYB3nZctm1B90qQDm40nEtDGKM7A0d2oyUFbzrPFKdSwXl7Z2IqQtRelyy3t=s900-c-k-c0x00ffffff-no-rj" group-title=“Honduras”, Metro Tv
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Animé Acción (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVAnimeClasico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Canales de Animacion",Pluto TV Anime Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVAnimakidsSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Animakids (Spain) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Bob Esponja (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVGarfield.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Garfield (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Canales Juveniles",Pluto TV Toons Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 1
-https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales de Cine", Pluto TV Movies 2
-https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest/scale-to-width-down/2000?cb=20160228233323"",TC Action HD
-http://104.131.135.246/loadbalance/telecineaction/chunks.m3u8?pxAuth=xznAiZ6OevYW5IPfTOGwy2ZP38FNXaDe
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title=“Argentina, Cine.Ar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title=“Argentina", Cine.Ar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1341926285.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title=“Francia“,, Runtime
-https://stream.ads.ottera.tv/cl/230526cho84m29hjnhpo15qqb0/854x480_1355200_2_f.m3u8?i=475_2160
+#EXTINF:-1 tvg-id="13Max Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title=“Argentina",13Max Televisión 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W032I0Q.jpg" group-title="JOVENES Y ADULTOS",Vintage Channel
-https://acl-server.linky.com.co/hls/vintage2023.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAzV-uDbrT4TBB8C6t7KXPqAbQSbhOm2z-w&usqp=CAU" group-title="Familiares",Retro Infantil
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ESPAÑA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QxB7k9f.png" group-title="SPAIN",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -221,6 +195,8 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title=“España”, El Toro tv
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX MUSICA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://platcon.tv/img/p/1/1/7/117-large_default.jpg" group-title="MUSICA",Retro Plus TV
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w2051122622.m3u8
 
@@ -233,6 +209,8 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w269
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="MUSICA",Retro Music TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750000.m3u8
 
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX NOTICIAS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/featuredImage.jpg" group-title="NOTICIAS",Euronews HD
 http://euronews-euronews-spanish-2-mx.samsung.wurl.tv/playlist.m3u8
 
@@ -246,7 +224,9 @@ https://i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Empenos a lo bestia" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Empenos a lo bestia
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VARIOS PLUTO XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Empeños a lo bestia" tvg-logo="https://images.justwatch.com/poster/186523622/s718/empenos-a-lo-bestia.jpg" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Empenos a lo bestia
 https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Who Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Doctor Who Pluto TV
@@ -455,18 +435,8 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics", TIGO SPORTS
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics", WEATHER CHANNEL ESPAÑOL
-https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics", 4 GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
