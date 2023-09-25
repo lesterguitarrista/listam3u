@@ -1109,6 +1109,64 @@ https://stream.trixserver.com:3088/live/uv096live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecinco trelew" tvg-logo="https://lh3.googleusercontent.com/ZxssvUtDxEfrWB0fNPij9yZ1k2YX6T_zuCjtnVO7sw-7D7bh_s7qhZl22vTMWB0xllcUCAXtVO2wrVOPDozXJA", Telecinco trelew
 https://videohd.live:19360/8016/8016.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TeleMix" tvg-logo="https://cdn.m3u.cl/logo/1026_Tele_Mix.png", TeleMix
+https://panel.dattalive.com/8068/8068/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp", xtrema cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp", xtrema Acción
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Animal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2af4dd316afda72cb7c982a399289623.webp", xtrema Animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Asia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/332189b8722e494b651f16c7591490c7.webp", xtrema Asia
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Comedy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/241d1d48bf46902c3aa0b334a0791a8d.webp", xtrema Comedy
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4c9ffb33bd89b04d6c1fd9326ddcadd7.webp", xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Europa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e29e609e680318eba7bddbaa71febf7d.webp", xtrema Europa
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Family" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/553ae67ca541fdc09dd6f918351f04be.webp", xtrema Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Latino" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/648b8e02363dd3c97a5d0e8afd3ef60d.webp", xtrema Latino
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Suspenso" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png", xtrema Suspenso
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema Terror" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png", xtrema Terror
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema retro cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp", xtrema retro cartoons
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema retro series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/67fef669159d2e980c3bbc5d4edde22f.webp", xtrema retro series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema series" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png", xtrema series
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema " tvg-logo="", xtrema
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema " tvg-logo="", xtrema
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xtrema " tvg-logo="", xtrema
+
+
+
 XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/10_razones_para_odiarte-228397540-large.jpg" tvg-group="netflix", 10 Cosas que Odio de Ti 
