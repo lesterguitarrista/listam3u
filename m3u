@@ -1094,6 +1094,20 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="1342" tvg-name="A24" tvg-logo="https://i.paste.pics/09d875300f8a37161b8e484e2d6f9652.png", A24 
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="" tvg-name="Neox Tv" tvg-logo="https://ml83w0xirk9x.i.optimole.com/cb:PcBh~22e5d/w:auto/h:auto/q:mauto/ig:avif/f:best/https://sonicaargentina.com.ar/portada.webp", Neox Tv
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Neo Tv" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png", Neo Tv
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Net Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/640px-Net_TV_logo.png", Net Tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="panc Tv" tvg-logo="https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg", panc Tv
+https://stream.trixserver.com:3088/live/uv096live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco trelew" tvg-logo="https://lh3.googleusercontent.com/ZxssvUtDxEfrWB0fNPij9yZ1k2YX6T_zuCjtnVO7sw-7D7bh_s7qhZl22vTMWB0xllcUCAXtVO2wrVOPDozXJA", Telecinco trelew
+https://videohd.live:19360/8016/8016.m3u8
 
 XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
