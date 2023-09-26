@@ -1154,9 +1154,8 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="xtrema series" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png", xtrema series
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema " tvg-logo="", xtrema
-
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sony" tvg-logo="https://cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="xtrema " tvg-logo="", xtrema
