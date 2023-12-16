@@ -23,7 +23,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w59967
 
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
 https://conceptoweb-studio.com/radio/video/aztecaguate/
-https://5fe2654d6127d.streamlock.net/aztecaguate/videoaztecaguate/chunklist_w188458805.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMyAxMDowMzoyNCBBTSZoYXNoX3ZhbHVlPVBBYVdPZmM5ejNZdGMzQWNLOTJpSnc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
 
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
 https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=78.20.113.187/e38a20258fa7ae00af3577d558d26fdad5435e75c8d581f27fadeb2b37b78c4c/feedlatino1/feedlatino1/chunks.m3u8
@@ -1808,3 +1807,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679
 
 #EXTINF:-1 tvg-id="PlutoTVMTVTattooADos.us" tvg-name="PlutoTVMTVTattooADos.us" tvg-logo="https://ia902609.us.archive.org/5/items/img-0200_202309/__ia_thumb.jpg" group-title="Pluto" ,Pluto TV MTV Tattoo A Dos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-id="After School Cartoons" tvg-name="After School Cartoons" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Pluto" ,Pluto After School Cartoons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
