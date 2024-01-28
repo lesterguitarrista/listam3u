@@ -1848,6 +1848,11 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNUEVOSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-13 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="CINE Y SERIES", Sony Cine | SD
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
 
 
 
