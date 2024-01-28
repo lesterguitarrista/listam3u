@@ -1855,4 +1855,10 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-18 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="CINE Y SERIES", Cinemax | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.ammo.runtime&amp;app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&amp;app_domain=runtime.tv&amp;app_name=runtime&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=runtime&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=https%253A%252F%252Fwww.runtime.tv%252F&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1676561741&amp;id=2964&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=kEJu1%2Bg4igYcXJGirWitAeu2PDryiqCaws%2BdjxoACnQ%3D
 
+#EXTINF:-22 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/FMTV-1.png" group-title="CINE Y SERIES", Frecuencia tv | FHD
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-23 tvg-logo="https://static2.tgstat.ru/channels/_0/17/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="CINE Y SERIES", Pelis | HD
+https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
+
 
