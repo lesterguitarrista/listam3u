@@ -1870,6 +1870,9 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-39 tvg-logo="https://apksos.com/storage/images/extrema/radiotv/extrema.radiotv_1.png" group-title="CINE Y SERIES", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-50 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp" group-title="CINE Y SERIES",  Movie tv
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+
 
 
 
