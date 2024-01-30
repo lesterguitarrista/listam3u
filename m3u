@@ -14,6 +14,9 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="APlusGuate.gt",A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Canal5.mx",Canal 5 (1080p)
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="CANAL11" tvg-name="CANAL11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title=“GUATEMALA”, CANAL11
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w599673004.m3u8
 
