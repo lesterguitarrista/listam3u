@@ -13,13 +13,12 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal23.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" 
 group-title=“GUATEMALA”, CANAL 7
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
-https://ch1-tva.duin.dev/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" 
 group-title=“GUATEMALA”, TvAzteca Guate
 https://5fe2654d6127d.streamlock.net/aztecaguate/videoaztecaguate/chunklist_w1370422998.m3u8
-
+https://ch1-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" 
 group-title=“ESPAÑA”, TVe
