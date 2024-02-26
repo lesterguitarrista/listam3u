@@ -1937,6 +1937,16 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx",De Película Plus (576p)
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DistritoComedia.mx",Distrito Comedia (576p)
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ElNu9ve.mx",El NU9VE (1080p)
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx",Golden Edge Panregional (576p)
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx",Golden Multiplex (576p)
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
 
