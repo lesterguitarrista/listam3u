@@ -1950,6 +1950,18 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE Y SERIES" , GOLDEN dorado plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx",Tlnovelas (576p)
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unicable.mx",Unicable (576p)
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional (576p)
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZAZ.mx",ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
 
 
 
