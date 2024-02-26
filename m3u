@@ -1931,6 +1931,12 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-id="SoReal.us",So...Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx",De Película (576p)
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx",De Película Plus (576p)
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
 
 
 
