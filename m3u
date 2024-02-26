@@ -1904,11 +1904,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829&avod=1&coppa=0&is_lat
 #EXTINF:-175 tvg-logo="https://tntmusic.ru/static/img/fb.jpg" group-title="MEXICO" ,THT MUSIC
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE Y SERIES" , GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE Y SERIES" , GOLDEN dorado plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png?itok=SZFveXdQ" group-title="CINE Y SERIES" ,MAS CINE
 https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
@@ -1948,5 +1943,13 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx",Golden Multiplex (576p)
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE Y SERIES" , GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE Y SERIES" , GOLDEN dorado plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+
 
 
