@@ -160,6 +160,9 @@ https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://images1.persgroep.net/rcs/GJ4eiIK5J3hZlMqbpwavGJLL_nM/diocontent/220672773/_fitwidth/1280?appId=3a216f06aa8c2cdd889c30f3dad70c9a" group-title=“Belgica”,VTM 
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
+#EXTINF:-1 tvg-id="Radio2.be",VRT Radio 2 (720p)
+https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
