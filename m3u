@@ -11,10 +11,10 @@ https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.s
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="APlusGuate.gt",A+ Guate
+#EXTINF:-1 tvg-id="APlusGuate.gt" tvg-name="APlusGuate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="GUATEMALA", A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx",Canal 5 (1080p)
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="MEXICO" , Canal 5 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL11" tvg-name="CANAL11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title=“GUATEMALA”, CANAL11
@@ -377,7 +377,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="lesterplus", UNIVISION LATAM
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="lesterplus", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -386,6 +386,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TN232022.webp/640px-TN232022.webp.png" group-title="lesterplus", TN23
+https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -402,74 +403,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXX REVISAR XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 group-title="App2tv", HBO
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", HBO 2
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", HBO Signature
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", HBO Family
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", HBO Comedy
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", HBO Zone
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", CINEMAX
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", ActionMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", 5 Star MAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", ThrillerMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", MoreMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", MovieMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", OuterMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz Edge
-https://tvnow.best/api/stream/alex_079@hotmail.com/975248/livetv.epg/starz.edge.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz Cinema
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.cinema.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz in Black
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.in.black.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz Comedy
-https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/starz.comedy.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz Kids & Family
-https://tvnow.best/api/stream/drkashner@gmail.com/142454/livetv.epg/starz.kids.family.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz Encore
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz Encore Black
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.black.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz Encore Action
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.action.eastern.us.m3u8
-
-#EXTINF:-1 group-title="App2tv", Starz Encore Suspense
-https://tvnow.best/api/stream/patovicy2k@yahoo.com/214215/livetv.epg/starz.encore.suspense.eastern.us.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPLUTO MARATONESXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -493,13 +426,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1000px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="Bics Extra", USA | Cartoon Network
 http://45.5.117.182:8000/play/a0en/index.m3u8
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Bics Extra", USA | Cartoonito
 http://181.189.243.254:8000/play/a0pa/index.m3u8
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-
-
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -642,7 +572,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx",Cartoon Network México (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ViXJajaja.mx",ViX Jajaja (1080p)
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
@@ -658,7 +588,6 @@ https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
 
 #EXTINF:-1 tvg-id="ScreamFactoryTV.us",Scream Factory TV (720p)
 https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
-
 
 
 
@@ -680,9 +609,6 @@ https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca",Stingray Classic Rock (1080p)
 https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
 
-#EXTINF:-1 tvg-id="YoungHollywood.us",Young Hollywood (720p)
-https://younghollywood-vizio.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AFVEspanol.us",AFV en Español (720p) [Not 24/7]
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 
@@ -693,78 +619,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 9 (70, 80, 90s)
-https://ia601503.us.archive.org/0/items/TheClassicProject9/The%20Classic%20Project%209.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 10 (Soundtrack)
-https://ia601506.us.archive.org/14/items/TheClassicProject10/The%20Classic%20Project%2010.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 11 (Rock latino)
-https://ia601508.us.archive.org/21/items/TheClassicProject11/The%20Classic%20Project%2011.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 12 (Onda disco)
-https://ia601507.us.archive.org/11/items/TheClassicProject12/The%20Classic%20Project%2012.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 13 (Exitos en español)
-https://ia601503.us.archive.org/14/items/TheClassicProject13/The%20Classic%20Project%2013.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 14-1 (Rock edition CD 1)
-https://ia601509.us.archive.org/16/items/TheClassicProject14.1/The%20Classic%20Project%2014.1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 14-2 (Rock edition CD 2)
-https://archive.org/download/TheClassicProject14.2/The%20Classic%20Project%2014.2.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 3 (Old skool)
-https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 5 (Tropical mix)
-https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 6 (Tropical mix 2)
-https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 7 (Tropical mix 3)
-https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 8 (Dance remixes 2)
-https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 9 (Pop)
-https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 11 (Dance remixes 3)
-https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 14 (Salsa Mix)
-https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 1 (70, 80, 90s Reloaded 2008)
-https://ia601503.us.archive.org/24/items/TheClassicProject1/The%20Classic%20Project%201.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 2 (Pop eurodance 90s)
-https://ia601500.us.archive.org/26/items/TheClassicProject2/The%20Classic%20Project%202.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 3 (Pop 2000-2004)
-https://ia601508.us.archive.org/32/items/TheClassicProject3/The%20Classic%20Project%203.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 4 (70, 80, 90s)
-https://ia601500.us.archive.org/25/items/TheClassicProject4/The%20Classic%20Project%204.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 5 (Rock Pop 90s)
-https://ia801503.us.archive.org/20/items/TheClassicProject5/The%20Classic%20Project%205.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 6 (Pop 2004-2006)
-https://ia601509.us.archive.org/8/items/TheClassicProject6/The%20Classic%20Project%206.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 7 (Reggaeton)
-https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Project%207.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 8 (Español)
-https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Project%208.mp4
-
 #EXTINF:-1 tvg-id="Fox Live Now USA" tvg-name="Fox Live Now USA" tvg-logo="fox-news-live-banner.png" group-title=“USA”, FOX Live Now USA
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Catfish" tvg-logo="https://i.imgur.com/KajHKoP.png" tvg-shift="0" group-title="PLUTO",Catfish – Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -1959,12 +1815,13 @@ https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx",Unicable (576p)
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional (576p)
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="FAMILIA",Univision Panregional 
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZAZ.mx",ZAZ
+#EXTINF:-1 tvg-id="ZAZ.mx" tvg-name="ZAZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Zaz1992.gif/revision/latest?cb=20120110070037" group-title="KIDS" ,ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 
-
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="FAMILIA" , A&E
+http://45.5.117.182:8000/play/a0hr/index.m3u8
 
