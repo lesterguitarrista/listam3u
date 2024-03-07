@@ -1830,4 +1830,13 @@ http://45.5.117.182:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
 http://208.86.19.13:81/16.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
+http://45.5.117.182:8000/play/a0i3/index.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" ,Nat Geo HD
+http://45.5.117.182:8000/play/a0jr/index.m3u8
+
+
+
+
 
