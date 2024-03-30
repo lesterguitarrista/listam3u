@@ -1907,3 +1907,8 @@ http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" ,Law & Crime (720p)
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
 
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+
+
+
