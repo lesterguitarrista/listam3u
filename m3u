@@ -24,6 +24,9 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="MEXICO" , Canal 5 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="CANAL11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title=“GUATEMALA”,Canal 11
+http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CANAL11" tvg-name="CANAL11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title=“GUATEMALA”, CANAL11
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w599673004.m3u8
 
@@ -1839,6 +1842,9 @@ http://45.5.117.182:8000/play/a0fn/index.m3u8
 http://208.86.19.13:81/16.stream/index.m3u8
 http://45.5.117.182:8000/play/a0ho/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT Latino America
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
 http://45.5.117.182:8000/play/a0i3/index.m3u8
 http://45.5.117.182:8000/play/a0ho/index.m3u8
@@ -1880,7 +1886,7 @@ http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" ,HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Español
@@ -1889,7 +1895,8 @@ http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
 http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="Canal12.sv",Canal 12
+http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
 
 
 
