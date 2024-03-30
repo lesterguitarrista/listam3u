@@ -1850,6 +1850,9 @@ http://45.5.117.182:8000/play/a0ho/index.m3u8
 http://45.5.117.182:8000/play/a0jr/index.m3u8
 http://45.5.117.182:8000/play/a0ey/index.m3u8
 
+#EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",H&H
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 
