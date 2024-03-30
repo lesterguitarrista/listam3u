@@ -1895,14 +1895,15 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Español
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA Español
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
 http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal12.sv",Canal 12
 http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVUndercoverBossGlobal.us",Pluto TV Undercover Boss Global (720p) [Not 24/7]
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0dc00b15eef10007726ef7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
-
-
+#EXTINF:-1 tvg-id="MC.mx",MC
+http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
 
