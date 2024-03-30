@@ -1805,9 +1805,6 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITOCOMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" ,Distrito Comedia (576p)
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElNu9ve.mx" tvg-name="ElNu9ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" ,El NU9VE (1080p)
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="GOLDENEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png",Golden Edge Panregional 
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
