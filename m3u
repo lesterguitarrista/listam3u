@@ -1889,6 +1889,21 @@ http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" ,HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
