@@ -1892,7 +1892,7 @@ http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamilyEste.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
+#EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlusEste.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus
