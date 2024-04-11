@@ -1905,6 +1905,12 @@ http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
+http://170.254.18.106/CINEMAX/index.m3u8
+
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
