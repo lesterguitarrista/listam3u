@@ -445,8 +445,8 @@ xxxxxxxxxxxxxxxxxxxxxx GUATEMALA xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt",Amigos TV Chiquimula (480p)
 https://tv91.hostingnuclear.com:19360/amigostv/amigostv.m3u8
 
-#EXTINF:-1 tvg-id="AuroraMediaFilms.gt",Aurora Media Films (720p)
-https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt",Aurora Media Films 
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-id="BarbeTV.gt",Canal 9 Barbe TV (720p)
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
