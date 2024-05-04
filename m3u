@@ -4,6 +4,7 @@ http://45.228.232.205:16000/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
+http://186.189.222.204:8001/play/12/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
 http://45.228.232.205:16000/play/a05u/index.m3u8
