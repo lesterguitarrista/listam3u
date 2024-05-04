@@ -1781,7 +1781,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829&avod=1&coppa=0&is_lat
 #EXTINF:-175 tvg-logo="https://tntmusic.ru/static/img/fb.jpg" group-title="MEXICO" ,THT MUSIC
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png?itok=SZFveXdQ" group-title="CINE Y SERIES" ,MAS CINE
 https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
 
@@ -1859,7 +1858,7 @@ http://45.5.117.182:8000/play/a0jr/index.m3u8
 http://45.5.117.182:8000/play/a0ey/index.m3u8
 
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",H&H
-http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+http://45.228.232.205:16000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
@@ -1933,7 +1932,7 @@ http://170.254.18.106/FX/index.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
-http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
+http://45.228.232.205:16000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal12.sv",Canal 12
 http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
@@ -1967,6 +1966,12 @@ https://r.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+
+#EXTINF:-1,037 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
+http://45.228.232.205:16000/play/a082/index.m3u8
+
+#EXTINF:-1,035 tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
+http://45.228.232.205:16000/play/a07y/index.m3u8
 
 
 
