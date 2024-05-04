@@ -1870,15 +1870,16 @@ http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
 
 #EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CqEFJMNgnSrOykA4hCVcJoUoVaQOWCRagSuBDPLbpV1qnLYjNmxPstksqXbHOeDQO2FfPjpvSdl_byNIyHvDpeRlGzM6V5icVB8afI_gzqbEApAZej-yfumIX6Xak92-KhVm8mAmyNpuxrm0HAT2ET6r176B4bcYL6mhyKkJX2FetvlPdeBOgSyGrDRrX4wc-odb4wiCmqyi9C7CLrfLH2_3rca8QLf6SoTsfkbxDXxsUHgLE3B5_CkHuZ12z19rRKjpry-i0Woc10vsX4mmPCDnlDJbjvaR5GudSoqesCoE2TKjVomUINCNMtqmbBboTzYhBNcfFSkeLzQgzGYe_A59f16mKnFABnyJ0hL99MyvIObiVjZWy2Tzj4ktCoGt-QmW12xfogtGQn6gIXW7oamIeWY7EGxA0viK2ygoliK3SIHkryO6xrHYU2y8mepdc0W61lhJqLfLcpogtboYnjt_ZOVp3JBOVc8fw3vnehqzNLYgKcvAgzoqsthGH9Rr1oKx8FVRILehrF0cVzoOfLQGL-7x0tqI5kIO87RwyYX77HXh9K16SVB1Lr2oPI_rC3MW1Oky_Y6SfVokIiFrA4PRZKyoZpDZi7gHRnlMzLfUPcElA1yr6SsIFf6TgYCwCYFxY-BqNC2SYCUpY9-WmwBmTFy-qZr8nsqPBW9tqy82yMHXQVcsXklXZigP8j_0vpXt0jOid3-El6mszP82r-UwqLeuy_Mv-LAXzmWu1__xOMdRM7prIW3V2Wy1phd3NvyELCN7M9jYWUdgfIjxu_6jjWgsvKkGqHOWViUEzsEhCsDXlw_MPX0KtoXfG9yQ0Ee2Rb0seXr-scrxSA-vLAvtimKOl12bjgyBMsdKfVdVfYuQUyjUOcDqz-BiqOnfwqWRjhoMpz9BJRiG5VEmVcRMIAEqCWV1LXdlc3QtMjCrCQ.m3u8
+http://45.228.232.205:16000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
-http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+http://45.228.232.205:16000/play/a07x/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 http://170.254.18.106/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
+http://45.228.232.205:16000/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
@@ -1887,13 +1888,14 @@ http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png",Studio Universal
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+http://45.228.232.205:16000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network Español
-http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+http://45.228.232.205:16000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner TV
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+http://45.228.232.205:16000/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
@@ -1967,10 +1969,10 @@ https://r.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 
-#EXTINF:-1,037 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
+#EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
 http://45.228.232.205:16000/play/a082/index.m3u8
 
-#EXTINF:-1,035 tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
+#EXTINF:-1 tvg-id="DiscoveeryChannel.us" tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
 http://45.228.232.205:16000/play/a07y/index.m3u8
 
 
