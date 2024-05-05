@@ -1862,7 +1862,7 @@ http://45.5.117.182:8000/play/a0ey/index.m3u8
 http://45.228.232.205:16000/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+http://45.228.232.205:16000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
@@ -1976,6 +1976,7 @@ http://45.228.232.205:16000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveeryChannel.us" tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
 http://45.228.232.205:16000/play/a07y/index.m3u8
 
-
+#EXTINF:-1,064 H2
+http://45.228.232.205:16000/play/a05b/index.m3u8
 
 
