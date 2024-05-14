@@ -1952,7 +1952,7 @@ http://170.254.18.106/FX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA Español
-http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+http://45.5.117.182:8000/play/a0hs/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
 http://45.228.232.205:16000/play/a04b/index.m3u8
