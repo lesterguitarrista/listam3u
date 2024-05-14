@@ -1914,6 +1914,8 @@ http://45.228.232.205:16000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="universalcinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",UNIVERSAL CINEMA ESTE HD
 http://45.5.117.182:8000/play/a0jz/index.m3u8
 
+#EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIERE HD
+http://45.5.117.182:8000/play/a0ig/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network Español
 http://45.228.232.205:16000/play/a03y/index.m3u8
