@@ -1906,12 +1906,11 @@ http://170.254.18.106/AXN/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
-http://45.228.232.205:16000/play/a05m/index.m3u8
 http://143.244.60.30/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 http://45.228.232.205:16000/play/a05m/index.m3u8
+http://45.228.232.205:16000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="MultiPremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png",MultiPremier
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
@@ -1975,10 +1974,11 @@ http://45.228.232.205:16000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="Multipremier", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png", Multipremier
 http://45.228.232.205:16000/play/a07a/index.m3u8
 
-
 #EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Jr
 http://45.228.232.205:16000/play/a02d/index.m3u8
 
+#EXTINF:-1 tvg-id="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
+http://45.228.232.205:16000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" ,Law & Crime (720p)
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
@@ -1986,8 +1986,8 @@ https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="Canal3Impresionante.sv",Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png",DreamWorks
-http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1 tvg-id="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE HD
+http://45.228.232.205:16000/play/a04i/index.m3u8
 
 #EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="Retro" , MacGyver
 https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
