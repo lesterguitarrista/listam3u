@@ -1,6 +1,6 @@
 #EXTM3U
 
-https://epg.programadorx.cl/mdiaz/gratis.xml.gz
+https://raw.githubusercontent.com/lesterguitarrista/listam3u/main/xml
 
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
 http://45.228.232.205:16000/play/a08v/index.m3u8
