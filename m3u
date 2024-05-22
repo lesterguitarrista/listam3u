@@ -1941,7 +1941,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
 http://170.254.18.106/STAR/index.m3u8
 
-#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Español
 http://170.254.18.106/FX/index.m3u8
 
 
