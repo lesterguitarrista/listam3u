@@ -1853,10 +1853,10 @@ http://45.5.117.182:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" , AMC HD
 http://45.5.117.182:8000/play/a0fn/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
 http://45.5.117.182:8000/play/a0ho/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT Latino America
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
 http://170.254.18.106/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
@@ -1877,7 +1877,7 @@ http://45.228.232.205:16000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVH1Classics.us",Pluto TV VH1 Classics (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
 
-#EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
+#EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
 http://45.228.232.205:16000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
@@ -1941,7 +1941,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
 http://170.254.18.106/STAR/index.m3u8
 
-#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Español
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX
 http://170.254.18.106/FX/index.m3u8
 
 
