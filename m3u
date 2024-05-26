@@ -1,12 +1,11 @@
 #EXTM3U
 
-https://raw.githubusercontent.com/lesterguitarrista/listam3u/main/xml
 
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
 http://45.228.232.205:16000/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/480p.m3u8
+https://linear-259.frequency.stream/mt/studio/259/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
 http://45.228.232.205:16000/play/a05u/index.m3u8
@@ -36,7 +35,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1909736216.m3u8
 
 #EXTINF:-1 tvg-id="SIMPSOn" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2325147669.jpg" ,Simpson 
-https://video-weaver.ams03.hls.ttvnw.net/v1/playlist/CtQFOoDC9JdT41XjSmL7nxxPsrOfe1FDJxugYmBlxu5TDHOsExmVSx7RliSRz02POej0-KuSNBpUv3xP3QtJfFk5pu7ETA2-JQCAmiTV-AUAB9T6QH3Inxukl_qBYpvzqDYtN-kOWVxF0YjOGfHI_7ekmy8GxDKv3jpxr2K9pGquHHg_ljir498RLZizIN7fFuSj7aHmwFYBZSxtTaTSZyh8BJhEwjept90y2MviEHECJ5gxFce0Z8oLVAzdLzKR0W86suzLH6u09gcYWttocCM39PlJmkDhFKpeullt1YT7Li7APZz00V4AnFP5qx2bsi8uDTS7SBXsEuVpCBXAgGeReChGJ-0B9HcyksJxvOcBewUyqs0TQ25ReDZq4-lbY8_vGEroUE_Zw_trmL2kM-GZHMK5vFBrIidFSRk-CEZ9WwXBIfoU0u43j24gQc0qJyDRmUPnRoXcfdKYCM-7p3TGsLmEmGQVWwfcNazI72GdHc04XqXGLttkfZeuN4XPQhpnYUix-HhrO8yfbXrJM2XkOAtyqeN-0gAgRlPX4GnrXxMSxjLUl5plpfYwgEhEn49bWaWrc0D_Bedcew37OpzsNLVPdzIP-4i3pELffLIbthgCWpc7x_CG6CIb1Y03c1PU7AJVf4WclXBsygIxZs8LucLFDeukKRQ4eeKcys9RhG1vBOFzdPLX6BD0OOCWj_YjU37ISRaP5HXrltFZz6zpqlk41cs53EQmQyJIyPbf-6Q-wLHhZd_ttETL2jWS5bgMcjNJHqgc4K9sSRi0YcyRJzF5IBH5xcvpC5hbXVqEf3ZEsSvwKGq2pI0U6_g1Hd3OyteJtyOR57ffEzlOpQqQSwqOReCRgvgIXAExpYF66e-gLREyLE15AV1mYG92q7MNyWFlh8KuRQNAQ2NUpy_VeLAm27Xb2pfNO3JPOhpjL0z8Uxfnr08yXsSRBgpbdkAEemTEnBoM8-f1iJ92E0TGZguDIAEqCWV1LXdlc3QtMjC9CQ.m3u8
+https://d2nvs31859zcd8.cloudfront.net/c80338430f3a7a1f631e_fulano91_44249467995_1716664678/chunked/index-dvr.m3u8
 
 #EXTINF:-1 tvg-id="ClaroCinema" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" , Claro Cinema
 http://138.59.177.34:8000/play/a05b/index.m3u8
