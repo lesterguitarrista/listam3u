@@ -55,6 +55,9 @@ https://dn720400.ca.archive.org/0/items/mentes-peligrosas-1995-hd/mentes%20pelig
 #EXTINF:-1 tvg-id="BABYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" , Baby tv
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 
+#EXTINF:-1 tvg-id="BabyTV.uk" status="online",BabyTV 
+http://194.163.179.246/slovenci/djeciji/babytv.m3u8 
+
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
 
 
