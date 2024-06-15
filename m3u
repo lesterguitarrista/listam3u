@@ -1818,6 +1818,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineve
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" ,De Película (576p)
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+http://181.188.216.148:8001/play/a07o
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DePelicula+" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" ,De Película Plus (576p)
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
