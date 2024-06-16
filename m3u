@@ -414,24 +414,58 @@ http://interalmeria.tv/directo/live.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VARIOS LESTER PLUS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="lesterplus", GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1,(INTERNET) RETRO PLUS
+http://181.188.216.148:8001/play/a05x
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest?cb=20200422173832" group-title="lesterplus", GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1,(INTERNET) CARTOON NETWORK
+http://181.188.216.148:8001/play/a049
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="lesterplus", UNIVISION LATAM
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1,(INTERNET) CARACOL HD
+http://181.188.216.148:8001/play/a03o
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="lesterplus", LAS ESTRELLAS MX
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+#EXTINF:-1,(INTERNET) CARTOONITO
+http://181.188.216.148:8001/play/a046
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TN232022.webp/640px-TN232022.webp.png" group-title="lesterplus", TN23
-https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
+#EXTINF:-1,(INTERNET) CNN ESPAÑOL
+http://181.188.216.148:8001/play/a05j
+
+#EXTINF:-1,(INTERNET) CINE LATINO
+http://181.188.216.148:8001/play/a04w
+
+#EXTINF:-1,(INTERNET) CINECANAL
+http://181.188.216.148:8001/play/a04x
+
+#EXTINF:-1,(INTERNET) CLARO MUSICA
+http://181.188.216.148:8001/play/a07n
+
+#EXTINF:-1,(INTERNET) FX
+http://181.188.216.148:8001/play/a04n
+#EXTINF:-1,(INTERNET) GARAGE TV
+http://181.188.216.148:8001/play/a04b
+#EXTINF:-1,(INTERNET) GOLDEN
+http://181.188.216.148:8001/play/a04l
+#EXTINF:-1,(SATELITE) HBO
+http://181.188.216.148:8001/play/a04o
+#EXTINF:-1,(SATELITE) HBO 2
+http://181.188.216.148:8001/play/a04p
+#EXTINF:-1,(SATELITE) HBO POP HD
+http://181.188.216.148:8001/play/a07f
+#EXTINF:-1,(INTERNET) HBO FAMILY
+http://181.188.216.148:8001/play/a04r
+#EXTINF:-1,(INTERNET) HBO XTREME
+http://181.188.216.148:8001/play/a04s
+
+#EXTINF:-1,(INTERNET) NOW 90´S
+http://181.188.216.148:8001/play/a04d
+
+#EXTINF:-1,(INTERNET) SONY HD
+http://181.188.216.148:8001/play/a04u
+#EXTINF:-1,(INTERNET) SPACE
+http://181.188.216.148:8001/play/a04k
+#EXTINF:-1,(INTERNET) TL NOVELAS
+http://181.188.216.148:8001/play/a05g
+
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -1841,7 +1875,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 http://45.228.232.205:16000/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="TeleNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" ,Tlnovelas 
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+http://181.188.216.148:8001/play/a05g
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es" ,Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
