@@ -2014,7 +2014,7 @@ https://r.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
-http://45.228.232.205:16000/play/a082/index.m3u8
+http://181.188.216.148:8001/play/a05o
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
 http://38.252.238.204:6102/play/a03b/index.m3u8
