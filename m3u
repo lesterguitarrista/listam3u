@@ -53,11 +53,24 @@ https://dn720400.ca.archive.org/0/items/mentes-peligrosas-1995-hd/mentes%20pelig
 http://168.181.122.234:8000/play/a032/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="Canela Musica" tvg-logo="https://www.marilumeza.com/wp-content/uploads/2021/10/Canela-900.png" , Canela Musica
+http://streamstat.net/videoplayer.cgi?sid=726016854&ext=.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" , Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="" 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" 
 
 
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
@@ -73,8 +86,8 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
-https://conceptoweb-studio.com/radio/video/aztecaguate
 https://ch1-tva.duin.dev/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
 http://45.228.232.205:16000/play/a05s/index.m3u8
