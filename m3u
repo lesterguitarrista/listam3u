@@ -65,14 +65,28 @@ https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MASTV.gt" tvg-logo="https://i.imgur.com/3XuwlkQ_d.webp?maxwidth=760&fidelity=grand" 
 https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNI.gt" tvg-logo="https://i.imgur.com/9kRYdSp_d.webp?maxwidth=760&fidelity=grand" , CNI Digital GT
+https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" 
+#EXTINF:-1 tvg-id="" tvg-logo=""
 
+#EXTINF:-1 tvg-id="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-logo=""
 
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
