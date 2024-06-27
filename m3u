@@ -68,7 +68,9 @@ https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNI.gt" tvg-logo="https://i.imgur.com/9kRYdSp_d.webp?maxwidth=760&fidelity=grand" , CNI Digital GT
 https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" 
+
+#EXTINF:-1 tvg-id="CanalVisof.gt" tvg-logo="https://i.imgur.com/XiszuLl_d.webp?maxwidth=760&fidelity=grand" , Visof Gt
+https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" 
 
