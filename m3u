@@ -72,7 +72,9 @@ https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 #EXTINF:-1 tvg-id="CanalVisof.gt" tvg-logo="https://i.imgur.com/XiszuLl_d.webp?maxwidth=760&fidelity=grand" , Visof Gt
 https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" 
+#EXTINF:-1 tvg-id="Canal6Panadish.gt" tvg-logo="https://i.imgur.com/KJWNPiz_d.webp?maxwidth=760&fidelity=grand" , Panadish Gt
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" 
 
