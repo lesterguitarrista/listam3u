@@ -60,10 +60,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" , Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" 
+#EXTINF:-1 tvg-id="MaxivisionTV.gt" tvg-logo="https://i.imgur.com/UC8WrEN_d.webp?maxwidth=760&fidelity=grand" , Maxivision gt
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" 
-
+#EXTINF:-1 tvg-id="MASTV.gt" tvg-logo="https://i.imgur.com/3XuwlkQ_d.webp?maxwidth=760&fidelity=grand" 
+https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" 
@@ -171,7 +172,7 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia800505.us.archive.org/19/items/img-0198_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Aurora Films
-https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png" group-title=“GUATEMALA”, Canal 100 Quiche
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
