@@ -2008,6 +2008,9 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 est
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
