@@ -111,10 +111,10 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
 http://45.228.232.205:16000/play/a05s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/09/Nuevo-Mundo-GT.webp" group-title=“GUATEMALA”, Nuevo Mundo Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/09/Nuevo-Mundo-GT.webp" group-title=“GUATEMALA”, Nuevo Mundo Tv
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title=“GUATEMALA”, Teve Globo
+#EXTINF:-1 tvg-id="" tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png" group-title=“GUATEMALA”, Teve Globo
 https://tv.ideskhn.com:3812/live/teveglobolive.m3u8
 
 #EXTINF:-1 tvg-id="Rosa de Guadalupe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/La_rosa_de_Guadalupe.jpg" group-title=“Mexico”, La Rosa de Guadalupe
@@ -129,82 +129,82 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="Canela Kids" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-canela-kids-16x9.jpg" group-title=“Venezuela”, Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/10/Knal-4-Quiche-Guatemala.webp" group-title=“GUATEMALA”, kanal 4 Quiche
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/10/Knal-4-Quiche-Guatemala.webp" group-title=“GUATEMALA”, kanal 4 Quiche
 https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title=“Mexico”, Canal de las Estrellas
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title=“Mexico”, Canal de las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title=“ESPAÑA”, TVe
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png" group-title=“ESPAÑA”, TVe
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" group-title=“Mexico”, Accion Mexicana
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" group-title=“Mexico”, Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 #EXTINF:-1 tvg-id="Tvs Retro" tvg-name="Tvs Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" group-title=“GUATEMALA”, Tvs Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Latino", Cosmos
+#EXTINF:-1 tvg-id="" tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Latino", Cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtvlive.com/assets/img/ui/logo-header.webp" group-title=“Latino”, CXTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtvlive.com/assets/img/ui/logo-header.webp" group-title=“Latino”, CXTv
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/295917016b5d38eb70994d8a7b51e808.webp" group-title=“Latino”, canela clásicos 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/295917016b5d38eb70994d8a7b51e808.webp" group-title=“Latino”, canela clásicos 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-1 tvg-logo="https://static.dw.com/image/15705485_303.jpg" group-title=“Latino”, DW
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.dw.com/image/15705485_303.jpg" group-title=“Latino”, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_72ffb2f4a5e246dc90b7f6a63afd962a~mv2.jpg" group-title=“GUATEMALA”, Visión TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_72ffb2f4a5e246dc90b7f6a63afd962a~mv2.jpg" group-title=“GUATEMALA”, Visión TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title=“GUATEMALA”, Toto Visión 
+#EXTINF:-1 tvg-id="" tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title=“GUATEMALA”, Toto Visión 
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipN4Ds8zftd54MDlxBNVad2-4NSzTvejD-d3dOhb=w768-h768-n-o-v1" group-title=“GUATEMALA”, Barbe Tv
+#EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipN4Ds8zftd54MDlxBNVad2-4NSzTvejD-d3dOhb=w768-h768-n-o-v1" group-title=“GUATEMALA”, Barbe Tv
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_802c4b8c96ae4b49a12a47b393fe6f41~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Canal%20yepotv.png" group-title=“GUATEMALA”, Yepo Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_802c4b8c96ae4b49a12a47b393fe6f41~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Canal%20yepotv.png" group-title=“GUATEMALA”, Yepo Tv
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/10/Canal-9-Solola-Guatemala-Logo.webp" group-title=“GUATEMALA”, Canal 9 Solola
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/10/Canal-9-Solola-Guatemala-Logo.webp" group-title=“GUATEMALA”, Canal 9 Solola
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/guatv.webp" group-title=“GUATEMALA”, GuaTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/guatv.webp" group-title=“GUATEMALA”, GuaTv
 https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title=“GUATEMALA”, Tunevision
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title=“GUATEMALA”, Tunevision
 https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_3e1035966c6443d8a18aca291c038e4a~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Penielky.png" group-title=“GUATEMALA”, Canal Piel K&Y
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_3e1035966c6443d8a18aca291c038e4a~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Penielky.png" group-title=“GUATEMALA”, Canal Piel K&Y
 https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://ia600506.us.archive.org/11/items/img-0197_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Sas Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://ia600506.us.archive.org/11/items/img-0197_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Sas Tv
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvinsur.com/img/gt/canal-8-santa-rosa.webp" group-title=“GUATEMALA”, Canal 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvinsur.com/img/gt/canal-8-santa-rosa.webp" group-title=“GUATEMALA”, Canal 8
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg" group-title=“GUATEMALA”, Nim Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg" group-title=“GUATEMALA”, Nim Tv
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://ia800505.us.archive.org/19/items/img-0198_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Aurora Films
+#EXTINF:-1 tvg-id="" tvg-logo="https://ia800505.us.archive.org/19/items/img-0198_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Aurora Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png" group-title=“GUATEMALA”, Canal 100 Quiche
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png" group-title=“GUATEMALA”, Canal 100 Quiche
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png" group-title=“Mexico”, Conecta Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png" group-title=“Mexico”, Conecta Tv
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock
 https://inliveserver.com:1936/11530/11530/chunklist_w1452252569.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Videos
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Videos
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=1abd702b-09d6-4502-b93c-ad4c77ccb472&streamSessionId=8f8736bb-b6c6-4c82-9f40-7ce2cdb3b445&code=TELEATLANTIC&expires=1667520000000&playUrl=true&ctrl=cb0a09d375980612253a7c7a9e7f71c936ff2151b6b82275eb38cd859b79a8edcfe67272be059b5384f6091043e4eb9a636aa8926ce7dd5e523990dafa69c1d3
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Conciertos
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Conciertos
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w118293894.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX BELGICA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
