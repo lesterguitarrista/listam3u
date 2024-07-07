@@ -54,6 +54,9 @@ https://dn720400.ca.archive.org/0/items/mentes-peligrosas-1995-hd/mentes%20pelig
 #EXTINF:-1 tvg-id="BABYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" , Baby tv
 http://168.181.122.234:8000/play/a032/index.m3u8
 
+#EXTINF:-1,tvg-id="BABYFIRST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/BabyFirst_TV_%282006%29_%28Imagination_Lane%29.svg/revision/latest?cb=20201106011637" , Baby First
+http://170.82.37.21:8000/play/a00l/index.m3u8
+
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" , Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
