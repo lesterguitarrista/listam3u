@@ -18,7 +18,7 @@ http://181.78.105.146:2000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
 http://45.228.232.205:16000/play/a04n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", Classic Channel | CL
+#EXTINF:-1 tvg-id="classicchannel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", Classic Channel | CL
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
 #EXTINF:-1 tvg-id="comoantes.gt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOusZ2bwDeroQ6x7SZCGsHOLimY3pXpTyn9oGgK921GfBGo_MuiDBNnRuY7lkQs3T8i8&usqp=CAU" ,Como Antes Gt
@@ -53,10 +53,6 @@ https://dn720400.ca.archive.org/0/items/mentes-peligrosas-1995-hd/mentes%20pelig
 
 #EXTINF:-1 tvg-id="BABYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" , Baby tv
 http://168.181.122.234:8000/play/a032/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Canela Musica" tvg-logo="https://www.marilumeza.com/wp-content/uploads/2021/10/Canela-900.png" , Canela Musica
-http://streamstat.net/videoplayer.cgi?sid=726016854&ext=.m3u8
 
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" , Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -2164,10 +2160,6 @@ http://190.102.242.130:25461/66486141/1234/115
 http://190.102.242.130:25461/66486141/1234/117
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 7
 http://190.102.242.130:25461/66486141/1234/23
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
-http://190.102.242.130:25461/66486141/1234/21
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DXTV.png" group-title="Deportes", DeporTV | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2142756940.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="Especiales y Documentales", Animal Planet
