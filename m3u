@@ -117,8 +117,8 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" , Disney Channel Latin America
 http://168.181.122.234:8000/play/a038/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://imgur.com/CMImqQY",Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
