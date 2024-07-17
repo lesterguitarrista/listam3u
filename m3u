@@ -114,9 +114,27 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 #EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/djkPc9w_d.webp?maxwidth=760&fidelity=grand" , VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=""
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" , Disney Channel Latin America
+http://168.181.122.234:8000/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
 http://170.82.37.21:8000/play/a047/index.m3u8
