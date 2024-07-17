@@ -109,8 +109,8 @@ http://190.102.242.130:25461/66486141/1234/107
 http://190.102.242.130:25461/66486141/1234/59
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo=""
+#EXTINF:-1 tvg-id="VTM2.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VTM_2_Logo.png/512px-VTM_2_Logo.png" ,VTM 2
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=""
 
