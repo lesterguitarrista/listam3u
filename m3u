@@ -108,11 +108,11 @@ http://190.102.242.130:25461/66486141/1234/107
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png" group-title="Infantiles", Nick
 http://190.102.242.130:25461/66486141/1234/59
 
-
 #EXTINF:-1 tvg-id="VTM2.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VTM_2_Logo.png/512px-VTM_2_Logo.png" ,VTM 2
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=""
+#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://imgur.com/djkPc9w" , VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=""
 
