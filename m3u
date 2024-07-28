@@ -18,14 +18,23 @@ http://181.78.105.146:2000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
 http://45.228.232.205:16000/play/a04n/index.m3u8
 
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
+http://45.5.117.182:8000/play/ihf9/index.m3u8
+
 #EXTINF:-1 tvg-id="classicchannel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", Classic Channel | CL
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
 #EXTINF:-1 tvg-id="comoantes.gt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOusZ2bwDeroQ6x7SZCGsHOLimY3pXpTyn9oGgK921GfBGo_MuiDBNnRuY7lkQs3T8i8&usqp=CAU" ,Como Antes Gt
 http://170.254.18.106/VH1/index.m3u8
 
+#EXTINF:-1 tvg-id="RetroTv.mx" tvg-logo="https://image.winudf.com/v2/image1/cmV0cm8udHZvbmxpbmUyMDIzX3NjcmVlbl8wXzE3MDQ3MjU5NTZfMDc2/screen-0.jpg?fakeurl=1&type=.jpg", Retro Tv
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
+
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica  | US
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="TeleClasica.mx" tvg-logo="https://lh5.googleusercontent.com/proxy/juR7EDyjk68lxBA_YsOpi3hz37--r9UCLZyP75NYE3YSwhG-yXlDn7mRO7cm56OSjC2ezOhfR8USaxw_aHMe3rGEwZjj-M0qUcTBzJC1GEw", TeleClasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retroxtv" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3033-800x450-FFFFFF.jpg" , Retro x tv
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
@@ -90,25 +99,25 @@ https://desuchi.com/streams/live/tv.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt" tvg-logo="https://i.imgur.com/cGYcgBL.png" , TeleCosta Gt
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantiles", Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantiles", Cartoonito
 http://190.102.242.130:25461/66486141/1234/52
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Infantiles", Disney Channel
+#EXTINF:-1 tvg-id="disney.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Infantiles", Disney Channel
 http://190.102.242.130:25461/66486141/1234/53
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Kids_%28Logo%29.png" group-title="Infantiles", Dos Kids
+#EXTINF:-1 tvg-id="doskids.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Kids_%28Logo%29.png" group-title="Infantiles", Dos Kids
 http://190.102.242.130:25461/66486141/1234/54
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="Infantiles", Discovery Kids
+#EXTINF:-1 tvg-id="disneykids.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="Infantiles", Discovery Kids
 http://190.102.242.130:25461/66486141/1234/55
 
 #EXTINF:-1 tvg-id="platenadelossimios" tvg-logo="https://pics.filmaffinity.com/El_reino_del_planeta_de_los_simios-209448357-large.jpg", Planeta de los Simios 2024
 https://dl.dropboxusercontent.com/scl/fi/1e8p4l8ibt26w43kjq469/Ver-El-planeta-de-los-simios-Nuevo-reino-2024-online.mp4?rlkey=x7z2mge2tihlf5nfz9kockd6o&st=zondx1ne&dl=0
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efee1b34-200f-4c32-8ab9-b860c202f1d4/dd9vdzm-3ba0d1b2-5147-4a6a-9d00-1d9a6ad57a56.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZWUxYjM0LTIwMGYtNGMzMi04YWI5LWI4NjBjMjAyZjFkNFwvZGQ5dmR6bS0zYmEwZDFiMi01MTQ3LTRhNmEtOWQwMC0xZDlhNmFkNTdhNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TkUh34c-PUQC7tAnXius0F7bp53gXv4i1dQNRmbAfCw" group-title="Infantiles", DreamWorks Channel
+#EXTINF:-1 tvg-id="dreamswork.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efee1b34-200f-4c32-8ab9-b860c202f1d4/dd9vdzm-3ba0d1b2-5147-4a6a-9d00-1d9a6ad57a56.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZWUxYjM0LTIwMGYtNGMzMi04YWI5LWI4NjBjMjAyZjFkNFwvZGQ5dmR6bS0zYmEwZDFiMi01MTQ3LTRhNmEtOWQwMC0xZDlhNmFkNTdhNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TkUh34c-PUQC7tAnXius0F7bp53gXv4i1dQNRmbAfCw" group-title="Infantiles", DreamWorks Channel
 http://190.102.242.130:25461/66486141/1234/107
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png" group-title="Infantiles", Nick
+#EXTINF:-1 tvg-id="nickjr.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png" group-title="Infantiles", Nick
 http://190.102.242.130:25461/66486141/1234/59
 
 #EXTINF:-1 tvg-id="VTM2.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VTM_2_Logo.png/512px-VTM_2_Logo.png" ,VTM 2
@@ -117,13 +126,14 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 #EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/djkPc9w_d.webp?maxwidth=760&fidelity=grand" , VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" , Disney Channel Latin America
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" , Disney Latin America
 http://168.181.122.234:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://imgur.com/CMImqQY",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="acsnetwork.mx" tvg-logo="https://image.roku.com/developer_channels/prod/57b2db0ad044e7d2a277c554af7e60f5fea15600775f688b0513b5d9d29f1485.png",acsnetwork
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
@@ -146,14 +156,13 @@ http://170.82.37.21:8000/play/a047/index.m3u8
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="MEXICO" , Canal 5 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13 Esquipulas" tvg-name="Canal 13 Esquipulas" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Canal-13-Esquipulas-Chiquimula-TV-Guatemala-1.webp" group-title=“GUATEMALA”, Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
-
 
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
 http://45.228.232.205:16000/play/a05s/index.m3u8
