@@ -261,7 +261,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=1abd702b-09d6-4502-b93c-ad4c77ccb472&streamSessionId=8f8736bb-b6c6-4c82-9f40-7ce2cdb3b445&code=TELEATLANTIC&expires=1667520000000&playUrl=true&ctrl=cb0a09d375980612253a7c7a9e7f71c936ff2151b6b82275eb38cd859b79a8edcfe67272be059b5384f6091043e4eb9a636aa8926ce7dd5e523990dafa69c1d3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Conciertos
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w118293894.m3u8
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX BELGICA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -1933,7 +1933,7 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"13",TV MAX PA (PELICULAS, VARIADO, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno-"16",URANIO PE (PELICULAS, SERIES, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+#EXTINF:-1 tvg-chno-"16",URANIO PE 
 https://live.obslivestream.com/uraniotv/index.m3u8
 
 #EXTINF:-1 tvg-id="SoReal.us" tvg-name="SoReal" tvg-logo="https://image.roku.com/developer_channels/prod/dac0f37721f1ee652942a29b1c22cd8fec596cd45cd5747c533b27e916bcd25c.png",So...Real
