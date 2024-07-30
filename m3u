@@ -135,7 +135,8 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="acsnetwork.mx" tvg-logo="https://image.roku.com/developer_channels/prod/57b2db0ad044e7d2a277c554af7e60f5fea15600775f688b0513b5d9d29f1485.png",acsnetwork
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="Deadpool & Wolverine" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRiMjg0MzUtNTQ1Mi00Y2Q5LWEwM2MtMzUwZDU5NmVjN2NkXkEyXkFqcGc@._V1_.jpg", Deadpool & Wolverine 2024
+https://d0000d.com/e/iu54gcjkerin
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
