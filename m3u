@@ -2125,8 +2125,8 @@ http://190.102.242.130:25461/66486141/1234/34
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Espanol
 http://168.181.122.234:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png",Fox Movies
-http://79.101.53.3:8009/play/a05r
+#EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",AMC MX
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA 
