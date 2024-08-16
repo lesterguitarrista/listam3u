@@ -138,7 +138,8 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="Deadpool & Wolverine" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRiMjg0MzUtNTQ1Mi00Y2Q5LWEwM2MtMzUwZDU5NmVjN2NkXkEyXkFqcGc@._V1_.jpg", Deadpool & Wolverine 2024
 https://ia601502.us.archive.org/8/items/1-4981486160061662301/1_4981486160061662301.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="BEN10.mx" tvg-logo="https://logowik.com/content/uploads/images/ben-10.jpg", Ben 10
+http://51.159.104.29:8080/ben10/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
@@ -2163,10 +2164,10 @@ https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 https://r.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" tvg-chno="552" group-title="Curiosidad" , Archivos Extraterrestres
-https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
+https://is.gd/yUZWFB
 
 #EXTINF:-1 channel-id="pluto-633dc8684bf50b00074a46b1" tvg-id="633dc8684bf50b00074a46b1" tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" tvg-chno="1004" group-title="Comedia" , Backdoor
-https://r.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
+https://is.gd/aLLcFt
 
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
