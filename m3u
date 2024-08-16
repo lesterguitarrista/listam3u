@@ -144,7 +144,8 @@ http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-id="pelicula" tvg-logo="https://image.tmdb.org/t/p/original/sjdqRkMdWJl7ReNhENN908EBR28.jpg", Camino hacia el terror 1
 https://ia903105.us.archive.org/6/items/CaminoHaciaElTerrorEspaol/Camino%20hacia%20el%20terror%20%28Espa%C3%B1ol%29.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="pelicula" tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b57c983e-1e69-46fc-8dfd-fd966a6f4d43/a8494a657fdd76a2d49ec11225b9e65313f36aa0.png?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320", El Despertar del Diablo
+https://dn720707.ca.archive.org/0/items/ElDespertarDelDiablo2006/El%20despertar%20del%20diablo%20%282006%29%20-%20pelicula%20Terror%20Online.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
