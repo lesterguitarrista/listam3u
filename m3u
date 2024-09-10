@@ -184,7 +184,8 @@ https://ia600409.us.archive.org/18/items/mario_1993_latino/Super%20Mario%20Bros.
 #EXTINF:-1 tvg-id="gemelas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d850c5bde6bd618dcdc290f38f2ed55f83851534f0c26a716f359a6124065d04.jpg", Juego de Gemelas
 https://ia800400.us.archive.org/29/items/lluvia-de-hamburguesas-2_202306/JUEGO%20DE%20GEMELAS.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="laberinto" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MDE4OTQwOV5BMl5BanBnXkFtZTgwNjgxMTg2NzE@._V1_QL75_UX190_CR0,6,190,281_.jpg",Laberinto 1986
+https://ia902202.us.archive.org/3/items/laberinto-1986/Laberinto%20%281986%29.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
@@ -1234,13 +1235,13 @@ https://ia802704.us.archive.org/1/items/soldado-universal-3-regeneracion/Soldado
 https://ia800507.us.archive.org/6/items/soldado-universal-4-el-juicio-final/Soldado%20Universal%204%20el%20juicio%20final.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238073.png" tvg-group="netflix", Army of the Dead Netflix 2021
-https://archive.org/download/01_20210521_20210521_1554/01.mp4
+https://dn720300.ca.archive.org/0/items/img-3986/IMG_3986.MP4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_9615026.png" tvg-group="netflix", Civil War Capitan America
 https://archive.org/download/03_20210719_20210719_1607/03.mp4
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/19/21/43/5560438.jpg" tvg-group="netflix", El es asi Netflix 2021
-https://archive.org/download/01_20210904_20210904_1946/01.mp4
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/38/Simpsonsmovie.jpg/revision/latest?cb=20100331010753&path-prefix=es" tvg-group="netflix", Los Simpson La Pelicula
 https://ia601607.us.archive.org/24/items/los-simpson-la-pelicula_202301/Los%20Simpson%20La%20pel%C3%ADcula.mp4
@@ -1335,8 +1336,8 @@ https://ia904702.us.archive.org/11/items/constantine_202301/Constantine.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/SFAMovie.jpg/220px-SFAMovie.jpg" tvg-group="netflix", Street Fighter Alpha
 https://ia802702.us.archive.org/32/items/street-fighter-ii-the-animated-movie-1994-2160p-multiple-audio/Street%20Fighter%20Alpha%20Generations%20%282005%29%20720p%20-Tri%20Audio-.mp4
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/Street_Fighter_II_The_Animated_Movie_DVD.jpg/revision/latest?cb=20200805054301&path-prefix=es" tvg-group="netflix", Street Fighter II
-https://ia601604.us.archive.org/10/items/street-fighter-ii-the-animated-movie-App/Street%20Fighter%20Ii%20The%20Animated%20Movie.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/Street_Fighter_II_The_Animated_Movie_DVD.jpg/revision/latest?cb=20200805054301&path-prefix=es" tvg-group="PeliculasLester", Street Fighter II
+https://ia800301.us.archive.org/15/items/street-fighter-2_202404/1_5096039436131500955.mp4
 
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/1990_mr_destiny.jpg" tvg-group="netflix", Mr. Destiny
 https://ia804709.us.archive.org/6/items/Popcornarchive-mr.Destiny1990EspaolLatino/Popcornarchive-mr.Destiny1990EspaolLatino.mp4
@@ -1390,10 +1391,10 @@ https://ia802701.us.archive.org/18/items/r.-i.-p.-d.-departamento-de-policia-mor
 https://ia902700.us.archive.org/34/items/matrix-1_202308/Matrix%201.mp4
 
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_951605-MLA29673165826_032019-O.webp" tvg-group="netflix", Escuadron Suicida
-https://ia804708.us.archive.org/10/items/escuadron-suicida-2016_202301/Escuadr%C3%B3n%20suicida%20%282016%29.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_Escuadraon_Suicida-629689677-large.jpg" tvg-group="netflix", Escuadron Suicida 2
-https://ia802709.us.archive.org/3/items/escuadron-suicida-2_202308/Escuadr%C3%B3n%20suicida%202.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_Escuadraon_Suicida-629689677-large.jpg" tvg-group="PeliculasLester", Escuadron Suicida 2
+https://dn720300.ca.archive.org/0/items/img-3986/IMG_3986.MP4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" tvg-group="netflix", Armageddon
 https://ia801805.us.archive.org/21/items/desaparecido-en-combate-1984_202101/Armageddon%20%281998%29.mp4
