@@ -1003,8 +1003,8 @@ http://45.5.117.182:8000/play/a0eq/index.m3u8
 #EXTINF:-1 ,Paramount
 http://45.5.117.182:8000/play/a0e3/index.m3u8
 
-#EXTINF:-1 ,Cartoon Network
-http://45.5.117.182:8000/play/a0en/index.m3u8
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.MUSICALES Y MAS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -1027,6 +1027,7 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1626750675_b750
 #EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LATINO",Retro Plus TV 3 HD
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMC9Fmi.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
@@ -1157,9 +1158,6 @@ https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
-#EXTINF:-1 ,EDGESport (1080p)
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1019" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN 
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
@@ -1184,76 +1182,26 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleMix" tvg-logo="https://cdn.m3u.cl/logo/1026_Tele_Mix.png", TeleMix
 https://panel.dattalive.com/8068/8068/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="xtrema cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp", xtrema cartoons
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp", xtrema Acción
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Animal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2af4dd316afda72cb7c982a399289623.webp", xtrema Animal
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Asia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/332189b8722e494b651f16c7591490c7.webp", xtrema Asia
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Comedy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/241d1d48bf46902c3aa0b334a0791a8d.webp", xtrema Comedy
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4c9ffb33bd89b04d6c1fd9326ddcadd7.webp", xtrema Drama
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Europa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e29e609e680318eba7bddbaa71febf7d.webp", xtrema Europa
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Family" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/553ae67ca541fdc09dd6f918351f04be.webp", xtrema Family
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Latino" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/648b8e02363dd3c97a5d0e8afd3ef60d.webp", xtrema Latino
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Suspenso" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png", xtrema Suspenso
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema Terror" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png", xtrema Terror
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema retro cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp", xtrema retro cartoons
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema retro series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/67fef669159d2e980c3bbc5d4edde22f.webp", xtrema retro series
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema series" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png", xtrema series
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sony" tvg-logo="https://cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="xtrema " tvg-logo="", xtrema
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="xtrema " tvg-logo="", xtrema
-
-
-
 XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPELICULASXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/10_razones_para_odiarte-228397540-large.jpg" tvg-group="netflix", 10 Cosas que Odio de Ti 
-https://archive.org/download/10_20210221/01.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/10_razones_para_odiarte-228397540-large.jpg" tvg-group="PeliculasLester", 10 Cosas que Odio de Ti 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sangre_por_sangre-966864140-large.jpg" tvg-group="netflix", sangre por sangre
-https://ia801607.us.archive.org/23/items/sangre-por-sangre_202302/sangre%20por%20sangre.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/60_segundos-385080720-large.jpg" tvg-group="netflix", 60 Segundos
-https://ia904508.us.archive.org/30/items/60-segundos_202308/60%20Segundos.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sangre_por_sangre-966864140-large.jpg" tvg-group="PeliculasLester", sangre por sangre
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6198vp6P7nL._AC_SY580_.jpg" tvg-group="netflix", The Goonies
-https://ia902604.us.archive.org/18/items/los-goonies-1985_202307/Los%20Goonies%20%281985%29.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VhOTMxYzQtMDRlNC00N2I2LTliNDUtNDJmZTg5MGU3Yjg5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg" tvg-group="netflix", Nico
-https://ia802704.us.archive.org/23/items/perseguidos-1996_202308/Nico%20%281988%29.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/60_segundos-385080720-large.jpg" tvg-group="PeliculasLester", 60 Segundos
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/6198vp6P7nL._AC_SY580_.jpg" tvg-group="PeliculasLester", The Goonies
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VhOTMxYzQtMDRlNC00N2I2LTliNDUtNDJmZTg5MGU3Yjg5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg" tvg-group="PeliculasLester", Nico
+
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5217989.png" tvg-group="netflix", El Codigo Da Vinci
 https://archive.org/download/01_20210519_20210519_1628/01.mp4
@@ -1302,9 +1250,6 @@ https://archive.org/download/01_20211031_20211031_2044/01.mp4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7216282.png" tvg-group="netflix", La noche de Halloween
 https://archive.org/download/01_20211031_20211031_1945/01.mp4
-
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7216283.png" tvg-group="netflix", It
-https://archive.org/download/01_20211031_20211031_1955/01.mp4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7977357.png" tvg-group="netflix", Mi pobre angelito
 https://ia904604.us.archive.org/10/items/01_20211222_20211222_0952/01.mp4
@@ -1359,12 +1304,6 @@ https://ia902709.us.archive.org/20/items/justa-venganza-2004_202307/The%20Quest_
 
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f84bce47209ad93b3ecd4047a576fc99601d37269a5559610d79c470a6551f36._RI_TTW_.jpg" tvg-group="netflix", J. Van Damme Deporte Sangriento
 https://ia902701.us.archive.org/35/items/el-gran-dragon-blanco-1988/El%20gran%20dragon%20blanco%20%281988%29.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/049e1cbeaff807d8f9d9e65c8e14ca032b2a8ff4aa794e12f58c7c45192d1ee8._RI_TTW_.jpg" tvg-group="netflix", La Sombra Del Amor
-https://ia801408.us.archive.org/11/items/la-sombra-del-amor_202212/La%20Sombra%20del%20Amor.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI1MDg5NzAyMV5BMl5BanBnXkFtZTgwNzU5Mzk4NjE@._V1_.jpg" tvg-group="netflix", The Witches 1990
-https://ia601408.us.archive.org/11/items/la-sombra-del-amor_202212/Ver%20La%20Maldici%C3%B3n%20de%20las%20Brujas%20%281990%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/Problem_Child_1990.jpg/revision/latest?cb=20220725000007&path-prefix=es" tvg-group="netflix", Mi Pobre Diablillo
 https://ia802702.us.archive.org/30/items/mi-pobre-diablillo-1/Mi%20pobre%20diablillo%201.mp4
@@ -1421,16 +1360,16 @@ https://ia801609.us.archive.org/24/items/angr-bir-la-pel-cula-dvdrip-1307856/Ang
 https://ia801608.us.archive.org/15/items/ang-bir-2-la-pel-cula-dvdrip-1329228/AngBir_2__La_pel_cula_DVDRip__1329228.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/d/d5/Y_donde_esta_el_policia_-1-1a.jpg/revision/latest?cb=20131021124225&path-prefix=es" tvg-group="netflix", Y Donde Esta el Policia
-https://ia600505.us.archive.org/3/items/y-donde-esta-el-policia-1/Y%20d%C3%B3nde%20est%C3%A1%20el%20polic%C3%ADa%201.mp4
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CJ8lSD3eZERhNXOfaGoA5FpT41wtTuh-ptA6-TzwpGj1NkNInQhVfU-6SXhXax4kD4ls0g" tvg-group="netflix", Y Donde Esta el Policia 2
-https://ia601808.us.archive.org/34/items/y-donde-esta-el-policia-2/Y%20d%C3%B3nde%20est%C3%A1%20el%20polic%C3%ADa%202.mp4
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vmjxBhL_BmhnLNfSTtHPWyoOp9GlI7baQR4ILC3vpV4HUUO6nFvP0n4rzIHh9et6ALwc" tvg-group="netflix", Y Donde Esta el Policia 3
-https://ia801803.us.archive.org/28/items/y-donde-esta-el-policia-3/Y%20d%C3%B3nde%20est%C3%A1%20el%20polic%C3%ADa%203.mp4
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/31/YDODNDE.jpg/revision/latest?cb=20130321081543&path-prefix=es" tvg-group="netflix", Y Donde Esta el Fantasma 
-https://ia802703.us.archive.org/34/items/y-donde-esta-el-fantasma-1/Y%20donde%20esta%20el%20fantasma%201.mp4
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/4f/IN-ACTIVIDAD_PARANORMAL.jpg/revision/latest/thumbnail/width/360/height/450?cb=20140712065214&path-prefix=es" tvg-group="netflix", Y Donde Esta el Fantasma 2
 https://ia902701.us.archive.org/13/items/y-donde-esta-el-fantasma-2_202308/Y%20donde%20esta%20el%20fantasma%202.mp4
@@ -1478,19 +1417,15 @@ https://ia804705.us.archive.org/34/items/batman-regresa/Tales.From.The.Crypt.S01
 https://ia601609.us.archive.org/7/items/video_2023-03-22_09-10-49/video_2023-03-22_09-10-49.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/6a/Hombres_de_negro.jpg/revision/latest?cb=20200515175037&path-prefix=es" tvg-group="netflix", Hombres de Negro
-https://ia802702.us.archive.org/2/items/hombres-de-negro-1_202308/Hombres%20de%20negro%201.mp4
+
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/05/12/08/380378.jpg" tvg-group="netflix", Hombres de Negro 2
-https://ia802702.us.archive.org/2/items/hombres-de-negro-2_202308/Hombres%20de%20negro%202.ia.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rcVJtZCGnp39obbDKYred2mT9sE.jpg" tvg-group="netflix", Hombres de Negro 3
-https://ia802700.us.archive.org/35/items/hombres-de-negro-3_202308/Hombres%20de%20negro%203.mp4
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/25/14/18/1589482.jpg" tvg-group="netflix", Hombres de Negro 4
-https://ia802704.us.archive.org/25/items/hombres-de-negro-4-internacional_202308/Hombres%20de%20negro%204%2C%20Internacional.ia.mp4
-
-#EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
-
+#EXTINF:-1 tvg-logo="https://www.dreamworks.com/storage/cms-uploads/kung-fu-panda-4-he-poster.jpg" tvg-group="peliculasLester", kung Fu Panda 4
+https://ia800309.us.archive.org/29/items/con-fu-panda-4/con%20fu%20panda%204%20.mp4
 
 #EXTINF:-1 tvg-logo="null" tvg-group="netflix", Jackass 4.5 2022
 
