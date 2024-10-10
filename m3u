@@ -1971,7 +1971,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPREMIER" tvg-name="GOLDENPREMIER" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE Y SERIES" , GOLDEN PREMIER
-http://170.82.37.21:8000/play/a02e/index.m3u8
+http://45.163.205.110:8000/play/a0fg/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENDORADO+" tvg-name="GOLDENDORADO+" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE Y SERIES" , GOLDEN dorado plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -2075,6 +2075,7 @@ http://190.102.242.130:25461/66486141/1234/46
 
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Cine y Series", Mx Old
 http://190.102.242.130:25461/66486141/1234/47
+
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Cine y Series", Mx Series
 http://190.102.242.130:25461/66486141/1234/48
 
@@ -2090,11 +2091,11 @@ http://170.82.37.21:8000/play/a03j/index.m3u8
 http://170.82.37.21:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
-http://170.82.37.21:8000/play/a00u/index.m3u8
+http://45.163.205.110:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
 http://181.209.159.245:8000/play/a036/index.m3u8
-http://191.52.214.5:8000/play/a01u/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBOPOP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO POP
 http://181.188.216.148:8001/play/a07f
@@ -2109,17 +2110,16 @@ http://170.82.37.21:8000/play/a02g/index.m3u8
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
-http://190.102.242.130:25461/66486141/1234/37
-http://191.52.214.5:8000/play/a06q/index.m3u8
+http://45.163.205.110:8000/play/a0fq/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
-http://170.82.37.21:8000/play/a02o/index.m3u8
+http://45.163.205.110:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://191.52.214.5:8000/play/a06o/index.m3u8
+http://45.163.205.110:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://170.82.37.21:8000/play/a02i/index.m3u8
+http://45.163.205.110:8000/play/a0fn/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 est
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
@@ -2128,7 +2128,7 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 http://170.254.18.106/HBO_SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
-http://191.52.214.5:8000/play/a03x/index.m3u8
+http://45.163.205.110:8000/play/a0fr/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
 http://190.102.242.130:25461/66486141/1234/33
@@ -2143,7 +2143,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 http://190.102.242.130:25461/66486141/1234/41
 
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
-http://190.102.242.130:25461/66486141/1234/41
+http://45.163.205.110:8000/play/a0gu/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX 
 http://190.102.242.130:25461/66486141/1234/34
