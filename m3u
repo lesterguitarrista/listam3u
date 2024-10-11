@@ -21,6 +21,23 @@ http://45.228.232.205:16000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
+AURORA MEDIA FILMS
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+SAS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Nacionales", SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+SOL TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_c0451c6af6e14ed094f814f0ded70fe1~mv2.png/v1/fill/w_475,h_475,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_soltv.png" group-title="Nacionales", SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+
 #EXTINF:-1 tvg-id="classicchannel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", Classic Channel | CL
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
@@ -231,7 +248,7 @@ https://ia601400.us.archive.org/18/items/la-bamba_202210/la%20bamba.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
-http://170.82.37.21:8000/play/a047/index.m3u8
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-name="APlusGuate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="GUATEMALA", A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
