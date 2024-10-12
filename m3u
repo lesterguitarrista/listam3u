@@ -1974,6 +1974,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineve
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" ,De Película (576p)
 http://181.78.23.26:45000/play/a041
+http://179.189.222.226:8000/play/ch57
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DePelicula+" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" ,De Película Plus (576p)
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
@@ -1982,7 +1983,7 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 http://45.5.117.182:8000/play/a0id/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="GOLDENEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png",Golden Edge Panregional 
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://179.189.222.226:8000/play/ch47
 
 #EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="GOLDENMULTIPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",Golden Multiplex 
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
@@ -2194,7 +2195,7 @@ https://cdn.lawandcrime.net/rewind/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE HD
-http://170.82.37.21:8000/play/a026/index.m3u8
+http://179.189.222.226:8000/play/ch14
 
 #EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="Retro" , MacGyver
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
