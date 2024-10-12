@@ -21,6 +21,22 @@ http://45.228.232.205:16000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
+#EXTINF:-1 tvg-id="Cinepremium" tvg-logo"https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png", Cine Premium
+http://179.189.222.226:8000/play/ch49
+
+#EXTINF:-1 tvg-id="CineHispano" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhyXoIc-jh_6zq9ZfUIQoZwfrmXlbbsESAyUyzHQXugAxbXtEVKUWshh0&s", Cine Hispano
+http://179.189.222.226:8000/play/ch51
+
+
+#EXTINF:-1 tvg-id="Cine Familiar" tvg-logo"https://bittchannel.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png", Cine Familiar
+http://179.189.222.226:8000/play/ch52
+
+
+#EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png", Caracol
+http://179.189.222.226:8000/play/ch58a
+
+
+
 AURORA MEDIA FILMS
 #EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
