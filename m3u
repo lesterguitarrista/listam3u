@@ -175,6 +175,13 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="acsnetwork.mx" tvg-logo="https://image.roku.com/developer_channels/prod/57b2db0ad044e7d2a277c554af7e60f5fea15600775f688b0513b5d9d29f1485.png",acsnetwork
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",Disney XD 
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/4/49/MGM%2B_logo.svg",MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Deadpool & Wolverine" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRiMjg0MzUtNTQ1Mi00Y2Q5LWEwM2MtMzUwZDU5NmVjN2NkXkEyXkFqcGc@._V1_.jpg", Deadpool & Wolverine 2024
 https://ia601502.us.archive.org/8/items/1-4981486160061662301/1_4981486160061662301.mp4
 https://ia803105.us.archive.org/25/items/128dead-seg-1-v-1-a-1/128dead-seg-1-v1-a1.ia.mp4
@@ -2032,6 +2039,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="AyE.mx" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="FAMILIA" , A&E
 http://45.5.117.182:8000/play/a0fm/index.m3u8
 
+
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" , AMC HD
 http://45.5.117.182:8000/play/a0fn/index.m3u8
 
@@ -2200,10 +2208,10 @@ http://190.102.242.130:25461/66486141/1234/70
 http://45.167.3.81:45000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Jr
-http://170.82.37.21:8000/play/a040/index.m3u8
+http://179.189.222.226:8000/play/ch05
 
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
-http://170.82.37.21:8000/play/a00t/index.m3u8
+http://179.189.222.226:8000/play/ch03
 
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" ,Law & Crime (720p)
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
