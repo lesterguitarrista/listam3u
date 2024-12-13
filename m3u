@@ -7,7 +7,7 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/live2/alba-gt-chapintv-c7_720p/chunks.m3u8
+http://45.5.117.23:8000/play/a0mk/index.m3u8
 
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",Guatevision
 http://181.114.57.246:4000/play/5Zd33BSgrRbERkXk/index.m3u8
