@@ -2066,7 +2066,7 @@ http://45.5.117.182:8000/play/a0fm/index.m3u8
 http://45.5.117.182:8000/play/a0fn/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
-http://190.102.242.130:25461/66486141/1234/49
+http://45.5.117.23:8000/play/a0m6/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
 http://190.102.242.130:25461/66486141/1234/51
@@ -2096,11 +2096,11 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
 http://191.52.214.5:8000/play/a01w/index.m3u8
 http://190.107.20.93:1689/play/a08t
-
+http://45.5.117.23:8000/play/a0oe/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
-http://190.102.242.130:25461/66486141/1234/102
-http://170.82.37.21:8000/play/a03c/index.m3u8
+http://45.5.117.23:8000/play/a0ly/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
 http://190.60.42.86:8000/play/a01y/index.m3u8
