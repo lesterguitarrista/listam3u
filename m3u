@@ -10,8 +10,6 @@ https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",Guatevision
-http://181.114.57.246:4000/play/5Zd33BSgrRbERkXk/index.m3u8
-http://45.5.117.23:8000/play/a0lf/index.m3u8
 http://181.78.105.146:6060/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal13GT2022.png",Canal 13
@@ -2104,7 +2102,7 @@ http://45.5.117.23:8000/play/a0ly/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://190.60.42.86:8000/play/a01y/index.m3u8
+http://170.254.18.106/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
 http://170.82.37.21:8000/play/a038/index.m3u8
@@ -2113,13 +2111,14 @@ http://170.82.37.21:8000/play/a038/index.m3u8
 http://190.102.242.130:25461/66486141/1234/32
 
 #EXTINF:-1 tvg-id="BET.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png",  BET (USA)
-https://live.tv247us.com/hls/bet.m3u8
+http://170.254.18.106/BET/index.m3u8
 
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/640px-Cinelatino_logo.png",MultiPremier
 http://45.5.117.182:8000/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png",  BET
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
+
 
 #EXTINF:-1 tvg-id="BET.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png",  BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
@@ -2178,13 +2177,13 @@ http://170.82.37.21:8000/play/a02g/index.m3u8
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
-http://181.78.105.146:6060/play/a00k/index.m3u8
+http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
-http://45.163.205.110:8000/play/a0fp/index.m3u8
+http://170.254.18.106/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://45.163.205.110:8000/play/a0fo/index.m3u8
+http://170.254.18.106/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
 http://45.163.205.110:8000/play/a0fn/index.m3u8
@@ -2196,10 +2195,10 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 http://170.254.18.106/HBO_SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
-http://45.163.205.110:8000/play/a0fr/index.m3u8
+http://170.254.18.106/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
-http://190.102.242.130:25461/66486141/1234/33
+http://170.254.18.106/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
 http://179.189.222.226:8000/play/ch10
