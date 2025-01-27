@@ -2068,7 +2068,7 @@ http://45.5.117.182:8000/play/a0fn/index.m3u8
 http://45.5.117.23:8000/play/a0m6/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
-http://190.102.242.130:25461/66486141/1234/51
+http://181.78.105.146:6060/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Paramount_Network_wordmark_%28Black%29.svg" group-title="Cine y Series", Paramount
 http://190.102.242.130:25461/66486141/1234/39
@@ -2105,7 +2105,7 @@ http://45.5.117.23:8000/play/a0ly/index.m3u8
 http://170.254.18.106/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
-http://170.82.37.21:8000/play/a038/index.m3u8
+http://181.78.105.146:6060/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
 http://190.102.242.130:25461/66486141/1234/32
@@ -2152,7 +2152,7 @@ http://45.5.117.182:8000/play/a0jz/index.m3u
 
 
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER
-http://170.82.37.21:8000/play/a03j/index.m3u8
+http://181.78.105.146:6060/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER2
 http://170.82.37.21:8000/play/a03k/index.m3u8
@@ -2162,7 +2162,6 @@ http://45.163.205.110:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
 http://181.209.159.245:8000/play/a036/index.m3u8
-
 
 #EXTINF:-1 tvg-id="HBOPOP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO POP
 http://190.107.20.93:1689/play/a0bq
