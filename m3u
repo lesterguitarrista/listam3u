@@ -2045,7 +2045,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 http://45.228.232.205:16000/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="TeleNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" ,Tlnovelas 
-http://170.82.37.21:8000/play/a024/index.m3u8
+http://190.107.20.43:6004/play/a0aw
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es" ,Unicable 
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
@@ -2054,7 +2054,7 @@ https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 http://170.82.37.21:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="FAMILIA",Telemundo
-http://38.252.238.204:6102/play/a01b/index.m3u8
+http://190.107.20.43:6004/play/a0ap
 
 #EXTINF:-1 tvg-id="ZAZ.mx" tvg-name="ZAZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Zaz1992.gif/revision/latest?cb=20120110070037" group-title="KIDS" ,ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
@@ -2082,10 +2082,10 @@ http://179.189.222.226:8000/play/ch25
 http://190.107.20.43:6004/play/a09w
 
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
-http://190.102.242.130:25461/66486141/1234/71
+http://190.107.20.43:6004/play/a09v
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png",History 2
-http://190.102.242.130:25461/66486141/1234/72
+http://190.107.20.43:6004/play/a0al
 
 #EXTINF:-1 tvg-id="PlutoTVVH1Classics.us",Pluto TV VH1 Classics (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
@@ -2101,6 +2101,7 @@ http://190.107.20.43:6004/play/a06a
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
 http://190.107.20.43:6004/play/a07o
+http://190.107.20.43:6004/play/a07h
 
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
@@ -2167,6 +2168,7 @@ http://170.82.37.21:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOMUNDI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
+http://190.107.20.43:6004/play/a0bw
 
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
@@ -2176,6 +2178,7 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
+http://190.107.20.43:6004/play/a0cd
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
 http://45.163.205.110:8000/play/a0fn/index.m3u8
@@ -2185,6 +2188,7 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
+http://190.107.20.43:6004/play/a0bv
 
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
 http://170.254.18.106/HBO_XTREME/index.m3u8
@@ -2217,7 +2221,7 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 http://190.107.20.43:6004/play/a0b6
 
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
-http://190.102.242.130:25461/66486141/1234/70
+http://190.107.20.43:6004/play/a0au
 
 #EXTINF:-1 tvg-id="Multipremier", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png", Multipremier
 http://45.167.3.81:45000/play/a05e/index.m3u8
@@ -2263,14 +2267,14 @@ http://179.189.222.226:8000/play/ch23
 http://190.107.20.43:6004/play/a09x
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
-http://45.163.205.110:8000/play/a0i4/index.m3u8
+http://190.107.20.43:6004/play/a09t
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png"" group-title="Especiales y Documentales", Discovery Science
-http://190.102.242.130:25461/66486141/1234/82
+http://190.107.20.43:6004/play/a0an
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Especiales y Documentales", Discovery Turbo
-http://179.189.222.226:8000/play/ch24
+http://190.107.20.43:6004/play/a0ae
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Especiales y Documentales", Discovery World
-http://190.102.242.130:25461/66486141/1234/85
+http://190.107.20.43:6004/play/a07q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
 http://179.189.222.226:8000/play/ch26
 http://190.107.20.43:6004/play/a0am
