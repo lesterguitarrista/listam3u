@@ -2383,7 +2383,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VARIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 http://190.107.20.43:6004/play/a063
 
 #EXTINF:-1 tvg-id="paramount.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Paramount_Pictures_%282022%29.png" Paramount
-http://190.107.20.43:6004/play/a062
+http://181.78.106.127:9000/play/ca082/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalClaro.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest?cb=20180803142353", Canal Claro
 http://190.107.20.43:6004/play/a081
