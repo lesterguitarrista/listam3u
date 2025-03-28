@@ -237,10 +237,10 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 http://190.102.242.130:25461/66486141/1234/52
 
 #EXTINF:-1 tvg-id="disney.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Infantiles", Disney Channel
-http://190.60.42.86:8000/play/a00b/index.m3u8
+http://181.78.106.127:9000/play/ca053/index.m3u8
 
 #EXTINF:-1 tvg-id="doskids.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Kids_%28Logo%29.png" group-title="Infantiles", Dos Kids
-http://190.60.42.86:8000/play/a00a/index.m3u8
+http://181.78.106.127:9000/play/ca052/index.m3u8
 
 #EXTINF:-1 tvg-id="disneykids.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="Infantiles", Discovery Kids
 http://190.102.242.130:25461/66486141/1234/55
@@ -249,7 +249,7 @@ http://190.102.242.130:25461/66486141/1234/55
 https://dl.dropboxusercontent.com/scl/fi/1e8p4l8ibt26w43kjq469/Ver-El-planeta-de-los-simios-Nuevo-reino-2024-online.mp4?rlkey=x7z2mge2tihlf5nfz9kockd6o&st=zondx1ne&dl=0
 
 #EXTINF:-1 tvg-id="dreamswork.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efee1b34-200f-4c32-8ab9-b860c202f1d4/dd9vdzm-3ba0d1b2-5147-4a6a-9d00-1d9a6ad57a56.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZWUxYjM0LTIwMGYtNGMzMi04YWI5LWI4NjBjMjAyZjFkNFwvZGQ5dmR6bS0zYmEwZDFiMi01MTQ3LTRhNmEtOWQwMC0xZDlhNmFkNTdhNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TkUh34c-PUQC7tAnXius0F7bp53gXv4i1dQNRmbAfCw" group-title="Infantiles", DreamWorks Channel
-http://190.60.42.86:8000/play/a011/index.m3u8
+http://181.78.106.127:9000/play/ca054/index.m3u8
 
 #EXTINF:-1 tvg-id="nickjr.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png" group-title="Infantiles", Nick
 http://190.102.242.130:25461/66486141/1234/59
@@ -2091,7 +2091,7 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" ,De Película (576p)
-http://181.78.23.26:45000/play/a041
+http://181.78.106.127:9000/play/ca073/index.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DePelicula+" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" ,De Película Plus (576p)
 http://190.60.42.86:8000/play/a013/index.m3u8
@@ -2238,7 +2238,6 @@ http://191.52.214.5:8000/play/a02z/index.m3u8
 http://170.82.37.21:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOMUNDI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
-http://170.254.18.106/HBO_MUNDI/index.m3u8
 http://190.107.20.43:6004/play/a0bw
 
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
@@ -2246,27 +2245,25 @@ http://170.39.192.130:2095/56942505562play/060123play/315092
 http://38.180.133.31:8000/play/a0le/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
-http://170.254.18.106/HBO_PLUS/index.m3u8
-http://190.2.212.209:8050/play/a0mv
+http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://170.254.18.106/HBO2/index.m3u8
 http://190.107.20.43:6004/play/a0cd
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://45.163.205.110:8000/play/a0fn/index.m3u8
 http://170.39.192.130:2095/56942505562play/060123play/315088
+http://190.61.42.218:9000/play/a00v
 
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 est
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
+http://170.39.192.130:2095/56942505562play/060123play/315088
 
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 http://190.107.20.43:6004/play/a0bv
 
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
-http://170.254.18.106/HBO_XTREME/index.m3u8
 http://190.61.42.218:9000/play/a00x
+http://181.78.106.127:9000/play/ca069/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
 http://181.78.106.127:9000/play/ca079/index.m3u8
