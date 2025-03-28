@@ -90,21 +90,22 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315831
 #EXTINF:-1 tvg-id="" tvg-name="PISTOLEROS 24/7" tvg-logo="https://i.ibb.co/4SkNt3v/CINE-PISTOLEROS.png" group-title="⭐EXCLUSIVOS 24/7",PISTOLEROS 24/7
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/320401
 
-
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="MEXICO" , Canal 5 
+http://181.78.106.127:9000/play/ca012/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinepremium" tvg-logo"https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png", Cine Premium
-http://179.189.222.226:8000/play/ch49
+http://190.60.32.178:8178/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-id="CineHispano" tvg-logo"https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal.png", Cine Hispano
 http://179.189.222.226:8000/play/ch51
 
 
 #EXTINF:-1 tvg-id="Cine Familiar" tvg-logo"https://bittchannel.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png", Cine Familiar
-http://179.189.222.226:8000/play/ch52
+http://190.60.32.178:8178/play/a08t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
@@ -2201,7 +2202,7 @@ http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png",Studio Universal
-http://190.102.242.130:25461/66486141/1234/42
+http://181.78.106.127:9000/play/ca074/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_Universal_Channel.svg/2560px-Logo_Universal_Channel.svg.png" group-title="Cine y Series", Universal Channel
 http://190.102.242.130:25461/66486141/1234/44
@@ -2268,7 +2269,7 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 http://190.61.42.218:9000/play/a00x
 
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
-http://170.254.18.106/CINEMAX/index.m3u8
+http://181.78.106.127:9000/play/ca079/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
 http://179.189.222.226:8000/play/ch10
@@ -2286,7 +2287,7 @@ http://190.107.20.43:6004/play/a074
 http://179.189.222.226:8000/play/ch08
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Espanol
-http://168.181.122.234:8000/play/a033/index.m3u8
+http://190.102.242.130:25461/66486141/1234/42
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",AMC MX
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
