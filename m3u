@@ -2124,13 +2124,13 @@ https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 http://170.82.37.21:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="FAMILIA",Telemundo
-http://190.107.20.43:6004/play/a0ap
+http://181.78.106.127:9000/play/ca009/index.m3u8
 
 #EXTINF:-1 tvg-id="ZAZ.mx" tvg-name="ZAZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Zaz1992.gif/revision/latest?cb=20120110070037" group-title="KIDS" ,ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-id="AyE.mx" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="FAMILIA" , A&E
-http://45.5.117.182:8000/play/a0fm/index.m3u8
+http://181.78.106.127:9000/play/ca086/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" , AMC HD
@@ -2141,7 +2141,7 @@ http://45.5.117.182:8000/play/a0fn/index.m3u8
 http://190.102.242.130:25461/66486141/1234/39
 
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
-http://45.5.117.182:8000/play/a0ho/index.m3u8
+http://179.49.163.34:45000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" ,Nat Geo HD
 http://190.107.20.43:6004/play/a09u
@@ -2161,7 +2161,6 @@ http://190.107.20.43:6004/play/a0al
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
-http://190.107.20.43:6004/play/a06g
 http://181.78.106.127:9000/play/ca072/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
@@ -2176,7 +2175,7 @@ http://190.107.20.43:6004/play/a07h
 
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://190.107.20.43:6004/play/a06e
+http://181.78.106.127:9000/play/ca085/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
 http://181.78.105.146:6060/play/a014/index.m3u8
@@ -2209,14 +2208,14 @@ http://190.102.242.130:25461/66486141/1234/44
 
 
 #EXTINF:-1 tvg-id="universalcinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",UNIVERSAL CINEMA ESTE HD
-http://45.5.117.182:8000/play/a0jz/index.m3u
+http://38.180.133.31:8000/play/a0ph/index.m3u8
 
 
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER
-http://181.78.105.146:6060/play/a04i/index.m3u8
+http://38.180.133.31:8000/play/a0pe/index.m3u8
 
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER2
-http://170.82.37.21:8000/play/a03k/index.m3u8
+http://181.78.106.127:9000/play/ca083/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
 http://190.107.20.43:6004/play/a071
@@ -2225,7 +2224,6 @@ http://190.107.20.43:6004/play/a071
 http://190.107.20.43:6004/play/a0aj
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
-http://190.107.20.43:6004/play/a06d
 http://181.78.106.127:9000/play/ca071/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO POP
@@ -2284,10 +2282,10 @@ http://190.107.20.43:6004/play/a074
 http://179.189.222.226:8000/play/ch08
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Espanol
-http://190.102.242.130:25461/66486141/1234/42
+
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",AMC MX
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+http://38.180.133.31:8000/play/a0nj/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA 
 http://190.107.20.43:6004/play/a0b6
@@ -2296,7 +2294,7 @@ http://190.107.20.43:6004/play/a0b6
 http://190.107.20.43:6004/play/a0au
 
 #EXTINF:-1 tvg-id="Multipremier", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png", Multipremier
-http://45.167.3.81:45000/play/a05e/index.m3u8
+http://181.78.106.127:9000/play/ca087/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Jr
 http://190.107.20.43:6004/play/a0ac
