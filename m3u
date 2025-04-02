@@ -134,6 +134,9 @@ GTV GT
 #EXTINF:-1 tvg-id"GTV" tvg-logo="https://emisorasgt.com/wp-content/uploads/2025/03/Canal-GTV-de-Guatemala-en-vivo.webp" , Canal GTV Guatemala.
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
 LAS ESTRELLAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
