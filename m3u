@@ -19,9 +19,11 @@ http://181.78.105.146:2000/play/a08g/index.m3u8
 http://181.78.105.146:6060/play/1ca1/index.m3u8
 181.78.105.146:6060/play/1ca1/index.m3u8
 
-
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://emisorasgt.com/wp-content/uploads/2024/03/playmedios-digital.webp",Play Medios Xela
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="24/7", C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -95,13 +97,13 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Cinepremium" tvg-logo"https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png", Cine Premium
 http://190.60.32.178:8178/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-id="CineHispano" tvg-logo"https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal.png", Cine Hispano
-http://179.189.222.226:8000/play/ch51
+http://190.60.40.35:12500/play/a0cm/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cine Familiar" tvg-logo"https://bittchannel.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png", Cine Familiar
