@@ -2234,9 +2234,11 @@ http://181.78.106.127:9000/play/ca083/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
 http://190.107.20.43:6004/play/a071
+http://45.228.234.167:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
 http://190.107.20.43:6004/play/a0aj
+http://45.228.234.167:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
 http://181.78.106.127:9000/play/ca071/index.m3u8
