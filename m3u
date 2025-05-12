@@ -251,6 +251,24 @@ https://desuchi.com/streams/live/tv.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt" tvg-logo="https://i.imgur.com/cGYcgBL.png" , TeleCosta Gt
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPELICULAS COLECCION 24/7XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1, tvg-id="ColeccionUndetectivesueltoenHollywood"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_631571-MLU71135079659_082023-O.webp" Mis Peliculas PSH
+https://dl.dropbox.com/s/tp3pqy7uazah11v/COLEDETECTIVESUELTO.M3U
+#EXTINF:-1, tvg-id="ColeccionHombresdeNegro" tvg-logo="" Coleccion Hombres d Negro
+https://dl.dropbox.com/s/57o6kcnj0f2x89f/COLEHOMBR3SDENEGRO.M3U
+#EXTINF:-1, Coleccion Destino Final
+https://dl.dropbox.com/s/ow0yowq2f6hfi39/COLEDESTINO.M3U
+#EXTINF:-1, Coleccion Crepusculo
+https://dl.dropbox.com/s/ew830ge1x0ixkre/COLECREPU.M3U
+#EXTINF:-1, Coleccion 007
+https://dl.dropbox.com/s/bsk3yxqgazg79s0/COLE007.M3U
+#EXTINF:-1, Super Heroes
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/SUPER_HEROES.m3u
+#EXTINF:-1, Coleccion Blade
+https://dl.dropbox.com/s/hh9ur2duwizthxv/COLEBLAD3.M3U
+
+
+
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantiles", Cartoonito
 http://190.102.242.130:25461/66486141/1234/52
 
