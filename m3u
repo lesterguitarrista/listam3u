@@ -2309,7 +2309,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 http://170.82.37.21:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOMUNDI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
-http://190.107.20.43:6004/play/a0bw
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
 http://38.180.133.31:8000/play/a0le/index.m3u8
