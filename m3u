@@ -26,10 +26,31 @@ https://ch2-tva.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 group-title="24/7", C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-id="",Inspector Gadget
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8441a2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64aea49f-fda6-4830-bf84-89ca2745dd04
+EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 STREAMS",24/7 South Park
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=ehdq-tO6J9QW32V_NrEnXg&expires=1737196080&net=NjIuMjI4Ljk2LjQ0
+
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 STREAMS",24/7 The Simpsons
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ehdq-tO6J9QW32V_NrEnXg&expires=1737196080&net=NjIuMjI4Ljk2LjQ0
+
 #EXTINF:-1 tvg-id="Empenosalobestia.us",Pluto TV Empeños a lo bestia (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:0 channel-id="baby-shark-tv" channel-number="3760" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Baby Shark TV" tvc-guide-description="Your child can dance and learn with Baby Shark TV! Tune in for engaging nursery rhymes and lessons on healthy habits, colors, letters, and more!" group-title="Kids", Baby Shark TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=07641910-61ff-11ef-93a7-0b6875eb1caa&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6b77275-9fe0-4bfb-af0b-0ae858062b84&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="90s-kids-tv" channel-number="3785" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6452c814939a590008567a3b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="90's Kids" tvc-guide-description="Nickelodeon takes you back to the 90s with Rugrats, Hey Arnold! Kenan & Kel and more. It’s all your favorite Nick 90s shows that made The Splat that defined a generation - now you can relive the fun with your own family every day on Pluto TV!" group-title="Kids", 90's Kids
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=07644020-61ff-11ef-93a7-0b6875eb1caa&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7a04f55-15ec-4bec-bbec-19bfa2a19548&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="la-academia-ptv1" channel-number="4380" tvg-logo="https://images.pluto.tv/channels/668c5dc0bdc2a70008eba7db/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/668c5dc0bdc2a70008eba7db/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="La Academia" tvc-guide-description="Disfruta del reality de música más importante de México, La Academia, donde jóvenes cantantes compiten semana a semana con emocionantes conciertos y críticas en donde el público vota por su alumno favorito." group-title="En Español", La Academia
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5dc0bdc2a70008eba7db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=076837c0-61ff-11ef-93a7-0b6875eb1caa&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65194f72-5292-4ac2-a4f6-af37bf9f97d4&userId=&serverSideAds=true
+
+
 
 
 
@@ -2282,7 +2303,7 @@ http://181.78.106.127:9000/play/ca071/index.m3u8
 http://181.143.230.202:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine y Series", HBO
-http://191.52.214.5:8000/play/a02z/index.m3u8
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine y Series", Hbo
 http://170.82.37.21:8000/play/a02g/index.m3u8
@@ -2298,7 +2319,7 @@ http://190.61.42.218:9000/play/a02s
 http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://190.107.20.43:6004/play/a0cd
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
 http://170.39.192.130:2095/56942505562play/060123play/315088
@@ -2308,8 +2329,7 @@ http://190.61.42.218:9000/play/a00v
 http://170.39.192.130:2095/56942505562play/060123play/315088
 
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
-http://190.107.20.43:6004/play/a0bv
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.
 
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
 http://190.61.42.218:9000/play/a00x
