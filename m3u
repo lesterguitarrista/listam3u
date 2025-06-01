@@ -124,15 +124,6 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
 
 
-#EXTINF:-1 tvg-id="Cinepremium" tvg-logo"https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png", Cine Premium
-http://190.60.32.178:8178/play/a07f/index.m3u8
-
-#EXTINF:-1 tvg-id="CineHispano" tvg-logo"https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal.png", Cine Hispano
-http://190.60.40.35:12500/play/a0cm/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Cine Familiar" tvg-logo"https://bittchannel.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png", Cine Familiar
-http://190.60.32.178:8178/play/a08t/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
