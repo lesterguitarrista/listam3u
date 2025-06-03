@@ -25,6 +25,9 @@ https://ch2-tva.duin.dev/hls/0/stream.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 STREAMS",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
@@ -123,7 +126,8 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
 
-
+#EXTINF:-1 tvg-id="Clarosport" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro Sport
+http://190.5.200.91:45000/play/a00g
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
@@ -217,7 +221,7 @@ https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="ClaroCinema" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" , Claro Cinema
-http://38.252.238.203:6102/play/a01c/index.m3u8
+http://190.5.200.91:45000/play/a11p
 
 #EXTINF:-1 tvg-id="CNNE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" ,CNN Español
 http://45.5.117.182:8000/play/a0f6/index.m3u8
@@ -232,7 +236,7 @@ https://dn720400.ca.archive.org/0/items/mentes-peligrosas-1995-hd/mentes%20pelig
 http://168.181.122.234:8000/play/a032/index.m3u8
 
 #EXTINF:-1,tvg-id="BABYFIRST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/BabyFirst_TV_%282006%29_%28Imagination_Lane%29.svg/revision/latest?cb=20201106011637" , Baby First
-http://170.82.37.21:8000/play/a00l/index.m3u8
+http://190.5.200.91:45000/play/a00k
 
 #EXTINF:-1,tvg-id="SEMILLITAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/SEMILLITAS_SQUARE_%28JPG%29.jpg" , Semillitas
 http://170.82.37.21:8000/play/a00p/index.m3u8
@@ -2390,11 +2394,10 @@ https://n9.cl/0wbthg
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
-http://179.189.222.226:8000/play/ch23
-http://190.107.20.43:6004/play/a09x
+http://23.237.104.106:8080/USA_ID/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
-http://190.107.20.43:6004/play/a09t
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png"" group-title="Especiales y Documentales", Discovery Science
 http://190.107.20.43:6004/play/a0an
@@ -2434,7 +2437,7 @@ http://190.107.20.43:6004/play/a07m
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VARIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="Especiales y Documentales", Animal Planet
-http://190.107.20.43:6004/play/a063
+
 
 #EXTINF:-1 tvg-id="paramount.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Paramount_Pictures_%282022%29.png" Paramount
 http://181.78.106.127:9000/play/ca082/index.m3u8
