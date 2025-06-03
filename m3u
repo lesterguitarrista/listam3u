@@ -2234,6 +2234,7 @@ http://190.5.200.91:45000/play/a0hk
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
 http://181.78.106.127:9000/play/ca085/index.m3u8
+http://190.5.200.91:45000/play/a103
 
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
 http://181.189.241.114:5050/play/a0g6
@@ -2406,8 +2407,7 @@ http://190.107.20.43:6004/play/a0ae
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Especiales y Documentales", Discovery World
 http://190.107.20.43:6004/play/a07q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
-http://179.189.222.226:8000/play/ch26
-http://190.107.20.43:6004/play/a0am
+http://190.5.200.91:45000/play/a0yn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="Especiales y Documentales", HGTV
 http://190.102.242.130:25461/66486141/1234/87
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Especiales y Documentales", El Gourmet
