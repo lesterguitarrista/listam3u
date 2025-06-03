@@ -14,6 +14,7 @@ http://45.228.234.167:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal13GT2022.png",Canal 13
 http://181.78.105.146:2000/play/a08g/index.m3u8
+http://45.5.116.178:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
 http://45.228.234.167:8000/play/a01k/index.m3u8
