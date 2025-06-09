@@ -2351,6 +2351,7 @@ http://38.180.133.31:8000/play/a0nj/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA 
 http://190.107.20.43:6004/play/a0b6
+http://190.5.200.91:45000/play/a00m
 
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
 http://190.107.20.43:6004/play/a0au
@@ -2390,6 +2391,12 @@ https://is.gd/aLLcFt
 
 #EXTINF:-1 channel-id="DuckDynasty" tvg-id="DuckDynasty" tvg-logo="https://banner2.cleanpng.com/20180525/egv/kisspng-the-duck-commander-family-how-faith-family-and-5b07a0f40bed21.6659722215272266120489.jpg", Duck Dynasty
 https://n9.cl/0wbthg
+
+#EXTINF:-1 channel-id="66e0b4866ad04d0008fff4d8" tvg-id="66e0b4866ad04d0008fff4d8" tvg-chno="3115" tvg-name="MythBusters" tvg-logo="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png" group-title="History + Science", MythBusters
+https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
+
+#EXTINF:-1 channel-id="6675c7868768aa0008d7f1c7" tvg-id="6675c7868768aa0008d7f1c7" tvg-chno="3805" tvg-name="Pokémon" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="Kids", Pokémon
+https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
