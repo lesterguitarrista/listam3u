@@ -11,18 +11,34 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",Guatevision
 http://45.228.234.167:8000/play/a04i/index.m3u8
+http://190.149.62.46:8004/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal13GT2022.png",Canal 13
 http://45.5.116.178:8000/play/a02f/index.m3u8
+http://190.149.62.46:8004/play/a0le/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
 http://45.228.234.167:8000/play/a01k/index.m3u8
+http://190.149.62.46:8004/play/a0lf/index.m3u8
+
+#EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
+http://190.149.62.46:8004/play/a0mj/index.m3u8
 
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://emisorasgt.com/wp-content/uploads/2024/03/playmedios-digital.webp",Play Medios Xela
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="24/7", C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+
+#EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
+http://190.149.62.46:8004/play/a0nf/index.m3u8
+#EXTINF:-1 group-title="-",Claro Sports 1 HD
+http://190.149.62.46:8004/play/a0jl/index.m3u8
+#EXTINF:-1 group-title="-",Claro Sports 2 HD
+http://190.149.62.46:8004/play/a0jm/index.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
@@ -130,6 +146,7 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
+http://190.149.62.46:8004/play/a0nl/index.m3u8
 
 #EXTINF:-1 tvg-id="Clarosport" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro Sport
 http://190.5.200.91:45000/play/a00g
@@ -428,8 +445,6 @@ https://ia601400.us.archive.org/18/items/la-bamba_202210/la%20bamba.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie"
 
-#EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-name="APlusGuate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="GUATEMALA", A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
@@ -2283,7 +2298,7 @@ http://38.180.133.31:8000/play/a0pe/index.m3u8
 http://181.78.106.127:9000/play/ca083/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
-
+http://190.149.62.46:8004/play/a0jo/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
 http://190.5.200.91:45000/play/a00e
