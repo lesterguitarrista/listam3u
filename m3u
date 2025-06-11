@@ -5,6 +5,7 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
+https://live.airstream.run/alba-gt-chapintv-tn23/480p.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
@@ -157,7 +158,7 @@ http://190.107.20.43:6004/play/a0d3
 
 Cascara
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
-https://cdn.mycloudstream.io/hls/live/broadcast/jhxjodjp/mono.m3u8
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist_w94991914.m3u8
 
 AURORA MEDIA FILMS
 #EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
