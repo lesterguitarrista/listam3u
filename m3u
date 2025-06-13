@@ -2245,7 +2245,7 @@ http://181.78.106.127:9000/play/ca072/index.m3u8
 http://181.189.241.114:5050/play/a0pn
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
-http://190.5.200.91:45000/play/a04a
+http://216.122.181.10:8081/play/a0dw/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
 http://38.180.133.31:8000/play/a0qr/index.m3u8
@@ -2368,7 +2368,7 @@ http://45.228.234.167:8000/play/a048/index.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
-http://190.5.200.91:45000/play/a0hl
+http://177.93.46.163:8000/play/a00b
 
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
 http://181.189.241.114:5050/play/a03i
