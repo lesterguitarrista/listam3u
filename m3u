@@ -105,12 +105,24 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b73956710007
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXfgHJwk/cinefri.jpg" group-title="Películas | Series",Cine Friki (ES)
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tR1bkv8f/ww.jpg" group-title="Mas Series 🧟", WWE | Superstar Central | by A&E (US)
+https://jmp2.uk/sam-US700005ID.m3u8
 
 
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPELICULAS PRUEBAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpHcfg8/tomjerry.jpg" group-title="Mas Series 🧟",Tom y Jerry (LATAM)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t44TmmhX/sal.jpg" group-title="Mas Series 🧟",Saved By The Bell | Opción 2 (US)
+https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2JZyfxy/familyguy.jpg" group-title="Mas Series 🧟",Padre de Familia (US)
+ http://tvmate.icu:8080/live/7686199/9576982/66317.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2JtbQVJ/dragonb.jpg" group-title="Mas Series 🧟",Dragon Ball | Goku TV (LATAM)
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 #EXTINF:-1 tvg-id"" tvg-logo="https://i.pinimg.com/originals/6a/0a/77/6a0a77a49e190ba1ec1211b426b0ef7c.png", Pajaro Loco
@@ -276,6 +288,154 @@ https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3
 
 #EXTINF:-1 group-title="PELICULAS" type="movie"
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPELICULAS PRUEBAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.postimg.cc/HkSssw-Hm/13.jpg", 13 Fantasmas | 2001 | Latino
+https://dl.dropbox.com/s/1aek11gl0fr6aa3/13GH05T.mkv
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.postimg.cc/6QzzYPZ5/am1.jpg" ,American Pie | 1 | 1999 | Latino
+https://archive.org/download/rise-up_202212/Rise%20up.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnQpkKMq/am2.jpg" group-title="Mas Películas 🎃",American Pie | 2 | 2001 | Latino
+https://archive.org/download/american-pie-2-2001-720p-amas-diez/American%20Pie%202%20%282001%29%20720p-AmasDiez.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y92P1gf5/bat1.jpg" group-title="Mas Películas 🎃",Batman | 1 | 1989 | Latino
+https://archive.org/download/004_20200426_202004/004.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhM1x2VS/bat2.jpg" group-title="Mas Películas 🎃",Batman | 2 | Regresa | 1992 | Latino
+https://archive.org/download/bartofinal/bartofinal.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0xYVwCP/bat3.jpg" group-title="Mas Películas 🎃",Batman | 3 | Inicia | 2005 | Latino
+https://dl.dropbox.com/scl/fi/4fwhxs6653pq879gihtpu/B4TM4N-1.mp4?rlkey=iosy7aiq42i6igi90gqpkop50
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x145j3YC/bat4.jpg" group-title="Mas Películas 🎃",Batman | 4 | El Caballero de la Noche | 2008 | Latino
+https://dl.dropbox.com/scl/fi/ks1rvgyvq0o0sfxjcu59p/B4TM4N2.mp4?rlkey=z8ojp6y3dmxnflh7dz3a8vp2k
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jWHqRyW/bat5.jpg" group-title="Mas Películas 🎃",Batman | 5 | Asciende | 2012 | Latino
+https://archive.org/download/BMCDLNA/BMCDLNA.avi
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9f9561mR/bo.jpg" group-title="Mas Películas 🎃",Bohemian Rhapsody | 2018 | Latino
+https://archive.org/download/la-pas-1i-0on-d-3-cr-1i-5to-2004-1080p-4-33-gb/BoOhe3m1ian%20Rha4ps0dy%20720p%201%2C96%20GB.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCkdhqkS/b.jpg" group-title="Mas Películas 🎃",Chicos Buenos | 2019 | Latino
+https://archive.org/download/ch-1c-0s-bu-3n-0s-2019-1080p-3-07-gb/Ch1c0s%20bu3n0s%20%282019%29%201080p%203%2C07%20GB.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4vdzWXC/be.jpg" group-title="Mas Películas 🎃",Beetlejuice | 1988 | Latino
+https://archive.org/serve/1988-btjs/1988BTJS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ7cQpmm/cue.jpg" group-title="Mas Películas 🎃",Cuentos de la Cripta | Caballero del Diablo | 1995 | Latino
+https://dl.dropboxusercontent.com/s/xmapsav85e4879t/Cuentos%20de%20la%20cripta%20Caballero%20del%20diablo%201995%20%28SS_CANY%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ7cQpmm/cue.jpg" group-title="Mas Películas 🎃",Cuentos de la Cripta | El Club de Los Vampiros | 1996 | Latino
+https://dl.dropbox.com/s/a19ebhbl3ard2li/Cuentos%20de%20la%20cripta%20Burdel%20de%20sangre%201996.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d09R2x7f/d1.jpg" group-title="Mas Películas 🎃",Destino Final | 1 | 2000 | Latino
+https://archive.org/serve/destino-final-1-2002-en-latino/Destino%20final%201%20%282002%29%20EN%20LATINO.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfLY4SX3/d2.jpg" group-title="Mas Películas 🎃",Destino Final | 2 | 2003 | Latino
+https://archive.org/download/df-3_20210525/Acce/DF2.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yXwM9Pc/d3.jpg" group-title="Mas Películas 🎃",Destino Final | 3 | 2006 | Latino
+https://archive.org/download/df-3_20210525/Acce/DF3.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGLWMrZ2/d4.jpg" group-title="Mas Películas 🎃",Destino Final | 4 | 2009 | Latino
+https://archive.org/download/df-5_20210525/ACCE%202/DF4.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFtSnm0x/d5.jpg" group-title="Mas Películas 🎃",Destino Final | 5 | 2011 | Latino
+https://archive.org/download/df-5_20210525/ACCE%202/DF5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5JZcsHP/exor.jpg" group-title="Mas Películas 🎃",El Exorcista | 1 | 1973 | Latino
+https://archive.org/download/045_20200519_202005/045.avi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLwgjB2q/exor2.jpg" group-title="Mas Películas 🎃",El Exorcista | 2 | 1977 | El Hereje | Latino
+https://archive.org/download/045_20200519_202005/046.avi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKLS5NJX/exor3.jpg" group-title="Mas Películas 🎃",El Exorcista | 3 | 1990 | Latino
+https://archive.org/download/045_20200519_202005/047.avi
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTt9Hq2J/ed.jpg" group-title="Mas Películas 🎃",El Joven Manos de Tijeras | 1990 | Latino
+https://archive.org/download/peliculas-1990/Ver%20El%20Joven%20Manos%20de%20Tijera%20%281990%29%20Online%20Latino%20HD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT7vSvfb/j.jpg" group-title="Mas Películas 🎃",El Regalo Prometido | 1996 | Latino
+https://archive.org/download/15100618137557008468/1_5100618137557008468.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxRFj5Lc/m1.jpg" group-title="Mas Películas 🎃",Hombres de Negro | 1 | 1997 | Latino
+https://archive.org/download/hombres-de-negro_202108/Hombres%20De%20Negro.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF8xYSRY/m2.jpg" group-title="Mas Películas 🎃",Hombres de Negro | 2 | 2002 | Latino
+https://archive.org/download/hombres-de-negro-2_202108/Hombres%20de%20Negro%202.avi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5P1w8y3/m3x.jpg" group-title="Mas Películas 🎃",Hombres de Negro | 3 | 2012 | Latino
+https://archive.org/download/hombres-de-negro-3_20210803/Hombres%20De%20Negro%203.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqnQ0gQS/i1.jpg" group-title="Mas Películas 🎃",La Era del Hielo | 1 | 2002 | Latino
+https://archive.org/serve/la-era-del-hielo-1/LA%20ERA%20DEL%20HIELO%201.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3KgDwcJ/i2.jpg" group-title="Mas Películas 🎃",La Era del Hielo | 2 | 2006 | Latino
+https://archive.org/serve/la-era-del-hielo-2/LA%20ERA%20DEL%20HIELO%202.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv3ct9mn/i3.jpg" group-title="Mas Películas 🎃",La Era del Hielo | 3 | 2009 | Latino
+https://archive.org/download/hielo-4/Hielo3.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dg9q1RW/i4.jpg" group-title="Mas Películas 🎃",La Era del Hielo | 4 | 2012 | Latino
+https://archive.org/serve/la-era-de-hielo-4_202207/%20La%20Era%20de%20Hielo%204.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdrRNLh/to1.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 1 | 1990 | Latino
+https://archive.org/download/las-tortugas-ninja_202106/Las%20Tortugas%20Ninja.avi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85V7NBB8/to2.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 2 | 1991 | El Secreto del Ooze | Latino
+https://archive.org/download/las-tortugas-ninja-2-the-secret-of-the-ooze_202106/Las%20Tortugas%20Ninja%202%20The%20Secret%20Of%20The%20Ooze.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFsLrszp/to3.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 3 | 1993 | Latino
+https://archive.org/download/las-tortugas-ninja-3-the-turtles-are-back-in-time_202106/Las%20Tortugas%20Ninja%203%20The%20Turtles%20Are%20Back%20In%20Time.avi
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1Fj6WPJ/dem.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 1 | 2010 | Latino
+https://archive.org/serve/LANOCHEDELDEMONIO/LA%20NOCHE%20DEL%20DEMONIO.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43cvCXz4/dem2.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 2 | 2013 | Capítulo 2 | Latino
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85Bh5wKq/dem3.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 3 | 2015 | Capítulo 3 | Latino
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76y3wjV3/dem4.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 4 | 2018 | La Última Llave | Latino
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqJ2CnWg/dem5.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 5 | 2023 | La Puerta Roja | Latino
+https://dl.dropbox.com/scl/fi/9udfxbymwb2jl5hmpjexv/R3DD00R.mp4?rlkey=vjt3kioge7i01s5xfr5q7534l
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25XpFntJ/los.jpg" group-title="Mas Películas 🎃",Los Picapiedras | 1994 | Latino
+https://ia601600.us.archive.org/26/items/los-picarock-hd-720p-840192/LosPicarock_HD__720p___840192.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pr1dNwfv/loss.jpg" group-title="Mas Películas 🎃",Los Simpsons | La Película | 2007 | Latino
+https://ia601604.us.archive.org/30/items/lo-simpson-pel-1cul-4-hd-720p-972715/LoSimpsonPel1cul4_HD__720p___972715.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zFNYXSv/los3.jpg" group-title="Mas Películas 🎃",Los Tres Chiflados | 2012 | Latino
+https://archive.org/serve/los-tres-chiflados_202202/Los%20Tres%20Chiflados.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h49hBMbV/rat.jpg" group-title="Mas Películas 🎃",Ratatouille | 2007 | Latino
+https://ia601402.us.archive.org/21/items/1e08_20191210/e910.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPB64D06/ri.jpg" group-title="Mas Películas 🎃",Ricky Ricón | 1994 | Latino
+https://archive.org/serve/ricky-ricon-1994/Ricky%20Ric%C3%B3n%20%281994%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmpQCy5y/sh1.jpg" group-title="Mas Películas 🎃",Shrek | 1 | 2001 | Latino
+https://archive.org/download/00100_20190920/00100.avi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5V2qZw4/sh2.jpg" group-title="Mas Películas 🎃",Shrek | 2 | 2004 | Latino
+https://archive.org/download/00200_20190920/00200.avi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66V9bDqs/sh3.jpg" group-title="Mas Películas 🎃",Shrek | 3 | 2007 | Latino
+https://archive.org/download/sh3_20200512/sh3.avi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXJqs0Hy/sh4.jpg" group-title="Mas Películas 🎃",Shrek | 4 | 2010 | Latino
+https://archive.org/download/00400_20190920/00400.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvJJXWpC/so1.jpg" group-title="Mas Películas 🎃",Son Como Niños | 1 | 2010 | Latino
+https://ia803106.us.archive.org/20/items/son-como-ninos_202107/Son%20como%20ni%C3%B1os.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJBYcgKN/so2.jpg" group-title="Mas Películas 🎃",Son Como Niños | 2 | 2013 | Latino
+https://ia804508.us.archive.org/8/items/son-como-ninos-2_202107/Son%20como%20ni%C3%B1os%202.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgSThJ1/spi3.jpg" group-title="Mas Películas 🎃",Spiderman | 3 | 2007 | Latino
+https://archive.org/download/valores_202103/valor/valores.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qcF7yLY/spi5.jpg" group-title="Mas Películas 🎃",Spiderman | 5 | 2014 | 2 | La Amenaza de Electro | Latino
+https://archive.org/download/ara-2014/ARA2014.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVGySPbB/spi6.jpg" group-title="Mas Películas 🎃",Spiderman | 6 | 2017 | 3 | De Regreso a Casa | Latino
+https://archive.org/download/baby721/22142.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JrPsFY6/spi7.jpg" group-title="Mas Películas 🎃",Spiderman | 7 | 2021 | Sin Camino a Casa | Latino
+https://dl.dropbox.com/s/feqz4gbncsnnvp4/5p1derm4n.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RCP8gFB/super.jpg" group-title="Mas Películas 🎃",Super Mario Bros | La Película | 1993 | Latino
+https://archive.org/serve/mario_1993_latino/Super%20Mario%20Bros.%20%281993%29%20%28Espa%C3%B1ol%20Latino%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNHfbgd/su.jpg" group-title="Mas Películas 🎃",Super Mario Bros | La Película | 2023 | Latino
+https://archive.org/serve/super-mario-bros_202503/super%20Mario%20bros.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnFyxwd9/vir.jpg" group-title="Mas Películas 🎃",Virgen a los 40 | 2005 | Latino
+https://archive.org/download/raton_202004/raton/raton.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVHrBm5/vol.jpg" group-title="Mas Películas 🎃",Volver al Futuro | 1 | 1985 | Latino
+https://archive.org/download/volveralfuturo/Volver%20al%20Futuro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKfhdyN7/vol2.jpg" group-title="Mas Películas 🎃",Volver al Futuro | 2 | 1989 | Latino
+https://archive.org/serve/volver-al-futuro-ii/Volver%20al%20Futuro%20II.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2nbqkqY/vol3.jpg" group-title="Mas Películas 🎃",Volver al Futuro | 3 | 1990 | Latino
+https://archive.org/download/volveralfuturo/Volver%20al%20Futuro%20III.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JtwJTWFK/zo.jpg" group-title="Mas Películas 🎃",Zoombieland | 1 | 2009 | Latino
+https://archive.org/download/patata/patata.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsMmtfV/zo2.jpg" group-title="Mas Películas 🎃",Zoombieland | 2 | 2019 | Latino
+https://archive.org/download/00200_20200117_0628/00200.mkv
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-id="SIMPSOn" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2325147669.jpg" ,Simpson 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
