@@ -51,6 +51,13 @@ https://jmp2.uk/sam-GBBC2300002GG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLySxj0T/60.jpg" group-title="Mas Series 🧟",60 Days In | by A&E (US)
 https://jmp2.uk/sam-USBD42000073E.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYVnB0pq/is.jpg" group-title="Mas Series 🧟",I Survived | by A&E (US)
+https://jmp2.uk/sam-USBD1700008H9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t18HRVW/in.jpg" group-title="Mas Series 🧟",Intervention | by A&E (US)
+https://jmp2.uk/sam-USBD3500040WX.m3u8
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
