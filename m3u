@@ -54,9 +54,8 @@ https://jmp2.uk/sam-USBD42000073E.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYVnB0pq/is.jpg" group-title="Mas Series 🧟",I Survived | by A&E (US)
 https://jmp2.uk/sam-USBD1700008H9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t18HRVW/in.jpg" group-title="Mas Series 🧟",Intervention | by A&E (US)
-https://jmp2.uk/sam-USBD3500040WX.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnxD7mzv/doo.jpg" group-title="Mas Series 🧟",Locademia de Policia | Dodo TV (CL)
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -70,6 +69,9 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ehdq-tO6J9QW32V_NrEnXg&expires=1737196080&net=NjIuMjI4Ljk2LjQ0
 
+🧟",Los Simpsons | Casita del Horror (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
+https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 
 #EXTINF:0 channel-id="baby-shark-tv" channel-number="3760" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Baby Shark TV" tvc-guide-description="Your child can dance and learn with Baby Shark TV! Tune in for engaging nursery rhymes and lessons on healthy habits, colors, letters, and more!" group-title="Kids", Baby Shark TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=07641910-61ff-11ef-93a7-0b6875eb1caa&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6b77275-9fe0-4bfb-af0b-0ae858062b84&userId=&serverSideAds=true
