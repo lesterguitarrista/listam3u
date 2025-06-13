@@ -45,6 +45,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxH0DJz0/pelim.jpg" group-title="Películas | Series",Pelimex (MX)
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 STREAMS",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
@@ -56,6 +59,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d0007
 
 #EXTINF:0 channel-id="baby-shark-tv" channel-number="3760" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Baby Shark TV" tvc-guide-description="Your child can dance and learn with Baby Shark TV! Tune in for engaging nursery rhymes and lessons on healthy habits, colors, letters, and more!" group-title="Kids", Baby Shark TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=07641910-61ff-11ef-93a7-0b6875eb1caa&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6b77275-9fe0-4bfb-af0b-0ae858062b84&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV | Opción 3 (LATAM)
+http://216.122.181.10:8081/play/a0hq/index.m3u8
 
 #EXTINF:-1 tvg-id="ES5000001CS" tvg-logo="https://i.postimg.cc/4xQ4qsG2/loo.jpg" group-title="Animados | Variado",LooLoo Kids TV | Samsung TV Plus (ES)
 https://jmp2.uk/sam-ES5000001CS.m3u8
@@ -882,28 +888,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPLUTO MARATONESXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ORDENAR XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bics Extra", 8 MTY
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bics Extra", AZTECA 7 2
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bics Extra", ESTRELLA TV USA
-https://estrellatv-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bics Extra", 24 HORAS ES
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bics Extra", CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1000px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="Bics Extra", USA | Cartoon Network
-http://45.5.117.182:8000/play/a0en/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Bics Extra", USA | Cartoonito
-http://181.189.243.254:8000/play/a0pa/index.m3u8
+
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -2316,10 +2303,21 @@ http://190.149.62.46:8004/play/a0jo/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
 http://190.5.200.91:45000/play/a00e
 
-
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
 http://181.78.106.127:9000/play/ca071/index.m3u8
 http://190.5.200.91:45000/play/a03r
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dv4gj6Y/staz.jpg" group-title="Películas | Series",Starz (US)
+http://fl5.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dv4gj6Y/staz.jpg" group-title="Películas | Series",Starz | Encore Classic (US)
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0nQryhB/hbo-zone.jpg" group-title="Películas | Series",HBO | Zone (US)
+http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD6rtxNj/hbo-comedy.jpg" group-title="Películas | Series",HBO | Comedy (US)
+http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO POP
 http://181.143.230.202:8000/play/a02p/index.m3u8
@@ -2397,6 +2395,9 @@ http://190.5.200.91:45000/play/a011
 
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
 http://190.5.200.91:45000/play/a0yf
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgXZpWWw/tooncast.jpg" group-title="Premium | Latino",Tooncast (LATAM)
+http://216.122.181.10:8081/play/a0rc/index.m3u8
 
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" ,Law & Crime (720p)
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
