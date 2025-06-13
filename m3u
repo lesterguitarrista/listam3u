@@ -2199,7 +2199,7 @@ http://190.107.20.43:6004/play/a0aw
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="FAMILIA",Univision Panregional 
-http://170.82.37.21:8000/play/a02x/index.m3u8
+http://216.122.181.10:8081/play/a0lz/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="FAMILIA",Telemundo
 http://181.78.106.127:9000/play/ca009/index.m3u8
@@ -2230,10 +2230,10 @@ http://190.5.200.91:45000/play/a0gg
 
 
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
-http://190.107.20.43:6004/play/a09v
+http://216.122.181.10:8081/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png",History 2
-http://190.107.20.43:6004/play/a0al
+http://216.122.181.10:8081/play/a0f6/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVVH1Classics.us",Pluto TV VH1 Classics (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
@@ -2438,18 +2438,30 @@ https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SLbt3tt/lifetimp.jpg" group-title="Premium | Latino",Lifetime | Opción 3 (LATAM)
+http://216.122.181.10:8081/play/a0dr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QKm2BRJ/discovery-theater.jpg" group-title="Premium | Latino",Discovery | Theater | Opción 3 (LATAM)
+http://216.122.181.10:8081/play/a0ki/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Premium | Latino",Discovery | ID | Opción 2 (LATAM)
+http://216.122.181.10:8081/play/a0oj/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
 http://23.237.104.106:8080/USA_ID/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Premium | Latino",Discovery Channel | Opción 3 (LATAM)
+http://216.122.181.10:8081/play/a0gh/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png"" group-title="Especiales y Documentales", Discovery Science
-http://190.107.20.43:6004/play/a0an
+http://216.122.181.10:8081/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Especiales y Documentales", Discovery Turbo
-http://190.107.20.43:6004/play/a0ae
+http://216.122.181.10:8081/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Especiales y Documentales", Discovery World
-http://190.107.20.43:6004/play/a07q
+http://216.122.181.10:8081/play/a0lx/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
 http://190.5.200.91:45000/play/a0yn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="Especiales y Documentales", HGTV
