@@ -2184,13 +2184,13 @@ http://181.78.106.127:9000/play/ca076/index.m3u8
 http://181.78.106.127:9000/play/ca078/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPREMIER" tvg-name="GOLDENPREMIER" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE Y SERIES" , GOLDEN PREMIER
-http://45.163.205.110:8000/play/a0fg/index.m3u8
+http://216.122.181.10:8081/play/a0q2/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENDORADO+" tvg-name="GOLDENDORADO+" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE Y SERIES" , GOLDEN dorado plus
 http://181.78.106.127:9000/play/ca078/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPREMIERE2" tvg-name="GOLDENPREMISERE2" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/cr6bjskTmDRovMzpOx8QA3IF/3769d9e0b0be3baa6fef966bb534f8df/ic-golden-premier-2.svg", Golden Premiere 2 HD
-http://45.228.232.205:16000/play/a08q/index.m3u8
+http://216.122.181.10:8081/play/a0ol/index.m3u8
 
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="TeleNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" ,Tlnovelas 
 http://190.107.20.43:6004/play/a0aw
@@ -2284,11 +2284,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://181.78.106.127:9000/play/ca074/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_Universal_Channel.svg/2560px-Logo_Universal_Channel.svg.png" group-title="Cine y Series", Universal Channel
-http://190.102.242.130:25461/66486141/1234/44
+http://216.122.181.10:8081/play/a0h7/index.m3u8
 
 
 #EXTINF:-1 tvg-id="universalcinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",UNIVERSAL CINEMA ESTE HD
 http://38.180.133.31:8000/play/a0ph/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYTtwwhb/universal-reality.jpg" group-title="Premium | Latino",Universal | Reality | Opción 3 (LATAM)
+http://216.122.181.10:8081/play/a0r9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER
