@@ -62,11 +62,11 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxH0DJz0/pelim.jpg" group-title="Películas | Series",Pelimex (MX)
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 STREAMS",24/7 The Simpsons
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ehdq-tO6J9QW32V_NrEnXg&expires=1737196080&net=NjIuMjI4Ljk2LjQ0
+#EXTINF:-1 tvg-id="65786d29dfed030008ce2fa7" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Rock
+https://jmp2.uk/plu-65786d29dfed030008ce2fa7.m3u8
+
+#EXTINF:-1 channel-id="66a26a7846762a0008258d4e" tvg-id="66a26a7846762a0008258d4e" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Baywatch
+https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
 
 🧟",Los Simpsons | Casita del Horror (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
@@ -2592,7 +2592,7 @@ http://190.5.200.91:45000/play/a10p
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-chno="259" group-title="Retro" , Los Tres Chiflados
-https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+https://jmp2.uk/plu-5f85f1dc1418bd0007e11eb9.m3u8
 
 #EXTINF:-1 channel-id="pluto-6419ab7c9189ce000865a469" tvg-id="6419ab7c9189ce000865a469" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" tvg-chno="518" group-title="Curiosidad" , COPS
 https://n9.cl/s56u0
@@ -2603,8 +2603,23 @@ https://is.gd/yUZWFB
 #EXTINF:-1 channel-id="pluto-633dc8684bf50b00074a46b1" tvg-id="633dc8684bf50b00074a46b1" tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" tvg-chno="1004" group-title="Comedia" , Backdoor
 https://is.gd/aLLcFt
 
+#EXTINF:-1 channel-id="677d93afe650a700081e5f18" tvg-id="677d93afe650a700081e5f18" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Popeye
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+
+#EXTINF:-1 tvg-id="66a92375cd0d31000847b219" tvg-name="Monstruos de Rio" tvg-logo="https://images.pluto.tv/channels/66a92375cd0d31000847b219/colorLogoPNG.png" group-title="Pluto TV | Latino",Monstruos de Rio
+https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
+
+#EXTINF:-1 channel-id="6582f7d612d5ee00089a663d" tvg-id="6582f7d612d5ee00089a663d" tvg-logo="https://images.pluto.tv/channels/6582f7d612d5ee00089a663d/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Cheaters
+https://jmp2.uk/plu-6582f7d612d5ee00089a663d.m3u8
+
+#EXTINF:-1 channel-id="5e1f7e089f23700009d66303" tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="Pluto TV | Estados Unidos",COPS
+https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
+
 #EXTINF:-1 channel-id="DuckDynasty" tvg-id="DuckDynasty" tvg-logo="https://banner2.cleanpng.com/20180525/egv/kisspng-the-duck-commander-family-how-faith-family-and-5b07a0f40bed21.6659722215272266120489.jpg", Duck Dynasty
-https://n9.cl/0wbthg
+https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8
+
+#EXTINF:-1 channel-id="66e0b4866ad04d0008fff4d8" tvg-id="66e0b4866ad04d0008fff4d8" tvg-logo="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png" group-title="Pluto TV | Estados Unidos",MythBusters
+https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
 
 #EXTINF:-1 channel-id="66e0b4866ad04d0008fff4d8" tvg-id="66e0b4866ad04d0008fff4d8" tvg-chno="3115" tvg-name="MythBusters" tvg-logo="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png" group-title="History + Science", MythBusters
 https://jmp2.uk/plu-66e0b4866ad04d0008fff4d8.m3u8
