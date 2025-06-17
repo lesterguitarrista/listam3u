@@ -30,6 +30,9 @@ http://190.149.62.46:8004/play/a0mj/index.m3u8
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://emisorasgt.com/wp-content/uploads/2024/03/playmedios-digital.webp",Play Medios Xela
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="FAMILIA",Univision Panregional 
+http://216.122.181.10:8081/play/a0lz/index.m3u8
+
 #EXTINF:-1 group-title="24/7", C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
@@ -2416,7 +2419,7 @@ http://216.122.181.10:8081/play/a0f6/index.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
-http://181.78.106.127:9000/play/ca072/index.m3u8
+http://181.10.123.154:14000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
 http://181.189.241.114:5050/play/a0pn
@@ -2432,6 +2435,7 @@ http://190.5.200.91:45000/play/a0hk
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
 http://181.78.106.127:9000/play/ca085/index.m3u8
 http://190.5.200.91:45000/play/a103
+http://181.10.123.154:14000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
 http://181.189.241.114:5050/play/a0g6
@@ -2481,11 +2485,12 @@ http://181.78.106.127:9000/play/ca083/index.m3u8
 http://190.149.62.46:8004/play/a0jo/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
-http://190.5.200.91:45000/play/a00e
+http://181.10.123.154:14000/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
 http://181.78.106.127:9000/play/ca071/index.m3u8
 http://190.5.200.91:45000/play/a03r
+http://181.10.123.154:14000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dv4gj6Y/staz.jpg" group-title="Películas | Series",Starz (US)
 http://fl5.moveonjoy.com/STARZ/index.m3u8
@@ -2573,10 +2578,10 @@ http://181.10.123.154:14000/play/a030/index.m3u8
 http://181.78.106.127:9000/play/ca087/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Jr
-http://190.5.200.91:45000/play/a011
+http://181.10.123.154:14000/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
-http://190.5.200.91:45000/play/a0yf
+http://181.10.123.154:14000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgXZpWWw/tooncast.jpg" group-title="Premium | Latino",Tooncast (LATAM)
 http://216.122.181.10:8081/play/a0rc/index.m3u8
