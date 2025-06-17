@@ -2568,8 +2568,7 @@ http://190.5.200.91:45000/play/a0hm
 http://38.180.133.31:8000/play/a0nj/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA 
-http://190.107.20.43:6004/play/a0b6
-http://190.5.200.91:45000/play/a00m
+http://181.10.123.154:14000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
 http://181.10.123.154:14000/play/a030/index.m3u8
