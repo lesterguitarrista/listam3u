@@ -2658,6 +2658,7 @@ http://216.122.181.10:8081/play/a0lx/index.m3u8
 http://190.5.200.91:45000/play/a0yn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="Especiales y Documentales", HGTV
 http://190.102.242.130:25461/66486141/1234/87
+http://181.10.123.154:14000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Especiales y Documentales", El Gourmet
 http://179.189.222.226:8000/play/ch27
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/food-network-logo-black-and-white.png" group-title="Especiales y Documentales", Food Network
@@ -2666,15 +2667,15 @@ http://179.189.222.226:8000/play/ch28
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DEPORTES XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium
-http://190.107.20.43:6004/play/a0dh
+http://181.10.123.154:14000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN
-http://190.5.200.91:45000/play/a0vn
+http://181.10.123.154:14000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 2
-http://190.5.200.91:45000/play/a04e
+http://181.10.123.154:14000/play/a059/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 3
-http://190.5.200.91:45000/play/a04b
+http://181.10.123.154:14000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 4
-http://190.5.200.91:45000/play/a0gi
+http://181.10.123.154:14000/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 5
 http://190.5.200.91:45000/play/a0hj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 6
