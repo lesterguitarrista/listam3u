@@ -117,6 +117,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPELICULAS PRUEBAXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 channel-id="5f23102d5e239d00074b092a" tvg-id="5f23102d5e239d00074b092a" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Empeños a lo Bestia
+https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
+
+#EXTINF:-1 channel-id="64025592953da40008bf9238" tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Obsesión por los Autos
+https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpHcfg8/tomjerry.jpg" group-title="Mas Series 🧟",Tom y Jerry (LATAM)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t44TmmhX/sal.jpg" group-title="Mas Series 🧟",Saved By The Bell | Opción 2 (US)
