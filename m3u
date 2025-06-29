@@ -46,6 +46,12 @@ http://190.149.62.46:8004/play/a0jm/index.m3u8
 https://gohyperspeed.com/2022390763/6kFtFN8ZQb/200171418
 #EXTINF://-1 tvg-id="foxsport.us" tvg-name="Fox Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/152px-FOX_Sports_logo.svg.png", Fox Sport
 https://gohyperspeed.com/2022390763/6kFtFN8ZQb/200163462
+#EXTINF://-1 tvg-id="TNTSPORT1.us" tvg-name="TNT Sport1" tvg-logo="https://media.info/l/f/1/1539.1690027797.png", TNT Sport1
+https://gohyperspeed.com/2022390763/6kFtFN8ZQb/200167174
+#EXTINF://-1 tvg-id="ESPN1.us" tvg-name="ESPN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", Espn1
+https://gohyperspeed.com/2022390763/6kFtFN8ZQb/5936
+#EXTINF://-1 tvg-id="TNTSPORT1.us" tvg-name="TNT Sport1" tvg-logo="", TNT Sport1
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
