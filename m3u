@@ -1395,62 +1395,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV  | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg", TV Pop  | CL
-https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3  | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 ,007. A&E
-http://45.5.117.182:8000/play/a0hr/index.m3u8
-#EXTINF:-1 ,008. A&E HD
-http://45.5.117.182:8000/play/a0fm/index.m3u8
-#EXTINF:-1 ,009. AMC
-http://45.5.117.182:8000/play/a0f5/index.m3u8
-#EXTINF:-1 ,010. AMC HD
-http://45.5.117.182:8000/play/a0fn/index.m3u8
-#EXTINF:-1 ,005. 42 - Extra TV 42
-http://45.5.117.182:8000/play/a0e0/index.m3u8
-#EXTINF:-1 ,TNT
-http://208.86.19.13:81/16.stream/index.m3u8
-#EXTINF:-1 ,SONY
-http://45.5.117.182:8000/play/a0ho/index.m3u8
-#EXTINF:-1 ,SONY HD
-http://45.5.117.182:8000/play/a0i3/index.m3u8
-
-#EXTINF:-1 ,Multipremier
-http://45.5.117.182:8000/play/a0j4/index.m3u8
-#EXTINF:-1 ,Nat Geo HD
-http://45.5.117.182:8000/play/a0jr/index.m3u8
-#EXTINF:-1 ,National Geographic
-http://45.5.117.182:8000/play/a0ey/index.m3u8
-#EXTINF:-1 ,NEXT - PAN
-http://45.5.117.182:8000/play/a0g5/index.m3u8
-#EXTINF:-1 ,Nick Jr
-http://45.5.117.182:8000/play/a0eo/index.m3u8
-#EXTINF:-1 ,Nick SIM HD
-http://45.5.117.182:8000/play/a0i7/index.m3u8
-#EXTINF:-1 ,Nickelodeon
-http://45.5.117.182:8000/play/a0is/index.m3u8
-
-#EXTINF:-1 ,Discovery Channel HD
-http://45.5.117.182:8000/play/a0ju/index.m3u8
-#EXTINF:-1 ,Discovery Home & Health
-http://45.5.117.182:8000/play/a0iw/index.m3u8
-
-#EXTINF:-1 ,Discovery Kids
-http://45.5.117.182:8000/play/a0ir/index.m3u8
-#EXTINF:-1 ,Discovery Turbo
-http://45.5.117.182:8000/play/a0iS/index.m3u8
-#EXTINF:-1 ,Discovery World HD
-http://45.5.117.182:8000/play/a0jv/index.m3u8
-#EXTINF:-1 ,Disney
-http://45.5.117.182:8000/play/a0it/index.m3u8
-#EXTINF:-1 ,Disney JR
-http://45.5.117.182:8000/play/a0eq/index.m3u8
-#EXTINF:-1 ,Paramount
-http://45.5.117.182:8000/play/a0e3/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.MUSICALES Y MAS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -1517,20 +1461,6 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="LATINO",GenTV HD
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 1 HD" tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 1 HD
-https://live.seo.tv.bo/live/1SEO.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 3 NOVELAS HD" tvg-logo="https://i.imgur.com/iUf7GNf.png" group-title="LATINO",SEO TV 3 NOVELAS HD
-https://live.seo.tv.bo/live/3SEO.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 4 PELICULAS HD" tvg-logo="https://i.imgur.com/816xTc2.png" group-title="LATINO",SEO TV 4 PELICULAS HD
-https://live.seo.tv.bo/live/4SEO.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 6 HD" tvg-logo="https://i.imgur.com/k2Ao62m.png" group-title="LATINO",SEO TV 6 HD
-https://live.seo.tv.bo/live/6SEO.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 7 HD" tvg-logo="https://i.imgur.com/EzJHkWV.png" group-title="LATINO",SEO TV 7 HD
-https://live.seo.tv.bo/live/7SEO.m3u8
 
 #EXTINF:-1 tvg-id="El Magic TV" tvg-name="El Magic TV" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
 https://kali.vdopanel.com:3448/stream/play.m3u8
@@ -1547,8 +1477,6 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="LATINO",Horrorfy HD
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LATINO",Retro Plus TV 3 HD
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://66.media.tumblr.com/5d12140d1d99c658767b59f27ba5aeb8/90832fcc1fa475fc-f8/s250x400/9adf78910af5fa8e6a33c3dead483056b2073c36.png" group-title="LATINO",Buin Somos Todos
 https://bst.buin.cl/0.m3u8
@@ -1561,12 +1489,6 @@ https://tls-cl.cdnz.cl/music/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICAS",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV HD
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSICAS",Retro Plus TV 2 HD
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
@@ -2151,7 +2073,7 @@ https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Sepultu
 https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Slipknot%20day%20of%20the%20gusano%20live%20in%20mexico%20%282017%29.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Slipknot Disasterpieces" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Disasterpieces.png" tvg-group="netflix", Slipknot Disasterpieces
-https://ia601509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Slipknot%20disasterpieces%20%282002%29.mp4
+https://ia903106.us.archive.org/22/items/slipknot-live-london-disasterpieces-2002/Slipknot%20-%20Live%20London%20Dockland%20Arena%20-%20Disasterpieces%20DVD%2022112002%20HD.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Soundgarden Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fc8037a9197a6df3c103b169bd981b25462a4b9e1904fd34e954a4b3bc0b67a0._UY500_UX667_RI_TTW_.jpg" tvg-group="netflix", SoundGarden Itunes Festival
 https://ia801509.us.archive.org/24/items/rammstein-paris-2017/CONCIERTOS/Soundgarden%202014%20sxsw%20itunes%20festival%20%282014%29.mp4
