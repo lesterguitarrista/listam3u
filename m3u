@@ -2580,7 +2580,6 @@ http://216.122.181.10:8081/play/a0ki/index.m3u8
 http://216.122.181.10:8081/play/a0oj/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
-http://23.237.104.106:8080/USA_ID/index.m3u8
 https://gohyperspeed.com/2022390763/6kFtFN8ZQb/200165515
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Premium | Latino",Discovery Channel | Opción 3 (LATAM)
