@@ -99,6 +99,10 @@ http://216.122.181.10:8081/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-id="ES5000001CS" tvg-logo="https://i.postimg.cc/4xQ4qsG2/loo.jpg" group-title="Animados | Variado",LooLoo Kids TV | Samsung TV Plus (ES)
 https://jmp2.uk/sam-ES5000001CS.m3u8
 
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SN7srrSn/historia2.jpg" group-title="Ciencia | Cultura 🪐",Historia (US)
 https://jmp2.uk/sam-US2600019IC.m3u8
 
