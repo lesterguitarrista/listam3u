@@ -2385,13 +2385,13 @@ http://181.189.241.114:5050/play/a0g6
 http://190.5.200.91:45000/play/a00d
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
-http://45.228.234.167:8000/play/a047/index.m3u8
+http://38.180.133.31:8000/play/a0p4/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png",  BET (USA)
 http://170.254.18.106/BET/index.m3u8
 
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/640px-Cinelatino_logo.png",MultiPremier
-http://45.228.234.167:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/640px-Cinelatino_logo.png",Cine Latino
+http://38.180.133.31:8000/play/a0qa/index.m3u8
 
 
 #EXTINF:-1 tvg-id="BET.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png",  BET
@@ -2533,7 +2533,7 @@ https://cdn.lawandcrime.net/rewind/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE HD
-http://190.5.200.91:45000/play/a10p
+http://38.180.133.31:8000/play/a0l5/index.m3u8
 
 #EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="Retro" , MacGyver
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
