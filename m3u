@@ -22,7 +22,7 @@ http://45.228.234.167:8000/play/a01k/index.m3u8
 http://190.149.62.46:8004/play/a0lf/index.m3u8
 
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
-https://ch1-tva.duin.dev/hls/stream.m3u8
+http://38.180.133.31:8000/play/a0oa/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
 http://190.149.62.46:8004/play/a0mj/index.m3u8
@@ -223,8 +223,8 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
 http://190.149.62.46:8004/play/a0nl/index.m3u8
 
-#EXTINF:-1 tvg-id="Clarosport" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro Sport
-http://190.5.200.91:45000/play/a00g
+#EXTINF:-1 tvg-id="Clarocinema.gt" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro cinema
+http://38.180.133.31:8000/play/a0p0/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
@@ -2379,8 +2379,7 @@ http://181.189.241.114:5050/play/a0q4
 http://190.5.200.91:45000/play/a0hk
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://45.5.116.178:8000/play/a021/index.m3u8
-http://38.224.230.122:8000/play/a05r/index.m3u8
+http://38.180.133.31:8000/play/a0qi/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
 http://181.189.241.114:5050/play/a0g6
@@ -2639,7 +2638,7 @@ http://190.5.200.91:45000/play/a100
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VARIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="Especiales y Documentales", Animal Planet
-http://45.5.116.178:8000/play/a046/index.m3u8
+http://38.180.133.31:8000/play/a0nv/index.m3u8
 
 #EXTINF:-1 tvg-id="paramount.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Paramount_Pictures_%282022%29.png" Paramount
 http://181.78.106.127:9000/play/ca082/index.m3u8
