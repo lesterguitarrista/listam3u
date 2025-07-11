@@ -2352,8 +2352,7 @@ http://190.5.200.91:45000/play/a005
 
 
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",H&H
-http://190.5.200.91:45000/play/a0gg
-
+http://38.180.133.31:8000/play/a0p9/index.m3u8
 
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
 http://216.122.181.10:8081/play/a0gj/index.m3u8
@@ -2429,7 +2428,7 @@ http://181.78.106.127:9000/play/ca083/index.m3u8
 http://190.149.62.46:8004/play/a0jo/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
-http://181.10.123.154:14000/play/a075/index.m3u8
+http://38.180.133.31:8000/play/a0n2/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
 http://181.10.123.154:14000/play/a05e/index.m3u8
