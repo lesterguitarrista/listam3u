@@ -2460,8 +2460,8 @@ http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 http://181.10.123.154:14000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
-http://38.180.133.31:8000/play/a0le/index.m3u8
 http://190.61.42.218:9000/play/a02s
+http://38.180.133.31:8000/play/a0le/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
 http://181.10.123.154:14000/play/a06p/index.m3u8
@@ -2503,8 +2503,7 @@ http://181.189.241.114:5050/play/a03i
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Espanol
-http://45.228.234.167:8000/play/a01x/index.m3u8
-http://190.5.200.91:45000/play/a0hm
+http://38.180.133.31:8000/play/a0o1/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",AMC MX
 http://38.180.133.31:8000/play/a0nj/index.m3u8
