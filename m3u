@@ -80,8 +80,17 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxH0DJz0/pelim.jpg" group-title="Películas | Series",Pelimex (MX)
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-id="65786d29dfed030008ce2fa7" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Rock
 https://jmp2.uk/plu-65786d29dfed030008ce2fa7.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTV.pe",Planeta TV (720p) [Not 24/7]
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-id="UranioTV.pe",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/uraniotv/index.m3u8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 channel-id="66a26a7846762a0008258d4e" tvg-id="66a26a7846762a0008258d4e" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Baywatch
 https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
