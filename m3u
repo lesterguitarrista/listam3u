@@ -1979,6 +1979,9 @@ https://jmp2.uk/plu-6582f7d612d5ee00089a663d.m3u8
 #EXTINF:-1 channel-id="5e1f7e089f23700009d66303" tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="Pluto TV | Estados Unidos",COPS
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
 
+#EXTINF:-1 tvg-id="Cops.us" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="Pluto TV | Estados Unidos",COPs English
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61a222b5-87a2-410f-a84b-7319bf133c3a
+
 #EXTINF:-1 channel-id="DuckDynasty" tvg-id="DuckDynasty" tvg-logo="https://banner2.cleanpng.com/20180525/egv/kisspng-the-duck-commander-family-how-faith-family-and-5b07a0f40bed21.6659722215272266120489.jpg", Duck Dynasty
 https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8
 
