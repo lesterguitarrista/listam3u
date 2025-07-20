@@ -1878,8 +1878,7 @@ http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 http://181.10.123.154:14000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
-http://190.61.42.218:9000/play/a02s
-
+http://160.19.201.65:8000/play/a061
 
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
 http://181.10.123.154:14000/play/a06p/index.m3u8
