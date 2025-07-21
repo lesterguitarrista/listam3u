@@ -248,9 +248,38 @@ UVA tv
 #EXTINF:-1 tvg-id"uvatvhdrd" tvg-logo="https://scontent.fbru2-1.fna.fbcdn.net/v/t39.30808-6/400410565_122105924618106094_3575595413868690358_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_jz2BAFpdeoQ7kNvwF3XLgi&_nc_oc=AdkXxmwAMs6BsPiBF8AtZV9nf_jSu6CG-qU_ANJ5pXRD4XQO5MCD9iRJOMUmZV-zTfQkQOpPAIfu0LMLQyDLDzA4&_nc_zt=23&_nc_ht=scontent.fbru2-1.fna&_nc_gid=0GuyjucD2hPubVpUARXUAw&oh=00_AfShhs67BgyvZbgQXuJ0R2nnYzvPmo21RnrGAx1ZWrsjZw&oe=68840D0E", UVA TV
 https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
 
-
+CIUDAD MAGICA
 #EXTINF:-1 tvg-id"verycoolfgr" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg", CIUDAD MAGICA
 https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
+
+TALTAL ANIME
+#EXTINF:-1 tvg-id"taltal" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000018-c0ed9c0eda/GGGGGGGG.png?ph=d0cdb7b2de", ANIME taltal
+https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
+
+CANAL 69
+#EXTINF:-1 tvg-id"Canal69" tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg", CANAL 69
+https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
+
+#EXTINF:-1 tvg-id"tvwxfxxgo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg", WEPA TV
+https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8
+
+SS
+#EXTINF:-1 tvg-id"livess" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/SSTV_logo_%282023%29.png", Livetvproducciones ss
+https://live20.bozztv.com/akamaissh101/ssh101/livess/chunks.m3u8
+
+COSTAMASTER
+#EXTINF:-1 tvg-id"costa800122" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8T9jSLizgfMmFQyrKEGCF1IbrxydW8Da1o3-ftnvhVkHEKoHMbu466sxqARnO7MtuH0&usqp=CAU", TELECOSTA
+https://live20.bozztv.com/akamaissh101/ssh101/costa800122/chunks.m3u8
+
+STV LIVE
+#EXTINF:-1 tvg-id"2410samuel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/STV_LOGO.png",STV LIVE
+https://live20.bozztv.com/akamaissh101/ssh101/2410samuel/chunks.m3u8
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
@@ -273,7 +302,7 @@ Barbetv
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 #EXTINF:-1 tvg-id="RetroTv.mx" tvg-logo="https://image.winudf.com/v2/image1/cmV0cm8udHZvbmxpbmUyMDIzX3NjcmVlbl8wXzE3MDQ3MjU5NTZfMDc2/screen-0.jpg?fakeurl=1&type=.jpg", Retro Tv
-https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/chocobeats/chunks.m3u8
 
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica  | US
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
