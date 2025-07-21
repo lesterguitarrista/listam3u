@@ -236,6 +236,13 @@ SUPERCABLE SOLOLA
 #EXTINF:-1 tvg-id"supercable.gt" tvg-logo="https://static.wixstatic.com/media/7acae1_65d43779fb554a2282027c7d32e4ab33~mv2.png/v1/fill/w_790,h_790,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Supercable.png", SUPERCABLE
 https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
 
+RETROPALMARES
+#EXTINF:-1 tvg-id"retropalmares.cr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1MpcNtt8Gv-C9dVhoP94HG6YmUq-PJz1a6dypksufhiQPxmYPMnSVWEYwp_boWiecTPZRhi92zIAotugjHwRfQJIxCqxGhsZTlVZ6vufMaUz_eZupEJ7aVufwwJrYtaTMsTDYw_2Cmn-GgvaEykn35VE96ZkL32aG4pcWEGaOSw3Nw3YLxFbsFOqeKOBy/s1280/TV%20RETRO%20PALMARES.png", Retro Palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
