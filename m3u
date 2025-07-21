@@ -206,9 +206,17 @@ https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
 GTV GT
 #EXTINF:-1 tvg-id"GTV" tvg-logo="https://emisorasgt.com/wp-content/uploads/2025/03/Canal-GTV-de-Guatemala-en-vivo.webp" , Canal GTV Guatemala.
-https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
-Cosmos
+LUNA TV
+#EXTINF:-1 tvg-id"luna.gt" tvg-logo="https://archive.org/details/canal-luna", LUNA Xela
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+
+VISION TV
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="Visiontv.gt" group-title="https://tvinsur.com/wp-content/uploads/2023/12/vision-tv-solola.webp" , VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+COSMOS TV
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV (720p)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -216,9 +224,25 @@ LAS ESTRELLAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+QUESADA JUTIAPA
+#EXTINF:-1 tvg-id"Quesadatv.gt" tvg-logo="https://static.wixstatic.com/media/7acae1_4b127929100440449beaadcd74690ede~mv2.png/v1/fill/w_744,h_746,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20QuezadaTv.png",Quesada tv Jutiapa
+https://cdn.streamhispanatv.net:3059/live/canal26quezadalive.m3u8
+
+Mas Tv Toto
+#EXTINF:-1 tvg-id"mastv.gt" tvg-logo="https://static.wixstatic.com/media/7acae1_0f0f413f6c58499f91b93187b809edd3~mv2.png/v1/fill/w_762,h_762,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/mastv_toto.png", Mas tv TOTO
+https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
+
+SUPERCABLE SOLOLA
+#EXTINF:-1 tvg-id"supercable.gt" tvg-logo="https://static.wixstatic.com/media/7acae1_65d43779fb554a2282027c7d32e4ab33~mv2.png/v1/fill/w_790,h_790,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Supercable.png", SUPERCABLE
+https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
+
 
 #EXTINF:-1 tvg-id="classicchannel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", Classic Channel | CL
-https://paneltv.online:1936/8046/8046/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
 
 Barbetv
 #EXTINF:-1 tvg-id="comoantes.gt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOusZ2bwDeroQ6x7SZCGsHOLimY3pXpTyn9oGgK921GfBGo_MuiDBNnRuY7lkQs3T8i8&usqp=CAU" ,Como Antes Gt
