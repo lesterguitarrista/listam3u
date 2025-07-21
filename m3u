@@ -31,7 +31,7 @@ http://190.149.62.46:8004/play/a0mj/index.m3u8
 https://ch2-tva.duin.dev/hls/0/stream.m3u8
 
 #EXTINF:-0, tvg-id"canal13.ni" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png", CANAL 13 - NI
-http://38.224.230.122:8000/play/a0jn/index.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(1CiLGY-WxRO5mrD_WvEZDudmH-sPv0FeRl618VUKo3g5uvcJhFja0XvlocrCpzTzmuZ6lE2id1hSyJbC9pMBMs_zmA7jS0_F-uyp04uggclFqrmvep_WfjZy_DGcpbO-)/dm/3/x7u200z/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="FAMILIA",Univision Panregional 
 http://216.122.181.10:8081/play/a0lz/index.m3u8
