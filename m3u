@@ -240,9 +240,26 @@ RETROPALMARES
 #EXTINF:-1 tvg-id"retropalmares.cr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1MpcNtt8Gv-C9dVhoP94HG6YmUq-PJz1a6dypksufhiQPxmYPMnSVWEYwp_boWiecTPZRhi92zIAotugjHwRfQJIxCqxGhsZTlVZ6vufMaUz_eZupEJ7aVufwwJrYtaTMsTDYw_2Cmn-GgvaEykn35VE96ZkL32aG4pcWEGaOSw3Nw3YLxFbsFOqeKOBy/s1280/TV%20RETRO%20PALMARES.png", Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
-#EXTINF:-1 tvg-id"" tvg-logo="",
+UNICENTRO tv
+#EXTINF:-1 tvg-id"unicentro2025" tvg-logo="https://i.imgur.com/lhewC3K.png", UNICENTRO
+https://live20.bozztv.com/akamaissh101/ssh101/unicentro2025/chunks.m3u8
+
+UVA tv
+#EXTINF:-1 tvg-id"uvatvhdrd" tvg-logo="https://scontent.fbru2-1.fna.fbcdn.net/v/t39.30808-6/400410565_122105924618106094_3575595413868690358_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_jz2BAFpdeoQ7kNvwF3XLgi&_nc_oc=AdkXxmwAMs6BsPiBF8AtZV9nf_jSu6CG-qU_ANJ5pXRD4XQO5MCD9iRJOMUmZV-zTfQkQOpPAIfu0LMLQyDLDzA4&_nc_zt=23&_nc_ht=scontent.fbru2-1.fna&_nc_gid=0GuyjucD2hPubVpUARXUAw&oh=00_AfShhs67BgyvZbgQXuJ0R2nnYzvPmo21RnrGAx1ZWrsjZw&oe=68840D0E", UVA TV
+https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id"verycoolfgr" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg", CIUDAD MAGICA
+https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
