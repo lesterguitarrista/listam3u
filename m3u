@@ -98,19 +98,34 @@ https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
 🧟",Los Simpsons | Casita del Horror (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
-https://dl.dropboxusercontent.com/s/tp3pqy7uazah11v/COLEDETECTIVESUELTO.M3U
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+BABY SHARK TV
 #EXTINF:0 channel-id="baby-shark-tv" channel-number="3760" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Baby Shark TV" tvc-guide-description="Your child can dance and learn with Baby Shark TV! Tune in for engaging nursery rhymes and lessons on healthy habits, colors, letters, and more!" group-title="Kids", Baby Shark TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=07641910-61ff-11ef-93a7-0b6875eb1caa&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6b77275-9fe0-4bfb-af0b-0ae858062b84&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV | Opción 3 (LATAM)
+BABY TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
 http://216.122.181.10:8081/play/a0hq/index.m3u8
 
-#EXTINF:-1 tvg-id="ES5000001CS" tvg-logo="https://i.postimg.cc/4xQ4qsG2/loo.jpg" group-title="Animados | Variado",LooLoo Kids TV | Samsung TV Plus (ES)
+LOOLOO KIDS
+#EXTINF:-1 tvg-id="ES5000001CS" tvg-logo="https://i.postimg.cc/4xQ4qsG2/loo.jpg" group-title="Animados | Variado",LooLoo Kids NIENKE
 https://jmp2.uk/sam-ES5000001CS.m3u8
 
-#EXTINF:-1 tvg-id="BebecitoBumysusamigos.us",Bebecito Bum y sus amigos
+BUMBA TV
+#EXTINF:-1 tvg-id"" tvg-logo="https://studio100.com/thumbnail/hero-slider-logo/3870/logo.png", BUMBA NIENKE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753197736/ei/SFh_aJqkNd2z6dsPxqbb4AU/ip/2a02:a03f:e430:3601:14bf:424a:d3bf:5eb/id/ElMphbjQTf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMPmffKJTcOYtaXSlSNC2dPSDpD9-8QPFhl9qPtqQCO9WpnYLNcJZ2einrxT8MLPz7wRFmrmI_t/spc/l3OVKSzVKT1jFgAlBzM8H0A10mVcPMCoWFhpyTWK-yMr0rYmDPwRq0758hwwhhMfgZMnC0mzV6E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,playlist_duration,manifest_duration,maudio,bui,spc,vprv,go,rqh,itag,playlist_type/sig/AJfQdSswRAIgFzSuAZNfADzDYngKup7QI85PKTIPct-MS52FET6Z-ogCIH47vIno62tF1JJ9FHsPyqVT5_RdUmQjco_pA7ZbEkZq/file/index.m3u8
+
+BEBECITO BUM
+#EXTINF:-1 tvg-id="BebecitoBumysusamigos.us",Bebecito Bum NIENKE
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
+
+LITTLE BABY BUM
+#EXTINF:-1 tvg-name="Little Baby Bum" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="PLUTO USA",Little Baby Bum NIENKE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxOTROSxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
@@ -133,8 +148,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg6wRPQf/seamos.jpg" group-title="Animados | Variado",Seamos Niños | TV Tica (CR)
 https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
 
-#EXTINF:-1 tvg-name="Little Baby Bum" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="PLUTO USA",Little Baby Bum
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXfgHJwk/cinefri.jpg" group-title="Películas | Series",Cine Friki (ES)
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
@@ -279,9 +292,6 @@ GOGOPLAY TV
 #EXTINF:-1 tvg-id"gogoplayhd" tvg-logo="https://ofutbol.jdoxx.com/files/channels/679e0c1UYB.png", GOGOPLAY TV
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplayhd/chunks.m3u8
 
-BUMBA NiENKE
-#EXTINF:-1 tvg-id"" tvg-logo="https://studio100.com/thumbnail/hero-slider-logo/3870/logo.png", BUMBA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753197736/ei/SFh_aJqkNd2z6dsPxqbb4AU/ip/2a02:a03f:e430:3601:14bf:424a:d3bf:5eb/id/ElMphbjQTf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMPmffKJTcOYtaXSlSNC2dPSDpD9-8QPFhl9qPtqQCO9WpnYLNcJZ2einrxT8MLPz7wRFmrmI_t/spc/l3OVKSzVKT1jFgAlBzM8H0A10mVcPMCoWFhpyTWK-yMr0rYmDPwRq0758hwwhhMfgZMnC0mzV6E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,playlist_duration,manifest_duration,maudio,bui,spc,vprv,go,rqh,itag,playlist_type/sig/AJfQdSswRAIgFzSuAZNfADzDYngKup7QI85PKTIPct-MS52FET6Z-ogCIH47vIno62tF1JJ9FHsPyqVT5_RdUmQjco_pA7ZbEkZq/file/index.m3u8
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
