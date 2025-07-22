@@ -275,11 +275,13 @@ STV LIVE
 #EXTINF:-1 tvg-id"2410samuel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/STV_LOGO.png",STV LIVE
 https://live20.bozztv.com/akamaissh101/ssh101/2410samuel/chunks.m3u8
 
-#EXTINF:-1 tvg-id"" tvg-logo="",
+GOGOPLAY TV
+#EXTINF:-1 tvg-id"gogoplayhd" tvg-logo="https://ofutbol.jdoxx.com/files/channels/679e0c1UYB.png", GOGOPLAY TV
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplayhd/chunks.m3u8
 
-
-#EXTINF:-1 tvg-id"" tvg-logo="",
-
+BUMBA NiENKE
+#EXTINF:-1 tvg-id"" tvg-logo="https://studio100.com/thumbnail/hero-slider-logo/3870/logo.png", BUMBA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753197736/ei/SFh_aJqkNd2z6dsPxqbb4AU/ip/2a02:a03f:e430:3601:14bf:424a:d3bf:5eb/id/ElMphbjQTf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMPmffKJTcOYtaXSlSNC2dPSDpD9-8QPFhl9qPtqQCO9WpnYLNcJZ2einrxT8MLPz7wRFmrmI_t/spc/l3OVKSzVKT1jFgAlBzM8H0A10mVcPMCoWFhpyTWK-yMr0rYmDPwRq0758hwwhhMfgZMnC0mzV6E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,playlist_duration,manifest_duration,maudio,bui,spc,vprv,go,rqh,itag,playlist_type/sig/AJfQdSswRAIgFzSuAZNfADzDYngKup7QI85PKTIPct-MS52FET6Z-ogCIH47vIno62tF1JJ9FHsPyqVT5_RdUmQjco_pA7ZbEkZq/file/index.m3u8
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
