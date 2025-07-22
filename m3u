@@ -177,6 +177,8 @@ https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2JtbQVJ/dragonb.jpg" group-title="Mas Series 🧟",Dragon Ball | Goku TV (LATAM)
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/448-4481377_dragon-ball-super-logo-png-dragonball-super-logo.png" group-title="Mas Series 🧟",Dragon Ball  Super| Goku 
+https://live2.saohgdasregions.fun:9091/191_/index.m3u8?token=14e4f5385a614472402e91b303dc79fc79641bd8-7c71c6f92cc96deab2682210029f9a3c-1753208393-1753186793&remote=87.66.236.128
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -292,6 +294,21 @@ GOGOPLAY TV
 #EXTINF:-1 tvg-id"gogoplayhd" tvg-logo="https://ofutbol.jdoxx.com/files/channels/679e0c1UYB.png", GOGOPLAY TV
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplayhd/chunks.m3u8
 
+VARIED TV
+#EXTINF:-1 tvg-id"variedtvonline" tvg-logo="https://freepngimg.com/download/spain/74642-television-communication-vector-spain-android-channel-icon.png",
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+
+CONTANZA TV
+#EXTINF:-1 tvg-id"ctv8hd" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-12-13-43-54.jpg?fit=506%2C392&ssl=1", CONTANZA TV
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+
+BIG RETRO TV
+#EXTINF:-1 tvg-id"bigchannel" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029508072-462ZUHW3O38Z7QNAUGOV/kiss-cut-stickers-5.5x5.5-default-61560d802b93c.png", BIG RETRO TV
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
+CHILE VISUAL TV
+#EXTINF:-1 tvg-id"" tvg-logo="https://chilevisual.live/canalfilm/images/logo.png", CHILE VISUAL TV
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
@@ -303,6 +320,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplayhd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
+
 
 
 
