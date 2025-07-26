@@ -59,26 +59,40 @@ https://gohyperspeed.com/2022390763/6kFtFN8ZQb/5936
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+VIX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxXxLW9D/aqui.jpg" group-title="Mas Series 🧟",Aquí y Ahora | Vix (LATAM)
 https://jmp2.uk/sam-USBD1700015J1.m3u8
 
+GOT TALENT
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pq5DH6jt/amer.jpg" group-title="Mas Series 🧟",America's Got Talent (UK)
 https://jmp2.uk/sam-GBBC2300002GG.m3u8
 
+60DAYS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLySxj0T/60.jpg" group-title="Mas Series 🧟",60 Days In | by A&E (US)
 https://jmp2.uk/sam-USBD42000073E.m3u8
 
+I SURVIVED
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYVnB0pq/is.jpg" group-title="Mas Series 🧟",I Survived | by A&E (US)
 https://jmp2.uk/sam-USBD1700008H9.m3u8
 
+LOCADEMIA O VARIAS PELICULAS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnxD7mzv/doo.jpg" group-title="Mas Series 🧟",Locademia de Policia | Dodo TV (CL)
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
 
+5STARMAX
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
+PELIMEX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxH0DJz0/pelim.jpg" group-title="Películas | Series",Pelimex (MX)
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
+
+#EXTINF:0,FMH Family
+http://64.76.53.91:9002/play/a003
+#EXTINF:0,FMH Kids
+http://64.76.53.91:9002/play/a005
+#EXTINF:0,FMH Movies
+http://64.76.53.91:9002/play/a008
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-id="65786d29dfed030008ce2fa7" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Rock
@@ -2022,7 +2036,7 @@ http://181.10.123.154:14000/play/a04s/index.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
-http://177.93.46.163:8000/play/a00b
+http://45.4.169.50:8000/play/a06q
 
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
 http://181.189.241.114:5050/play/a03i
