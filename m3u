@@ -1,6 +1,6 @@
 #EXTM3U
 
-CANAL  3
+CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 
@@ -17,7 +17,7 @@ GUATEVISION
 http://190.149.62.46:8004/play/a0jw/index.m3u8
 
 CANAL 13
-#EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal13GT2022.png",Canal 13
+#EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
 http://190.149.62.46:8004/play/a0le/index.m3u8
 
 CANAL 11
