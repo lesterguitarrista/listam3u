@@ -70,6 +70,15 @@ https://gohyperspeed.com/2022390763/6kFtFN8ZQb/200167174
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+TUBI 
+#EXTINF:-1 tvg-id="",Cine Estrella (1080p)
+https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
+
+LATINO TV CLASSIC
+#EXTINF:-1 tvg-id="",Latino Classic TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+
+
 VIX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxXxLW9D/aqui.jpg" group-title="Mas Series 🧟",Aquí y Ahora | Vix (LATAM)
 https://jmp2.uk/sam-USBD1700015J1.m3u8
@@ -1848,6 +1857,7 @@ http://216.122.181.10:8081/play/a0oj/index.m3u8
 
 DISCOVERY ID US
 #EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
+https://v16.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=H-yzEBczExcyWlbe1Iv17w&expires=1754082249&user_id=MmEwMjphMDNmOmU0MzA6MzYwMTpkZWU6MWNhOTo5Y2QzOjU0YTE=
 
 DISCOVERY CHANNEL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Premium | Latino",Discovery Channel | Opción 3 (LATAM)
@@ -1871,7 +1881,7 @@ http://216.122.181.10:8081/play/a0lx/index.m3u8
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
-
+http://61.216.11.93:49981/stream/channelid/458490002?profile=webtv-h264-aac-mpegts
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DEPORTES XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XX
 SPN PREMIUM
