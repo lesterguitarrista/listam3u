@@ -41,7 +41,7 @@ UNIVISION
 http://216.122.181.10:8081/play/a0lz/index.m3u8
 
 C4 EN ALERTA
-#EXTINF:-1 group-title="24/7", C4 En Alerta
+#EXTINF:-1 group-title="24/7", tvg-logo="https://cdn2.telediario.mx/uploads/media/2025/01/02/c-en-alerta.jpg" C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
 TIGO SPORTS
@@ -49,33 +49,33 @@ TIGO SPORTS
 http://190.149.62.46:8004/play/a0nf/index.m3u8
 
 CLARO SPORTS1
-#EXTINF:-1 group-title="-",Claro Sports 1 HD
+#EXTINF:-1 group-title="-",tvg-logo="" , Claro Sports 1 HD
 http://190.149.62.46:8004/play/a0jl/index.m3u8
 
 CLARO SPORTS2
-#EXTINF:-1 group-title="-",Claro Sports 2 HD
+#EXTINF:-1 group-title="-", tvg-logo="" ,Claro Sports 2 HD
 http://190.149.62.46:8004/play/a0jm/index.m3u8
 
 TUDN
 #EXTINF://-1 tvg-id="tudn.us" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png?20200204003557", TUDN
-https://gohyperspeed.com/2022390763/6kFtFN8ZQb/200171418
+
 
 FOX SPORT
 #EXTINF://-1 tvg-id="foxsport.us" tvg-name="Fox Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/152px-FOX_Sports_logo.svg.png", Fox Sport
-https://gohyperspeed.com/2022390763/6kFtFN8ZQb/200163462
+
 
 TNT SPORTS
 #EXTINF://-1 tvg-id="TNTSPORT1.us" tvg-name="TNT Sport1" tvg-logo="https://media.info/l/f/1/1539.1690027797.png", TNT Sport1
-https://gohyperspeed.com/2022390763/6kFtFN8ZQb/200167174
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 TUBI 
-#EXTINF:-1 tvg-id="",Cine Estrella (1080p)
+#EXTINF:-1 tvg-id="", tvg-logo="" , Cine Estrella (1080p)
 https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
 
 LATINO TV CLASSIC
-#EXTINF:-1 tvg-id="",Latino Classic TV
+#EXTINF:-1 tvg-id="", tvg-logo="" , Latino Classic TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
 
 
@@ -107,25 +107,35 @@ PELIMEX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxH0DJz0/pelim.jpg" group-title="Películas | Series",Pelimex (MX)
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 
+FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
 http://64.76.53.91:9002/play/a003
+
+FMH KIDS
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_KIDS.png" , FMH Kids
 http://64.76.53.91:9002/play/a005
+
+FMH MOVIES
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_MOVIES.png" , FMH Movies
 http://64.76.53.91:9002/play/a008
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+MTV ROCK
 #EXTINF:-1 tvg-id="65786d29dfed030008ce2fa7" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Rock
 https://jmp2.uk/plu-65786d29dfed030008ce2fa7.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaTV.pe",Planeta TV (720p) [Not 24/7]
+PLANETA TV
+#EXTINF:-1 tvg-id="PlanetaTV.pe", tvg-logo="" , Planeta TV (720p) [Not 24/7]
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="UranioTV.pe",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+URANIO TV
+#EXTINF:-1 tvg-id="UranioTV.pe", tvg-logo="" , Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+BAY WATCH
 #EXTINF:-1 channel-id="66a26a7846762a0008258d4e" tvg-id="66a26a7846762a0008258d4e" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Baywatch
 https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
 
@@ -149,10 +159,10 @@ https://jmp2.uk/sam-ES5000001CS.m3u8
 
 BUMBA TV
 #EXTINF:-1 tvg-id"" tvg-logo="https://studio100.com/thumbnail/hero-slider-logo/3870/logo.png", BUMBA NIENKE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753370930/ei/0vyBaLL8DNTzi9oPvtvDyQU/ip/2a02:a03f:e430:3601:653d:2e15:7f57:b271/id/ElMphbjQTf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNFl7F3L2133JGehJClS584AhbBXms68f3fcY1Gu4YTEOTID9xd8qJaaP7uZAJb-Fimrvd43zOu/spc/l3OVKYQYItLI4DhYrj5HIDtfDWLbtS2w2htZzbGjqUhUlBW1ezGtK9p_fK2LQTZgJunhindy7_s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912,51542235/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,playlist_duration,manifest_duration,maudio,bui,spc,vprv,go,rqh,itag,playlist_type/sig/AJfQdSswRQIhAKGqAtCJMuQ9Nyg2R5a3u2UwS2uGjiRidyWcjaYo6m8mAiBoeXGrn0jm0_SIs1cEXGCOdvo7wvPCcUPifnjVSj00hw==/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754598738/ei/8riUaN
 
 BEBECITO BUM
-#EXTINF:-1 tvg-id="BebecitoBumysusamigos.us",Bebecito Bum NIENKE
+#EXTINF:-1 tvg-id="BebecitoBumysusamigos.us", tvg-logo="" , Bebecito Bum NIENKE
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
 
 LITTLE BABY BUM
@@ -371,7 +381,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 RETRO TV
 #EXTINF:-1 tvg-id="RetroTv.mx" tvg-logo="https://image.winudf.com/v2/image1/cmV0cm8udHZvbmxpbmUyMDIzX3NjcmVlbl8wXzE3MDQ3MjU5NTZfMDc2/screen-0.jpg?fakeurl=1&type=.jpg", Retro Tv
-https://live20.bozztv.com/akamaissh101/ssh101/chocobeats/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 90s MOVIE
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://i.imgur.com/KoGko6M.png", 90s Throwback
