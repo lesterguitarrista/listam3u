@@ -1747,7 +1747,7 @@ http://181.10.123.154:14000/play/a04s/index.m3u8
 
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w341587673.m3u8
 
 STARCHANNEL us
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
