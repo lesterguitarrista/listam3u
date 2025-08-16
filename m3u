@@ -185,14 +185,15 @@ https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryJ4DPyw/retrotoons.jpg" group-title="Animados | Variado",Retro Toons (LATAM)
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 
-
+90s KIDS
 #EXTINF:0 channel-id="90s-kids-tv" channel-number="3785" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6452c814939a590008567a3b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="90's Kids" tvc-guide-description="Nickelodeon takes you back to the 90s with Rugrats, Hey Arnold! Kenan & Kel and more. It’s all your favorite Nick 90s shows that made The Splat that defined a generation - now you can relive the fun with your own family every day on Pluto TV!" group-title="Kids", 90's Kids
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=07644020-61ff-11ef-93a7-0b6875eb1caa&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7a04f55-15ec-4bec-bbec-19bfa2a19548&userId=&serverSideAds=true
 
+SEAMOS NIÑOS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg6wRPQf/seamos.jpg" group-title="Animados | Variado",Seamos Niños | TV Tica (CR)
 https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
 
-
+CINE FRIKI
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXfgHJwk/cinefri.jpg" group-title="Películas | Series",Cine Friki (ES)
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
 
@@ -219,10 +220,14 @@ https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
  http://tvmate.icu:8080/live/7686199/9576982/66317.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+DRAGON BALL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2JtbQVJ/dragonb.jpg" group-title="Mas Series 🧟",Dragon Ball | Goku TV (LATAM)
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
+ANIME
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/448-4481377_dragon-ball-super-logo-png-dragonball-super-logo.png" group-title="Mas Series 🧟",Dragon Ball  Super| Goku 
-https://live2.saohgdasregions.fun:9091/191_/index.m3u8?token=14e4f5385a614472402e91b303dc79fc79641bd8-7c71c6f92cc96deab2682210029f9a3c-1753208393-1753186793&remote=87.66.236.128
+http://186.194.160.110:9002/play/a0gv/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -240,8 +245,8 @@ http://38.180.133.31:8000/play/a0p0/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-http://24.152.58.126:8000/play/a02j
+http://45.181.206.7:10000/play/a0iw
+
 
 Cascara
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
