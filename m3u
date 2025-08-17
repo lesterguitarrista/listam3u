@@ -70,30 +70,28 @@ TNT SPORTS
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-TUBI 
-#EXTINF:-1 tvg-id="", tvg-logo="" , Cine Estrella (1080p)
-https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
 
-LATINO TV CLASSIC
-#EXTINF:-1 tvg-id="", tvg-logo="" , Latino Classic TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+THE MASK SINGER
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/438-4389600_logo-mask-singer-masked-singer-mask-logo-hd.png",The Masked Singer (720p)
+https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8
 
 
-VIX
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxXxLW9D/aqui.jpg" group-title="Mas Series 🧟",Aquí y Ahora | Vix (LATAM)
-https://jmp2.uk/sam-USBD1700015J1.m3u8
+ICE ROUT TRUCKERS
+#EXTINF:-1 tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2704590/capsule_616x353.jpg?t=1728913885",Ice Road Truckers (1080p)
+https://apollo.production-public.tubi.io/live/ac-ice-road-truckers.m3u8
 
-GOT TALENT
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pq5DH6jt/amer.jpg" group-title="Mas Series 🧟",America's Got Talent (UK)
-https://jmp2.uk/sam-GBBC2300002GG.m3u8
 
-60DAYS
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLySxj0T/60.jpg" group-title="Mas Series 🧟",60 Days In | by A&E (US)
-https://jmp2.uk/sam-USBD42000073E.m3u8
+COURT TV
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo"https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" ,Court TV (720p)
+https://apollo.production-public.tubi.io/live/ac-court-tv.m3u8
 
-I SURVIVED
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYVnB0pq/is.jpg" group-title="Mas Series 🧟",I Survived | by A&E (US)
-https://jmp2.uk/sam-USBD1700008H9.m3u8
+COULD CASE FILES
+#EXTINF:-1 tvg-id="ColdCaseFiles.us", tvg-logo="https://images-cdn3.welcomesoftware.com/assets/cold+case+files.jpg/Zz1lOTgwYmNiMjlkMjkxMWVmYjhlNjFlYTY2MTI5N2IyNg==?width=1200" , Cold Case Files (1080p)
+https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
+
+AMERICAN PICKERS
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/556c5c60e4b07c2b2930eb39/1547498448226-M8VV4I4DSKQOGFYHRUBD/AmericanPickersPoster.png",American Pickers Channel (1080p)
+https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8
 
 LOCADEMIA O VARIAS PELICULAS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnxD7mzv/doo.jpg" group-title="Mas Series 🧟",Locademia de Policia | Dodo TV (CL)
