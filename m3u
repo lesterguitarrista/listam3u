@@ -1754,7 +1754,7 @@ https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w341587673.m3u8
 
 STARCHANNEL us
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
-http://45.4.169.50:8000/play/a06q
+http://143.0.67.77:8000/play/a079/index.m3u8
 
 STARCHannel lat
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
@@ -1874,7 +1874,7 @@ http://216.122.181.10:8081/play/a0oj/index.m3u8
 
 DISCOVERY ID US
 #EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
-https://v16.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=H-yzEBczExcyWlbe1Iv17w&expires=1754082249&user_id=MmEwMjphMDNmOmU0MzA6MzYwMTpkZWU6MWNhOTo5Y2QzOjU0YTE=
+https://tvpass.org/live/CrimePlusInvestigation/hd
 
 DISCOVERY CHANNEL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Premium | Latino",Discovery Channel | Opción 3 (LATAM)
