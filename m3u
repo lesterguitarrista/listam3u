@@ -67,6 +67,18 @@ FOX SPORT
 TNT SPORTS
 #EXTINF://-1 tvg-id="TNTSPORT1.us" tvg-name="TNT Sport1" tvg-logo="https://media.info/l/f/1/1539.1690027797.png", TNT Sport1
 
+APAMIMES 
+#EXTINF:-1 group-title="-", tvg-logo="https://www.africaorigin.net/upload/source/Apanines%20TV.png" , APANINES
+https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
+
+VARIED TV
+#EXTINF:-1 group-title="-", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBnMDVk15RWaRVQux_yhhYa3xUQCZSHRUdA&s" ,  VARIED TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
+
+CANAL 5 VISION LATINA
+#EXTINF:-1 group-title="-", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBDL5bWk-2wbJVMzsqzyGj1-kQN8btuptSxdoBEFh9tfbG-k5LPZ__XegRQO7Ea3liKw&usqp=CAU" , CANAL 5 VISION LATINA
+https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
