@@ -1718,7 +1718,6 @@ http://181.10.123.154:14000/play/a02a/index.m3u8
 
 HBO FAMILY
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
-http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 http://45.181.206.7:10000/play/a0l2
 
 HBO PLUS
