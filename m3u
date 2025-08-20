@@ -397,6 +397,14 @@ NEXT
 #EXTINF:0 type="stream" channelId="-1" group="Movies;Music" logo="https://i.imgur.com/c2rF3SS.png", Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
+HBO FAMILY PRUEBA
+#EXTINF:0 type="stream" channelId="-1" name="C/S• HBO FAMILY (HD) »1«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg", C/S• HBO FAMILY (HD) »1«
+http://higherpro.xyz:8080/977348703tv/zS98fj8tn/135
+
+SPACE PRUEBA
+#EXTINF:0 type="stream" channelId="2896" name="SPACE  HD" group="CANALES CINE" logo="https://i.postimg.cc/ryBTNTr3/Space-Logo-svg.png", SPACE  HD
+http://playtv44.com:8080/976515597/123456/218802
+
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
@@ -628,6 +636,7 @@ CANAL 6 panajachel
 #EXTINF:-1 tvg-id="Canal6Panadish.gt" tvg-logo="https://i.imgur.com/KJWNPiz_d.webp?maxwidth=760&fidelity=grand" , Panadish Gt
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 
+TELECOSTA
 #EXTINF:-1 tvg-id="Telecosta.gt" tvg-logo="https://i.imgur.com/cGYcgBL.png" , TeleCosta Gt
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
@@ -829,7 +838,22 @@ https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Conciertos
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX BELGICA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DEPORTES DISNEY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:0 type="stream" channelId="-1" name="01 | DISNEY + (ESP1)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 01 | DISNEY + (ESP1)
+http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517933.ts
+#EXTINF:0 type="stream" channelId="-1" name="03 | DISNEY + (ESP3)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 03 | DISNEY + (ESP3)
+http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517935.ts
+#EXTINF:0 type="stream" channelId="-1" name="04 | DISNEY + (ESP4)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 04 | DISNEY + (ESP4)
+http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517936.ts
+#EXTINF:0 type="stream" channelId="-1" name="05 | DISNEY + (ESPN 5)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 05 | DISNEY + (ESPN 5)
+http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517938.ts
+#EXTINF:0 type="stream" channelId="-1" name="06 | DISNEY + (ESPN 6)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 06 | DISNEY + (ESPN 6)
+http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517939.ts
+#EXTINF:0 type="stream" channelId="-1" name="07 | DISNEY + (ESPN 7)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 07 | DISNEY + (ESPN 7)
+http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517941.ts
+#EXTINF:0 type="stream" channelId="-1" name="02 | DISNEY + (ESP2)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 02 | DISNEY + (ESP2)
+http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517934.ts
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
