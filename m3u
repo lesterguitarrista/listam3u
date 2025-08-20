@@ -49,11 +49,11 @@ TIGO SPORTS
 http://190.149.62.46:8004/play/a0nf/index.m3u8
 
 CLARO SPORTS1
-#EXTINF:-1 group-title="-",tvg-logo="" , Claro Sports 1 HD
+#EXTINF:-1 group-title="-",tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" , Claro Sports 1 HD
 http://190.149.62.46:8004/play/a0jl/index.m3u8
 
 CLARO SPORTS2
-#EXTINF:-1 group-title="-", tvg-logo="" ,Claro Sports 2 HD
+#EXTINF:-1 group-title="-", tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" ,Claro Sports 2 HD
 http://190.149.62.46:8004/play/a0jm/index.m3u8
 
 TUDN
@@ -66,6 +66,10 @@ FOX SPORT
 
 TNT SPORTS
 #EXTINF://-1 tvg-id="TNTSPORT1.us" tvg-name="TNT Sport1" tvg-logo="https://media.info/l/f/1/1539.1690027797.png", TNT Sport1
+
+DEPORTV
+#EXTINF :-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png",DeporTV
+http://143.0.67.77:8000/play/a06h/index.m3u8
 
 APAMIMES 
 #EXTINF:-1 group-title="-", tvg-logo="https://www.africaorigin.net/upload/source/Apanines%20TV.png" , APANINES
@@ -186,17 +190,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b73956710007
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxOTROSxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XTREMA CARTOON
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SN7srrSn/historia2.jpg" group-title="Ciencia | Cultura 🪐",Historia (US)
-https://jmp2.uk/sam-US2600019IC.m3u8
-
-
+MONI TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QVpP1vY/monitv.jpg" group-title="Animados | Variado",Moni TV | Señal 2 (CL)
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
+RETRO TOONS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryJ4DPyw/retrotoons.jpg" group-title="Animados | Variado",Retro Toons (LATAM)
 https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
@@ -210,10 +213,11 @@ https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
 
 CINE FRIKI
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXfgHJwk/cinefri.jpg" group-title="Películas | Series",Cine Friki (ES)
-https://jmp2.uk/sam-ESBD800001RJ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tR1bkv8f/ww.jpg" group-title="Mas Series 🧟", WWE | Superstar Central | by A&E (US)
-https://jmp2.uk/sam-US700005ID.m3u8
+
+ANIME VISION
+#EXTINF:0 type="favorites" channelId="-1" group="Animation" logo="https://i.imgur.com/pUpKznl.png", Anime Vision (1080p)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
 
 
@@ -222,17 +226,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPELICULAS PRUEBAXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+EMPEÑOS A LO BESTIA
 #EXTINF:-1 channel-id="5f23102d5e239d00074b092a" tvg-id="5f23102d5e239d00074b092a" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Empeños a lo Bestia
 https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
 
+OBSESION POR LOS AUTOS
 #EXTINF:-1 channel-id="64025592953da40008bf9238" tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Obsesión por los Autos
 https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
+
+TOM & JERRY
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpHcfg8/tomjerry.jpg" group-title="Mas Series 🧟",Tom y Jerry (LATAM)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+
+SAVED BY THE BELL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t44TmmhX/sal.jpg" group-title="Mas Series 🧟",Saved By The Bell | Opción 2 (US)
 https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
+
+PADRE DE FAMILIA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2JZyfxy/familyguy.jpg" group-title="Mas Series 🧟",Padre de Familia (US)
  http://tvmate.icu:8080/live/7686199/9576982/66317.m3u8
+
+MR. BEAN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
@@ -261,7 +275,11 @@ http://38.180.133.31:8000/play/a0p0/index.m3u8
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
 http://45.181.206.7:10000/play/a0iw
+http://38.44.109.41:8003/play/a00x/index.m3u8
 
+MULTIVISION
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/puOrL7B.jpg", Canal Multivision (720p)
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8
 
 Cascara
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
@@ -271,6 +289,9 @@ AURORA MEDIA FILMS
 #EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="Nacionales", Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
+NIM TV
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/mBNOSzl.png", Nim TV 
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 SAS TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="Nacionales", SAS TV
@@ -372,6 +393,9 @@ BIG RETRO TV
 #EXTINF:-1 tvg-id"bigchannel" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029508072-462ZUHW3O38Z7QNAUGOV/kiss-cut-stickers-5.5x5.5-default-61560d802b93c.png", BIG RETRO TV
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
 
+NEXT 
+#EXTINF:0 type="stream" channelId="-1" group="Movies;Music" logo="https://i.imgur.com/c2rF3SS.png", Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
