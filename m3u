@@ -216,9 +216,6 @@ SEAMOS NIÑOS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg6wRPQf/seamos.jpg" group-title="Animados | Variado",Seamos Niños | TV Tica (CR)
 https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
 
-CINE FRIKI
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXfgHJwk/cinefri.jpg" group-title="Películas | Series",Cine Friki (ES)
-
 
 ANIME VISION
 #EXTINF:0 type="favorites" channelId="-1" group="Animation" logo="https://i.imgur.com/pUpKznl.png", Anime Vision (1080p)
@@ -433,9 +430,36 @@ http://playtv44.com:8080/976515597/123456/218802
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX LA CASA DE LOS FAMOSOS MX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México 24/7" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México 24/7
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306112.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM1" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM1
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306113.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM2" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM2
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306114.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM3" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM3
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306115.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM4" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM4
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306116.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM5" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM5
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306117.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM6" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM6
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306118.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM7" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM7
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306119.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México GALA" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México GALA
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306120.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México MULTICAM" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México MULTICAM
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306121.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México 24/7" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México 24/7
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306126.ts
 
 
 
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 PANTALLA CLASICA
 #EXTINF:-1 tvg-id="classicchannel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", PANTALLA CLASICA
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
