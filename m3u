@@ -68,6 +68,10 @@ FOX SPORT
 TNT SPORTS
 #EXTINF://-1 tvg-id="TNTSPORT1.us" tvg-name="TNT Sport1" tvg-logo="https://media.info/l/f/1/1539.1690027797.png", TNT Sport1
 
+TNT SPORTS PREMIUN
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="▶️ ASTRA CHILE",TNT Sports Premiun HD
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/310212.ts
+
 DEPORTV
 #EXTINF :-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png",DeporTV
 http://143.0.67.77:8000/play/a06h/index.m3u8
