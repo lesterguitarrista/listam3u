@@ -290,8 +290,8 @@ http://38.180.133.31:8000/play/a0p0/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
-http://45.181.206.7:10000/play/a0iw
-http://38.44.109.41:8003/play/a00x/index.m3u8
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/310287.ts
+
 
 MULTIVISION
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/puOrL7B.jpg", Canal Multivision (720p)
