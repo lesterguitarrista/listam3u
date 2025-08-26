@@ -427,6 +427,9 @@ SPACE PRUEBA
 #EXTINF:0 type="stream" channelId="2896" name="SPACE  HD" group="CANALES CINE" logo="https://i.postimg.cc/ryBTNTr3/Space-Logo-svg.png", SPACE  HD
 http://playtv44.com:8080/976515597/123456/218802
 
+HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="OP2",HBO HD
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/309942.ts
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
