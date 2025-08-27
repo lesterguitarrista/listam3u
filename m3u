@@ -385,7 +385,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
 
 WEPA TV
 #EXTINF:-1 tvg-id"tvwxfxxgo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg", WEPA TV
-https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8
+http://flx.lat:8080//live/feltre/tsCmGYDb84KV/310442.ts
 
 SS
 #EXTINF:-1 tvg-id"livess" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/SSTV_logo_%282023%29.png", Livetvproducciones ss
