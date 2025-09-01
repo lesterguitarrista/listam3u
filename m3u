@@ -384,7 +384,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
 
 WEPA TV
 #EXTINF:-1 tvg-id"tvwxfxxgo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg", WEPA TV
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/310442.ts
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 
 SS
 #EXTINF:-1 tvg-id"livess" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/SSTV_logo_%282023%29.png", Livetvproducciones ss
@@ -413,6 +413,18 @@ https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 BIG RETRO TV
 #EXTINF:-1 tvg-id"bigchannel" tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/1633029508072-462ZUHW3O38Z7QNAUGOV/kiss-cut-stickers-5.5x5.5-default-61560d802b93c.png", BIG RETRO TV
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
+Mi Tv Classica
+#EXTINF:-1 tvg-id"mitvclasica.gt" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/12/Mi-TV-Canal-Familiar.png.webp" , Mi tv clasica
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
+
+MEGA CINE
+#EXTINF:-1 tvg-id"megacine" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg" , Mega Cine
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+RETRO PLUS 3
+#EXTINF:-1 tvg-id"megacine" tvg-logo="https://teleonline.org/storage/2022/09/Retro-Plus-TV-Chile.png" , RETRO PLUS 3
+https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist_w440957503.m3u8
 
 NEXT 
 #EXTINF:0 type="stream" channelId="-1" group="Movies;Music" logo="https://i.imgur.com/c2rF3SS.png", Next HD (480p)
