@@ -334,6 +334,10 @@ GTV GT
 #EXTINF:-1 tvg-id"GTV" tvg-logo="https://emisorasgt.com/wp-content/uploads/2025/03/Canal-GTV-de-Guatemala-en-vivo.webp" , Canal GTV Guatemala.
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
+CANAL PUNTO TV
+#EXTINF:-1 tvg-id"PUNTOTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTkXr-kFObGEZpzy9yxw6I5HTfw_zBPQliA&s', PUNTO TV
+https://live20.bozztv.com/akamaissh101/ssh101/tv2024/chunks.m3u8
+
 LUNA TV
 #EXTINF:-1 tvg-id"luna.gt" tvg-logo="https://archive.org/details/canal-luna", LUNA Xela
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
