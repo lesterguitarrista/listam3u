@@ -114,9 +114,9 @@ COURT TV
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo"https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" ,Court TV (720p)
 https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
 
-COULD CASE FILES
-#EXTINF:-1 tvg-id="ColdCaseFiles.us", tvg-logo="https://images-cdn3.welcomesoftware.com/assets/cold+case+files.jpg/Zz1lOTgwYmNiMjlkMjkxMWVmYjhlNjFlYTY2MTI5N2IyNg==?width=1200" , Cold Case Files (1080p)
-https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
+COURT LEGENDARY
+#EXTINF:-1 tvg-id="ColdCaseFiles.us", tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2F4%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F44b8c938b34238f227a4030123f8dfcf.png" , Court legendary trials
+https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8
 
 AMERICAN PICKERS
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/556c5c60e4b07c2b2930eb39/1547498448226-M8VV4I4DSKQOGFYHRUBD/AmericanPickersPoster.png",American Pickers Channel (1080p)
