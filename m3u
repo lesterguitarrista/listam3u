@@ -339,7 +339,7 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
 CANAL PUNTO TV
 #EXTINF:-1 tvg-id"PUNTOTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTkXr-kFObGEZpzy9yxw6I5HTfw_zBPQliA&s', PUNTO TV
-https://live20.bozztv.com/akamaissh101/ssh101/tv2024/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/caribetv/chunks.m3u8
 
 LUNA TV
 #EXTINF:-1 tvg-id"luna.gt" tvg-logo="https://archive.org/details/canal-luna", LUNA Xela
