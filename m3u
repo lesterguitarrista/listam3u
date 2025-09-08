@@ -461,14 +461,17 @@ WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="▶️ ASTRA ARGENTINA OP2",Warner Channel HD
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/309998.ts
 
-#EXTINF:-1 tvg-id"" tvg-logo="",
+XIOMOZ LESTER PRUEBA
+#EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", XIOMOZ
+https://live20.bozztv.com/akamaissh101/ssh101/xiomoz/chunks.m3u8
 
+TIGO COSTARICA
+#EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", TIGO SPORT COSTARICA
+https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/chunks.m3u8
 
-#EXTINF:-1 tvg-id"" tvg-logo="",
-
-
-#EXTINF:-1 tvg-id"" tvg-logo="",
-
+BEINSPORT
+#EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",BEINGSPORT
+https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
