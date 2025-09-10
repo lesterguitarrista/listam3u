@@ -475,7 +475,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/xiomoz/chunks.m3u8
 
 TIGO COSTARICA
 #EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", TIGO SPORT COSTARICA
-https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/chunks.m3u8
+http://190.14.10.19:16000/play/a00ps/index.m3u8
 
 BEINSPORT
 #EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",BEINGSPORT
