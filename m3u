@@ -236,6 +236,14 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX PRUEBA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+PELICULAS 24/7
+#EXTINF:-23 tvg-logo="https://static2.tgstat.ru/channels/_0/17/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="CINE Y SERIES", Pelis 
+https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
+
+STV 
+#EXTINF:-28 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="", STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
 TELEMUNDO ROMANCE
 #EXTINF:0 type="stream" channelId="-1" name="TELEMUNDO ROMANCE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10", TELEMUNDO ROMANCE
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
@@ -1839,7 +1847,7 @@ PELICULAS 24/7
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 
 STV 
-#EXTINF:-28 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="ECUADOR", STV
+#EXTINF:-28 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 EXTREMA TV
