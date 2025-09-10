@@ -451,7 +451,7 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 HBO FAMILY PRUEBA
 #EXTINF:0 type="stream" channelId="-1" name="C/S• HBO FAMILY (HD) »1«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg", C/S• HBO FAMILY (HD) »1«
-
+http://190.14.10.19:16000/play/a043/index.m3u8
 
 SPACE ENG & ESP
 #EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="▶️ ASTRA ARGENTINA OP2",Space HD
