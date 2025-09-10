@@ -443,11 +443,7 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 HBO FAMILY PRUEBA
 #EXTINF:0 type="stream" channelId="-1" name="C/S• HBO FAMILY (HD) »1«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg", C/S• HBO FAMILY (HD) »1«
-http://higherpro.xyz:8080/977348703tv/zS98fj8tn/135
 
-SPACE PRUEBA
-#EXTINF:0 type="stream" channelId="2896" name="SPACE  HD" group="CANALES CINE" logo="https://i.postimg.cc/ryBTNTr3/Space-Logo-svg.png", SPACE  HD
-http://playtv44.com:8080/976515597/123456/218802
 
 SPACE ENG & ESP
 #EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="▶️ ASTRA ARGENTINA OP2",Space HD
@@ -473,10 +469,27 @@ BEINSPORT
 #EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",BEINGSPORT
 https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
 
+PUNTO TV
+#EXTINF:-1 tvg-id"" tvg-logo="https://image.winudf.com/v2/image1/cHVudG8udHY2X2ljb25fMTY2MjkzMTQ2MV8wNDU/icon.png?w=280&fakeurl=1", Punto tv
+https://live20.bozztv.com/akamaissh101/ssh101/tv2024/chunks.m3u8
+
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
+
+#EXTINF:-1 tvg-id"" tvg-logo="",
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX LA CASA DE LOS FAMOSOS MX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
