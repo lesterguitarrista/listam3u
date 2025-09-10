@@ -461,6 +461,10 @@ HBO
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="OP2",HBO HD
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/309942.ts
 
+HBO PLUS
+#EXTINF:-1,067 tvg-id="" tvg-name="HBO HD" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", HBO Plus HD
+http://190.14.10.19:16000/play/a042/index.m3u8
+
 WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="▶️ ASTRA ARGENTINA OP2",Warner Channel HD
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/309998.ts
