@@ -227,6 +227,9 @@ SEAMOS NIÑOS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg6wRPQf/seamos.jpg" group-title="Animados | Variado",Seamos Niños | TV Tica (CR)
 https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
 
+Toonami tv
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/49151bd48954e5b86d3adc3e556c253702405aa5937a95ed9913fe1c1c53f631.png" , Canal Toonami tv
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
 
 ANIME VISION
 #EXTINF:0 type="favorites" channelId="-1" group="Animation" logo="https://i.imgur.com/pUpKznl.png", Anime Vision (1080p)
