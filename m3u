@@ -104,7 +104,7 @@ https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8
 
 ICE ROUT TRUCKERS
 #EXTINF:-1 tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2704590/capsule_616x353.jpg?t=1728913885",Ice Road Truckers (1080p)
-https://jmp2.uk/stvp-USBB520002173
+https://livetv-fa.tubi.video/ice-road-truckers/playlist.m3u8
 
 OPERATION REPO
 #EXTINF:-1 tvg-id="Choppertown.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Operation_Repo.jpg/revision/latest?cb=20231220192233", Choppertown (720p) [Not 24/7]
