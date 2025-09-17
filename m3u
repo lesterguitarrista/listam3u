@@ -110,6 +110,10 @@ OPERATION REPO
 #EXTINF:-1 tvg-id="Choppertown.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Operation_Repo.jpg/revision/latest?cb=20231220192233", Choppertown (720p) [Not 24/7]
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 
+A END E
+#EXTINF:-1 tvg-logo="https://www.panama24horas.com.pa/wp-content/uploads/2025/08/QUIEN-DA-MAS.jpg", AyE
+https://tvpass.org/live/AEEast/hd
+
 COURT TV
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo"https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" ,Court TV (720p)
 https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
@@ -122,8 +126,9 @@ AQUI Y AHORA
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/videos/video:mcp:3630930/111896bfad1ace0390ee358303c98f29?tr=w-1200,h-627,f-jpeg" , AQUI Y AHORA
 https://jmp2.uk/stvp-USBD1700015J1
 
+MIDSOMER MUYDERS
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7f8GTeUL6q1DyXRwK9xIsWxvzX.png" ,Midsomer Murders
-https://jmp2.uk/stvp-USBC24000134A
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 
 AMERICAN PICKERS
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/556c5c60e4b07c2b2930eb39/1547498448226-M8VV4I4DSKQOGFYHRUBD/AmericanPickersPoster.png",American Pickers Channel (1080p)
