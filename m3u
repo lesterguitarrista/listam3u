@@ -122,6 +122,9 @@ AQUI Y AHORA
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/videos/video:mcp:3630930/111896bfad1ace0390ee358303c98f29?tr=w-1200,h-627,f-jpeg" , AQUI Y AHORA
 https://jmp2.uk/stvp-USBD1700015J1
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7f8GTeUL6q1DyXRwK9xIsWxvzX.png" ,Midsomer Murders
+https://jmp2.uk/stvp-USBC24000134A
+
 AMERICAN PICKERS
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/556c5c60e4b07c2b2930eb39/1547498448226-M8VV4I4DSKQOGFYHRUBD/AmericanPickersPoster.png",American Pickers Channel (1080p)
 https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8
