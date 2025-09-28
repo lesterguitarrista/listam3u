@@ -105,8 +105,25 @@ VARIED TV
 #EXTINF:-1 group-title="-", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBnMDVk15RWaRVQux_yhhYa3xUQCZSHRUdA&s" ,  VARIED TV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
-CANAL 5 VISION LATINA
-#EXTINF:-1 group-title="-", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBDL5bWk-2wbJVMzsqzyGj1-kQN8btuptSxdoBEFh9tfbG-k5LPZ__XegRQO7Ea3liKw&usqp=CAU" , CANAL 5 VISION LATINA
+BEN 10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 ⭐️" tvg-logo="http://panel.tured.live:8080/images/08f2df0e22e6d117cdf987309551a5b4.png" group-title="24/7",24/7 | BEN 10 ⭐️
+http://195.66.210.10:80/Maya/DMHCW/107843
+
+CANDY CANDY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANDY CANDY ⭐️" tvg-logo="https://i.pinimg.com/originals/ef/14/d6/ef14d630275bf70fdd8a781594549939.png" group-title="24/7",24/7 | CANDY CANDY ⭐️
+http://195.66.210.10:80/Maya/DMHCW/177094
+
+CAPITAN CAVERNICOLA
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CAPITAN CAVERNICOLA ⭐️" tvg-logo="https://64.media.tumblr.com/tumblr_lr4hewKO4u1qb3fqdo1_400.png" group-title="24/7",24/7 | CAPITAN CAVERNICOLA ⭐️
+http://195.66.210.10:80/Maya/DMHCW/216465
+
+DANIEL EL TRAVIESO
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DANIEL EL TRAVIESO ⭐️" tvg-logo="https://i.pinimg.com/originals/74/74/84/747484018ebe30e085435460566dcdf1.png" group-title="24/7",24/7 | DANIEL EL TRAVIESO ⭐️
+http://195.66.210.10:80/Maya/DMHCW/219285
+
+DOS HOMBRES Y MEDIO
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DOS HOMBRES Y MEDIO ⭐️" tvg-logo="https://3.bp.blogspot.com/-cGeiUwrSxYI/TgokidqR8CI/AAAAAAAAAnM/i--EjVmQIlg/s1600/dos-hombres-y-medio.jpg" group-title="24/7",24/7 | DOS HOMBRES Y MEDIO ⭐️
+http://195.66.210.10:80/Maya/DMHCW/177379
 
 PELICULAS INFANTILES 24/7
 #EXTINF:-1, tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" , Peliculas Infantiles
@@ -334,6 +351,16 @@ https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 ANIME
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/448-4481377_dragon-ball-super-logo-png-dragonball-super-logo.png" group-title="Mas Series 🧟",Dragon Ball  Super| Goku 
 http://186.194.160.110:9002/play/a0gv/index.m3u8
+
+DRAGON BALL
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL 117 AL 153 ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL 117 AL 153 ⭐️
+http://195.66.210.10:80/Maya/DMHCW/217022
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL 44 AL 77 ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL 44 AL 77 ⭐️
+http://195.66.210.10:80/Maya/DMHCW/216844
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL  78 AL 116 ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL  78 AL 116 ⭐️
+http://195.66.210.10:80/Maya/DMHCW/216939
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL 1 AL 43 ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL 1 AL 43 ⭐️
+http://195.66.210.10:80/Maya/DMHCW/216196
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
