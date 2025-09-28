@@ -70,7 +70,11 @@ http://flx.lat:8080//live/feltre/tsCmGYDb84KV/310658.ts
 
 FOX SPORT
 #EXTINF://-1 tvg-id="foxsport.us" tvg-name="Fox Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/152px-FOX_Sports_logo.svg.png", Fox Sport
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/309935.ts
+http://flx.lat:8080//live/DonPota/hz4fhL6f3ZCg/199179.ts
+
+FOX PLUS
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SOCCER PLUS" tvg-logo="http://miarea.vip:8080/images/2545523df82da256a12d336f68a8adc6.png" group-title="▶️ USA SPORT",USA: FOX SOCCER PLUS
+http://flx.lat:8080//live/DonPota/hz4fhL6f3ZCg/311525.ts
 
 DEPORTV
 #EXTINF :-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png",DeporTV
