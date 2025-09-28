@@ -18,19 +18,23 @@ http://190.149.62.46:8004/play/a0jw/index.m3u8
 
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
-http://190.149.62.46:8004/play/a0le/index.m3u8
+xxxx://190.149.62.46:8004/play/a0le/index.m3u8
+http://45.228.234.113:8000/play/a02f/index.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
-http://190.149.62.46:8004/play/a0lf/index.m3u8
+xxxx://190.149.62.46:8004/play/a0lf/index.m3u8
+http://45.228.234.113:8000/play/a02g/index.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
-http://38.180.133.31:8000/play/a0oa/index.m3u8
+xxxx://38.180.133.31:8000/play/a0oa/index.m3u8
+http://45.228.234.113:8000/play/a03m/index.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
-http://190.149.62.46:8004/play/a0mj/index.m3u8
+xxxx://190.149.62.46:8004/play/a0mj/index.m3u8
+http://45.228.234.113:8000/play/a03l/index.m3u8
 
 PLAYMEDIOS
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://emisorasgt.com/wp-content/uploads/2024/03/playmedios-digital.webp",Play Medios Xela
@@ -324,7 +328,8 @@ http://190.149.62.46:8004/play/a0nl/index.m3u8
 
 Claro Cinema
 #EXTINF:-1 tvg-id="Clarocinema.gt" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro cinema
-http://38.180.133.31:8000/play/a0p0/index.m3u8
+xxxx://38.180.133.31:8000/play/a0p0/index.m3u8
+http://45.228.234.113:8000/play/a01a/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
