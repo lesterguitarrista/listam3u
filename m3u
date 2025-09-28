@@ -50,7 +50,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
 TIGO SPORTS
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
-http://190.149.62.46:8004/play/a0nf/index.m3u8
+http://190.14.10.19:16000/play/a00ps/index.m3u8
 
 TIGO SPORTS 1
 #EXTINF:-1 tvg-id="" tvg-name="BO | TIGO SPORTS 1 HD" tvg-logo="https://play-lh.googleusercontent.com/ATDzhvgLEh3EvWctHOUoyuvkNU-NgisI8mTTCmzJEvnfsuOVtFGOqLH0MrK2B2DyhZvT" group-title="BOLIVIA",BO | TIGO SPORTS 1 HD
