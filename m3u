@@ -208,6 +208,10 @@ BAY WATCH
 #EXTINF:-1 channel-id="66a26a7846762a0008258d4e" tvg-id="66a26a7846762a0008258d4e" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Baywatch
 https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
 
+RANMA 1/2
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | RANMA 1/2" tvg-logo="https://w7.pngwing.com/pngs/702/795/png-transparent-ranma-%C2%BD-hard-battle-inuyasha-anime-manga-ranma-1-2-friendship-boy-fictional-character-thumbnail.png" group-title="24/7",24/7 | RANMA 1/2
+http://195.66.210.10:80/Maya/DMHCW/217550
+
 🧟",Los Simpsons | Casita del Horror (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
