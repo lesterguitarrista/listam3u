@@ -139,10 +139,6 @@ OPERATION REPO
 #EXTINF:-1 tvg-id="Choppertown.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Operation_Repo.jpg/revision/latest?cb=20231220192233", Choppertown (720p) [Not 24/7]
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 
-A END E
-#EXTINF:-1 tvg-logo="https://www.panama24horas.com.pa/wp-content/uploads/2025/08/QUIEN-DA-MAS.jpg", AyE
-https://tvpass.org/live/AEEast/hd
-
 COURT TV
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo"https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" ,Court TV (720p)
 https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
@@ -211,6 +207,10 @@ https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
 🧟",Los Simpsons | Casita del Horror (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
+
+FUTURAMA
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | FUTURAMA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/h4xfofursz2py5j/futurama.png" group-title="24/7",24/7 | FUTURAMA ⭐️
+http://195.66.210.10:80/Maya/DMHCW/46284
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -352,44 +352,25 @@ ANIME
 http://186.194.160.110:9002/play/a0gv/index.m3u8
 
 DRAGON BALL
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL 117 AL 153 ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL 117 AL 153 ⭐️
-http://195.66.210.10:80/Maya/DMHCW/217022
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL 44 AL 77 ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL 44 AL 77 ⭐️
-http://195.66.210.10:80/Maya/DMHCW/216844
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL  78 AL 116 ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL  78 AL 116 ⭐️
-http://195.66.210.10:80/Maya/DMHCW/216939
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL 1 AL 43 ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png" group-title="24/7",24/7 | DRAGON BALL 1 AL 43 ⭐️
-http://195.66.210.10:80/Maya/DMHCW/216196
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: ZAGA EL DESPERTAR DE MAJIN BOO" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb3ffa7f-b0fd-4dae-a002-1eb7d733026e/d8wfb1f-1c47f2ad-58c6-4d9c-bc27-bebd143c2ca9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ViM2ZmYTdmLWIwZmQtNGRhZS1hMDAyLTFlYjdkNzMzMDI2ZVwvZDh3ZmIxZi0xYzQ3ZjJhZC01OGM2LTRkOWMtYmMyNy1iZWJkMTQzYzJjYTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t7x_r472evfENrMZK4kZarweUjCZx4SAg71ODpUPHPY" group-title="24/7",24/7 | DRAGON BALL Z: ZAGA EL DESPERTAR DE MAJIN BOO
 http://195.66.210.10:80/Maya/DMHCW/169803
+
+DRAGON BALL2
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://www.dafont.com/forum/attach/orig/7/8/788166.png" group-title="24/7",24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER
 http://195.66.210.10:80/Maya/DMHCW/169802
 
+ED,EDD Y EDDY
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ED, EDD Y EDDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ED, EDD Y EDDY
 http://195.66.210.10:80/Maya/DMHCW/531615
 
+EL CHAVO DEL OCHO
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL OCHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | EL CHAVO DEL OCHO
 http://195.66.210.10:80/Maya/DMHCW/531614
+
+EL COYOTE Y EL CORRECAMINOS
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | EL COYOTE Y EL CORRECAMINOS ⭐️" tvg-logo="http://assets.stickpng.com/thumbs/59300e6f3919fe0ee3614dec.png" group-title="24/7",24/7 | EL COYOTE Y EL CORRECAMINOS ⭐️
 http://195.66.210.10:80/Maya/DMHCW/216294
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL GRAN CHAPARRAL ⭐️" tvg-logo="http://2.bp.blogspot.com/_7-NlknExAYo/TMrLkFFgmAI/AAAAAAAAIUQ/F7DcyMwnxfQ/s1600/HC%2520GRAPHIC.jpg" group-title="24/7",24/7 | EL GRAN CHAPARRAL ⭐️
-http://195.66.210.10:80/Maya/DMHCW/217386
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL JUEGO DEL CALAMAR ⭐️" tvg-logo="http://svtv.xyz/nologo.png" group-title="24/7",24/7 | EL JUEGO DEL CALAMAR ⭐️
-http://195.66.210.10:80/Maya/DMHCW/236453
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL PÁJARO LOCO ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/e0zmrxnwdw5ak81/pajaroloco.png" group-title="24/7",24/7 | EL PÁJARO LOCO ⭐️
-http://195.66.210.10:80/Maya/DMHCW/177169
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL SEÑOR DE LOS CIELOS ⭐️" tvg-logo="https://pbs.twimg.com/profile_images/597069215892246528/-c0GRBWB.jpg" group-title="24/7",24/7 | EL SEÑOR DE LOS CIELOS ⭐️
-http://195.66.210.10:80/Maya/DMHCW/177337
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | HORA DE AVENTURA ⭐️" tvg-logo="https://e1.pngegg.com/pngimages/616/620/png-clipart-adventure-time-icon-adventure-time-icon-thumbnail.png" group-title="24/7",24/7 | HORA DE AVENTURA ⭐️
-http://195.66.210.10:80/Maya/DMHCW/107851
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | JIMMY NEUTRO⭐️" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4a/The_Adventures_of_Jimmy_Neutron.png" group-title="24/7",24/7 | JIMMY NEUTRO⭐️
-http://195.66.210.10:80/Maya/DMHCW/177181
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | JOHNNY BRAVO ⭐️" tvg-logo="https://i.pinimg.com/236x/df/04/2b/df042b2b0925dd60e45514abf8cf13bd--johnny-bravo-hair-gel.jpg" group-title="24/7",24/7 | JOHNNY BRAVO ⭐️
-http://195.66.210.10:80/Maya/DMHCW/177182
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | JONNY QUEST ⭐️" tvg-logo="https://gamefabrique.com/i/pc/jonny-quest-curse-of-the-mayan-warriors.png" group-title="24/7",24/7 | JONNY QUEST ⭐️
-http://195.66.210.10:80/Maya/DMHCW/216821
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | JORGE EL CURIOSO ⭐️" tvg-logo="http://assets.stickpng.com/images/5b8d3679a639e004e1cab54e.png" group-title="24/7",24/7 | JORGE EL CURIOSO ⭐️
-http://195.66.210.10:80/Maya/DMHCW/216296
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
