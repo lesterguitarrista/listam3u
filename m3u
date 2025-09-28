@@ -548,21 +548,27 @@ http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306113.ts
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306114.ts
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM3" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM3
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306115.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM4" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM4
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306116.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM5" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM5
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306117.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM6" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM6
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306118.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México CAM7" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México CAM7
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306119.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México GALA" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México GALA
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306120.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México MULTICAM" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México MULTICAM
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306121.ts
+
+HABITACION
+#EXTINF:-1 tvg-id="" tvg-name="MX | HABITACIÓN 1" tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="CASA DE LOS FAMOSOS",MX | HABITACIÓN 1
+http://195.66.210.10:80/Maya/DMHCW/611594
+
+MULTICAMARA
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de Los Famosos México 24/7" tvg-logo="https://i.ibb.co/35rMBPqG/CF.jpg" group-title="▶️ | CASA DE LOS FAMOSOS ",La Casa de Los Famosos México 24/7
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/306126.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="MX | TODA LA CASA" tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="CASA DE LOS FAMOSOS",MX | TODA LA CASA
+http://195.66.210.10:80/Maya/DMHCW/611597
+#EXTINF:-1 tvg-id="" tvg-name="MX | COCINA" tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="CASA DE LOS FAMOSOS",MX | COCINA
+http://195.66.210.10:80/Maya/DMHCW/611598
+#EXTINF:-1 tvg-id="" tvg-name="MX | SALA" tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="CASA DE LOS FAMOSOS",MX | SALA
+http://195.66.210.10:80/Maya/DMHCW/611599
+#EXTINF:-1 tvg-id="" tvg-name="MX | HABITACIÓN 2" tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="CASA DE LOS FAMOSOS",MX | HABITACIÓN 2
+http://195.66.210.10:80/Maya/DMHCW/611600
+#EXTINF:-1 tvg-id="" tvg-name="MX | MULTICAMARA" tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="CASA DE LOS FAMOSOS",MX | MULTICAMARA
+http://195.66.210.10:80/Maya/DMHCW/611657
+#EXTINF:-1 tvg-id="" tvg-name="MX | ACCESO TOTAL" tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2023/05/09/16836691719423.jpg" group-title="CASA DE LOS FAMOSOS",MX | ACCESO TOTAL
+http://195.66.210.10:80/Maya/DMHCW/611658
 
 
 
