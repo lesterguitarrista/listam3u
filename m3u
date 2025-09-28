@@ -156,6 +156,10 @@ DE PELICULA
 #EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="CINE | DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA
 http://195.66.210.10:80/Maya/DMHCW/53095
 
+DE PELICULA CLASICO
+#EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
+http://195.66.210.10:80/Maya/DMHCW/53091
+
 FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
 http://64.76.53.91:9002/play/a003
@@ -380,7 +384,6 @@ http://190.149.62.46:8004/play/a0nl/index.m3u8
 
 Claro Cinema
 #EXTINF:-1 tvg-id="Clarocinema.gt" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro cinema
-xxxx://38.180.133.31:8000/play/a0p0/index.m3u8
 http://45.228.234.113:8000/play/a01a/index.m3u8
 
 Caracol
@@ -533,12 +536,13 @@ SPACE ENG & ESP
 http://45.228.234.113:8000/play/a05i/index.m3u8
 
 HBO
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="OP2",HBO HD
-http://45.228.234.113:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO HD" tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" group-title="CINE PREMIUM",CINE | HBO HD
+http://195.66.210.10:80/Maya/DMHCW/242029
 
 HBO PLUS
 #EXTINF:-1,067 tvg-id="" tvg-name="HBO HD" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", HBO Plus HD
 http://190.14.10.19:16000/play/a042/index.m3u8
+http://195.66.210.10:80/Maya/DMHCW/198755
 
 WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="",Warner Channel 
@@ -556,9 +560,14 @@ BEINSPORT
 #EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",BEINGSPORT
 https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
 
-PUNTO TV
-#EXTINF:-1 tvg-id"" tvg-logo="https://image.winudf.com/v2/image1/cHVudG8udHY2X2ljb25fMTY2MjkzMTQ2MV8wNDU/icon.png?w=280&fakeurl=1", Punto tv
-https://live20.bozztv.com/akamaissh101/ssh101/tv2024/chunks.m3u8
+HB2
+#EXTINF:-1 tvg-id="hbo.2.mx" tvg-name="CINE | HBO 2 HD" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="CINE PREMIUM",CINE | HBO 2 HD
+http://195.66.210.10:80/Maya/DMHCW/159126
+
+HBO MUNDI
+#EXTINF:-1 tvg-id="hbo.mundi.mx" tvg-name="CINE | HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE PREMIUM",CINE | HBO MUNDI HD
+http://195.66.210.10:80/Maya/DMHCW/19547
+
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
