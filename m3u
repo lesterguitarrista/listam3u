@@ -317,7 +317,11 @@ https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
 
 PADRE DE FAMILIA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2JZyfxy/familyguy.jpg" group-title="Mas Series 🧟",Padre de Familia (US)
- http://tvmate.icu:8080/live/7686199/9576982/66317.m3u8
+http://tvmate.icu:8080/live/7686199/9576982/66317.m3u8
+
+PADRE DE FAMILIA ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | FAMILY GUY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | FAMILY GUY
+http://195.66.210.10:80/Maya/DMHCW/531619
 
 MR. BEAN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
