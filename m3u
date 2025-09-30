@@ -78,7 +78,9 @@ http://flx.lat:8080//live/DonPota/hz4fhL6f3ZCg/311525.ts
 DEPORTV
 #EXTINF :-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png",DeporTV
 
-
+CANAL ZAZ
+#EXTINF :-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99bcff8c6beafba1b9bb9959647663e6.webp", Zaz tv
+https://stream-us-east-1.getpublica.com/cl/250929d3d82sg1miqhina9o7mg/1280x720_1500000_0_f.m3u8?i=1187_13012
 
 APAMIMES 
 #EXTINF:-1 group-title="-", tvg-logo="https://www.africaorigin.net/upload/source/Apanines%20TV.png" , APANINES
@@ -296,9 +298,9 @@ STV
 #EXTINF:-28 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-TELEMUNDO ACCION
-#EXTINF:0 type="stream" channelId="-1" name="TELEMUNDO ACCION" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10", TELEMUNDO ACCION
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+SERIES RETRO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QJ3ZKX.png" group-title="Series Retro", 📺 Series Retro
+https://is.gd/IyWDEJ?.m3u8
 
 AXN 
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="Peliculas y Series ",AXN HD
@@ -306,7 +308,7 @@ http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120076.ts
 
 CINEMAX 
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/120054.ts
+http://190.123.90.146:8000/play/a01o/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -549,7 +551,7 @@ http://195.66.210.10:80/Maya/DMHCW/198755
 
 WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="",Warner Channel 
-http://45.228.234.113:8000/play/a04e/index.m3u8
+http://199.188.103.176:8000/play/a094/index.m3u8
 
 XIOMOZ LESTER PRUEBA
 #EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", XIOMOZ
