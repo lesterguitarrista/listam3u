@@ -19,12 +19,12 @@ http://190.149.62.46:8004/play/a0jw/index.m3u8
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
 http://190.149.62.46:8004/play/a0le/index.m3u8
-http://45.228.234.113:8000/play/a02f/index.m3u8
+http://45.71.38.3:8010/play/a030/index.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
 http://190.149.62.46:8004/play/a0lf/index.m3u8
-http://45.228.234.113:8000/play/a02g/index.m3u8
+http://45.71.38.3:8010/play/a031/index.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
@@ -390,10 +390,11 @@ http://190.149.62.46:8004/play/a0nl/index.m3u8
 Claro Cinema
 #EXTINF:-1 tvg-id="Clarocinema.gt" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro cinema
 http://45.228.234.113:8000/play/a01a/index.m3u8
+http://45.228.234.113:8000/play/a04c/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/310287.ts
+http://45.71.38.3:8010/play/a0en/index.m3u8
 
 
 MULTIVISION
@@ -539,6 +540,7 @@ http://190.14.10.19:16000/play/a043/index.m3u8
 SPACE
 #EXTINF:-1 tvg-id="space.mx" tvg-name="CINE | SPACE NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png" group-title="CINE PREMIUM",CINE | SPACE NORTE
 http://195.66.210.10:80/Maya/DMHCW/54168
+http://45.228.234.113:8000/play/a05i/index.m3u8
 
 HBO
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO HD" tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" group-title="CINE PREMIUM",CINE | HBO HD
