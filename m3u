@@ -57,7 +57,7 @@ https://acceso.radiosportstv.online:3102/stream/play.m3u8
 
 CANAL ZAZ
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99bcff8c6beafba1b9bb9959647663e6.webp", Zaz tv
-https://stream-us-east-1.getpublica.com/cl/251002d3f5upnvqkoorioffon0/1280x720_1500000_0_f.m3u8?i=1187_13012
+https://zagent4.h-cdn.com/streamingconnect/gen/cloud.fastchannel.es/mic/manifiest/hls/zaztv1/zaztv-786772.ts?hola&player=hola&tech=html5&method=hola_adaptive&cdn=single&live&index=786772&dur=6.32&id=1500000&stack=hap_hls&playlist=https%3A%2F%2Fstream-us-east-1.getpublica.com%2Fcl%2F251002d3f5upnvqkoorioffon0%2F1280x720_1500000_0_f.m3u8%3Fi%3D1187_13012&manifest=https%3A%2F%2Fcloud.fastchannel.es%2Fmic%2Fmanifiest%2Fhls%2Fzaztv_distro%2Fzaztv.m3u8
 
 APAMIMES 
 #EXTINF:-1 group-title="-", tvg-logo="https://www.africaorigin.net/upload/source/Apanines%20TV.png" , APANINES
