@@ -28,7 +28,6 @@ http://45.71.38.3:8010/play/a031/index.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
-http://45.228.234.113:8000/play/a03m/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
 CANAL ANTIGUA
