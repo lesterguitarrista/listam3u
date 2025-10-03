@@ -14,16 +14,19 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
 GUATEVISION
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",Guatevision
-http://190.149.62.46:8004/play/a0jw/index.m3u8
 http://45.5.117.57:8300/play/a00p
+http://190.149.62.46:8004/play/a0jw/index.m3u8
+
 
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
+http://45.5.117.57:8300/play/a01z
 http://190.149.62.46:8004/play/a0le/index.m3u8
 http://45.71.38.3:8010/play/a030/index.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
+http://45.5.117.57:8300/play/a020
 http://190.149.62.46:8004/play/a0lf/index.m3u8
 http://45.71.38.3:8010/play/a031/index.m3u8
 
@@ -33,6 +36,7 @@ https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
+http://45.5.117.57:8300/play/a02k
 http://190.149.62.46:8004/play/a0mj/index.m3u8
 http://45.228.234.113:8000/play/a03l/index.m3u8
 
@@ -51,6 +55,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 TIGO SPORTS
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
 http://190.14.10.19:16000/play/a00ps/index.m3u8
+
+TIGO SPORT GT
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8300/playlist/tvg-logo/a04w.png",4 TIGO SPORTS GT
+http://45.5.117.57:8300/play/a04w
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
