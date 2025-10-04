@@ -20,15 +20,15 @@ http://190.149.62.46:8004/play/a0jw/index.m3u8
 
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
-http://45.5.117.57:8300/play/a01z
-http://190.149.62.46:8004/play/a0le/index.m3u8
 http://45.71.38.3:8010/play/a030/index.m3u8
+http://190.149.62.46:8004/play/a0le/index.m3u8
+
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
-http://45.5.117.57:8300/play/a020
-http://190.149.62.46:8004/play/a0lf/index.m3u8
 http://45.71.38.3:8010/play/a031/index.m3u8
+http://190.149.62.46:8004/play/a0lf/index.m3u8
+
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
@@ -36,9 +36,9 @@ https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
-http://45.5.117.57:8300/play/a02k
-http://190.149.62.46:8004/play/a0mj/index.m3u8
 http://45.228.234.113:8000/play/a03l/index.m3u8
+http://190.149.62.46:8004/play/a0mj/index.m3u8
+
 
 A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
@@ -84,9 +84,9 @@ PRINCESAS DISNEY
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DISNEY PRINCESS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | DISNEY PRINCESS
 http://195.66.210.10:80/Maya/DMHCW/177323
 
-PELICULAS INFANTILES 24/7
+CANAL INFANTIL
 #EXTINF:-1, tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" , Peliculas Infantiles
-http://45.184.109.31:8000/play/a026/index.m3u8
+http://38.51.234.11:8888/play/a06d
 
 KUNG FU PANDA
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | KUNG FU PANDA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/z2iy3b07yqqt5iu/kungfupanda.png" group-title="24/7",24/7 | KUNG FU PANDA ⭐️
@@ -375,12 +375,12 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 
 Distrito Comedia
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
-http://190.149.62.46:8004/play/a0nl/index.m3u8
+http://38.51.234.11:8888/play/a0au
 
 Claro Cinema
 #EXTINF:-1 tvg-id="Clarocinema.gt" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro cinema
 http://45.228.234.113:8000/play/a01a/index.m3u8
-http://45.228.234.113:8000/play/a04c/index.m3u8
+
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
