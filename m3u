@@ -238,8 +238,9 @@ LITTLE BABY BUM
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 DREAMWORKS
-#EXTINF:-1 tvg-id="" tvg-name="[LIKE]  DREAMWORKS" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="▶️ ASTRA CHILE",[LIKE]  DREAMWORKS
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/310239.ts
+#EXTINF:-1 tvg-id="" tvg-name="[LIKE]  DREAMWORKS" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title="",  DREAMWORKS
+http://179.49.163.34:45000/play/a011/index.m3u8
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxOTROSxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XTREMA CARTOON
