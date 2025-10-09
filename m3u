@@ -35,6 +35,8 @@ https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/86504300-9fda-4634-802e-0fa449b06037.m3u
+http://15.204.235.102/play/hls/eyJpdiI6IkZhZ1VRbW9MbmhMYisyQjI2SzJjd3c9PSIsInZhbHVlIjoicDgzU3c4L3pQRGZqSUxZNmRqVVFlWld0eHBqcCtiY2RiRTNYWnhQTU5raE42M3ZPNWdtZ2hEd1ptQlFpT0NaNmNGRjhpNk1EY0hhaUdFSytML1lRWHc9PSIsIm1hYyI6IjIxY2Y2YWRmMzg0ZDlhMTFlMzBkZWU1NzU0MjQ0M2NiNzg1YjQ5MmU4NjRiZmRmNjQwMjYwMjVlNDU2YmNhOTciLCJ0YWciOiIifQ==/86504300-9fda-4634-802e-0fa449b06037.m3u8?lvtoken=eyJpdiI6ImlZZWJUM3R0MFRFUnVVb1hZTldlcFE9PSIsInZhbHVlIjoiZ21hN2lOVXFIYXBMZk5nMXJYMnhJcVpWOXRvQ0EyeEYvTmVWZzR1ak03WXQ3UG9HcnkxNmRiNVRHMGIzQUFVbHpoWGpNUHB4ZEQwdzJ4eUo4aXVCSmdsSGV4eHBjN0JzOUpadTJlSzBDV216RG1ROGxycml0NTV4UDNjb2plY0ZkVWVHaTBXNFp1Z3BtTkZwbWFmSllCd29pRE5FTXVjU2FxcGRiZGMzZXhraW1Ib01qNnU4ZFRpYy9LMUYvUU0rckduTGJIbnVKTUMvRVdGZGVYTnhEMGNScXhkcENsaElHa0N0b0hBY3Rkbz0iLCJtYWMiOiJlNTYwMGQ5YzY4ZjA4ZTE5NjU2MmExYzZiZWY5NjI4MjNjMzgwZWE3MmY5MGJmZDY0ZDVjMTJjY2FiOGViN2U2IiwidGFnIjoiIn0%3D&r=e86813&rt=6c198e101a87cd05541cd9a748b3e950
 http://45.228.234.113:8000/play/a03l/index.m3u8
 http://190.149.62.46:8004/play/a0mj/index.m3u8
 
@@ -2015,7 +2017,7 @@ http://179.49.163.34:45000/play/a020/index.m3u8
 
 NAT GEO
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" ,Nat Geo HD
-http://190.5.200.91:45000/play/a005
+http://181.209.95.30:8000/play/a0b8/index.m3u8
 
 H&H
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",H&H
@@ -2133,15 +2135,15 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 HBO MUNDI US
 #EXTINF:-1 tvg-id="HBOMUNDI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
-http://181.10.123.154:14000/play/a02a/index.m3u8
+http://181.209.95.30:8000/play/a02a/index.m3u8
 
 HBO FAMILY
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
-http://45.181.206.7:10000/play/a0l2
+http://181.209.95.30:8000/play/a06r/index.m3u8
 
 HBO PLUS
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
-http://181.10.123.154:14000/play/a06p/index.m3u8
+http://181.209.95.30:8000/play/a06p/index.m3u8
 
 HBO2
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
@@ -2153,19 +2155,21 @@ http://181.10.123.154:14000/play/a06o/index.m3u8
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
+http://181.209.95.30:8000/play/a02c/index.m3u8
 http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 
 HBO XTREME
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
+http://181.209.95.30:8000/play/a02b/index.m3u8
 http://181.78.106.127:9000/play/ca069/index.m3u8
 
 CINEMAX
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
-http://181.10.123.154:14000/play/a04s/index.m3u8
+http://181.209.95.30:8000/play/a0ae/index.m3u8
 
 CINEMAX 2
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
-http://181.10.123.154:14000/play/a04s/index.m3u8
+
 
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
@@ -2173,7 +2177,7 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 STARCHANNEL us
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
-http://143.0.67.77:8000/play/a079/index.m3u8
+http://181.209.95.30:8000/play/a079/index.m3u8
 
 STARCHannel lat
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
@@ -2185,6 +2189,7 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 
 FX SPAANS
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Espanol
+http://181.209.95.30:8000/play/a02v/index.m3u8
 http://38.180.133.31:8000/play/a0o1/index.m3u8
 
 AMC
@@ -2193,11 +2198,11 @@ http://38.180.133.31:8000/play/a0nj/index.m3u8
 
 USA
 #EXTINF:-1 tvg-id="USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA 
-http://181.10.123.154:14000/play/a023/index.m3u8
+http://181.209.95.30:8000/play/a023/index.m3u8
 
 FILM END ARTS
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
-http://181.10.123.154:14000/play/a030/index.m3u8
+http://181.209.95.30:8000/play/a030/index.m3u8
 
 MULTIPREMIER
 #EXTINF:-1 tvg-id="Multipremier", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png", Multipremier
@@ -2205,11 +2210,11 @@ http://181.78.106.127:9000/play/ca087/index.m3u8
 
 DISNEY JR.
 #EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Jr
-http://181.10.123.154:14000/play/a04y/index.m3u8
+http://181.209.95.30:8000/play/a0ay/index.m3u8
 
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
-http://181.10.123.154:14000/play/a02r/index.m3u8
+http://181.209.95.30:8000/play/a02r/index.m3u8
 
 TOONCAST
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgXZpWWw/tooncast.jpg" group-title="Premium | Latino",Tooncast (LATAM)
@@ -2281,11 +2286,11 @@ http://181.189.241.114:5050/play/a03v
 
 LIFETIME
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SLbt3tt/lifetimp.jpg" group-title="Premium | Latino",Lifetime | Opción 3 (LATAM)
-http://216.122.181.10:8081/play/a0dr/index.m3u8
+http://181.209.95.30:8000/play/a06n/index.m3u8
 
 DISCOVERY THEATER
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QKm2BRJ/discovery-theater.jpg" group-title="Premium | Latino",Discovery | Theater | Opción 3 (LATAM)
-http://216.122.181.10:8081/play/a0ki/index.m3u8
+http://181.209.95.30:8000/play/a02z/index.m3u8
 
 DISCOVERY ID
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Premium | Latino",Discovery | ID | Opción 2 (LATAM)
@@ -2297,7 +2302,7 @@ https://tvpass.org/live/CrimePlusInvestigation/hd
 
 DISCOVERY CHANNEL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Premium | Latino",Discovery Channel | Opción 3 (LATAM)
-http://216.122.181.10:8081/play/a0gh/index.m3u8
+http://181.209.95.30:8000/play/a07i/index.m3u8
 
 DISCOVERY CHANNEL ESP
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
@@ -2305,15 +2310,15 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 DISCOVERY SCINCE
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png"" group-title="Especiales y Documentales", Discovery Science
-http://216.122.181.10:8081/play/a0hv/index.m3u8
+http://181.209.95.30:8000/play/a02k/index.m3u8
 
 DISCOVERY TURBO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Especiales y Documentales", Discovery Turbo
-http://216.122.181.10:8081/play/a0h0/index.m3u8
+http://181.209.95.30:8000/play/a01w/index.m3u8
 
 DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Especiales y Documentales", Discovery World
-http://216.122.181.10:8081/play/a0lx/index.m3u8
+http://181.209.95.30:8000/play/a031/index.m3u8
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
@@ -2322,23 +2327,24 @@ http://181.189.241.114:5050/play/a03n
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DEPORTES XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XX
 SPN PREMIUM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium
-http://181.10.123.154:14000/play/a078/index.m3u8
+http://181.209.95.30:8000/play/a078/index.m3u8
+
 
 SPN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN
-http://181.10.123.154:14000/play/a05a/index.m3u8
+http://181.209.95.30:8000/play/a0ab/index.m3u8
 
 SPN2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 2
-http://181.10.123.154:14000/play/a059/index.m3u8
+http://181.209.95.30:8000/play/a0ac/index.m3u8
 
 SPN3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 3
-http://181.10.123.154:14000/play/a05b/index.m3u8
+http://181.209.95.30:8000/play/a0ad/index.m3u8
 
 SPN4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes", ESPN 4
-http://181.10.123.154:14000/play/a076/index.m3u8
+http://181.209.95.30:8000/play/a076/index.m3u8
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VARIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -2349,6 +2355,7 @@ http://38.180.133.31:8000/play/a0nv/index.m3u8
 
 MTV CLSSIC
 #EXTINF:-1 tvg-id="MTVClassicEast.us",MTV Classic (360p)
+http://181.209.95.30:8000/play/a0ag/index.m3u8
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
 DR. POLO 24/7
