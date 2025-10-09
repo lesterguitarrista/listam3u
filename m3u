@@ -2035,7 +2035,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82
 
 SPACE
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
-http://181.10.123.154:14000/play/a02w/index.m3u8
+http://181.209.95.30:8000/play/a02w/index.m3u8
 
 TNT
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
@@ -2043,11 +2043,11 @@ http://181.189.241.114:5050/play/a0pn
 
 TNT MEXICO
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
-http://216.122.181.10:8081/play/a0dw/index.m3u8
+http://181.209.95.30:8000/play/a07d/index.m3u8
 
 TNT SERIES
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
-http://181.189.241.114:5050/play/a0q4
+http://181.209.95.30:8000/play/a07e/index.m3u8
 
 AXN
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
