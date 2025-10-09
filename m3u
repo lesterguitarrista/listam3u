@@ -2003,11 +2003,11 @@ http://181.78.106.127:9000/play/ca086/index.m3u8
 
 AMC
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" , AMC HD
-
+http://181.209.95.30:8000/play/a01z/index.m3u8
 
 PARAMOUNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Paramount_Network_wordmark_%28Black%29.svg" group-title="Cine y Series", Paramount
-
+http://181.209.95.30:8000/play/a02y/index.m3u8
 
 SONY
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
@@ -2051,6 +2051,7 @@ http://181.209.95.30:8000/play/a07e/index.m3u8
 
 AXN
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
+http://181.209.95.30:8000/play/a0aw/index.m3u8
 http://38.180.133.31:8000/play/a0qi/index.m3u8
 
 TMC
@@ -2104,7 +2105,7 @@ http://38.180.133.31:8000/play/a0n2/index.m3u8
 
 WARNER CHANNEL
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
-http://181.10.123.154:14000/play/a05e/index.m3u8
+http://181.209.95.30:8000/play/a0b3/index.m3u8
 
 STARZ US
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dv4gj6Y/staz.jpg" group-title="Películas | Series",Starz (US)
