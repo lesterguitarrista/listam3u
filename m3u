@@ -45,6 +45,7 @@ A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
 https://channel2-tva.duin.dev/tv/streaming/2/stream.m3u8
 
+UNICABLE MX
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png" , MX: Unicable
 http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/ca24ba2d-b082-42ea-98df-ad918d864203.m3u
 
@@ -2297,7 +2298,7 @@ http://181.209.95.30:8000/play/a02z/index.m3u8
 
 DISCOVERY ID
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Premium | Latino",Discovery | ID | Opción 2 (LATAM)
-http://216.122.181.10:8081/play/a0oj/index.m3u8
+http://179.63.6.15:8000/play/a01f
 
 DISCOVERY ID US
 #EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
