@@ -179,11 +179,11 @@ MTV ROCK
 https://jmp2.uk/plu-65786d29dfed030008ce2fa7.m3u8
 
 PLANETA TV
-#EXTINF:-1 tvg-id="PlanetaTV.pe", tvg-logo="" , Planeta TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlanetaTV.pe", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHsQotxvX1xJ012pQ7RJklyrpUtwL-w5CX5AoggVdarAidKZ2B3x-v8U&s=10" , Planeta TV (720p) [Not 24/7]
 https://live.obslivestream.com/planetatv/index.m3u8
 
 URANIO TV
-#EXTINF:-1 tvg-id="UranioTV.pe", tvg-logo="" , Uranio TV (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="UranioTV.pe", tvg-logo="https://uraniotv.pe/wp-content/uploads/2023/06/logo.gif" , Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
