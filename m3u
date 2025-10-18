@@ -51,7 +51,8 @@ http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/ca24ba2d-b082-42ea-98
 
 UNIVISION
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1238px-Logo_Univision_2019.svg.png" group-title="FAMILIA",Univision Panregional 
-http://216.122.181.10:8081/play/a0lz/index.m3u8
+http://200.35.176.154:8000/play/a0rw/index.m3u8
+
 
 C4 EN ALERTA
 #EXTINF:-1 group-title="24/7", tvg-logo="https://cdn2.telediario.mx/uploads/media/2025/01/02/c-en-alerta.jpg" C4 En Alerta
@@ -60,10 +61,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 TIGO SPORTS
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
 http://190.14.10.19:16000/play/a00ps/index.m3u8
-
-TIGO SPORT GT
-#EXTINF:-1 tvg-logo="http://45.5.117.57:8300/playlist/tvg-logo/a04w.png",4 TIGO SPORTS GT
-http://45.5.117.57:8300/play/a04w
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
@@ -139,7 +136,6 @@ MIDSOMER MUYDERS
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7f8GTeUL6q1DyXRwK9xIsWxvzX.png" ,Midsomer Murders
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 
-
 LOCADEMIA O VARIAS PELICULAS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnxD7mzv/doo.jpg" group-title="Mas Series 🧟",Locademia de Policia | Dodo TV (CL)
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
@@ -173,6 +169,10 @@ FMH MOVIES
 http://64.76.53.91:9002/play/a008
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+TELE FLIX GT
+#EXTINF:-1,tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_FLIX_TV.png/1200px-Logo_FLIX_TV.png" , TELE FLIX
+http://200.35.176.154:8000/play/a04r/index.m3u8
 
 MTV ROCK
 #EXTINF:-1 tvg-id="65786d29dfed030008ce2fa7" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Rock
