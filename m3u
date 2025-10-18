@@ -171,7 +171,7 @@ http://64.76.53.91:9002/play/a008
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 TELE FLIX GT
-#EXTINF:-1,tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_FLIX_TV.png/1200px-Logo_FLIX_TV.png" , TELE FLIX
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_FLIX_TV.png/1200px-Logo_FLIX_TV.png" , TELE FLIX
 http://200.35.176.154:8000/play/a04r/index.m3u8
 
 MTV ROCK
@@ -221,7 +221,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 BABY SHARK ES
 #EXTINF:-1 tvg-id="619d5e6a093e7c0007489211" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids" tvg-chno="1410", Baby Shark ES
 http://flx.lat:8080//live/feltre/tsCmGYDb84KV/111772.ts
-
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
