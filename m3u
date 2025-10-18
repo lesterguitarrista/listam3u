@@ -2041,7 +2041,7 @@ http://181.209.95.30:8000/play/a02r/index.m3u8
 
 TOONCAST
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgXZpWWw/tooncast.jpg" group-title="Premium | Latino",Tooncast (LATAM)
-http://216.122.181.10:8081/play/a0rc/index.m3u8
+http://200.35.176.154:8000/play/a02z/index.m3u8
 
 LAW AND CRIME
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" ,Law & Crime (720p)
