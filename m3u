@@ -304,9 +304,9 @@ CINEMAX
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
 http://190.123.90.146:8000/play/a01o/index.m3u8
 
-CINEMAX GT
+ STAR
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
-http://200.35.176.154:8000/play/a044/index.m3u8
+http://179.33.98.35:20035/play/a013
 
 TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
@@ -547,23 +547,23 @@ NEXT
 #EXTINF:0 type="stream" channelId="-1" group="Movies;Music" logo="https://i.imgur.com/c2rF3SS.png", Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-HBO FAMILY PRUEBA
+HBO FAMILY 
 #EXTINF:0 type="stream" channelId="-1" name="C/S• HBO FAMILY (HD) »1«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg", C/S• HBO FAMILY (HD) »1«
 http://190.14.10.19:16000/play/a043/index.m3u8
 
 SPACE
 #EXTINF:-1 tvg-id="space.mx" tvg-name="CINE | SPACE NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png" group-title="CINE PREMIUM",CINE | SPACE NORTE
-http://195.66.210.10:80/Maya/DMHCW/54168
-http://45.228.234.113:8000/play/a05i/index.m3u8
+http://179.33.98.35:20035/play/a00k
+
 
 HBO
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO HD" tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" group-title="CINE PREMIUM",CINE | HBO HD
-http://195.66.210.10:80/Maya/DMHCW/242029
+http://179.33.98.35:20035/play/a01z
 
 HBO PLUS
 #EXTINF:-1,067 tvg-id="" tvg-name="HBO HD" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", HBO Plus HD
 http://190.14.10.19:16000/play/a042/index.m3u8
-http://195.66.210.10:80/Maya/DMHCW/198755
+
 
 WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="",Warner Channel 
@@ -583,11 +583,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
 
 HB2
 #EXTINF:-1 tvg-id="hbo.2.mx" tvg-name="CINE | HBO 2 HD" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="CINE PREMIUM",CINE | HBO 2 HD
-http://195.66.210.10:80/Maya/DMHCW/159126
+http://179.33.98.35:20035/play/a020
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="hbo.mundi.mx" tvg-name="CINE | HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE PREMIUM",CINE | HBO MUNDI HD
-http://195.66.210.10:80/Maya/DMHCW/19547
+http://179.33.98.35:20035/play/a023
 
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
