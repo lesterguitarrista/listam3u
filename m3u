@@ -316,6 +316,10 @@ TCM DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM DUAL
 http://179.1.68.245:7600/play/a080/index.m3u8
 
+USA DUAL
+#EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2018/03/usa-network-logo.png",USA DUAL
+http://179.1.68.245:7600/play/a07q/index.m3u8
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 EMPEÑOS A LO BESTIA
