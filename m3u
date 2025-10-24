@@ -312,6 +312,10 @@ TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
 http://179.1.68.245:7600/play/a018/index.m3u8
 
+TNT SERIES 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIES
+http://148.230.149.45:1020/play/a00d/index.m3u8
+
 TCM DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM DUAL
 http://179.1.68.245:7600/play/a080/index.m3u8
