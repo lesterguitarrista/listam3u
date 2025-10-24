@@ -308,6 +308,10 @@ CINEMAX GT
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
 http://200.35.176.154:8000/play/a044/index.m3u8
 
+TNT DUAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
+http://179.1.68.245:7600/play/a018/index.m3u8
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 EMPEÑOS A LO BESTIA
