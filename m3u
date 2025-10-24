@@ -312,6 +312,10 @@ TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
 http://179.1.68.245:7600/play/a018/index.m3u8
 
+TCM DUAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM DUAL
+http://179.1.68.245:7600/play/a080/index.m3u8
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 EMPEÑOS A LO BESTIA
