@@ -155,7 +155,8 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 
 DE PELICULA
 #EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="CINE | DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA
-http://195.66.210.10:80/Maya/DMHCW/53095
+http://38.225.198.65:8081/play/a089
+
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
