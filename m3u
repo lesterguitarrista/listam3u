@@ -81,9 +81,7 @@ VARIED TV
 #EXTINF:-1 group-title="-", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBnMDVk15RWaRVQux_yhhYa3xUQCZSHRUdA&s" ,  VARIED TV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
-CANDY CANDY
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANDY CANDY ⭐️" tvg-logo="https://i.pinimg.com/originals/ef/14/d6/ef14d630275bf70fdd8a781594549939.png" group-title="24/7",24/7 | CANDY CANDY ⭐️
-http://195.66.210.10:80/Maya/DMHCW/177094
+
 
 PRINCESAS DISNEY
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DISNEY PRINCESS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | DISNEY PRINCESS
@@ -114,6 +112,10 @@ http://195.66.210.10:80/Maya/DMHCW/531669
 THE MASK SINGER
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/438-4389600_logo-mask-singer-masked-singer-mask-logo-hd.png",The Masked Singer (720p)
 https://livetv-fa.tubi.video/masked-singer/index.m3u8
+
+SHARK TANK MEXICO
+#EXTINF:-1 tvg-logo="https://simg.nicepng.com/png/small/15-157651_open-shark-tank-mexico-logo.png" ,SHARK TANK MEXICO 24/7
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 
 ICE ROUT TRUCKERS
 #EXTINF:-1 tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2704590/capsule_616x353.jpg?t=1728913885",Ice Road Truckers (1080p)
