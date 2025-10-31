@@ -316,7 +316,7 @@ https://is.gd/IyWDEJ?.m3u8
 AXN HD
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="Peliculas y Series ",AXN HD
 http://190.14.1.214:40000/play/a07o
-http://179.1.68.245:7600/play/a055/index.m3u8
+
 
 CINEMAX 
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
@@ -326,21 +326,32 @@ http://190.14.1.214:40000/play/a07c
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
 http://190.14.1.214:40000/play/a04f
 
+SPACE
+#EXTINF:-1 group-title="-",SPACE 75
+http://190.14.1.214:40000/play/a07p
+
 TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
+http://190.14.1.214:40000/play/a02s
 http://179.1.68.245:7600/play/a018/index.m3u8
 
 TNT SERIES 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIES
+http://190.14.1.214:40000/play/a07x
 http://148.230.149.45:1020/play/a00d/index.m3u8
 
 TCM DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM DUAL
+http://190.14.1.214:40000/play/a05m
 http://179.1.68.245:7600/play/a080/index.m3u8
 
 USA DUAL
 #EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2018/03/usa-network-logo.png",USA DUAL
 http://179.1.68.245:7600/play/a07q/index.m3u8
+
+ID DISCOVERY
+#EXTINF:-1 group-title="-",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png", ID 79
+http://190.14.1.214:40000/play/a073
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
