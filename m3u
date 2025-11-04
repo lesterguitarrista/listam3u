@@ -91,11 +91,22 @@ VARIED TV
 #EXTINF:-1 group-title="-", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBnMDVk15RWaRVQux_yhhYa3xUQCZSHRUdA&s" ,  VARIED TV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
+MX
+#EXTINF:-1,MX
+http://45.184.87.142:8000/play/a05e
 
+MX FAMILY
+#EXTINF:-1,MX Family
+http://45.184.87.142:8000/play/a03b
 
-PRINCESAS DISNEY
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DISNEY PRINCESS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | DISNEY PRINCESS
-http://195.66.210.10:80/Maya/DMHCW/177323
+MX CLASSIC
+#EXTINF:-1,MX Clasic
+http://45.184.87.142:8000/play/a03g
+
+MX SERIES
+#EXTINF:-1,MX Series
+http://45.184.87.142:8000/play/a03f
+
 
 CANAL INFANTIL
 #EXTINF:-1, tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" , Peliculas Infantiles
