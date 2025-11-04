@@ -165,12 +165,12 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 
 DE PELICULA
 #EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="CINE | DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA
-http://38.225.198.65:8081/play/a089
+http://179.49.163.34:45000/play/a013/index.m3u8
 
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
-http://195.66.210.10:80/Maya/DMHCW/53091
+http://181.78.106.127:9000/play/ca073/index.m3u8
 
 FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
