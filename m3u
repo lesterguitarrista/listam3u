@@ -92,19 +92,19 @@ VARIED TV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
 MX
-#EXTINF:-1,MX
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/3/33/JOMX-TV_%28MX-TV%2C_1998%29.png/400px-JOMX-TV_%28MX-TV%2C_1998%29.png" , MX
 http://45.184.87.142:8000/play/a05e
 
 MX FAMILY
-#EXTINF:-1,MX Family
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/3/33/JOMX-TV_%28MX-TV%2C_1998%29.png/400px-JOMX-TV_%28MX-TV%2C_1998%29.png" , MX Family
 http://45.184.87.142:8000/play/a03b
 
 MX CLASSIC
-#EXTINF:-1,MX Clasic
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/3/33/JOMX-TV_%28MX-TV%2C_1998%29.png/400px-JOMX-TV_%28MX-TV%2C_1998%29.png", MX Clasic
 http://45.184.87.142:8000/play/a03g
 
 MX SERIES
-#EXTINF:-1,MX Series
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/3/33/JOMX-TV_%28MX-TV%2C_1998%29.png/400px-JOMX-TV_%28MX-TV%2C_1998%29.png", MX Series
 http://45.184.87.142:8000/play/a03f
 
 
