@@ -66,7 +66,7 @@ http://190.14.10.19:16000/play/a00ps/index.m3u8
 
 TUDN
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://190.14.1.214:40000/play/a09p
+http://181.78.106.127:9000/play/ca036/index.m3u8
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
