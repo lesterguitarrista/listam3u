@@ -35,9 +35,9 @@ TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
 https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
-TVAZTECA MEXICO
+TVAZTECA 7 MEXICO
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca MEXICO
-http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/409eee46-94da-4157-bd97-0a6f2ea64a58.m3u
+http://181.78.106.127:9000/play/ca023/index.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
