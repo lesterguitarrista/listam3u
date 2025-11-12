@@ -41,10 +41,7 @@ http://181.78.106.127:9000/play/ca023/index.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
-http://190.14.1.214:40000/play/a08u
 http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/86504300-9fda-4634-802e-0fa449b06037.m3u
-http://190.149.62.46:8004/play/a0mj/index.m3u8
-
 
 A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
