@@ -143,9 +143,6 @@ OPERATION REPO
 #EXTINF:-1 tvg-id="Choppertown.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Operation_Repo.jpg/revision/latest?cb=20231220192233", Choppertown (720p) [Not 24/7]
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 
-COURT TV
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo"https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" ,Court TV (720p)
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/4960
 
 COURT LEGENDARY
 #EXTINF:-1 tvg-id="ColdCaseFiles.us", tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2F4%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F44b8c938b34238f227a4030123f8dfcf.png" , Court legendary trials
@@ -338,58 +335,9 @@ TNT DUAL
 http://179.1.68.245:7600/play/a018/index.m3u8
 
 TNT SERIES 
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIES
-http://190.14.1.214:40000/play/a07x
-http://148.230.149.45:1020/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIESht
+http://45.5.151.251:8000/play/a01b/index.m3u8
 
-TCM DUAL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM DUAL
-http://190.14.1.214:40000/play/a05m
-http://179.1.68.245:7600/play/a080/index.m3u8
-
-USA DUAL
-#EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2018/03/usa-network-logo.png",USA DUAL
-http://179.1.68.245:7600/play/a07q/index.m3u8
-
-ID DISCOVERY
-#EXTINF:-1 group-title="-",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png", ID 79
-http://190.14.1.214:40000/play/a073
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 24/7 Xxxxxxxx    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-EMPEÑOS A LO BESTIA
-#EXTINF:-1 channel-id="5f23102d5e239d00074b092a" tvg-id="5f23102d5e239d00074b092a" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Empeños a lo Bestia
-https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
-
-OBSESION POR LOS AUTOS
-#EXTINF:-1 channel-id="64025592953da40008bf9238" tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Obsesión por los Autos
-https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
-
-TOM & JERRY
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpHcfg8/tomjerry.jpg" group-title="Mas Series 🧟",Tom y Jerry (LATAM)
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-
-ALF
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ALF
-http://195.66.210.10:80/Maya/DMHCW/531686
-
-SAVED BY THE BELL
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t44TmmhX/sal.jpg" group-title="Mas Series 🧟",Saved By The Bell | Opción 2 (US)
-https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8
-
-PADRE DE FAMILIA
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2JZyfxy/familyguy.jpg" group-title="Mas Series 🧟",Padre de Familia (US)
-http://tvmate.icu:8080/live/7686199/9576982/66317.m3u8
-
-PADRE DE FAMILIA ESPAÑOL
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | FAMILY GUY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | FAMILY GUY
-http://195.66.210.10:80/Maya/DMHCW/531619
-
-LA REINA DEL SUR
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA REINA DEL SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | LA REINA DEL SUR
-http://195.66.210.10:80/Maya/DMHCW/531645
-
-MR. BEAN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
