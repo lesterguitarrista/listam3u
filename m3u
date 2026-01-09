@@ -83,7 +83,9 @@ https://stream-us-east-1.getpublica.com/cl/260109d5ge9go6hti6213fb6a0/1920x1080_
 
 MEMORIAS SERIES
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-SERIES-png-.png", MEMORIAS SERIES
+https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
 https://cloud2.streaminglivehd.com:1936/8120/8120/playlist.m3u8
+
 
 APAMIMES 
 #EXTINF:-1 group-title="-", tvg-logo="https://www.africaorigin.net/upload/source/Apanines%20TV.png" , APANINES
