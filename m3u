@@ -138,6 +138,10 @@ MIDSOMER MUYDERS
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7f8GTeUL6q1DyXRwK9xIsWxvzX.png" ,Midsomer Murders
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 
+MURDER SHE WROTE
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/12/murder-she-wrote-e1513781745389.jpg",MURDER SHE WROETE
+https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
+
 LOCADEMIA O VARIAS PELICULAS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnxD7mzv/doo.jpg" group-title="Mas Series 🧟",Locademia de Policia | Dodo TV (CL)
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
