@@ -70,7 +70,7 @@ http://181.78.106.127:9000/play/ca036/index.m3u8
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
-https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
+https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
 
 
 RETRO X TV
@@ -84,7 +84,6 @@ https://stream-us-east-1.getpublica.com/cl/260109d5ge9go6hti6213fb6a0/1920x1080_
 MEMORIAS SERIES
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-SERIES-png-.png", MEMORIAS SERIES
 https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
-https://cloud2.streaminglivehd.com:1936/8120/8120/playlist.m3u8
 
 
 APAMIMES 
@@ -95,34 +94,11 @@ VARIED TV
 #EXTINF:-1 group-title="-", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBnMDVk15RWaRVQux_yhhYa3xUQCZSHRUdA&s" ,  VARIED TV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
-MX
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/3/33/JOMX-TV_%28MX-TV%2C_1998%29.png/400px-JOMX-TV_%28MX-TV%2C_1998%29.png" , MX
-http://45.184.87.142:8000/play/a05e
-
-MX FAMILY
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/3/33/JOMX-TV_%28MX-TV%2C_1998%29.png/400px-JOMX-TV_%28MX-TV%2C_1998%29.png" , MX Family
-http://45.184.87.142:8000/play/a03b
-
-MX CLASSIC
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/3/33/JOMX-TV_%28MX-TV%2C_1998%29.png/400px-JOMX-TV_%28MX-TV%2C_1998%29.png", MX Clasic
-http://45.184.87.142:8000/play/a03g
-
-MX SERIES
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/3/33/JOMX-TV_%28MX-TV%2C_1998%29.png/400px-JOMX-TV_%28MX-TV%2C_1998%29.png", MX Series
-http://45.184.87.142:8000/play/a03f
-
 
 CANAL INFANTIL
 #EXTINF:-1, tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" , Peliculas Infantiles
 http://38.51.234.11:8888/play/a06d
 
-KUNG FU PANDA
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | KUNG FU PANDA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/z2iy3b07yqqt5iu/kungfupanda.png" group-title="24/7",24/7 | KUNG FU PANDA ⭐️
-http://195.66.210.10:80/Maya/DMHCW/177183
-
-LA PANTERA ROSA
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="https://e7.pngegg.com/pngimages/987/947/png-clipart-illustration-logo-graphic-design-brand-pink-panther-love-text.png" group-title="24/7",24/7 | LA PANTERA ROSA
-http://195.66.210.10:80/Maya/DMHCW/107989
 
 RETRO CLUB
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b853681a93b59e7adafc0833ea66b96c062ec125be67ff104d2a17d6fbf61bf0.png", RETRO CLUB
