@@ -216,7 +216,9 @@ FUTURAMA
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
+http://201.230.121.186:8000/play/a0fb/index.m3u8
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
@@ -2005,7 +2007,7 @@ http://181.209.95.30:8000/play/a0ay/index.m3u8
 
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
-http://181.209.95.30:8000/play/a02r/index.m3u8
+http://201.230.121.186:8000/play/a0fb/index.m3u8
 
 TOONCAST
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgXZpWWw/tooncast.jpg" group-title="Premium | Latino",Tooncast (LATAM)
