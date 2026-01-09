@@ -30,6 +30,9 @@ CANAL 11
 http://45.71.38.3:8010/play/a031/index.m3u8
 http://190.149.62.46:8004/play/a0lf/index.m3u8
 
+LAS ESTRELLAS
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
@@ -203,17 +206,6 @@ BAY WATCH
 #EXTINF:-1 channel-id="66a26a7846762a0008258d4e" tvg-id="66a26a7846762a0008258d4e" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Baywatch
 https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
 
-THUNDERCATS
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | THUNDERCATS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | THUNDERCATS
-http://195.66.210.10:80/Maya/DMHCW/169823
-
-SCOOBY DOO
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | SCOOBY DOO" tvg-logo="https://img1.picmix.com/output/stamp/normal/7/8/0/4/604087_27f5d.png" group-title="24/7",24/7 | SCOOBY DOO
-http://195.66.210.10:80/Maya/DMHCW/108059
-
-RANMA 1/2
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | RANMA 1/2" tvg-logo="https://w7.pngwing.com/pngs/702/795/png-transparent-ranma-%C2%BD-hard-battle-inuyasha-anime-manga-ranma-1-2-friendship-boy-fictional-character-thumbnail.png" group-title="24/7",24/7 | RANMA 1/2
-http://195.66.210.10:80/Maya/DMHCW/217550
 
 🧟",Los Simpsons | Casita del Horror (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
@@ -221,14 +213,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 
 FUTURAMA
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | FUTURAMA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/h4xfofursz2py5j/futurama.png" group-title="24/7",24/7 | FUTURAMA ⭐️
-http://195.66.210.10:80/Maya/DMHCW/46284
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-BABY SHARK ES
-#EXTINF:-1 tvg-id="619d5e6a093e7c0007489211" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids" tvg-chno="1410", Baby Shark ES
-http://flx.lat:8080//live/feltre/tsCmGYDb84KV/111772.ts
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
@@ -287,10 +275,6 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX PRUEBA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-CANTINFLAS
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/929a9419701211.562ded5592985.jpg" group-title="24/7",24/7 | CANTINFLAS
-http://195.66.210.10:80/Maya/DMHCW/107891
-
 PELICULAS 24/7
 #EXTINF:-23 tvg-logo="https://static2.tgstat.ru/channels/_0/17/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="CINE Y SERIES", Pelis 
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
@@ -313,7 +297,7 @@ CINEMAX
 http://45.5.119.43:4000/play/a0il/index.m3u8
 
  STAR
-#EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",CINE  | STAR
 http://181.78.106.127:9000/play/ca075/index.m3u8
 
 SPACE
