@@ -508,12 +508,11 @@ http://190.14.10.19:16000/play/a043/index.m3u8
 
 SPACE
 #EXTINF:-1 tvg-id="space.mx" tvg-name="CINE | SPACE NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png" group-title="CINE PREMIUM",CINE | SPACE NORTE
-http://181.78.85.53:9002/play/a007/index.m3u8
-
+http://138.121.114.86:8000/play/a071/index.m3u8
 
 HBO
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO HD" tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" group-title="CINE PREMIUM",CINE | HBO HD
-http://45.5.151.251:8000/play/a031/index.m3u8
+http://138.121.114.86:8000/play/a07m/index.m3u8
 
 HBO PLUS
 #EXTINF:-1,067 tvg-id="" tvg-name="HBO HD" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", HBO Plus HD
@@ -522,11 +521,8 @@ http://190.14.10.19:16000/play/a042/index.m3u8
 
 WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="",Warner Channel 
-http://45.5.151.251:8000/play/a01e/index.m3u8
+http://138.121.114.86:8000/play/a09d/index.m3u8
 
-XIOMOZ LESTER PRUEBA
-#EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", XIOMOZ
-https://live20.bozztv.com/akamaissh101/ssh101/xiomoz/chunks.m3u8
 
 TIGO COSTARICA
 #EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", TIGO SPORT COSTARICA
@@ -538,11 +534,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
 
 HB2
 #EXTINF:-1 tvg-id="hbo.2.mx" tvg-name="CINE | HBO 2 HD" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="CINE PREMIUM",CINE | HBO 2 HD
-http://45.5.151.251:8000/play/a010/index.m3u8
+http://138.121.114.86:8000/play/a07o/index.m3u8
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="hbo.mundi.mx" tvg-name="CINE | HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE PREMIUM",CINE | HBO MUNDI HD
-http://45.5.151.251:8000/play/a03c/index.m3u8
+http://138.121.114.86:8000/play/a06f/index.m3u8
 
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
