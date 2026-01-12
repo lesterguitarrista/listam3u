@@ -304,7 +304,7 @@ http://181.78.106.127:9000/play/ca075/index.m3u8
 
 SPACE
 #EXTINF:-1 group-title="-",SPACE 75
-http://138.121.114.86:8000/play/a071/index.m3u8
+http://45.181.122.46:8090/play/a00h
 
 TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
