@@ -304,7 +304,7 @@ http://181.78.106.127:9000/play/ca075/index.m3u8
 
 SPACE
 #EXTINF:-1 group-title="-",SPACE 75
-http://45.5.151.251:8000/play/a016/index.m3u8
+http://138.121.114.86:8000/play/a071/index.m3u8
 
 TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
@@ -312,7 +312,7 @@ http://179.1.68.245:7600/play/a018/index.m3u8
 
 TNT SERIES 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIESht
-http://45.5.151.251:8000/play/a01b/index.m3u8
+http://138.121.114.86:8000/play/a0d7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
@@ -584,9 +584,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="https://i.imgur.com/nkEeYfI.png", 80s Rewind
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
 
-Retro X Tv
-#EXTINF:-1 tvg-id="retroxtv" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3033-800x450-FFFFFF.jpg" , Retro x tv
-https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 FMTV
 #EXTINF:-1 tvg-id="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" , FMTV
@@ -1962,7 +1959,7 @@ CINEMAX 2
 
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 STARCHANNEL us
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
