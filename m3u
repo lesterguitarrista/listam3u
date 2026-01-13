@@ -75,12 +75,17 @@ CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
 https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 
+RetroXtvPlus
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic" tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic" ,Retrox TV (576p) [Geo-blocked]
 https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
 https://video20.klm99.com:3580/live/retroxlive.m3u8
+
+BAYRES TV
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 ZAZ MEXICO
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAKZlLMfvYZrR0A8eiR1UHmgo6EFjBYJuvTi-4p0gPUeRnBRxQqGpun0tsolopOEzefwuNHPWGZ-inAdz6V9eke12-7NB93hkRkrvX7FDxv6zEVygWZ1gZ4X0Ib2TErnG00eXPS04e4hBPBDKuLIDY0TnzDnMs6XMcFEvpKDQq_68Fli1_X2kf72dj/w640-h360-rw/thumbh_20220411_193252.png" , ZAZ MEXICO
@@ -1961,7 +1966,7 @@ CINEMAX 2
 
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 STARCHANNEL us
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
