@@ -77,7 +77,7 @@ https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 
 RetroXtvPlus
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic" tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic" ,Retrox TV (576p) [Geo-blocked]
-https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
+https://bozztv.com/akamaissh101/ssh101/retroxcrtv/chunks.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
