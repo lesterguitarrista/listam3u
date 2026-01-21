@@ -73,7 +73,7 @@ http://181.78.106.127:9000/play/ca036/index.m3u8
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
-https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
+https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
 
 RetroXtvPlus
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic" tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic" ,Retrox TV (576p) [Geo-blocked]
