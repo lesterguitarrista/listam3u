@@ -84,9 +84,6 @@ BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-ZAZ MEXICO
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAKZlLMfvYZrR0A8eiR1UHmgo6EFjBYJuvTi-4p0gPUeRnBRxQqGpun0tsolopOEzefwuNHPWGZ-inAdz6V9eke12-7NB93hkRkrvX7FDxv6zEVygWZ1gZ4X0Ib2TErnG00eXPS04e4hBPBDKuLIDY0TnzDnMs6XMcFEvpKDQq_68Fli1_X2kf72dj/w640-h360-rw/thumbh_20220411_193252.png" , ZAZ MEXICO
-https://stream-us-east-1.getpublica.com/cl/260113d5j18kccuaaji9tvsffg/1920x1080_2500000_0_f.m3u8?i=1187_13012
 
 MEMORIAS SERIES
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-SERIES-png-.png", MEMORIAS SERIES
@@ -215,8 +212,6 @@ https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 
-FUTURAMA
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | FUTURAMA ⭐️" tvg-logo="https://dl.dropboxusercontent.com/s/h4xfofursz2py5j/futurama.png" group-title="24/7",24/7 | FUTURAMA ⭐️
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -228,6 +223,9 @@ BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
 http://181.13.252.102:8000/play/a02e/index.m3u8
 
+PEPPA PIG
+#EXTINF:-0, tvg-logo="https://toppng.com/uploads/preview/eppa-pig-molde-pig-png-pig-party-real-moms-fiestas-peppa-pig-logo-11562996894fi7teacoia.png" , PEPPA PIG
+http://200.115.120.1:8000/play/ca009/index.m3u8
 
 LOOLOO KIDS
 #EXTINF:-1 tvg-id="ES5000001CS" tvg-logo="https://i.postimg.cc/4xQ4qsG2/loo.jpg" group-title="Animados | Variado",LooLoo Kids NIENKE
@@ -337,17 +335,6 @@ DRAGON BALL2
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://www.dafont.com/forum/attach/orig/7/8/788166.png" group-title="24/7",24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER
 https://live20.bozztv.com/giatvplayout7/giatv-208725/playlist.m3u8
 
-ED,EDD Y EDDY
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ED, EDD Y EDDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ED, EDD Y EDDY
-http://195.66.210.10:80/Maya/DMHCW/531615
-
-EL CHAVO DEL OCHO
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL OCHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | EL CHAVO DEL OCHO
-http://195.66.210.10:80/Maya/DMHCW/531614
-
-EL COYOTE Y EL CORRECAMINOS
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL COYOTE Y EL CORRECAMINOS ⭐️" tvg-logo="http://assets.stickpng.com/thumbs/59300e6f3919fe0ee3614dec.png" group-title="24/7",24/7 | EL COYOTE Y EL CORRECAMINOS ⭐️
-http://195.66.210.10:80/Maya/DMHCW/216294
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
