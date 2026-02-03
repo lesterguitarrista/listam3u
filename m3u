@@ -2,6 +2,7 @@
 
 CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
+https://emisorasgt.com//player.php?url=https%3A%2F%2Fd2qsan2ut81n2k.cloudfront.net%2Flive%2F6b4f0a21-94d5-4fb6-9742-0f78923723cd%2Fmedialist_4276517416086298479_hls.m3u8
 http://179.60.224.196:8000/play/a0dt/index.m3u8
 
 CANAL TN23
@@ -10,6 +11,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 
 CANAL 7
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
+https://emisorasgt.com/player.php?url=https://d3r1d0jzdq322.cloudfront.net/index.m3u8
 http://179.60.224.196:8000/play/a0du/index.m3u8
 
 GUATEVISION
