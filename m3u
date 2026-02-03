@@ -2,8 +2,7 @@
 
 CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
-http://181.78.106.127:9000/play/ca010/index.m3u8
-https://library-getafix.fireclip.tv/660dc14adb8980d7e2926c0a/live/index.m3u8
+http://179.60.224.196:8000/play/a0dt/index.m3u8
 
 CANAL TN23
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
@@ -11,8 +10,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 
 CANAL 7
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
-http://181.78.106.127:9000/play/ca007/index.m3u8
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
+http://179.60.224.196:8000/play/a0du/index.m3u8
 
 GUATEVISION
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",Guatevision
@@ -21,14 +19,13 @@ http://38.44.109.41:8003/play/a02p/index.m3u8
 
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
-http://45.71.38.3:8010/play/a030/index.m3u8
-http://190.149.62.46:8004/play/a0le/index.m3u8
+http://179.60.224.196:8000/play/a0dy/index.m3u8
+
 
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
-http://45.71.38.3:8010/play/a031/index.m3u8
-http://190.149.62.46:8004/play/a0lf/index.m3u8
+http://179.60.224.196:8000/play/a0dv/index.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
