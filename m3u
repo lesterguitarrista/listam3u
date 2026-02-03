@@ -23,8 +23,6 @@ CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
 http://179.60.224.196:8000/play/a0dy/index.m3u8
 
-
-
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
 http://179.60.224.196:8000/play/a0dv/index.m3u8
@@ -351,7 +349,7 @@ http://38.51.234.11:8888/play/a0au
 
 Claro Cinema
 #EXTINF:-1 tvg-id="Clarocinema.gt" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro cinema
-http://200.35.176.154:8000/play/a03d/index.m3u8
+videx-limit182-stream.x10.mx:8000/stream/clarocinema.m3u8
 
 
 Caracol
