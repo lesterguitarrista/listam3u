@@ -71,9 +71,6 @@ CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
 https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
 
-RetroXtvPlus
-#EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic" tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Classic" ,Retrox TV (576p) [Geo-blocked]
-https://bozztv.com/akamaissh101/ssh101/retroxcrtv/chunks.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
@@ -83,6 +80,9 @@ BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
+CANAL 5 SOLOLA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAugmQJSSOhtK1JM85x6ftFatoDCysETIbg&s",CANAL5 SOLOLA
+https://45.5.117.179:9999/play/a05v/index.m3u8
 
 MEMORIAS SERIES
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-SERIES-png-.png", MEMORIAS SERIES
