@@ -304,8 +304,12 @@ http://45.5.119.43:4000/play/a0il/index.m3u8
 http://181.78.106.127:9000/play/ca075/index.m3u8
 
 SPACE
-#EXTINF:-1 group-title="-",SPACE 75
+#EXTINF:-1 group-title="-" tvg-logo="https://p7.hiclipart.com/preview/16/901/103/space-logo-television-channel-esporte-interativo-space.jpg" ,SPACE 75
 http://45.181.122.46:8090/play/a00h
+
+SPACE AMERICA
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" ,SPACE 2
+http://190.11.225.124:5000/live/space_hd/playlist.m3u8
 
 TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
