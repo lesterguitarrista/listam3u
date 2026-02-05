@@ -302,7 +302,7 @@ http://45.5.119.43:4000/play/a0il/index.m3u8
 
  STAR
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",CINE  | STAR
-http://181.78.106.127:9000/play/ca075/index.m3u8
+http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 
 SPACE
 #EXTINF:-1 group-title="-" tvg-logo="https://p7.hiclipart.com/preview/16/901/103/space-logo-television-channel-esporte-interativo-space.jpg" ,SPACE 75
@@ -346,7 +346,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXX
 
 Canal 5 Mexico
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="MEXICO" , Canal 5 
-http://181.78.106.127:9000/play/ca012/index.m3u8
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
 Distrito Comedia
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
