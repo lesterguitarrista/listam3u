@@ -159,6 +159,7 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 
 DE PELICULA
 #EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="CINE | DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA
+http://190.11.225.124:5000/live/depelicula/playlist.m3u8
 http://179.49.163.34:45000/play/a013/index.m3u8
 
 
