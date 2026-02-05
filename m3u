@@ -291,9 +291,9 @@ SERIES RETRO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QJ3ZKX.png" group-title="Series Retro", 📺 Series Retro
 https://is.gd/IyWDEJ?.m3u8
 
-AXN HD
+AXN 
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="Peliculas y Series ",AXN HD
-http://181.78.106.127:9000/play/ca085/index.m3u8
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 
 
 CINEMAX 
@@ -320,6 +320,7 @@ TNT SERIES
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIESht
 http://138.121.114.86:8000/play/a0d7/index.m3u8
 
+MR. BEAN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
