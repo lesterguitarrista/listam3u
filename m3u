@@ -20,14 +20,12 @@ http://38.44.109.41:8003/play/a02p/index.m3u8
 
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
+https://d26u1l743v5994.cloudfront.net/out/v1/985b8c38466b4c68886368d9047b1e84/index.m3u8
 http://179.60.224.196:8000/play/a0dy/index.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
-http://179.60.224.196:8000/play/a0dv/index.m3u8|Referer=http://vlc.org
-http://179.60.224.196:8000/play/a0dv/index.m3u8?buffer=10&start=0
-http://179.60.224.196:8000/play/a0dv/index.m3u8?output=ts
-
+https://d26u1l743v5994.cloudfront.net/out/v1/719d9b6d859e4d509f6368d9047b1e84/index.m3u8
 
 
 LAS ESTRELLAS
