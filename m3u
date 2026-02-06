@@ -17,7 +17,6 @@ GUATEVISION
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",Guatevision
 http://38.44.109.41:8003/play/a02p/index.m3u8
 
-
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
 https://d26u1l743v5994.cloudfront.net/out/v1/985b8c38466b4c68886368d9047b1e84/index.m3u8|User-Agent=VLC
@@ -26,7 +25,6 @@ http://179.60.224.196:8000/play/a0dy/index.m3u8
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
 https://d26u1l743v5994.cloudfront.net/out/v1/719d9b6d859e4d509f6368d9047b1e84/index.m3u8|User-Agent=VLC
-
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
@@ -107,6 +105,10 @@ http://38.51.234.11:8888/play/a06d
 RETRO CLUB
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b853681a93b59e7adafc0833ea66b96c062ec125be67ff104d2a17d6fbf61bf0.png", RETRO CLUB
 https://live20.bozztv.com/akamaissh101/ssh101/retroclub1/chunks.m3u8
+
+13 Festivales
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg/revision/latest?cb=20230902024552&path-prefix=es", Vina del Mar
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
