@@ -2,7 +2,7 @@
 
 CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
-http://179.60.224.196:8000/play/a0dt/index.m3u8
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 
 
 CANAL TN23
@@ -11,7 +11,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 
 CANAL 7
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
-http://179.60.224.196:8000/play/a0du/index.m3u8
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
 GUATEVISION
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",Guatevision
