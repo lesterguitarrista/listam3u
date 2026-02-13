@@ -135,7 +135,6 @@ OPERATION REPO
 #EXTINF:-1 tvg-id="Choppertown.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Operation_Repo.jpg/revision/latest?cb=20231220192233", Choppertown (720p) [Not 24/7]
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 
-
 COURT LEGENDARY
 #EXTINF:-1 tvg-id="ColdCaseFiles.us", tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2F4%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F44b8c938b34238f227a4030123f8dfcf.png" , Court legendary trials
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
@@ -169,10 +168,13 @@ DE PELICULA
 http://190.11.225.124:5000/live/depelicula/playlist.m3u8
 http://179.49.163.34:45000/play/a013/index.m3u8
 
-
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
 http://videx-limit182-stream.x10.mx:8000/stream/depeliculaplus.m3u8
+
+CANTINFLAS 24/7
+#EXTINF:-1, tvg-logo="https://hrexach.wordpress.com/wp-content/uploads/2014/09/can10.png" , Cantinflas 24/7
+http://104.194.8.54:8080/get/F2WKm_pu4n9rAxzbRXXXYHJ4aEhLQkRIV0hFOTZCaGtOL1JCWUlIK1JBaDk5N1ppUmlnR2RGY1YxV05YV0hmNGsxcjRodE4zdURBeHlpdTQ4aDQxNU1OYitKRzJlVWdGTVFwZ3VRPT0.m3u8
 
 FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
