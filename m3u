@@ -117,8 +117,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ALERTA AEROPUERTO
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ALERTA AEROPUERTO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768235595/ei/681kabG-O7LjzPsPlMTtiQU/ip/2a02%3Aa03f%3Ae430%3A3601%3A7029%3Ad6e1%3Aa002%3A31f8/id/cH5UBPpMrvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_pndvOuGBs-14PSnQSwuLw5O-QUiE9Pvf0gcn7Bx5hJoJ5PPj0BJ2KurEjNZxUEYwtJ0lZfYHb6/spc/q5xjPHxUE-UOVLPhDHStMHMFWRAS8W-2zyzH9KZT03DqX4eXGg6BpwqtrcKJrdaTSF4/vprv/1/go/1/ns/7e-uXlaAOBoWDe-cbZ1cYnkR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/Q5D-q0tBmuVByYm3V2M/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALk-S5Yeiz1CuFsMyMfp8qnjAHdSzJO2wWtLMCofHrw8AiBRTXiHY0iuXbH9kXJlgyAROq9lDcmZx5XJGrtXAwmv6g%3D%3D/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771792277/ei/NRObaaHOKL-x6dsPudHOCQ/ip/2a02%3Aa03f%3Ae430%3A3601%3A4c8b%3A37da%3A3d6b%3A5cc0/id/Ac-jdc7zpb8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-zBEY0CEpKo1bhU-hvvJRFDIVM_iuC4kpqQdRBMyEoTFn_sp-fb1pjACIZA9-ns4oMCRYe7s_fR/spc/6dlaFJM0gEZGO8JVbBhHeG77_0RhgUXa3PFdIDlsS2mlINhrh-WpuyHr5yfTYJIU58uhdA/vprv/1/go/1/ns/6FGtoGhRULpzuhvSaRYrsP8S/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565681%2C51580968/dover/11/n/rUbxnJABUFRGQdcIRhY/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgILdkccrqXt4MPyv9QjcjJMxDRDYI4xdW4R2ecB0YrmwCIQCfEujTH628JSdNvv8CudBX-8Rp7hpNPCX9BiTN6NqHgA%3D%3D/file/index.m3u8
 THE MASK SINGER
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/438-4389600_logo-mask-singer-masked-singer-mask-logo-hd.png",The Masked Singer (720p)
 https://aegis-cloudfront-1.tubi.video/af138c2c-c4f2-49f7-88d7-64eeabbad414/index.m3u8
@@ -2023,7 +2022,7 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
 DHE
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE HD
-http://38.180.133.31:8000/play/a0l5/index.m3u8
+http://190.92.10.66:4000/play/a00e/index.m3u8
 
 MACGYVER 24/7
 #EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="Retro" , MacGyver
