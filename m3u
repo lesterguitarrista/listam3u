@@ -4,7 +4,6 @@ CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 
-
 CANAL TN23
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
 https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
@@ -68,7 +67,7 @@ http://167.250.223.26:8085/play/a0b5/index.m3u8
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
-https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
+https://acceso.mediosdecostarica.com:3873/multi_web/play_1080.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
@@ -164,8 +163,7 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 
 DE PELICULA
 #EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="CINE | DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA
-http://190.11.225.124:5000/live/depelicula/playlist.m3u8
-http://179.49.163.34:45000/play/a013/index.m3u8
+http://38.224.73.146:8000/play/a1ex/index.m3u8
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
@@ -189,7 +187,7 @@ http://64.76.53.91:9002/play/a008
 
 FMH ANIMOTION
 #EXTINF:-1,24_FMH_ANIMOTION
-http://148.222.225.136:8004/play/a0iz/index.m3u8
+http://38.224.73.146:8000/play/a1c1/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -225,7 +223,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
-http://201.230.121.186:8000/play/a0fb/index.m3u8
+http://38.224.73.146:8000/play/a19v/index.m3u8
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
@@ -1891,11 +1889,11 @@ http://181.78.106.127:9000/play/ca083/index.m3u8
 
 CARTOON NETWORK
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
-http://190.149.62.46:8004/play/a0jo/index.m3u8
+http://38.224.73.146:8000/play/a1c0/index.m3u8
 
 CARTOONITO
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
-http://38.180.133.31:8000/play/a0n2/index.m3u8
+http://38.224.73.146:8000/play/a1gh/index.m3u8
 
 WARNER CHANNEL
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
@@ -2001,12 +1999,12 @@ MULTIPREMIER
 http://181.78.106.127:9000/play/ca087/index.m3u8
 
 DISNEY JR.
-#EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Jr
-http://181.209.95.30:8000/play/a0ay/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",Disney Jr
+http://38.224.73.146:8000/play/a12i/index.m3u8
 
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
-http://201.230.121.186:8000/play/a0fb/index.m3u8
+http://38.224.73.146:8000/play/a19v/index.m3u8
 
 TOONCAST
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgXZpWWw/tooncast.jpg" group-title="Premium | Latino",Tooncast (LATAM)
@@ -2094,7 +2092,7 @@ https://tvpass.org/live/CrimePlusInvestigation/hd
 
 DISCOVERY CHANNEL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Premium | Latino",Discovery Channel | Opción 3 (LATAM)
-http://181.209.95.30:8000/play/a07i/index.m3u8
+http://38.224.73.146:8000/play/a1b1/index.m3u8
 
 DISCOVERY CHANNEL ESP
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg" , Discovery Channel HD
