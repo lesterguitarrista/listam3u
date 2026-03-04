@@ -2084,7 +2084,7 @@ http://181.209.95.30:8000/play/a02z/index.m3u8
 
 DISCOVERY ID
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Premium | Latino",Discovery | ID | Opción 2 (LATAM)
-http://179.63.6.15:8000/play/a01f
+http://38.224.175.2:8000/play/a067/index.m3u8
 
 DISCOVERY ID US
 #EXTINF:-1 tvg-id="DiscoveeryId.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" , Discovery ID HD
