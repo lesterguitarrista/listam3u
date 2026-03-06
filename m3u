@@ -13,7 +13,7 @@ CANAL 7
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 
 GUATEVISION
-#EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",Guatevision
+#EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://e7.pngegg.com/pngimages/197/120/png-clipart-guatevision-television-channel-azteca-guatemala-canal-antigua-others-television-text.png",Guatevision
 http://38.44.109.41:8003/play/a02p/index.m3u8
 
 CANAL 13
@@ -25,7 +25,7 @@ CANAL 11
 http://190.14.10.19:16000/play/a04n/index.m3u8
 
 LAS ESTRELLAS
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://e7.pngegg.com/pngimages/686/771/png-clipart-las-estrellas-televisa-television-channel-logo-star-television-angle.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 TVAZTECA GT
