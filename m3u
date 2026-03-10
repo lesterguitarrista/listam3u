@@ -198,8 +198,8 @@ TELE FLIX GT
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_FLIX_TV.png/1200px-Logo_FLIX_TV.png" , TELE FLIX
 http://200.35.176.154:8000/play/a04r/index.m3u8
 
-ULTRA Family
-#EXTINF:-1 tvg-id="" tvg-name="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png" group-title="" | ULTRA FM
+ULTRA FAMILIA
+#EXTINF:-1,tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png" , ULTRA FAMILIA
 http://38.190.4.195:8000/play/a07r
 
 PLANETA TV
