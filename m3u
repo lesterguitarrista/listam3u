@@ -44,8 +44,8 @@ A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
 https://channel2-tva.duin.dev/tv/streaming/2/stream.m3u8
 
-UNICABLE MX
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png" , MX: Unicable
+TELE NOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", TELE NOVELAS
 https://tvpass.org/live/UnivisionEast/sd
 
 UNIVISION
@@ -54,7 +54,7 @@ http://200.35.176.154:8000/play/a0rw/index.m3u8
 
 
 C4 EN ALERTA
-#EXTINF:-1 group-title="24/7", tvg-logo="https://cdn2.telediario.mx/uploads/media/2025/01/02/c-en-alerta.jpg" C4 En Alerta
+#EXTINF:-1 group-title="24/7" tvg-logo="https://cdn2.telediario.mx/uploads/media/2025/01/02/c-en-alerta.jpg", C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
 TIGO SPORTS
@@ -62,7 +62,7 @@ TIGO SPORTS
 http://201.216.147.90:8729/play/a0cf
 
 TUDN
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 http://167.250.223.26:8085/play/a0b5/index.m3u8
 
 CLASICOAS TV COSTA RICA
@@ -83,7 +83,7 @@ CAZASUBASTAS
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6335a6b6e6f7a600076e589e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=380f8bdb-99b9-4df6-b2ab-309703bfb34c
 
 PELICULAS Y MAS
-#EXTINF:-1,PELICULAS Y MAS
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/563-5632746_file-cine-logo-canal-cine-hd-png-download.png", PELICULAS Y MAS
 http://167.250.223.26:8085/play/a00r/index.m3u8
 
 MEMORIAS SERIES
@@ -100,7 +100,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
 
 CANAL INFANTIL
-#EXTINF:-1, tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" , Peliculas Infantiles
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" , Peliculas Infantiles
 http://38.51.234.11:8888/play/a06d
 
 
@@ -170,9 +170,9 @@ DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
 http://videx-limit182-stream.x10.mx:8000/stream/depeliculaplus.m3u8
 
-CANTINFLAS 24/7
-#EXTINF:-1, tvg-logo="https://hrexach.wordpress.com/wp-content/uploads/2014/09/can10.png" , Cantinflas 24/7
-http://104.194.8.54:8080/get/vZ4dXDs3eXUXi2oDLAYUGUFGei9GcXJVWVhvR2F4RkRXNXlPUmwwWmFnZEhpcUpTa2ZQWlJHM2FMZHJJMEJEZU9mU3FnNTVjNEtFSU4rdTd5bXNNaGk3ODNmSm9WRXdYbEIyakN3PT0.m3u8
+GOLDEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" , GOLDEN
+http://201.216.147.90:8729/play/a0df
 
 FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
