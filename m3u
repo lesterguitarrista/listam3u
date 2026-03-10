@@ -168,7 +168,15 @@ http://38.224.73.146:8000/play/a1ex/index.m3u8
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
-http://videx-limit182-stream.x10.mx:8000/stream/depeliculaplus.m3u8
+
+
+TCM
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png", TCM
+http://201.216.147.90:8729/play/a0dg
+
+SONY MOVIES
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg", Sony Movies HD
+http://201.216.147.90:8729/play/a0ca
 
 GOLDEN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" , GOLDEN
@@ -234,7 +242,7 @@ BABY TV
 http://181.13.252.102:8000/play/a02e/index.m3u8
 
 PEPPA PIG
-#EXTINF:-0, tvg-logo="https://toppng.com/uploads/preview/eppa-pig-molde-pig-png-pig-party-real-moms-fiestas-peppa-pig-logo-11562996894fi7teacoia.png" , PEPPA PIG
+#EXTINF:-0 tvg-logo="https://toppng.com/uploads/preview/eppa-pig-molde-pig-png-pig-party-real-moms-fiestas-peppa-pig-logo-11562996894fi7teacoia.png" , PEPPA PIG
 http://200.115.120.1:8000/play/ca009/index.m3u8
 
 LOOLOO KIDS
