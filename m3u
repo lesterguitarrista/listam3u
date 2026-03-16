@@ -84,7 +84,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 PELICULAS Y MAS
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/563-5632746_file-cine-logo-canal-cine-hd-png-download.png", PELICULAS Y MAS
-http://167.250.223.26:8085/play/a00r/index.m3u8
+http://38.224.73.146:8000/play/a1h9/index.m3u8
 
 MEMORIAS SERIES
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-SERIES-png-.png", MEMORIAS SERIES
@@ -176,7 +176,7 @@ http://38.224.73.146:8000/play/a1ex/index.m3u8
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
-
+http://38.224.73.146:8000/play/a1ex/index.m3u8
 
 TCM
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png", TCM
