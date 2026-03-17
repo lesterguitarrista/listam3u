@@ -113,10 +113,6 @@ CANAL INFANTIL
 http://38.51.234.11:8888/play/a06d
 
 
-RETRO CLUB
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b853681a93b59e7adafc0833ea66b96c062ec125be67ff104d2a17d6fbf61bf0.png", RETRO CLUB
-
-
 13 Festivales
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg/revision/latest?cb=20230902024552&path-prefix=es", Vina del Mar
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
@@ -224,10 +220,6 @@ SANCRIS VISION
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZI8aocojhVOp1U8SoJI4bsP28CCxsXa4vg&s", SANCRIS VISION
 https://live20.bozztv.com/akamaissh101/ssh101/sancrisvision/chunks.m3u8
 
-ULTRA FAMILIA
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png", ULTRA FAMILIA
-http://38.190.4.195:8000/play/a07r
-
 MC
 #EXTINF:-1 tvg-id="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", MC
 http://201.216.147.90:8729/play/a0dh
@@ -240,7 +232,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 BAY WATCH
 #EXTINF:-1 channel-id="66a26a7846762a0008258d4e" tvg-id="66a26a7846762a0008258d4e" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Baywatch
-https://jmp2.uk/plu-66a26a7846762a0008258d4e.m3u8
+
 
 
 🧟",Los Simpsons | Casita del Horror (LATAM)
@@ -266,17 +258,10 @@ LOOLOO KIDS
 #EXTINF:-1 tvg-id="ES5000001CS" tvg-logo="https://i.postimg.cc/4xQ4qsG2/loo.jpg" group-title="Animados | Variado",LooLoo Kids NIENKE
 https://amg02757-amg02757c6-samsung-es-6836.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02757-loolookids-llkesfast-samsunges/cb543d1d7e6c678d98d43e6fd3ef43a4f92022c813688b6b72e801d630945c1dc6a3f3ddee49f16b4e8b4a8a335f3e510f66d61eda2f01dadf7bfe51297442739e85e72e8b9b110ee1dc5c7e2fe570366bc95f41933b077ccd9b7762ee2681583734cd3d41660690e777974b0391c314cf2c46c8e99f38672a7862a5661681d331c09b83243baf21aba12676c47b06f9d30289bb48e4dd8502c061b84ccd5fecf290e4a76ffff7e81de45d9e5e6559266ed7816983f653b7d79f1b55f61b33672e65d98db2d36b21dc372935f9fbd8f166f003de8857e20a56eb5aeb25e3318e78e40daee53cc8c7ddc472721080d969614dd88d2121665749df53c8e084e87d758df3103874dd6ccc27384ae897a93aa5b3d8122b41ffd947122ad49905ba90b791e6b38c30fc6faa95b2f0b5253fe0c1f9221d22b84da2b1eefb6d350719fc072b8c9750d68fda5f7f41478f835fd31c21c5b1fd93c61a33c56e5648ed71cc5e1678df7b3e32b67fb7c94e0cf34600e462dd9ab19e3ae69ae172dfb0772c016150cda667331a7813/7/640x360_1442883/index.m3u8
 
-ULTRA KIDS
-#EXTINF:-1 group-title="-" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo.png", Ultra Kidz
-http://38.190.4.195:8000/play/a07d
-
 TOONCAST
 #EXTINF:-1 tvg-name="Little Baby Bum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/960px-Logo_de_Tooncast.svg.png" group-title="",TOONCAST NIENKE
 http://181.78.16.158:18000/play/a0co
 
-DREAMWORKS
-#EXTINF:-1 tvg-id="" tvg-name="[LIKE]  DREAMWORKS" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title="",  DREAMWORKS
-http://179.49.163.34:45000/play/a011/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxOTROSxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -292,10 +277,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 RETRO TOONS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryJ4DPyw/retrotoons.jpg" group-title="Animados | Variado",Retro Toons (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
-
-90s KIDS
-#EXTINF:0 channel-id="90s-kids-tv" channel-number="3785" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6452c814939a590008567a3b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="90's Kids" tvc-guide-description="Nickelodeon takes you back to the 90s with Rugrats, Hey Arnold! Kenan & Kel and more. It’s all your favorite Nick 90s shows that made The Splat that defined a generation - now you can relive the fun with your own family every day on Pluto TV!" group-title="Kids", 90's Kids
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=07644020-61ff-11ef-93a7-0b6875eb1caa&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7a04f55-15ec-4bec-bbec-19bfa2a19548&userId=&serverSideAds=true
 
 SEAMOS NIÑOS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg6wRPQf/seamos.jpg" group-title="Animados | Variado",Seamos Niños | TV Tica (CR)
@@ -344,7 +325,7 @@ SPACE
 http://38.224.73.146:8000/play/a1b5/index.m3u8
 
 SPACE AMERICA
-#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" ,SPACE 2
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" ,SPACE 2
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
 
 TNT DUAL
@@ -360,10 +341,6 @@ MR. BEAN
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 DRAGON BALL
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2JtbQVJ/dragonb.jpg" group-title="Mas Series 🧟",Dragon Ball | Goku TV (LATAM)
-https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-
-ANIME
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/448-4481377_dragon-ball-super-logo-png-dragonball-super-logo.png" group-title="Mas Series 🧟",Dragon Ball  Super| Goku 
 http://186.194.160.110:9002/play/a0gv/index.m3u8
 
@@ -400,11 +377,6 @@ http://177.10.184.193:8000/play/a0do/index.m3u8
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
 http://177.10.184.193:8000/play/a0fo/index.m3u8
-
-
-MULTIVISION
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/puOrL7B.jpg", Canal Multivision (720p)
-https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8
 
 Cascara
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
