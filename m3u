@@ -1864,23 +1864,23 @@ http://190.105.128.198:5800/play/a04h/index.m3u8
 
 UNIVERSAL CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_Universal_Channel.svg/2560px-Logo_Universal_Channel.svg.png" group-title="Cine y Series", Universal Channel
-
+http://45.164.151.197:8000/play/a0kt/index.m3u8
 
 UNIVERSAL CRIME
 #EXTINF:-1 tvg-id="universalcinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",UNIVERSAL CRIME
-
+http://45.164.151.197:8000/play/a065/index.m3u8
 
 UNIVERSAL REALITY
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYTtwwhb/universal-reality.jpg" group-title="Premium | Latino", Universal | Reality 
-
+http://45.164.151.197:8000/play/a0i3/index.m3u8
 
 UNIVERSAL PREMIER
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER
-
+http://45.164.151.197:8000/play/a0i1/index.m3u8
 
 UNIVERSAL PREMIER2
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER2
-
+http://45.164.151.197:8000/play/a0i2/index.m3u8
 
 CARTOON NETWORK
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
