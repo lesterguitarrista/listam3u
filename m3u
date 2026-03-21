@@ -1821,7 +1821,7 @@ http://45.172.92.111:8000/play/a00u/index.m3u8
 
 HISTORY CHANNEL
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
-http://181.78.16.158:18000/play/a0bv
+http://45.173.12.70:8000/play/a055/index.m3u8
 
 HISTORY CHANNEL 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", History 2
