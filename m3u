@@ -1797,7 +1797,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv_distro/zaztv.m3u8
 
 A&E
 #EXTINF:-1 tvg-id="AyE.mx" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="FAMILIA" , A&E
-http://181.78.106.127:9000/play/ca086/index.m3u8
+http://45.172.92.111:8000/play/a020/index.m3u8
 
 AMC
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" , AMC HD
@@ -1809,15 +1809,15 @@ http://181.209.95.30:8000/play/a02y/index.m3u8
 
 SONY
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
-http://181.78.16.158:18000/play/a0bz
+http://45.172.92.111:8000/play/a00y/index.m3u8
 
 NAT GEO
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" ,Nat Geo HD
-http://181.78.16.158:18000/play/a0bw
+http://45.172.92.111:8000/play/a00s/index.m3u8
 
 H&H
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",H&H
-http://181.78.16.158:18000/play/a08j
+http://45.172.92.111:8000/play/a00u/index.m3u8
 
 HISTORY CHANNEL
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
@@ -1825,15 +1825,15 @@ http://181.78.16.158:18000/play/a0bv
 
 HISTORY CHANNEL 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", History 2
-http://181.78.16.158:18000/play/a066
+http://45.172.92.111:8000/play/a00v/index.m3u8
 
 SPACE
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
-http://181.78.16.158:18000/play/a0c3
+http://45.172.92.111:8000/play/a01b/index.m3u8
 
 TNT
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
-http://181.78.16.158:18000/play/a0bx
+http://45.172.92.111:8000/play/a017/index.m3u8
 
 TNT MEXICO
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
@@ -1841,7 +1841,7 @@ http://181.78.16.158:18000/play/a0cb
 
 TNT SERIES
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
-http://181.78.16.158:18000/play/a0ca
+http://45.172.92.111:8000/play/a011/index.m3u8
 
 AXN
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
