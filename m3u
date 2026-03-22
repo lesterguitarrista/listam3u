@@ -69,11 +69,11 @@ http://201.216.147.90:8729/play/a0cf
 
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://148.230.25.148:8500/play/a0ou/index.m3u8
+181.189.142.237:40000/play/a09p
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
-https://acceso.mediosdecostarica.com:3873/multi_live/play_720.m3u8
+https://acceso.mediosdecostarica.com:3873/multi_web/play_1080.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
