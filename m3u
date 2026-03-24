@@ -126,6 +126,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ALERTA AEROPUERTO
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ALERTA AEROPUERTO
 
+A&E CRIME
+#EXTINF-1 tvg-logo="https://images-cdn.ispot.tv/ad/1fwD/default-large.jpg", A&E CRIME
+https://dbrb49pjoymg4.cloudfront.net/10001/99951471/hls/playlist.m3u8?ads.xumo_channelId=99951471&ads.xumo_streamId=99951471&ads.channelId=99951471&ads.channelName=AECrime360byAE_us&ads.caid=AECrime360byAE&ads.csid=xumo_[PLATFORM]_AECrime360byAE_ssai&ads._fw_coppa=0&ads.xumo_contentId=4317&ads.xumo_contentName=AECrime360byAE&ads.xumo_providerId=4317&ads.xumo_providerName=AECrime360byAE&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
+
+THE FIRST 48
+#EXTINF-1 tvg-logo="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/14/2021/12/The_First_48_S27_4320x1300_fullColorLogo.png", A&E FIRST 48
+https://dbrb49pjoymg4.cloudfront.net/10001/99951490/hls/playlist.m3u8?ads.xumo_channelId=99951490&ads.xumo_streamId=99951490&ads.channelId=99951490&ads.channelName=AETheFirst48_us&ads.caid=AETheFirst48&ads.csid=xumo_[PLATFORM]_AETheFirst48_ssai&ads._fw_coppa=0&ads.xumo_contentId=4330&ads.xumo_contentName=AETheFirst48&ads.xumo_providerId=4330&ads.xumo_providerName=AETheFirst48&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
 
 THE MASK SINGER
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/438-4389600_logo-mask-singer-masked-singer-mask-logo-hd.png",The Masked Singer (720p)
@@ -1962,7 +1969,7 @@ STARCHannel lat
 http://190.105.128.198:5800/play/a044/index.m3u8
 
 FXX USA
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/3/3e/FXX_Logo.svg", FXX EAST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/FXX_Logo.svg", FXX EAST
 https://tvpass.org/live/FXXEast/sd
 
 FX CHANNEL
@@ -2093,7 +2100,7 @@ DISCOVERY CHANNEL EGLS
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 DISCOVERY SCINCE
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png"" group-title="Especiales y Documentales", Discovery Science
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Especiales y Documentales", Discovery Science
 http://38.224.73.146:8000/play/a1az/index.m3u8
 
 DISCOVERY TURBO
