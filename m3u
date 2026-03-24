@@ -137,7 +137,7 @@ https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 
 ICE ROUT TRUCKERS
 #EXTINF:-1 tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2704590/capsule_616x353.jpg?t=1728913885",Ice Road Truckers (1080p)
-https://aegis-cloudfront-1.tubi.video/f86823bb-d35d-4e5f-ab3e-ee0693dac9d4/playlist.m3u8
+https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
 
 OPERATION REPO
 #EXTINF:-1 tvg-id="Choppertown.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Operation_Repo.jpg/revision/latest?cb=20231220192233", Choppertown (720p) [Not 24/7]
@@ -236,7 +236,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 BAY WATCH
 #EXTINF:-1 channel-id="66a26a7846762a0008258d4e" tvg-id="66a26a7846762a0008258d4e" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Baywatch
-
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 
 
 🧟",Los Simpsons | Casita del Horror (LATAM)
@@ -1928,6 +1928,10 @@ HBO ESTE
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 est
 http://38.224.73.146:8000/play/a17t/index.m3u8
 
+HBO EAST USA
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO EAST USA
+https://tvpass.org/live/HBOEast/sd
+
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
 http://38.224.73.146:8000/play/a16b/index.m3u8
@@ -1957,12 +1961,16 @@ STARCHannel lat
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
 http://190.105.128.198:5800/play/a044/index.m3u8
 
+FXX USA
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/3/3e/FXX_Logo.svg", FXX EAST
+https://tvpass.org/live/FXXEast/sd
+
 FX CHANNEL
-#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX 
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/960px-FX_Logo_2023.svg.png",FX 
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 FX SPAANS
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX Espanol
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/960px-FX_Logo_2023.svg.png",FX Espanol
 http://190.105.128.198:5800/play/a06q/index.m3u8
 
 AMC
@@ -2051,7 +2059,7 @@ https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 
 FOOD NETWORK
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
-https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+https://tvpass.org/live/FoodNetworkEast/sd
 
 FOOD NETWORK ESPAÑOL
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
@@ -2099,6 +2107,10 @@ http://38.224.73.146:8000/play/a1bx/index.m3u8
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
 http://148.230.25.148:8500/play/a0n6/index.m3u8
+
+TLC USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tv-channel_%E2%94%82_tlc.png",TLC USA
+https://tvpass.org/live/TLCEast/sd
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DEPORTES XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XX
 SPN PREMIUM
