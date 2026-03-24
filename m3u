@@ -44,7 +44,7 @@ TVAZTECA 7 MEXICO
 http://190.105.128.198:5800/play/a01v/index.m3u8
 
 CANAL ANTIGUA
-#EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://canalantigua.tv/nnnov2022/wp-content/uploads/2022/11/cropped-cropped-cropped-544-x-180-logo-300x99-1.png" group-title="GUATEMALA", Canal Antigua
+#EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Canal_Antigua_2016.png/revision/latest?cb=20210618133521&path-prefix=es" group-title="GUATEMALA", Canal Antigua
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 http://190.105.128.198:5800/play/a015/index.m3u8
 
