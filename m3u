@@ -259,6 +259,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
+http://181.189.159.131:8000/play/a0i8/index.m3u8
 http://38.224.73.146:8000/play/a19v/index.m3u8
 
 BABY TV
@@ -275,7 +276,7 @@ https://amg02757-amg02757c6-samsung-es-6836.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 
 TOONCAST
 #EXTINF:-1 tvg-name="Little Baby Bum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/960px-Logo_de_Tooncast.svg.png" group-title="",TOONCAST NIENKE
-http://181.78.16.158:18000/play/a0co
+http://190.60.52.28:5001/play/a0a7/index.m3u8
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxOTROSxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -337,7 +338,7 @@ http://38.211.118.56:50002/play/a0013/index.m3u8
 
 SPACE
 #EXTINF:-1 group-title="-" tvg-logo="https://p7.hiclipart.com/preview/16/901/103/space-logo-television-channel-esporte-interativo-space.jpg" ,SPACE 75
-http://38.224.73.146:8000/play/a1b5/index.m3u8
+http://190.60.52.28:5001/play/a0cc/index.m3u8
 
 SPACE AMERICA
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" ,SPACE 2
@@ -350,8 +351,8 @@ TNT DUAL
 http://201.216.147.90:8729/play/a0ci
 
 TNT SERIES 
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIESht
-http://38.224.73.146:8000/play/a1bv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIES
+http://190.60.52.28:5001/play/a097/index.m3u8
 
 MR. BEAN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
