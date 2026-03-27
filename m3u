@@ -1773,6 +1773,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv_distro/zaztv.m3u8
 
 A&E
 #EXTINF:-1 tvg-id="AyE.mx" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="FAMILIA" , A&E
+http://190.60.52.28:5001/play/a0e0/index.m3u8
 http://45.172.92.111:8000/play/a020/index.m3u8
 
 AMC
@@ -1785,14 +1786,17 @@ http://181.209.95.30:8000/play/a02y/index.m3u8
 
 SONY
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
+http://190.60.52.28:5001/play/a0gf/index.m3u8
 http://45.172.92.111:8000/play/a00y/index.m3u8
 
 NAT GEO
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" ,Nat Geo HD
+http://190.60.52.28:5001/play/a0ah/index.m3u8
 http://45.172.92.111:8000/play/a00s/index.m3u8
 
 H&H
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",H&H
+http://190.60.52.28:5001/play/a0a4/index.m3u8
 http://45.172.92.111:8000/play/a00u/index.m3u8
 
 HISTORY CHANNEL
