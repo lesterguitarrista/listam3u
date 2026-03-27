@@ -74,7 +74,7 @@ C4 EN ALERTA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
 TUDN EXTRA
-#EXTINF:-1 group-title="-",0007 TUDN MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Rockpoptv.png",TUDN MX
 http://148.230.28.85:8002/play/a007
 
 TIGO SPORTS
