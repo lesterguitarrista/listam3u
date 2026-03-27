@@ -16,6 +16,7 @@ http://190.105.128.198:5800/play/a017/index.m3u8
 
 GUATEVISION
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://e7.pngegg.com/pngimages/197/120/png-clipart-guatevision-television-channel-azteca-guatemala-canal-antigua-others-television-text.png",Guatevision
+http://185.56.109.253/Guatevision/playlist.m3u8
 http://38.44.109.41:8003/play/a02p/index.m3u8
 http://190.105.128.198:5800/play/a02o/index.m3u8
 
