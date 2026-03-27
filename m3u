@@ -452,57 +452,26 @@ Mas Tv Toto
 #EXTINF:-1 tvg-id"mastv.gt" tvg-logo="https://static.wixstatic.com/media/7acae1_0f0f413f6c58499f91b93187b809edd3~mv2.png/v1/fill/w_762,h_762,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/mastv_toto.png", Mas tv TOTO
 https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
 
-SUPERCABLE SOLOLA
-#EXTINF:-1 tvg-id"supercable.gt" tvg-logo="https://static.wixstatic.com/media/7acae1_65d43779fb554a2282027c7d32e4ab33~mv2.png/v1/fill/w_790,h_790,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Supercable.png", SUPERCABLE
-https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
 
 RETROPALMARES
 #EXTINF:-1 tvg-id"retropalmares.cr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1MpcNtt8Gv-C9dVhoP94HG6YmUq-PJz1a6dypksufhiQPxmYPMnSVWEYwp_boWiecTPZRhi92zIAotugjHwRfQJIxCqxGhsZTlVZ6vufMaUz_eZupEJ7aVufwwJrYtaTMsTDYw_2Cmn-GgvaEykn35VE96ZkL32aG4pcWEGaOSw3Nw3YLxFbsFOqeKOBy/s1280/TV%20RETRO%20PALMARES.png", Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
-UNICENTRO tv
-#EXTINF:-1 tvg-id"unicentro2025" tvg-logo="https://i.imgur.com/lhewC3K.png", UNICENTRO
-https://live20.bozztv.com/akamaissh101/ssh101/unicentro2025/chunks.m3u8
-
-UVA tv
-#EXTINF:-1 tvg-id"uvatvhdrd" tvg-logo="https://scontent.fbru2-1.fna.fbcdn.net/v/t39.30808-6/400410565_122105924618106094_3575595413868690358_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_jz2BAFpdeoQ7kNvwF3XLgi&_nc_oc=AdkXxmwAMs6BsPiBF8AtZV9nf_jSu6CG-qU_ANJ5pXRD4XQO5MCD9iRJOMUmZV-zTfQkQOpPAIfu0LMLQyDLDzA4&_nc_zt=23&_nc_ht=scontent.fbru2-1.fna&_nc_gid=0GuyjucD2hPubVpUARXUAw&oh=00_AfShhs67BgyvZbgQXuJ0R2nnYzvPmo21RnrGAx1ZWrsjZw&oe=68840D0E", UVA TV
-https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
 
 CIUDAD MAGICA
 #EXTINF:-1 tvg-id"verycoolfgr" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg", CIUDAD MAGICA
 https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
 
-TALTAL ANIME
-#EXTINF:-1 tvg-id"taltal" tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000018-c0ed9c0eda/GGGGGGGG.png?ph=d0cdb7b2de", ANIME taltal
-https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
-
-CANAL 69
-#EXTINF:-1 tvg-id"Canal69" tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg", CANAL 69
-https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8
 
 WEPA TV
 #EXTINF:-1 tvg-id"tvwxfxxgo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg", WEPA TV
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 
-SS
-#EXTINF:-1 tvg-id"livess" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/SSTV_logo_%282023%29.png", Livetvproducciones ss
-https://live20.bozztv.com/akamaissh101/ssh101/livess/chunks.m3u8
-
-COSTAMASTER
-#EXTINF:-1 tvg-id"costa800122" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8T9jSLizgfMmFQyrKEGCF1IbrxydW8Da1o3-ftnvhVkHEKoHMbu466sxqARnO7MtuH0&usqp=CAU", TELECOSTA
-https://live20.bozztv.com/akamaissh101/ssh101/costa800122/chunks.m3u8
-
-STV LIVE
-#EXTINF:-1 tvg-id"2410samuel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/STV_LOGO.png",STV LIVE
-https://live20.bozztv.com/akamaissh101/ssh101/2410samuel/chunks.m3u8
 
 GOGOPLAY TV
 #EXTINF:-1 tvg-id"gogoplayhd" tvg-logo="https://ofutbol.jdoxx.com/files/channels/679e0c1UYB.png", GOGOPLAY TV
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
-VARIED TV
-#EXTINF:-1 tvg-id"variedtvonline" tvg-logo="https://freepngimg.com/download/spain/74642-television-communication-vector-spain-android-channel-icon.png",
-https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
 CONTANZA TV
 #EXTINF:-1 tvg-id"ctv8hd" tvg-logo="https://i0.wp.com/constanzadigital.com/wp-content/uploads/2024/10/PHOTO-2024-10-12-13-43-54.jpg?fit=506%2C392&ssl=1", CONTANZA TV
@@ -530,6 +499,7 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 HBO FAMILY 
 #EXTINF:0 type="stream" channelId="-1" name="C/S• HBO FAMILY (HD) »1«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg", C/S• HBO FAMILY (HD) »1«
+http://190.60.52.28:5001/play/a0dv/index.m3u8
 http://190.14.10.19:16000/play/a043/index.m3u8
 
 SPACE
@@ -554,9 +524,6 @@ TIGO COSTARICA
 #EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", TIGO SPORT COSTARICA
 http://190.14.10.19:16000/play/a00ps/index.m3u8
 
-BEINSPORT
-#EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",BEINGSPORT
-https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8
 
 HB2
 #EXTINF:-1 tvg-id="hbo.2.mx" tvg-name="CINE | HBO 2 HD" tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" group-title="CINE PREMIUM",CINE | HBO 2 HD
@@ -602,15 +569,6 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 RETRO TV
 #EXTINF:-1 tvg-id="RetroTv.mx" tvg-logo="https://image.winudf.com/v2/image1/cmV0cm8udHZvbmxpbmUyMDIzX3NjcmVlbl8wXzE3MDQ3MjU5NTZfMDc2/screen-0.jpg?fakeurl=1&type=.jpg", Retro Tv
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
-
-90s MOVIE
-#EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://i.imgur.com/KoGko6M.png", 90s Throwback
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
-
-80s MOVIE
-#EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="https://i.imgur.com/nkEeYfI.png", 80s Rewind
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
-
 
 FMTV
 #EXTINF:-1 tvg-id="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" , FMTV
@@ -2096,7 +2054,7 @@ http://190.105.128.198:5800/play/a057/index.m3u8
 
 DISCOVERY CHANNEL ESP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Premium | Latino",Discovery Channel | Opción 3 (LATAM)
-http://38.224.73.146:8000/play/a1b1/index.m3u8
+http://190.60.52.28:5001/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg",Discovery Channel op2
 http://190.105.128.198:5800/play/a01p/index.m3u8
@@ -2107,15 +2065,15 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 DISCOVERY SCINCE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Especiales y Documentales", Discovery Science
-http://38.224.73.146:8000/play/a1az/index.m3u8
+http://190.60.52.28:5001/play/a0eu/index.m3u8
 
 DISCOVERY TURBO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Especiales y Documentales", Discovery Turbo
-http://38.224.73.146:8000/play/a12k/index.m3u8
+http://190.60.52.28:5001/play/a0cj/index.m3u8
 
 DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Especiales y Documentales", Discovery World
-http://38.224.73.146:8000/play/a1bx/index.m3u8
+http://190.60.52.28:5001/play/a09l/index.m3u8
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
