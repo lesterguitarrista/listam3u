@@ -1796,19 +1796,20 @@ http://45.172.92.111:8000/play/a00u/index.m3u8
 
 HISTORY CHANNEL
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
+http://190.60.52.28:5001/play/a0ag/index.m3u8
 http://45.173.12.70:8000/play/a055/index.m3u8
 
 HISTORY CHANNEL 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", History 2
-http://45.172.92.111:8000/play/a00v/index.m3u8
+http://190.60.52.28:5001/play/a0g5/index.m3u8
 
 SPACE
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
-http://45.172.92.111:8000/play/a01b/index.m3u8
+http://190.60.52.28:5001/play/a0ap/index.m3u8
 
 TNT
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
-http://45.172.92.111:8000/play/a017/index.m3u8
+http://190.60.52.28:5001/play/a0bp/index.m3u8
 
 TNT MEXICO
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
@@ -1816,11 +1817,11 @@ http://148.230.25.148:8500/play/a0nh/index.m3u8
 
 TNT SERIES
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
-http://45.172.92.111:8000/play/a011/index.m3u8
+http://190.60.52.28:5001/play/a097/index.m3u8
 
 AXN
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://38.224.73.146:8000/play/a193/index.m3u8
+http://190.60.52.28:5001/play/a0an/index.m3u8
 
 
 TMC
