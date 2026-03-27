@@ -1701,6 +1701,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNUEVOSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 SONY CINE
 #EXTINF:-13 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="CINE Y SERIES", Sony Cine 
+http://190.60.52.28:5001/play/a0eh/index.m3u8
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 FMTV
@@ -1786,6 +1787,7 @@ http://181.209.95.30:8000/play/a02y/index.m3u8
 
 SONY
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
+http://190.60.52.28:5001/play/a0al/index.m3u8
 http://190.60.52.28:5001/play/a0gf/index.m3u8
 http://45.172.92.111:8000/play/a00y/index.m3u8
 
