@@ -60,10 +60,12 @@ http://181.189.159.131:8000/play/a0gi/index.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", UNICABLE
+http://185.56.109.253/Unicable/playlist.m3u8
 https://tvpass.org/live/UnivisionEast/sd
 
 UNIVISION
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UNIVISION" tvg-logo="https://e7.pngegg.com/pngimages/618/904/png-clipart-univision-doral-logo-television-channel-times-communications-television-text.png" group-title="FAMILIA",Univision Panregional 
+http://148.230.28.85:8002/play/040
 http://200.35.176.154:8000/play/a0rw/index.m3u8
 
 
@@ -77,6 +79,7 @@ http://201.216.147.90:8729/play/a0cf
 
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
+http://185.56.109.251/Tudn/playlist.m3u8
 http://181.189.142.237:40000/play/a09p
 
 CLASICOAS TV COSTA RICA
@@ -2068,7 +2071,7 @@ https://tvpass.org/live/TLCEast/sd
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DEPORTES XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XX
 SPN PREMIUM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium
-http://190.105.128.198:5800/play/a04o/index.m3u8
+http://190.60.52.28:5001/play/a09d/index.m3u8
 
 
 SPN
