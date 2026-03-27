@@ -34,6 +34,7 @@ http://190.105.128.198:5800/play/a066/index.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://e7.pngegg.com/pngimages/686/771/png-clipart-las-estrellas-televisa-television-channel-logo-star-television-angle.png",Las Estrellas
+http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 TVAZTECA GT
@@ -52,6 +53,10 @@ http://190.105.128.198:5800/play/a015/index.m3u8
 A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
 https://channel2-tva.duin.dev/tv/streaming/2/stream.m3u8
+
+CNN ESP.
+#EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" group-title="NEWS",CNN ESPAÑOL
+http://181.189.159.131:8000/play/a0gi/index.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", UNICABLE
@@ -1695,7 +1700,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e831e9fe730007706a
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNEWSXXXXXXXXXXXXXXXXXXXXXXXXXXNEWSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNEWSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" group-title="NEWS",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+http://181.189.159.131:8000/play/a0gi/index.m3u8
 
 
 
@@ -1737,37 +1742,15 @@ URANIO
 #EXTINF:-1 tvg-chno-"16",URANIO PE 
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-DE PELICULA
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" ,De Película (576p)
-http://181.78.106.127:9000/play/ca073/index.m3u8
-
 DE PELICULA PLUS
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DePelicula+" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" ,De Película Plus (576p)
+http://148.230.28.85:8002/play/068
 http://190.60.42.86:8000/play/a013/index.m3u8
 
-GOLDEN EDGE
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="GOLDENEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png",Golden Edge Panregional 
-http://181.78.106.127:9000/play/ca076/index.m3u8
-
-GOLDEN MULTIPLEX
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="GOLDENMULTIPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",Golden Multiplex 
-http://181.78.106.127:9000/play/ca078/index.m3u8
-
-GOLDEN PREMIER
-#EXTINF:-1 tvg-id="GOLDENPREMIER" tvg-name="GOLDENPREMIER" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE Y SERIES" , GOLDEN PREMIER
-http://216.122.181.10:8081/play/a0q2/index.m3u8
-
-GOLDEN DORADO
-#EXTINF:-1 tvg-id="GOLDENDORADO+" tvg-name="GOLDENDORADO+" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE Y SERIES" , GOLDEN dorado plus
-http://181.78.106.127:9000/play/ca078/index.m3u8
-
-GOLDEN PREMIERE 2
-#EXTINF:-1 tvg-id="GOLDENPREMIERE2" tvg-name="GOLDENPREMISERE2" tvg-logo="https://images.tigocloud.net/j1bxozgharz5/cr6bjskTmDRovMzpOx8QA3IF/3769d9e0b0be3baa6fef966bb534f8df/ic-golden-premier-2.svg", Golden Premiere 2 HD
-http://216.122.181.10:8081/play/a0ol/index.m3u8
 
 TELEMUNDO
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="FAMILIA",Telemundo
-http://181.78.106.127:9000/play/ca009/index.m3u8
+http://148.230.28.85:8002/play/037
 
 ZAZ
 #EXTINF:-1 tvg-id="ZAZ.mx" tvg-name="ZAZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Zaz1992.gif/revision/latest?cb=20120110070037" group-title="KIDS" ,ZAZ
@@ -1780,10 +1763,11 @@ http://45.172.92.111:8000/play/a020/index.m3u8
 
 AMC
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" , AMC HD
-http://181.209.95.30:8000/play/a01z/index.m3u8
+http://45.178.215.69:8000/play/a05b
 
 PARAMOUNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Paramount_Network_wordmark_%28Black%29.svg" group-title="Cine y Series", Paramount
+http://185.56.109.251/Dreamworks/playlist.m3u8
 http://181.209.95.30:8000/play/a02y/index.m3u8
 
 SONY
@@ -1850,23 +1834,23 @@ http://190.105.128.198:5800/play/a04h/index.m3u8
 
 UNIVERSAL CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_Universal_Channel.svg/2560px-Logo_Universal_Channel.svg.png" group-title="Cine y Series", Universal Channel
-http://45.164.151.197:8000/play/a0kt/index.m3u8
+http://181.189.159.131:8000/play/a0ih/index.m3u8
 
 UNIVERSAL CRIME
 #EXTINF:-1 tvg-id="universalcinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",UNIVERSAL CRIME
-http://45.164.151.197:8000/play/a065/index.m3u8
+http://181.189.159.131:8000/play/a0i4/index.m3u8
 
 UNIVERSAL REALITY
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYTtwwhb/universal-reality.jpg" group-title="Premium | Latino", Universal | Reality 
-http://45.164.151.197:8000/play/a0i3/index.m3u8
+http://181.189.159.131:8000/play/a0i3/index.m3u8
 
 UNIVERSAL PREMIER
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER
-http://45.164.151.197:8000/play/a0i1/index.m3u8
+http://181.189.159.131:8000/play/a0i1/index.m3u8
 
 UNIVERSAL PREMIER2
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER2
-http://45.164.151.197:8000/play/a0i2/index.m3u8
+http://181.189.159.131:8000/play/a0i2/index.m3u8
 
 CARTOON NETWORK
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
