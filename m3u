@@ -1861,23 +1861,23 @@ http://45.164.151.197:8000/play/a0i2/index.m3u8
 
 CARTOON NETWORK
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
-http://38.224.73.146:8000/play/a1c0/index.m3u8
+http://190.60.52.28:5001/play/a0a1/index.m3u8
 
 CARTOONITO
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
-http://38.224.73.146:8000/play/a1gh/index.m3u8
+http://190.60.52.28:5001/play/a0g2/index.m3u8
 
 WARNER CHANNEL
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png",Warner Channel
-http://45.172.92.111:8000/play/a00z/index.m3u8
+http://190.60.52.28:5001/play/a0am/index.m3u8
 
 HBO POP
 #EXTINF:-1 tvg-id="HBOPOP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO POP
-http://38.224.73.146:8000/play/a13j/index.m3u8
+http://190.60.52.28:5001/play/a09u/index.m3u8
 
 HBO US
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine y Series", HBO
-http://38.224.73.146:8000/play/a1bc/index.m3u8
+http://190.60.52.28:5001/play/a09s/index.m3u8
 
 HBO MUNDI US
 #EXTINF:-1 tvg-id="HBOMUNDI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
@@ -1885,11 +1885,11 @@ http://38.224.73.146:8000/play/a1cu/index.m3u8
 
 HBO FAMILY
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
-http://38.224.73.146:8000/play/a18h/index.m3u8
+http://190.60.52.28:5001/play/a0dv/index.m3u8
 
 HBO PLUS
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
-http://38.224.73.146:8000/play/a17s/index.m3u8
+http://190.60.52.28:5001/play/a0b7/index.m3u8
 
 HBO2
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
@@ -1910,7 +1910,7 @@ http://38.224.73.146:8000/play/a16b/index.m3u8
 
 HBO XTREME
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
-http://38.224.73.146:8000/play/a197/index.m3u8
+http://190.60.52.28:5001/play/a0dw/index.m3u8
 
 CINEMAX
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
@@ -1918,7 +1918,7 @@ http://148.230.25.148:8500/play/a12e/index.m3u8
 
 CINEMAX 2
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX 2
-http://38.224.73.146:8000/play/a1fl/index.m3u8
+http://190.60.52.28:5001/play/a0a5/index.m3u8
 
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
@@ -1926,7 +1926,7 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 STARCHANNEL us
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
-http://38.224.73.146:8000/play/a1b9/index.m3u8
+http://190.60.52.28:5001/play/a0au/index.m3u8
 
 STARCHannel lat
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
@@ -1950,6 +1950,7 @@ http://38.224.73.146:8000/play/a138/index.m3u8
 
 USA
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1853523518459138048/UIBxZUIW_400x400.jpg",USA 
+http://190.60.52.28:5001/play/a0ew/index.m3u8
 http://45.172.92.111:8000/play/a014/index.m3u8
 
 FILM END ARTS
@@ -1962,11 +1963,11 @@ http://190.105.128.198:5800/play/a04e/index.m3u8
 
 DISNEY JR.
 #EXTINF:-1 tvg-id="DisneyJr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",Disney Jr
-http://38.224.73.146:8000/play/a12i/index.m3u8
+http://190.60.52.28:5001/play/a0c3/index.m3u8
 
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
-http://38.224.73.146:8000/play/a19v/index.m3u8
+http://190.60.52.28:5001/play/a0d1/index.m3u8
 
 TOONCAST
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgXZpWWw/tooncast.jpg" group-title="Premium | Latino",Tooncast (LATAM)
@@ -1987,18 +1988,6 @@ http://190.92.10.66:4000/play/a00e/index.m3u8
 MACGYVER 24/7
 #EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="Retro" , MacGyver
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-
-LOS 3 CHIFLADOS
-#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-chno="259" group-title="Retro" , Los Tres Chiflados
-https://jmp2.uk/plu-5f85f1dc1418bd0007e11eb9.m3u8
-
-COOPS
-#EXTINF:-1 channel-id="pluto-6419ab7c9189ce000865a469" tvg-id="6419ab7c9189ce000865a469" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" tvg-chno="518" group-title="Curiosidad" , COOPS
-https://n9.cl/s56u0
-
-ARCHIVOS EXTRATERRESTRES
-#EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" tvg-chno="552" group-title="Curiosidad" , Archivos Extraterrestres
-https://is.gd/yUZWFB
 
 POPEYE
 #EXTINF:-1 channel-id="677d93afe650a700081e5f18" tvg-id="677d93afe650a700081e5f18" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Popeye
@@ -2034,7 +2023,7 @@ https://tvpass.org/live/FoodNetworkEast/sd
 
 FOOD NETWORK ESPAÑOL
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
-http://38.224.73.146:8000/play/a1ap/index.m3u8
+http://190.60.52.28:5001/play/a0es/index.m3u8
 
 LIFETIME
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SLbt3tt/lifetimp.jpg" group-title="Premium | Latino",Lifetime | Opción 3 (LATAM)
