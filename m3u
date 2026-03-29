@@ -217,7 +217,7 @@ TCM
 http://201.216.147.90:8729/play/a0dg
 
 SONY MOVIES
-#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sony_Movies_Logo.png", Sony Movies HD
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SONY.png", Sony Movies HD
 http://201.216.147.90:8729/play/a0ca
 
 SONY CHANNEL
