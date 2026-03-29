@@ -223,6 +223,10 @@ GOLDEN
 http://190.60.52.28:5001/play/a0b3/index.m3u8
 http://201.216.147.90:8729/play/a0df
 
+GOLDEN PREMIER 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2 HD
+http://45.238.30.42:5050/play/a03x/index.m3u8
+
 GOLDEN EDGE
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
 http://185.56.109.253/Edge/playlist.m3u8
@@ -280,6 +284,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
+http://45.238.30.42:5050/play/a04a/index.m3u8
 http://181.189.159.131:8000/play/a0i8/index.m3u8
 http://38.224.73.146:8000/play/a19v/index.m3u8
 
