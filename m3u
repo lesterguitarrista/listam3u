@@ -252,8 +252,8 @@ FMH MOVIES
 http://38.210.3.64:8090/play/a0gl/index.m3u8
 http://64.76.53.91:9002/play/a008
 
-FMH ANIMOTION
-#EXTINF:-1,24_FMH_ANIMOTION
+BITME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1280px-BitMe_logo.svg.png", BITME
 http://185.56.109.253/BitMe/playlist.m3u8
 http://38.224.73.146:8000/play/a1c1/index.m3u8
 
