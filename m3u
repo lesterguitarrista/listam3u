@@ -229,6 +229,10 @@ GOLDEN
 http://190.60.52.28:5001/play/a0b3/index.m3u8
 http://201.216.147.90:8729/play/a0df
 
+GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premiere HD
+http://148.230.25.148:8500/play/a0j7/index.m3u8
+
 GOLDEN PREMIER 2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2 HD
 http://45.238.30.42:5050/play/a03x/index.m3u8
