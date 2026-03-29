@@ -39,6 +39,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
+http://181.189.142.237:40000/play/a08v
 https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
 TVAZTECA 7 MEXICO
@@ -52,6 +53,7 @@ http://190.105.128.198:5800/play/a015/index.m3u8
 
 A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
+http://148.230.25.148:8500/play/a10f/index.m3u8
 https://channel2-tva.duin.dev/tv/streaming/2/stream.m3u8
 
 CNN ESP.
@@ -218,6 +220,10 @@ SONY MOVIES
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg", Sony Movies HD
 http://201.216.147.90:8729/play/a0ca
 
+SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY 
+http://185.56.109.253/Sony/playlist.m3u8
+
 GOLDEN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" , GOLDEN
 http://190.60.52.28:5001/play/a0b3/index.m3u8
@@ -248,6 +254,7 @@ http://64.76.53.91:9002/play/a008
 
 FMH ANIMOTION
 #EXTINF:-1,24_FMH_ANIMOTION
+http://185.56.109.253/BitMe/playlist.m3u8
 http://38.224.73.146:8000/play/a1c1/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
