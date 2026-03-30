@@ -2,6 +2,7 @@
 
 CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
+http://45.167.1.138:8000/play/a031
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 http://190.105.128.198:5800/play/a018/index.m3u8
 
@@ -11,23 +12,27 @@ https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 
 CANAL 7
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
+http://45.167.1.138:8000/play/a030
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 http://190.105.128.198:5800/play/a017/index.m3u8
 
 GUATEVISION
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://e7.pngegg.com/pngimages/197/120/png-clipart-guatevision-television-channel-azteca-guatemala-canal-antigua-others-television-text.png",Guatevision
+http://45.167.1.138:8000/play/a00p
 http://185.56.109.253/Guatevision/playlist.m3u8
 http://38.44.109.41:8003/play/a02p/index.m3u8
 http://190.105.128.198:5800/play/a02o/index.m3u8
 
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
+http://45.167.1.138:8000/play/a01u
 http://190.14.10.19:16000/play/a04m/index.m3u8
 http://181.189.142.237:40000/play/a04m
 http://190.105.128.198:5800/play/a065/index.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
+http://45.167.1.138:8000/play/a01v
 http://190.14.10.19:16000/play/a04n/index.m3u8
 http://181.189.142.237:40000/play/a08t
 http://190.105.128.198:5800/play/a066/index.m3u8
@@ -39,6 +44,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
+http://45.167.1.138:8000/play/a02z
 http://181.189.142.237:40000/play/a08v
 https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
@@ -48,6 +54,7 @@ http://190.105.128.198:5800/play/a01v/index.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Canal_Antigua_2016.png/revision/latest?cb=20210618133521&path-prefix=es" group-title="GUATEMALA", Canal Antigua
+http://45.167.1.138:8000/play/a02y
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 http://190.105.128.198:5800/play/a015/index.m3u8
 
@@ -274,6 +281,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/sancrisvision/chunks.m3u8
 
 MC
 #EXTINF:-1 tvg-id="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", MC
+http://45.167.1.138:8000/play/a02t
 http://201.216.147.90:8729/play/a0dh
 
 URANIO TV
@@ -1798,8 +1806,7 @@ http://45.178.215.69:8000/play/a05b
 
 PARAMOUNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Paramount_Network_wordmark_%28Black%29.svg" group-title="Cine y Series", Paramount
-http://185.56.109.251/Dreamworks/playlist.m3u8
-http://181.209.95.30:8000/play/a02y/index.m3u8
+http://45.167.1.138:8000/play/a00c
 
 SONY
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
@@ -1879,11 +1886,13 @@ http://181.189.159.131:8000/play/a0i3/index.m3u8
 
 UNIVERSAL PREMIER
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER
+http://45.167.1.138:8000/play/a063
 http://179.1.145.73:8040/play/a016/index.m3u8
 http://181.189.159.131:8000/play/a0i1/index.m3u8
 
 UNIVERSAL PREMIER2
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER2
+http://45.167.1.138:8000/play/a064
 http://179.1.145.73:8040/play/a01q/index.m3u8
 http://181.189.159.131:8000/play/a0i2/index.m3u8
 
