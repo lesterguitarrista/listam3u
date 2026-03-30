@@ -110,6 +110,7 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 FAB TV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKbCky-d8qIGaqpvESDBh1JMxYqDYf1lyIQ&s", FAB TV
+http://45.239.31.254:8000/play/a002/index.m3u8
 http://38.224.73.146:8000/play/a1h9/index.m3u8
 
 MEMORIAS SERIES
@@ -1868,18 +1869,22 @@ http://181.189.159.131:8000/play/a0ih/index.m3u8
 
 UNIVERSAL CRIME
 #EXTINF:-1 tvg-id="universalcinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",UNIVERSAL CRIME
+http://179.1.145.73:8040/play/a019/index.m3u8
 http://181.189.159.131:8000/play/a0i4/index.m3u8
 
 UNIVERSAL REALITY
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYTtwwhb/universal-reality.jpg" group-title="Premium | Latino", Universal | Reality 
+http://179.1.145.73:8040/play/a018/index.m3u8
 http://181.189.159.131:8000/play/a0i3/index.m3u8
 
 UNIVERSAL PREMIER
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER
+http://179.1.145.73:8040/play/a016/index.m3u8
 http://181.189.159.131:8000/play/a0i1/index.m3u8
 
 UNIVERSAL PREMIER2
 #EXTINF:-1 tvg-id="universalpremier.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png", UNIVERSAL PREMIER2
+http://179.1.145.73:8040/play/a01q/index.m3u8
 http://181.189.159.131:8000/play/a0i2/index.m3u8
 
 CARTOON NETWORK
@@ -1904,6 +1909,7 @@ http://190.60.52.28:5001/play/a09s/index.m3u8
 
 HBO MUNDI US
 #EXTINF:-1 tvg-id="HBOMUNDI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
+http://179.1.145.73:8040/play/a03r/index.m3u8
 http://38.224.73.146:8000/play/a1cu/index.m3u8
 
 HBO FAMILY
@@ -1920,6 +1926,7 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 HBO ESTE
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 est
+http://179.1.145.73:8040/play/a047/index.m3u8
 http://38.224.73.146:8000/play/a17t/index.m3u8
 
 HBO EAST USA
@@ -1928,6 +1935,7 @@ https://tvpass.org/live/HBOEast/sd
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
+http://179.1.145.73:8040/play/a03q/index.m3u8
 http://38.224.73.146:8000/play/a16b/index.m3u8
 
 
