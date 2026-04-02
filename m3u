@@ -1787,6 +1787,7 @@ http://190.60.42.86:8000/play/a013/index.m3u8
 
 TELEMUNDO
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="FAMILIA",Telemundo
+http://181.177.233.98:8000/play/a026/index.m3u8
 http://148.230.28.85:8002/play/037
 
 ZAZ
@@ -1800,6 +1801,7 @@ http://45.172.92.111:8000/play/a020/index.m3u8
 
 AMC
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" , AMC HD
+http://181.177.233.98:8000/play/a00d/index.m3u8
 http://45.178.215.69:8000/play/a05b
 
 PARAMOUNT
@@ -1942,6 +1944,7 @@ https://tvpass.org/live/HBOEast/sd
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
+
 http://179.1.145.73:8040/play/a03q/index.m3u8
 http://38.224.73.146:8000/play/a16b/index.m3u8
 
@@ -1952,6 +1955,7 @@ http://190.60.52.28:5001/play/a0dw/index.m3u8
 
 CINEMAX
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
+http://181.177.233.98:8000/play/a05d/index.m3u8
 http://148.230.25.148:8500/play/a12e/index.m3u8
 
 CINEMAX 2
@@ -2016,9 +2020,6 @@ LAW AND CRIME
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://am21.mediaite.com/lc/cnt/uploads/2023/12/Asset-9.png" ,Law & Crime (720p)
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
 
-CANAL 3 IMPRESIONANTE
-#EXTINF:-1 tvg-id="Canal3Impresionante.sv",Canal 3 Impresionante (480p)
-http://190.105.128.198:5800/play/a04z/index.m3u8
 
 DHE
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE HD
@@ -2105,6 +2106,7 @@ http://190.60.52.28:5001/play/a09l/index.m3u8
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
+http://181.177.233.98:8000/play/a025/index.m3u8
 http://148.230.25.148:8500/play/a0n6/index.m3u8
 
 TLC USA
