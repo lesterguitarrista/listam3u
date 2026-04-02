@@ -108,7 +108,7 @@ RETRO X TV
 https://video20.klm99.com:3580/live/retroxlive.m3u8
 
 TELE COSTA
-#EXTINF:-1 ,tvg-logo"https://ia601904.us.archive.org/11/items/img-0322_202604/IMG_0322.jpeg",TELECOSTA GUATEMALA 🇬🇹
+#EXTINF:-1 ,tvg-logo="https://ia601904.us.archive.org/11/items/img-0322_202604/IMG_0322.jpeg",TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 BAYRES TV
