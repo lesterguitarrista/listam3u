@@ -97,10 +97,6 @@ TUDN
 http://185.56.109.251/Tudn/playlist.m3u8
 http://181.189.142.237:40000/play/a09p
 
-SPORT TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",sportv HD
-http://45.178.215.69:8000/play/a04k
-
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
 https://acceso.mediosdecostarica.com:3873/multi_web/play_1080.m3u8
