@@ -145,9 +145,9 @@ NICKELODEON
 http://148.230.28.85:8002/play/048
 
 
-CANAL INFANTIL
-#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" , Peliculas Infantiles
-http://38.51.234.11:8888/play/a06d
+DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/507/691/612/discovery-kids-logo-discovery-inc-discovery-channel-television-channel-dragon-kids.jpg" , Discovery Kids
+http://170.82.113.51:8899/play/a0lm/index.m3u8
 
 
 13 Festivales
