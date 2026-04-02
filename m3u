@@ -107,6 +107,10 @@ RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
 https://video20.klm99.com:3580/live/retroxlive.m3u8
 
+TELE COSTA
+#EXTINF:-1 ,tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLI7Iybk0P1N8AMSg841q9rGh_9LNblNEDT0__sWawLTnBtZhrw0tXs5Y&s=10",TELECOSTA GUATEMALA 🇬🇹
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
