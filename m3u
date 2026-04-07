@@ -1896,15 +1896,18 @@ http://190.105.128.198:5800/play/a04h/index.m3u8
 
 UNIVERSAL CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_Universal_Channel.svg/2560px-Logo_Universal_Channel.svg.png" group-title="Cine y Series", Universal Channel
+http://45.5.117.57:8200/play/a044/index.m3u8
 http://181.189.159.131:8000/play/a0ih/index.m3u8
 
 UNIVERSAL CRIME
 #EXTINF:-1 tvg-id="universalcinema.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",UNIVERSAL CRIME
+http://45.5.117.57:8200/play/a03l/index.m3u8
 http://179.1.145.73:8040/play/a019/index.m3u8
 http://181.189.159.131:8000/play/a0i4/index.m3u8
 
 UNIVERSAL REALITY
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYTtwwhb/universal-reality.jpg" group-title="Premium | Latino", Universal | Reality 
+http://45.5.117.57:8200/play/a03k/index.m3u8
 http://179.1.145.73:8040/play/a018/index.m3u8
 http://181.189.159.131:8000/play/a0i3/index.m3u8
 
@@ -1979,6 +1982,7 @@ http://190.60.52.28:5001/play/a0dw/index.m3u8
 
 CINEMAX
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
+http://45.5.117.57:8200/play/a047/index.m3u8
 http://181.177.233.98:8000/play/a05d/index.m3u8
 http://148.230.25.148:8500/play/a12e/index.m3u8
 
@@ -2109,6 +2113,7 @@ DISCOVERY CHANNEL ESP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Premium | Latino",Discovery Channel | Opción 3 (LATAM)
 http://190.60.52.28:5001/play/a09z/index.m3u8
 
+DISCOVERY CHANNEL OP2
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180724/kpb/kisspng-discovery-channel-television-channel-logo-televisi-5b56ee6cc5f983.9365210915324237888109.jpg",Discovery Channel op2
 http://190.105.128.198:5800/play/a01p/index.m3u8
 
@@ -2130,6 +2135,7 @@ http://190.60.52.28:5001/play/a09l/index.m3u8
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
+http://45.5.117.57:8200/play/a030/index.m3u8
 http://181.177.233.98:8000/play/a025/index.m3u8
 http://148.230.25.148:8500/play/a0n6/index.m3u8
 
