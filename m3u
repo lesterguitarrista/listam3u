@@ -118,6 +118,10 @@ TELE COSTA
 #EXTINF:-1 tvg-logo="https://ia601904.us.archive.org/11/items/img-0322_202604/IMG_0322.jpeg",TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+CANAL CHINIQUE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_222,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_C100tvchinique.png",CHINIQUE
+http://45.5.118.152:8000/play/a05x/index.m3u8
+
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
