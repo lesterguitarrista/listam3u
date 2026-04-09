@@ -277,16 +277,19 @@ http://45.177.21.6:9000/play/a01w
 
 FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
+http://45.177.21.6:9000/play/a02z
 http://38.210.3.64:8090/play/a0gj/index.m3u8
 http://64.76.53.91:9002/play/a003
 
 FMH KIDS
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_KIDS.png" , FMH Kids
+http://45.177.21.6:9000/play/a030
 http://38.210.3.64:8090/play/a0gk/index.m3u8
 http://64.76.53.91:9002/play/a005
 
 FMH MOVIES
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_MOVIES.png" , FMH Movies
+http://45.177.21.6:9000/play/a02y
 http://38.210.3.64:8090/play/a0gl/index.m3u8
 http://64.76.53.91:9002/play/a008
 
