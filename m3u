@@ -39,8 +39,10 @@ http://190.105.128.198:5800/play/a066/index.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://e7.pngegg.com/pngimages/686/771/png-clipart-las-estrellas-televisa-television-channel-logo-star-television-angle.png",Las Estrellas
-http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
+http://45.5.118.152:8000/play/a08a/index.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
+
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
@@ -2132,6 +2134,10 @@ http://190.60.52.28:5001/play/a0cj/index.m3u8
 DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Especiales y Documentales", Discovery World
 http://190.60.52.28:5001/play/a09l/index.m3u8
+
+E! Entertairment
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01k.png",E! Entertairment HD
+http://45.5.117.57:8200/play/a01k/index.m3u8
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
