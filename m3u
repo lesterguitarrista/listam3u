@@ -267,6 +267,7 @@ http://45.238.30.42:5050/play/a03x/index.m3u8
 
 GOLDEN EDGE
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
+http://45.177.21.6:9000/play/a01j
 http://185.56.109.253/Edge/playlist.m3u8
 
 GOLDEN PLUS
