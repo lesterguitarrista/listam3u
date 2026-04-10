@@ -227,6 +227,7 @@ http://185.56.109.253/DePelicula/playlist.m3u8
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
+http://38.7.195.43:8000/play/a00z/index.m3u8
 http://148.230.28.85:8002/play/a001
 
 TCM
