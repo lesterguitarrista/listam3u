@@ -648,9 +648,7 @@ FMTV
 #EXTINF:-1 tvg-id="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" , FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-HLN NOTICIAS
-#EXTINF:-1 tvg-id"HLNLive.be" tvg-logo="https://i.ibb.co/zbCrZG9/hq-hln.png", HLN Live
-https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxGUIAS PARA CANALESxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-id"" tvg-logo="",
@@ -658,47 +656,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxGUIAS PARA CANALESxxXXXXXXXXXXXXX
 #EXTINF:-1 group-title="PELICULAS" type="movie"
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPELICULAS PRUEBAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+13 FANTASMAS
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.postimg.cc/HkSssw-Hm/13.jpg", 13 Fantasmas | 2001 | Latino
-https://dl.dropbox.com/s/1aek11gl0fr6aa3/13GH05T.mkv
 
+
+AMERICAN PIE
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.postimg.cc/6QzzYPZ5/am1.jpg" ,American Pie | 1 | 1999 | Latino
 https://archive.org/download/rise-up_202212/Rise%20up.mp4
+
+AMERICAN PIE 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnQpkKMq/am2.jpg" group-title="Mas Películas 🎃",American Pie | 2 | 2001 | Latino
 https://archive.org/download/american-pie-2-2001-720p-amas-diez/American%20Pie%202%20%282001%29%20720p-AmasDiez.mkv
 
+BATMAN 1989
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y92P1gf5/bat1.jpg" group-title="Mas Películas 🎃",Batman | 1 | 1989 | Latino
 https://archive.org/download/004_20200426_202004/004.mkv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhM1x2VS/bat2.jpg" group-title="Mas Películas 🎃",Batman | 2 | Regresa | 1992 | Latino
-https://archive.org/download/bartofinal/bartofinal.mkv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0xYVwCP/bat3.jpg" group-title="Mas Películas 🎃",Batman | 3 | Inicia | 2005 | Latino
-https://dl.dropbox.com/scl/fi/4fwhxs6653pq879gihtpu/B4TM4N-1.mp4?rlkey=iosy7aiq42i6igi90gqpkop50
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x145j3YC/bat4.jpg" group-title="Mas Películas 🎃",Batman | 4 | El Caballero de la Noche | 2008 | Latino
-https://dl.dropbox.com/scl/fi/ks1rvgyvq0o0sfxjcu59p/B4TM4N2.mp4?rlkey=z8ojp6y3dmxnflh7dz3a8vp2k
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jWHqRyW/bat5.jpg" group-title="Mas Películas 🎃",Batman | 5 | Asciende | 2012 | Latino
-https://archive.org/download/BMCDLNA/BMCDLNA.avi
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhM1x2VS/bat2.jpg" group-title="Mas Películas 🎃",Batman | 2 | Regresa | 1992 | Latino
+
+
+
+BOHEMIAN RHAPSODY
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9f9561mR/bo.jpg" group-title="Mas Películas 🎃",Bohemian Rhapsody | 2018 | Latino
 https://archive.org/download/la-pas-1i-0on-d-3-cr-1i-5to-2004-1080p-4-33-gb/BoOhe3m1ian%20Rha4ps0dy%20720p%201%2C96%20GB.mkv
 
+BEETLEJUICE
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4vdzWXC/be.jpg" group-title="Mas Películas 🎃",Beetlejuice | 1988 | Latino
 https://archive.org/serve/1988-btjs/1988BTJS.mp4
 
+EL CABALLERO DEL DIABLO CUENTOS DE LA CRIPTA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ7cQpmm/cue.jpg" group-title="Mas Películas 🎃",Cuentos de la Cripta | Caballero del Diablo | 1995 | Latino
 https://dl.dropboxusercontent.com/s/xmapsav85e4879t/Cuentos%20de%20la%20cripta%20Caballero%20del%20diablo%201995%20%28SS_CANY%29.mp4
+
+EL CLUB DE LOS VAMPIROS CUENTOS DE LA CRIPTA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ7cQpmm/cue.jpg" group-title="Mas Películas 🎃",Cuentos de la Cripta | El Club de Los Vampiros | 1996 | Latino
 https://dl.dropbox.com/s/a19ebhbl3ard2li/Cuentos%20de%20la%20cripta%20Burdel%20de%20sangre%201996.mp4
 
+DESTINO FINAL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d09R2x7f/d1.jpg" group-title="Mas Películas 🎃",Destino Final | 1 | 2000 | Latino
 https://archive.org/serve/destino-final-1-2002-en-latino/Destino%20final%201%20%282002%29%20EN%20LATINO.mp4
+
+DESTINO FINAL 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfLY4SX3/d2.jpg" group-title="Mas Películas 🎃",Destino Final | 2 | 2003 | Latino
 https://archive.org/download/df-3_20210525/Acce/DF2.mp4
+
+DESTINO FINAL 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yXwM9Pc/d3.jpg" group-title="Mas Películas 🎃",Destino Final | 3 | 2006 | Latino
 https://archive.org/download/df-3_20210525/Acce/DF3.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGLWMrZ2/d4.jpg" group-title="Mas Películas 🎃",Destino Final | 4 | 2009 | Latino
-https://archive.org/download/df-5_20210525/ACCE%202/DF4.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFtSnm0x/d5.jpg" group-title="Mas Películas 🎃",Destino Final | 5 | 2011 | Latino
-https://archive.org/download/df-5_20210525/ACCE%202/DF5.mp4
 
+
+EL EXORSISTA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5JZcsHP/exor.jpg" group-title="Mas Películas 🎃",El Exorcista | 1 | 1973 | Latino
 https://archive.org/download/045_20200519_202005/045.avi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLwgjB2q/exor2.jpg" group-title="Mas Películas 🎃",El Exorcista | 2 | 1977 | El Hereje | Latino
@@ -706,31 +713,51 @@ https://archive.org/download/045_20200519_202005/046.avi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKLS5NJX/exor3.jpg" group-title="Mas Películas 🎃",El Exorcista | 3 | 1990 | Latino
 https://archive.org/download/045_20200519_202005/047.avi
 
+EL JOVEN MANOS DE TIJERA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTt9Hq2J/ed.jpg" group-title="Mas Películas 🎃",El Joven Manos de Tijeras | 1990 | Latino
 https://archive.org/download/peliculas-1990/Ver%20El%20Joven%20Manos%20de%20Tijera%20%281990%29%20Online%20Latino%20HD.mp4
 
+EL REGALO PROMETIDO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tT7vSvfb/j.jpg" group-title="Mas Películas 🎃",El Regalo Prometido | 1996 | Latino
 https://archive.org/download/15100618137557008468/1_5100618137557008468.mp4
+
+HOMBRE DE NEGRO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxRFj5Lc/m1.jpg" group-title="Mas Películas 🎃",Hombres de Negro | 1 | 1997 | Latino
 https://archive.org/download/hombres-de-negro_202108/Hombres%20De%20Negro.mkv
+
+HOMBRES DE NEGRO 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF8xYSRY/m2.jpg" group-title="Mas Películas 🎃",Hombres de Negro | 2 | 2002 | Latino
 https://archive.org/download/hombres-de-negro-2_202108/Hombres%20de%20Negro%202.avi
+
+HOMBRES DE NEGRO 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5P1w8y3/m3x.jpg" group-title="Mas Películas 🎃",Hombres de Negro | 3 | 2012 | Latino
 https://archive.org/download/hombres-de-negro-3_20210803/Hombres%20De%20Negro%203.mkv
 
+LA ERA DE HIELO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqnQ0gQS/i1.jpg" group-title="Mas Películas 🎃",La Era del Hielo | 1 | 2002 | Latino
 https://archive.org/serve/la-era-del-hielo-1/LA%20ERA%20DEL%20HIELO%201.mp4
+
+LA ERA DE HIELO 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3KgDwcJ/i2.jpg" group-title="Mas Películas 🎃",La Era del Hielo | 2 | 2006 | Latino
 https://archive.org/serve/la-era-del-hielo-2/LA%20ERA%20DEL%20HIELO%202.mp4
+
+LA ERA DE HIELO 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv3ct9mn/i3.jpg" group-title="Mas Películas 🎃",La Era del Hielo | 3 | 2009 | Latino
-https://archive.org/download/hielo-4/Hielo3.mp4
+
+
+LA ERA DE HIELO 4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dg9q1RW/i4.jpg" group-title="Mas Películas 🎃",La Era del Hielo | 4 | 2012 | Latino
 https://archive.org/serve/la-era-de-hielo-4_202207/%20La%20Era%20de%20Hielo%204.ia.mp4
 
+TORTUGAS NINJA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdrRNLh/to1.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 1 | 1990 | Latino
-https://archive.org/download/las-tortugas-ninja_202106/Las%20Tortugas%20Ninja.avi
+
+
+TORTUGAS NINJA 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85V7NBB8/to2.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 2 | 1991 | El Secreto del Ooze | Latino
 https://archive.org/download/las-tortugas-ninja-2-the-secret-of-the-ooze_202106/Las%20Tortugas%20Ninja%202%20The%20Secret%20Of%20The%20Ooze.mkv
+
+TORTUGAS NINJA 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFsLrszp/to3.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 3 | 1993 | Latino
 https://archive.org/download/las-tortugas-ninja-3-the-turtles-are-back-in-time_202106/Las%20Tortugas%20Ninja%203%20The%20Turtles%20Are%20Back%20In%20Time.avi
 
