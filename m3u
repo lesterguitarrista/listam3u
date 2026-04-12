@@ -1668,6 +1668,7 @@ http://45.178.215.69:8000/play/a05b
 
 PARAMOUNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Paramount_Network_wordmark_%28Black%29.svg" group-title="Cine y Series", Paramount
+http://181.224.200.5:2277/play/a0df/index.m3u8
 http://45.167.1.138:8000/play/a00c
 
 SONY
