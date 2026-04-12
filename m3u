@@ -630,11 +630,8 @@ https://ia801509.us.archive.org/3/items/in-shot-20260202-035147629/InShot_202602
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX LA CASA DE LOS FAMOSOS MX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 PANTALLA CLASICA
 #EXTINF:-1 tvg-id="classicchannel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", PANTALLA CLASICA
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
@@ -745,63 +742,87 @@ https://archive.org/serve/LANOCHEDELDEMONIO/LA%20NOCHE%20DEL%20DEMONIO.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76y3wjV3/dem4.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 4 | 2018 | La Última Llave | Latino
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqJ2CnWg/dem5.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 5 | 2023 | La Puerta Roja | Latino
-https://dl.dropbox.com/scl/fi/9udfxbymwb2jl5hmpjexv/R3DD00R.mp4?rlkey=vjt3kioge7i01s5xfr5q7534l
 
+
+LOS PICAPIEDRA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25XpFntJ/los.jpg" group-title="Mas Películas 🎃",Los Picapiedras | 1994 | Latino
 https://ia601600.us.archive.org/26/items/los-picarock-hd-720p-840192/LosPicarock_HD__720p___840192.mp4
 
+LOS SIMPSONS LA PELICULA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pr1dNwfv/loss.jpg" group-title="Mas Películas 🎃",Los Simpsons | La Película | 2007 | Latino
 https://ia601604.us.archive.org/30/items/lo-simpson-pel-1cul-4-hd-720p-972715/LoSimpsonPel1cul4_HD__720p___972715.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zFNYXSv/los3.jpg" group-title="Mas Películas 🎃",Los Tres Chiflados | 2012 | Latino
-https://archive.org/serve/los-tres-chiflados_202202/Los%20Tres%20Chiflados.mp4
 
+RATATOUILLE
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h49hBMbV/rat.jpg" group-title="Mas Películas 🎃",Ratatouille | 2007 | Latino
 https://ia601402.us.archive.org/21/items/1e08_20191210/e910.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPB64D06/ri.jpg" group-title="Mas Películas 🎃",Ricky Ricón | 1994 | Latino
-https://archive.org/serve/ricky-ricon-1994/Ricky%20Ric%C3%B3n%20%281994%29.mp4
 
+SHREK 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmpQCy5y/sh1.jpg" group-title="Mas Películas 🎃",Shrek | 1 | 2001 | Latino
 https://archive.org/download/00100_20190920/00100.avi
+
+SHREK 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5V2qZw4/sh2.jpg" group-title="Mas Películas 🎃",Shrek | 2 | 2004 | Latino
 https://archive.org/download/00200_20190920/00200.avi
+
+SHREK 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66V9bDqs/sh3.jpg" group-title="Mas Películas 🎃",Shrek | 3 | 2007 | Latino
 https://archive.org/download/sh3_20200512/sh3.avi
+
+SHREK 4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXJqs0Hy/sh4.jpg" group-title="Mas Películas 🎃",Shrek | 4 | 2010 | Latino
 https://archive.org/download/00400_20190920/00400.mkv
 
+SON COMO NIÑOS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvJJXWpC/so1.jpg" group-title="Mas Películas 🎃",Son Como Niños | 1 | 2010 | Latino
-https://ia803106.us.archive.org/20/items/son-como-ninos_202107/Son%20como%20ni%C3%B1os.mp4
+https://dn720309.ca.archive.org/0/items/son-como-ninos_202109/Son%20como%20ninos.mp4
+
+SON COMO NIÑOS 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJBYcgKN/so2.jpg" group-title="Mas Películas 🎃",Son Como Niños | 2 | 2013 | Latino
 https://ia804508.us.archive.org/8/items/son-como-ninos-2_202107/Son%20como%20ni%C3%B1os%202.mp4
 
+SPIDERMAN 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgSThJ1/spi3.jpg" group-title="Mas Películas 🎃",Spiderman | 3 | 2007 | Latino
 https://archive.org/download/valores_202103/valor/valores.mkv
+
+SPIDERMAN LA AMENAZA DE ELECTRO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qcF7yLY/spi5.jpg" group-title="Mas Películas 🎃",Spiderman | 5 | 2014 | 2 | La Amenaza de Electro | Latino
 https://archive.org/download/ara-2014/ARA2014.mkv
+
+SPIDERMAN DE REGRESO A CASA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVGySPbB/spi6.jpg" group-title="Mas Películas 🎃",Spiderman | 6 | 2017 | 3 | De Regreso a Casa | Latino
 https://archive.org/download/baby721/22142.mkv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JrPsFY6/spi7.jpg" group-title="Mas Películas 🎃",Spiderman | 7 | 2021 | Sin Camino a Casa | Latino
-https://dl.dropbox.com/s/feqz4gbncsnnvp4/5p1derm4n.mkv
 
+SUPER MARIO PELICULA 1993
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RCP8gFB/super.jpg" group-title="Mas Películas 🎃",Super Mario Bros | La Película | 1993 | Latino
 https://archive.org/serve/mario_1993_latino/Super%20Mario%20Bros.%20%281993%29%20%28Espa%C3%B1ol%20Latino%29.mp4
+
+SUPER MARIO BROS ANIMADO PELICULA 2023
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNHfbgd/su.jpg" group-title="Mas Películas 🎃",Super Mario Bros | La Película | 2023 | Latino
 https://archive.org/serve/super-mario-bros_202503/super%20Mario%20bros.ia.mp4
 
+VIRGEN A LOS 40
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnFyxwd9/vir.jpg" group-title="Mas Películas 🎃",Virgen a los 40 | 2005 | Latino
 https://archive.org/download/raton_202004/raton/raton.mp4
 
+
+VOLVER AL FUTURO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVHrBm5/vol.jpg" group-title="Mas Películas 🎃",Volver al Futuro | 1 | 1985 | Latino
 https://archive.org/download/volveralfuturo/Volver%20al%20Futuro.mp4
+
+VOLVER AL FUTURO 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKfhdyN7/vol2.jpg" group-title="Mas Películas 🎃",Volver al Futuro | 2 | 1989 | Latino
 https://archive.org/serve/volver-al-futuro-ii/Volver%20al%20Futuro%20II.mp4
+
+VOLVER AL FUTURO 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2nbqkqY/vol3.jpg" group-title="Mas Películas 🎃",Volver al Futuro | 3 | 1990 | Latino
 https://archive.org/download/volveralfuturo/Volver%20al%20Futuro%20III.mp4
 
+ZOOMBIELAND 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JtwJTWFK/zo.jpg" group-title="Mas Películas 🎃",Zoombieland | 1 | 2009 | Latino
 https://archive.org/download/patata/patata.mkv
+
+ZOOMBIELAND 2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsMmtfV/zo2.jpg" group-title="Mas Películas 🎃",Zoombieland | 2 | 2019 | Latino
 https://archive.org/download/00200_20200117_0628/00200.mkv
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VALERIE SERIE MINDERSOMER XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -809,13 +830,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VALERIE SERIE MINDER
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-id="SIMPSOn" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2325147669.jpg" ,Simpson 
+CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-id="SIMPSOn" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2325147669.jpg" ,LAS ESTRELLAS 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-
+IT 1990
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.pinimg.com/736x/ac/ed/d5/acedd5d5a68bb74931bf468f9f5144c7.jpg" , It (1990)
 https://ia803108.us.archive.org/29/items/it_20231119/IT.ia.mp4
 
+MENTES PELIGROSAS
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/Dangerous_Minds-256860191-large.jpg" , Mentes Peligrosas 1995
 https://dn720400.ca.archive.org/0/items/mentes-peligrosas-1995-hd/mentes%20peligrosas%20%281995%20HD%29.mp4
 
@@ -826,14 +849,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 MAXI VISION GT
 #EXTINF:-1 tvg-id="MaxivisionTV.gt" tvg-logo="https://i.imgur.com/UC8WrEN_d.webp?maxwidth=760&fidelity=grand" , Maxivision gt
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-
-MAS TV
-#EXTINF:-1 tvg-id="MASTV.gt" tvg-logo="https://i.imgur.com/3XuwlkQ_d.webp?maxwidth=760&fidelity=grand" , Mas Tv Gt
-https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
-
-CNI GT
-#EXTINF:-1 tvg-id="CNI.gt" tvg-logo="https://i.imgur.com/9kRYdSp_d.webp?maxwidth=760&fidelity=grand" , CNI Digital GT
-https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 
 CANAL 6 panajachel
 #EXTINF:-1 tvg-id="Canal6Panadish.gt" tvg-logo="https://i.imgur.com/KJWNPiz_d.webp?maxwidth=760&fidelity=grand" , Panadish Gt
@@ -862,33 +877,14 @@ https://dl.dropbox.com/s/hh9ur2duwizthxv/COLEBLAD3.M3U
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/El_reino_del_planeta_de_los_simios-209448357-large.jpg", Planeta de los Simios 2024
 https://dl.dropboxusercontent.com/scl/fi/1e8p4l8ibt26w43kjq469/Ver-El-planeta-de-los-simios-Nuevo-reino-2024-online.mp4?rlkey=x7z2mge2tihlf5nfz9kockd6o&st=zondx1ne&dl=0
 
-#EXTINF:-1 tvg-id="dreamswork.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efee1b34-200f-4c32-8ab9-b860c202f1d4/dd9vdzm-3ba0d1b2-5147-4a6a-9d00-1d9a6ad57a56.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZWUxYjM0LTIwMGYtNGMzMi04YWI5LWI4NjBjMjAyZjFkNFwvZGQ5dmR6bS0zYmEwZDFiMi01MTQ3LTRhNmEtOWQwMC0xZDlhNmFkNTdhNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TkUh34c-PUQC7tAnXius0F7bp53gXv4i1dQNRmbAfCw" group-title="Infantiles", DreamWorks Channel
-http://181.78.106.127:9000/play/ca054/index.m3u8
 
-#EXTINF:-1 tvg-id="nickjr.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png" group-title="Infantiles", Nick
-http://190.102.242.130:25461/66486141/1234/59
-
-#EXTINF:-1 tvg-id="VTM2.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VTM_2_Logo.png/512px-VTM_2_Logo.png" ,VTM 2
-https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
-
-#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://i.imgur.com/djkPc9w_d.webp?maxwidth=760&fidelity=grand" , VTM
-https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
-
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://imgur.com/CMImqQY",Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",Disney XD 
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRiMjg0MzUtNTQ1Mi00Y2Q5LWEwM2MtMzUwZDU5NmVjN2NkXkEyXkFqcGc@._V1_.jpg", Deadpool & Wolverine 2024
-https://ia601502.us.archive.org/8/items/1-4981486160061662301/1_4981486160061662301.mp4
 https://ia803105.us.archive.org/25/items/128dead-seg-1-v-1-a-1/128dead-seg-1-v1-a1.ia.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/original/2MHtaxkqvP1datuyVmkDqrcnECZ.jpg", El Barco Fantasma
 https://dn720405.ca.archive.org/0/items/barco-fantasma-hd-720p-1091306/Barco_fantasma_HD__720p___1091306.mp4
 
-#EXTINF:-1 tvg-id="BEN10.mx" tvg-logo="https://logowik.com/content/uploads/images/ben-10.jpg", Ben 10
-http://51.159.104.29:8080/ben10/index.m3u8
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/original/sjdqRkMdWJl7ReNhENN908EBR28.jpg", Camino hacia el terror 1
 https://ia903105.us.archive.org/6/items/CaminoHaciaElTerrorEspaol/Camino%20hacia%20el%20terror%20%28Espa%C3%B1ol%29.mp4
@@ -972,94 +968,30 @@ https://ia601400.us.archive.org/18/items/la-bamba_202210/la%20bamba.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie"
 
 
-#EXTINF:-1 tvg-id="APlusGuate.gt" tvg-name="APlusGuate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png" group-title="GUATEMALA", A+ Guate
-https://ch2-tva.duin.dev/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Canal 13 Esquipulas" tvg-name="Canal 13 Esquipulas" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/11/Canal-13-Esquipulas-Chiquimula-TV-Guatemala-1.webp" group-title=“GUATEMALA”, Canal 13 Esquipulas
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 NUEVOMUNDO GT
 #EXTINF:-1 tvg-id="nuevomundo.gt" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/09/Nuevo-Mundo-GT.webp" group-title=“GUATEMALA”, Nuevo Mundo Tv
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-accion-mexicana-16x9.jpg" group-title=“Mexico”, Accion Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+1153
 
 RETRO TV Y VISION TV
 #EXTINF:-1 tvg-id="Tvs Retro" tvg-name="Tvs Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" group-title=“GUATEMALA”, Tvs Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
 COSMOS
 #EXTINF:-1 tvg-id="" tvg-logo="https://fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Latino", Cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_72ffb2f4a5e246dc90b7f6a63afd962a~mv2.jpg" group-title=“GUATEMALA”, Visión TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title=“GUATEMALA”, Toto Visión 
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
-
-#EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipN4Ds8zftd54MDlxBNVad2-4NSzTvejD-d3dOhb=w768-h768-n-o-v1" group-title=“GUATEMALA”, Barbe Tv
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_802c4b8c96ae4b49a12a47b393fe6f41~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Canal%20yepotv.png" group-title=“GUATEMALA”, Yepo Tv
-https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/10/Canal-9-Solola-Guatemala-Logo.webp" group-title=“GUATEMALA”, Canal 9 Solola
-https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/guatv.webp" group-title=“GUATEMALA”, GuaTv
-https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_19b44a4ed2dd4481afb5e1392d3ee3fd~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tunevision.png" group-title=“GUATEMALA”, Tunevision
-https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_3e1035966c6443d8a18aca291c038e4a~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Penielky.png" group-title=“GUATEMALA”, Canal Piel K&Y
-https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ia600506.us.archive.org/11/items/img-0197_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Sas Tv
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvinsur.com/img/gt/canal-8-santa-rosa.webp" group-title=“GUATEMALA”, Canal 8
-https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_edd3a1576e0646939292f13eaa59e9bd~mv2.jpg" group-title=“GUATEMALA”, Nim Tv
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ia800505.us.archive.org/19/items/img-0198_202309/__ia_thumb.jpg" group-title=“GUATEMALA”, Aurora Films
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png" group-title=“GUATEMALA”, Canal 100 Quiche
-https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-
-
+NOW ROCK
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“”,  Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Videos
-https://dotfvxkfj90ca.cloudfront.net/programming/pulserock/chunklist.m3u8?token=1abd702b-09d6-4502-b93c-ad4c77ccb472&streamSessionId=8f8736bb-b6c6-4c82-9f40-7ce2cdb3b445&code=TELEATLANTIC&expires=1667520000000&playUrl=true&ctrl=cb0a09d375980612253a7c7a9e7f71c936ff2151b6b82275eb38cd859b79a8edcfe67272be059b5384f6091043e4eb9a636aa8926ce7dd5e523990dafa69c1d3
-
+ROCK CONCIERTOS
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png" group-title=“Latino”, Rock Conciertos
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DEPORTES DISNEY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:0 type="stream" channelId="-1" name="01 | DISNEY + (ESP1)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 01 | DISNEY + (ESP1)
-http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517933.ts
-#EXTINF:0 type="stream" channelId="-1" name="03 | DISNEY + (ESP3)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 03 | DISNEY + (ESP3)
-http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517935.ts
-#EXTINF:0 type="stream" channelId="-1" name="04 | DISNEY + (ESP4)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 04 | DISNEY + (ESP4)
-http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517936.ts
-#EXTINF:0 type="stream" channelId="-1" name="05 | DISNEY + (ESPN 5)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 05 | DISNEY + (ESPN 5)
-http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517938.ts
-#EXTINF:0 type="stream" channelId="-1" name="06 | DISNEY + (ESPN 6)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 06 | DISNEY + (ESPN 6)
-http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517939.ts
-#EXTINF:0 type="stream" channelId="-1" name="07 | DISNEY + (ESPN 7)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 07 | DISNEY + (ESPN 7)
-http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517941.ts
-#EXTINF:0 type="stream" channelId="-1" name="02 | DISNEY + (ESP2)" group="⚫DISNEY +" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeS_tVRt8SPxFzHxnKbvCIi82zNIEL6uC6jHIN_cOUaXmqjisXGELpAp7c&s=10", 02 | DISNEY + (ESP2)
-http://tvlatino.club:2082/Andrade49/RtqJqUe85uC9/517934.ts
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ESPAÑA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -1074,7 +1006,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX MUSICA XXXXXXXXXXXXXXXX
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-name="VTM" tvg-logo="https://i.imgur.com/fUxRP9x.png" tvg-id="VTM.be" group-title="Belgium",VTM
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.ts
+
 
 
 
@@ -1090,47 +1022,11 @@ http://38.252.238.204:6102/play/a02o/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="vix Extra", TELEMUNDO CA
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="vix Extra", TELEMUNDO PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="vix Extra", CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX REVISAR XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPLUTO MARATONESXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ORDENAR XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-xxxxxxxxxxxxxxxxxxxxxxxARGENTINAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="JOVENES Y ADULTOS",Canal LMS
-https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
-
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxADULTxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-xxxxxxxxxxxxxxxxxxxxx REVISAR xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-#EXTINF:-1 tvg-id="CinemaPlus.co",Cinema + (720p)
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
-
-
-#EXTINF:-1 tvg-id="AFVEspanol.us",AFV en Español (720p) [Not 24/7]
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -1138,56 +1034,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Catfish" tvg-logo="https://i.imgur.com/KajHKoP.png" tvg-shift="0" group-title="PLUTO",Catfish – Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="" tvg-name="Dog El Casarecompensas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Dog_the_Bounty_Hunter_logo.png/220px-Dog_the_Bounty_Hunter_logo.png” tvg-shift="0" group-title=“PLUTO”, Series Retro
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+=
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   REVISAR REVISAR REVISAR REVISAR XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Misterios Sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5” group-title=“PLUTO”, Misterios Sin Resolver
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5” group-title=“PLUTO”, Nick Jr
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Nick Jr Español" tvg-name="Nick Jr Español" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5” group-title=“PLUTO”, Nick Jr Español
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="VEVO '70s" tvg-name="VEVO ‘70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412” group-title=“MUSICA”, VEVO ‘70s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="VEVO '80s" tvg-name="VEVO ‘80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5” group-title=“MUSICA”, VEVO ‘80s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="VEVO '90s" tvg-name="VEVO ‘90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412” group-title=“MUSICA”, VEVO ‘90s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="VEVO 2k" tvg-name="VEVO 2k" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024” group-title=“MUSICA”, VEVO 2K
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="VEVO LATINO" tvg-name="VEVO LATINO" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412” group-title=“MUSICA”, VEVO LATINO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="VEVO POP" tvg-name="VEVO POP" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5” group-title=“MUSICA”, VEVO POP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="VEVO RETRO ROCK" tvg-name="VEVO RETRO ROCK" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412” group-title=“MUSICA”, VEVO RETRO ROCK
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="MISION IMPOSIBLE" tvg-name="MISION IMPOSIBLE" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5” group-title=“PLUTO”, MISIÓN IMPOSIBLE 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Death_Note_Logo.svg/1280px-Death_Note_Logo.svg.png" group-title="Anime Lester",Death Note
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="" tvg-name="Transformrts Tv" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5" group-title="PLUTO", Tranformers Tv
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMEXICOXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -1202,13 +1054,15 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.MUSICALES Y MAS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+NOW 70S
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
+NOW 80S
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
+NOW 90S
 #EXTINF:-1 tvg-id="Now90s.uk" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="Music",Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -1220,19 +1074,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="MUSICAS",The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
+RECUERDOS RETRO MUSIC VIDEOS
 #EXTINF:-1 tvg-chno="6",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno="8",Oldies
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?WebM3UCL
-
+JAZZ FESTIVALS
 #EXTINF:0,Qwest Jazz Music
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
