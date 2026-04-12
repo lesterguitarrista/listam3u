@@ -672,6 +672,7 @@ BATMAN 1989
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y92P1gf5/bat1.jpg" group-title="Mas Películas 🎃",Batman | 1 | 1989 | Latino
 https://archive.org/download/004_20200426_202004/004.mkv
 
+BATMAN 2 REGRESA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhM1x2VS/bat2.jpg" group-title="Mas Películas 🎃",Batman | 2 | Regresa | 1992 | Latino
 
 
@@ -704,6 +705,14 @@ DESTINO FINAL 3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yXwM9Pc/d3.jpg" group-title="Mas Películas 🎃",Destino Final | 3 | 2006 | Latino
 https://archive.org/download/df-3_20210525/Acce/DF3.mp4
 
+
+IT 1990
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.pinimg.com/736x/ac/ed/d5/acedd5d5a68bb74931bf468f9f5144c7.jpg" , It (1990)
+https://ia803108.us.archive.org/29/items/it_20231119/IT.ia.mp4
+
+MENTES PELIGROSAS
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/Dangerous_Minds-256860191-large.jpg" , Mentes Peligrosas 1995
+https://dn720400.ca.archive.org/0/items/mentes-peligrosas-1995-hd/mentes%20peligrosas%20%281995%20HD%29.mp4
 
 EL EXORSISTA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5JZcsHP/exor.jpg" group-title="Mas Películas 🎃",El Exorcista | 1 | 1973 | Latino
@@ -764,12 +773,6 @@ https://archive.org/download/las-tortugas-ninja-3-the-turtles-are-back-in-time_2
 LA NOCHE DEL DEMONIO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1Fj6WPJ/dem.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 1 | 2010 | Latino
 https://archive.org/serve/LANOCHEDELDEMONIO/LA%20NOCHE%20DEL%20DEMONIO.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43cvCXz4/dem2.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 2 | 2013 | Capítulo 2 | Latino
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85Bh5wKq/dem3.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 3 | 2015 | Capítulo 3 | Latino
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76y3wjV3/dem4.jpg" group-title="Mas Películas 🎃",La Noche del Demonio | 4 | 2018 | La Última Llave | Latino
-
 
 
 LOS PICAPIEDRA
@@ -863,14 +866,6 @@ CANAL DE LAS ESTRELLAS
 #EXTINF:-1 tvg-id="SIMPSOn" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2325147669.jpg" ,LAS ESTRELLAS 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-IT 1990
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.pinimg.com/736x/ac/ed/d5/acedd5d5a68bb74931bf468f9f5144c7.jpg" , It (1990)
-https://ia803108.us.archive.org/29/items/it_20231119/IT.ia.mp4
-
-MENTES PELIGROSAS
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/Dangerous_Minds-256860191-large.jpg" , Mentes Peligrosas 1995
-https://dn720400.ca.archive.org/0/items/mentes-peligrosas-1995-hd/mentes%20peligrosas%20%281995%20HD%29.mp4
-
 AZTECA INTERNACIONAL
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" , Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -903,6 +898,7 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/SUPER_HEROES.m3u
 #EXTINF:-1, Coleccion Blade
 https://dl.dropbox.com/s/hh9ur2duwizthxv/COLEBLAD3.M3U
 
+EL PLANETA DE LOS SINIOS
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/El_reino_del_planeta_de_los_simios-209448357-large.jpg", Planeta de los Simios 2024
 https://dl.dropboxusercontent.com/scl/fi/1e8p4l8ibt26w43kjq469/Ver-El-planeta-de-los-simios-Nuevo-reino-2024-online.mp4?rlkey=x7z2mge2tihlf5nfz9kockd6o&st=zondx1ne&dl=0
 
