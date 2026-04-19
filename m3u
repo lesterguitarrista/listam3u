@@ -130,6 +130,11 @@ CANAL CHINIQUE
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_222,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_C100tvchinique.png",CHINIQUE
 http://45.5.118.152:8000/play/a05x/index.m3u8
 
+
+NEXT 
+#EXTINF:0 type="stream" channelId="-1" group="Movies;Music" logo="https://i.imgur.com/c2rF3SS.png", Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -657,14 +662,6 @@ Mi Tv Classica
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 
-RETRO PLUS 3
-#EXTINF:-1 tvg-id"megacine" tvg-logo="https://teleonline.org/storage/2022/09/Retro-Plus-TV-Chile.png" , RETRO PLUS 3
-https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist_w440957503.m3u8
-
-NEXT 
-#EXTINF:0 type="stream" channelId="-1" group="Movies;Music" logo="https://i.imgur.com/c2rF3SS.png", Next HD (480p)
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
 HBO FAMILY 
 #EXTINF:0 type="stream" channelId="-1" name="C/S• HBO FAMILY (HD) »1«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg", C/S• HBO FAMILY (HD) »1«
 http://190.60.52.28:5001/play/a0dv/index.m3u8
@@ -688,12 +685,6 @@ http://190.14.10.19:16000/play/a042/index.m3u8
 WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="",Warner Channel 
 http://190.60.52.28:5001/play/a0d4/index.m3u8
-
-
-TIGO COSTARICA
-#EXTINF:-1 tvg-id"" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", TIGO SPORT COSTARICA
-http://181.119.108.43:9005/play/a0cf/index.m3u8
-http://190.14.10.19:16000/play/a00ps/index.m3u8
 
 
 HB2
