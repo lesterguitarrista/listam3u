@@ -144,9 +144,6 @@ FAB TV
 http://45.239.31.254:8000/play/a002/index.m3u8
 http://38.224.73.146:8000/play/a1h9/index.m3u8
 
-BBC SERIES
-#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/image-2.png", BBC SERIES
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/1080p/index.m3u8
 
 APAMIMES 
 #EXTINF:-1 tvg-logo="https://www.africaorigin.net/upload/source/Apanines%20TV.png" , APANINES
@@ -518,6 +515,10 @@ http://190.60.52.28:5001/play/a097/index.m3u8
 MR. BEAN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+DRAGON BALL SUPER 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | DRAGON BALL SUPER
+https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 
 DRAGON BALL
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/448-4481377_dragon-ball-super-logo-png-dragonball-super-logo.png" group-title="Mas Series 🧟",Dragon Ball  Super| Goku 
