@@ -117,6 +117,10 @@ RETRO X TV PLUS
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3922-800x450-FFFFFF.jpg", RETRO X PLUS
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 
+RETRO PLUS 3
+#EXTINF:-1 tvg-id"megacine" tvg-logo="https://teleonline.org/storage/2022/09/Retro-Plus-TV-Chile.png" , RETRO PLUS 3
+https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist_w440957503.m3u8
+
 TELE COSTA
 #EXTINF:-1 tvg-logo="https://ia601904.us.archive.org/11/items/img-0322_202604/IMG_0322.jpeg",TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
@@ -302,6 +306,11 @@ DE PELICULA CLASICO
 http://38.7.195.43:8000/play/a00z/index.m3u8
 http://148.230.28.85:8002/play/a001
 
+AMC SERIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHohMY2EmFTC7LnVKLmzi3hUFU0zHjCYQf-d5T5Dmvg&s=10", AMC Series 
+http://181.119.108.43:9005/play/a04a/index.m3u8
+
+
 TCM
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png", TCM
 http://201.216.147.90:8729/play/a0dg
@@ -463,7 +472,7 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 
 SERIES RETRO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QJ3ZKX.png" group-title="Series Retro", 📺 Series Retro
-http://205.235.6.29:8000/play/a0wv/index.m3u8
+http://147.75.116.250:8586/play/a0cz
 
 AXN 
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="Peliculas y Series ",AXN HD
@@ -554,7 +563,8 @@ http://177.10.184.193:8000/play/a0do/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
-http://177.10.184.193:8000/play/a0fo/index.m3u8
+http://170.82.113.51:8899/play/a0oy/index.m3u8
+http://147.75.116.250:8586/play/a01r
 
 Cascara
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
@@ -645,9 +655,6 @@ Mi Tv Classica
 #EXTINF:-1 tvg-id"mitvclasica.gt" tvg-logo="https://tvguatemala.net/wp-content/uploads/2023/12/Mi-TV-Canal-Familiar.png.webp" , Mi tv clasica
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
-MEGA CINE
-#EXTINF:-1 tvg-id"megacine" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg" , Mega Cine
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 RETRO PLUS 3
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://teleonline.org/storage/2022/09/Retro-Plus-TV-Chile.png" , RETRO PLUS 3
