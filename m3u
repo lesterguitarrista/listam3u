@@ -708,6 +708,7 @@ http://138.121.114.86:8000/play/a07o/index.m3u8
 HBO MUNDI
 #EXTINF:-1 tvg-id="hbo.mundi.mx" tvg-name="CINE | HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE PREMIUM",CINE | HBO MUNDI HD
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9682
+http://170.244.209.30:8000/play/a12z/index.m3u8
 http://138.121.114.86:8000/play/a06f/index.m3u8
 
 
@@ -1758,6 +1759,7 @@ http://190.60.52.28:5001/play/a09s/index.m3u8
 
 HBO MUNDI US
 #EXTINF:-1 tvg-id="HBOMUNDI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO Mundi
+http://170.244.209.30:8000/play/a12z/index.m3u8
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9682
 http://179.1.145.73:8040/play/a03r/index.m3u8
 http://38.224.73.146:8000/play/a1cu/index.m3u8
@@ -1789,6 +1791,7 @@ https://tvpass.org/live/HBOEast/sd
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
+http://170.244.209.30:8000/play/a12y/index.m3u8
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9692
 http://179.1.145.73:8040/play/a03q/index.m3u8
 http://38.224.73.146:8000/play/a16b/index.m3u8
@@ -1796,6 +1799,7 @@ http://38.224.73.146:8000/play/a16b/index.m3u8
 
 HBO XTREME
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
+http://170.244.209.30:8000/play/a02c/index.m3u8
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9779
 http://190.60.52.28:5001/play/a0dw/index.m3u8
 
