@@ -39,6 +39,7 @@ http://190.105.128.198:5800/play/a066/index.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://e7.pngegg.com/pngimages/686/771/png-clipart-las-estrellas-televisa-television-channel-logo-star-television-angle.png",Las Estrellas
+http://200.229.147.142:8000/play/a08z/index.m3u8
 http://45.5.118.152:8000/play/a08a/index.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
