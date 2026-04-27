@@ -126,9 +126,21 @@ TELE COSTA
 #EXTINF:-1 tvg-logo="https://ia601904.us.archive.org/11/items/img-0322_202604/IMG_0322.jpeg",TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+EXITO MULTIMEDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Almacenes_exito_logo.svg/960px-Almacenes_exito_logo.svg.png" , EXITO MULTIMEDIA
+https://edge.enhdtv.com/exitotv/tracks-v1a1/mono.m3u8
+
+GEN TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5RlOiMrefMY9wp4UfUsKukt3iyiqgOjiyzg&s" , GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+
 CANAL CHINIQUE
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_222,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_C100tvchinique.png",CHINIQUE
 http://45.5.118.152:8000/play/a05x/index.m3u8
+
+WOW MOVIES
+#EXTINF:-1 tvg-logo="https://iptv.wow-iptv.com/img/logo/WOWmovies.png" ,  WOW MOVIES
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 
 NEXT 
@@ -142,16 +154,13 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 FAB TV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKbCky-d8qIGaqpvESDBh1JMxYqDYf1lyIQ&s", FAB TV
 http://45.239.31.254:8000/play/a002/index.m3u8
-http://38.224.73.146:8000/play/a1h9/index.m3u8
+
 
 
 APAMIMES 
 #EXTINF:-1 tvg-logo="https://www.africaorigin.net/upload/source/Apanines%20TV.png" , APANINES
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 
-VARIED TV
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBnMDVk15RWaRVQux_yhhYa3xUQCZSHRUdA&s" ,  VARIED TV
-https://fra-prod-catalyst-1.lp-playback.studio/hls/video+132ekew5u1m403gy/0_1/index.m3u8?tkn=vlriR31jcEa2Qa00BL5WKt
 
 NICKELODEON
 #EXTINF:-1 tvg-logo"https://www.citypng.com/public/uploads/preview/hd-nickelodeon-nick-splash-logo-icon-png-701751694710415awui6lgjdm.png", Nickelodeon 
@@ -1839,8 +1848,7 @@ http://190.105.128.198:5800/play/a06q/index.m3u8
 
 AMC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",AMC MX
-http://45.238.30.42:5050/play/a01x/index.m3u8
-http://38.224.73.146:8000/play/a138/index.m3u8
+http://179.60.51.134:8888/AMC/index.m3u8
 
 USA
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1853523518459138048/UIBxZUIW_400x400.jpg",USA 
@@ -1914,7 +1922,7 @@ https://tvpass.org/live/FoodNetworkEast/sd
 
 FOOD NETWORK ESPAÑOL
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
-http://190.60.52.28:5001/play/a0es/index.m3u8
+http://179.60.51.134:8888/FOOD/index.m3u8
 
 LIFETIME
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SLbt3tt/lifetimp.jpg" group-title="Premium | Latino",Lifetime | Opción 3 (LATAM)
@@ -1958,13 +1966,11 @@ http://190.60.52.28:5001/play/a09l/index.m3u8
 
 E! Entertairment
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01k.png",E! Entertairment HD
-http://45.5.117.57:8200/play/a01k/index.m3u8
+
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
-http://45.5.117.57:8200/play/a030/index.m3u8
-http://181.177.233.98:8000/play/a025/index.m3u8
-http://148.230.25.148:8500/play/a0n6/index.m3u8
+
 
 TLC USA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tv-channel_%E2%94%82_tlc.png",TLC USA
