@@ -172,61 +172,6 @@ http://45.5.118.152:8000/play/a07r/index.m3u8
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-ARMA MORTAL
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hRJrtGrXGwnusEw3ZefE0Ca9gWx.png", SAGA ARMA MORTAL
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164789
-
-RAPIDOS Y FURIOSOS
-#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/699/606/png-clipart-fast-and-furious-logo-fast-furious-logo.png", SAGA RAPIDOS Y FURIOSOS
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164800
-
-BATMAN ANIMADO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Batman-_The_Animated_Series_logo.png", BATMAN ANIMADO
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164947
-
-LOCADEMIA DE POLICIAS
-#EXTINF:-1 tvg-logo="https://cinemix.es/wp-content/uploads/2024/09/loca-academia-de-policia-poster.jpg", SAGA LOCADEMIA DE POLICIAS
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164969
-
-HAWAII FIVE-0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hawaii_Five-0_2010_logo.svg/3840px-Hawaii_Five-0_2010_logo.svg.png", HAWAII 5.0
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/165477
-
-PEDRO EL ESCAMOSO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Pedroelescamoso1.png", PEDRO EL ESCAMOSO
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179217
-
-BATMAN SERIE ANIMADA 90's
-#EXTINF:-1 tvg-logo="", BATMAN SERIE ANIMADA 90's
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/168380
-
-CUENTOS DE LA CRIPTA
-#EXTINF:-1 tvg-logo="https://i.etsystatic.com/27625671/r/il/f1112d/6419151263/il_fullxfull.6419151263_g5bb.jpg", CUENTOS DE LA CRIPTA
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177123
-
-MACGYVER
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MacGyver_logo.svg/3840px-MacGyver_logo.svg.png",MACGYVER
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177125
-
-WALKER RANGER TEXAS
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p184128_b_h8_aa.jpg?w=960&h=540", WALKER RANGER TEXAS
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/177134
-
-CSI MIAMI
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/CSI_Miami_Logo.png", CSI MIAMI
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/165366
-
-CARTEL DE LOS SAPOS 1
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/121/2307121-middle.png", CARTEL DE LOS SAPOS 1
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/165197
-
-EL CARTEL DE LOS SAPOS 2
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/El_cartel_2_logo.png/revision/latest?cb=20200115001755", EL CARTEL DE LOS SAPOS 2
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/165198
-
-X-MEN
-#EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/x-men-logo-07-freelogovectors.net_-180x113.png", X-MEN SERIE ANIMADA
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/194447
 
 X-MEN lester
 #EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/x-men-logo-07-freelogovectors.net_-180x113.png", X-MEN 
@@ -252,6 +197,7 @@ https://ia800705.us.archive.org/28/items/kretinos-m-enamorando./ver2.mp4
 
 ALERTA AEROPUERTO
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",24/7 | ALERTA AEROPUERTO
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w563491990.m3u8
 
 A&E CRIME
 #EXTINF:-1 tvg-logo="https://images-cdn.ispot.tv/ad/1fwD/default-large.jpg", A&E CRIME
@@ -721,9 +667,6 @@ Dragon Ball Z & Películas Completas
 #EXTINF:-1 tvg-id"" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1gN9mAy0qDxgWbuh1BDlazSPbH962-4dA93OsEw4Br_WAEuHmja-Tn4FyzncVcWihlGLa4Vv8knPxrhmfT-ZTQqkfX0-ZLOYafilXBhZaNhknkkycueK3a-EoK4Drb-LlLqiKGP0h3AoU/w1200-h630-p-k-no-nu/maxresdefault.jpg", Dragon Ball Z & Películas Completas
 https://ia801509.us.archive.org/3/items/in-shot-20260202-035147629/InShot_20260202_035147629.mp4
 
-Saga Kickboxer
-#EXTINF:-1 tvg-id"" tvg-logo="https://kickboxer.store/cdn/shop/files/pop_3b4333c8-2cd7-43b0-8436-493fa8b7c3a0.png?v=1728484545&width=760", Saga Kickboxer
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/164796
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
