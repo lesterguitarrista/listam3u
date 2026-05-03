@@ -1720,24 +1720,22 @@ http://38.224.73.146:8000/play/a1cu/index.m3u8
 
 HBO FAMILY
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9676
+http://200.115.98.26:7000/play/a03d/index.m3u8
 http://190.60.52.28:5001/play/a0dv/index.m3u8
 
 HBO PLUS
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9688
 http://190.60.52.28:5001/play/a0b7/index.m3u8
 
 HBO2
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9673
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 HBO ESTE
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 est
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9686
-http://179.1.145.73:8040/play/a047/index.m3u8
-http://38.224.73.146:8000/play/a17t/index.m3u8
+
+
+
 
 HBO EAST USA
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO EAST USA
@@ -1759,9 +1757,9 @@ http://190.60.52.28:5001/play/a0dw/index.m3u8
 
 CINEMAX
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
-http://45.5.117.57:8200/play/a047/index.m3u8
-http://181.177.233.98:8000/play/a05d/index.m3u8
-http://148.230.25.148:8500/play/a12e/index.m3u8
+http://200.115.98.26:7000/play/a014/index.m3u8
+
+
 
 CINEMAX 2
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX 2
@@ -1911,11 +1909,11 @@ http://190.60.52.28:5001/play/a09l/index.m3u8
 
 E! Entertairment
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01k.png",E! Entertairment HD
-
+http://200.115.98.26:7000/play/a078/index.m3u8
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
-
+http://200.115.98.26:7000/play/a02a/index.m3u8
 
 TLC USA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tv-channel_%E2%94%82_tlc.png",TLC USA
