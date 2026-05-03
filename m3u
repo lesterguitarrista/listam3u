@@ -641,7 +641,7 @@ http://190.60.52.28:5001/play/a0ap/index.m3u8
 
 HBO
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO HD" tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" group-title="CINE PREMIUM",CINE | HBO HD
-http://181.78.79.131:8000/play/a0qd
+http://200.115.98.26:7000/play/a03a/index.m3u8
 http://190.60.52.28:5001/play/a09s/index.m3u8
 
 HBO PLUS
