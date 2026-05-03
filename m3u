@@ -1736,8 +1736,7 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 HBO ESTE
 #EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 est
-
-
+https://v12.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8?token=OV--H8ntOBk1EomSSewY8Q&expires=1777829494&user_id=aW9WekZsZ0pScnNCQUVPVGs3dVIyRXk5RFVtc0dVdHk4U3oxdmFpZA==
 
 
 HBO EAST USA
