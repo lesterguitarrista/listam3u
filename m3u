@@ -97,6 +97,9 @@ TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 http://200.115.98.26:7000/play/a00v/index.m3u8
 
+LA LIGA GUATE (TIGOGT)
+#EXTINF:-1 tvg-logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ae.png",LA LIGA
+http://181.119.108.27:7292/play/a0ae/index.m3u8
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
