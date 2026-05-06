@@ -290,32 +290,28 @@ http://185.56.109.253/Sony/playlist.m3u8
 
 GOLDEN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" , GOLDEN
-http://38.7.195.43:8000/play/a00w/index.m3u8
+http://190.61.47.54:8000/play/a00j/index.m3u8
 http://190.60.52.28:5001/play/a0b3/index.m3u8
 http://201.216.147.90:8729/play/a0df
 
 GOLDEN PREMIER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premiere HD
-http://38.7.195.43:8000/play/a009/index.m3u8
-http://45.5.117.57:8200/play/a0gl/index.m3u8
-http://148.230.25.148:8500/play/a0j7/index.m3u8
+http://200.115.98.26:7000/play/a04g/index.m3u8
 
 GOLDEN PREMIER 2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2 HD
 http://200.229.147.142:8000/play/a00h/index.m3u8
 http://181.119.108.43:9005/play/a04q/index.m3u8
-http://45.238.30.42:5050/play/a03x/index.m3u8
+http://200.115.98.26:7000/play/a04h/index.m3u8
 
 GOLDEN EDGE
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
-http://38.7.195.43:8000/play/a007/index.m3u8
-http://45.177.21.6:9000/play/a01j
+http://190.61.47.54:8000/play/a025/index.m3u8
 http://185.56.109.253/Edge/playlist.m3u8
 
 GOLDEN PLUS
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" , GOLDEN PLUS
-http://38.7.195.43:8000/play/a010/index.m3u8
-http://45.177.21.6:9000/play/a01w
+
 
 
 FMH FAMILY
