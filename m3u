@@ -178,6 +178,18 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+CSI-MIAMI
+#EXTINF:-1 channel-id="632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-chno="4260" tvg-name="CSI: Miami en español" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" group-title="En Español",CSI: Miami en español
+https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
+
+X-FILES1
+#EXTINF:-1 channel-id="691b023a7613e09a8b209539" tvg-id="691b023a7613e09a8b209539" tvg-chno="530" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Sci-Fi + Fantasy",The X-Files
+https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
+
+X-FILES2
+#EXTINF:-1 channel-id="6913e381b6bf26bb6e798c13" tvg-id="6913e381b6bf26bb6e798c13" tvg-chno="856" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="Sci-Fi",The X-Files
+https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
+
 POKEMON
 #EXTINF:-1 channel-id="6870072ca9d5c45c3e9466f1" tvg-id="6870072ca9d5c45c3e9466f1" tvg-chno="1262" tvg-name="Pokémon" tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG_1752173270400.png" group-title="Anime & Gaming",Pokémon
 https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
