@@ -309,6 +309,7 @@ GOLDEN
 http://190.61.47.54:8000/play/a00j/index.m3u8
 http://190.60.52.28:5001/play/a0b3/index.m3u8
 http://201.216.147.90:8729/play/a0df
+http://201.151.118.136:8000/play/a009/index.m3u8?hls
 
 GOLDEN PREMIER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premiere HD
@@ -327,7 +328,7 @@ http://185.56.109.253/Edge/playlist.m3u8
 
 GOLDEN PLUS
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" , GOLDEN PLUS
-
+http://201.151.118.136:8000/play/a00b/index.m3u8?hls
 
 
 FMH FAMILY
@@ -353,7 +354,7 @@ BITME
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 http://185.56.109.253/BitMe/playlist.m3u8
 
-
+para mas mexico > http://38.194.226.190:8000/playlist.m3u?hls o http.//201.151.118.136:8000/playlist.m3u?hls
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 TELE FLIX GT
@@ -537,6 +538,7 @@ http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
 Distrito Comedia
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
+http://201.151.118.136:8000/play/a007/index.m3u8?hls
 http://45.5.118.152:8000/play/a08q/index.m3u8
 http://181.177.233.98:8000/play/a03h/index.m3u8
 
