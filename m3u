@@ -306,6 +306,7 @@ http://185.56.109.253/Sony/playlist.m3u8
 
 GOLDEN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" , GOLDEN
+http://181.66.249.173:8080/play/a06t/index.m3u8
 http://190.61.47.54:8000/play/a00j/index.m3u8
 http://190.60.52.28:5001/play/a0b3/index.m3u8
 http://201.216.147.90:8729/play/a0df
