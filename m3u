@@ -110,12 +110,14 @@ https://acceso.mediosdecostarica.com:3873/multi_live/play_720.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
+https://rtv.fullhd-streaming.com:19360/retroxtv/retroxtv.m3u8
 https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 https://video20.klm99.com:3580/live/retroxlive.m3u8
 
 RETRO X TV PLUS 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3922-800x450-FFFFFF.jpg", RETRO X PLUS
+https://rtv.fullhd-streaming.com:19360/retroxplustv/retroxplustv.m3u8
 https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
 
 RETRO PLUS 3
