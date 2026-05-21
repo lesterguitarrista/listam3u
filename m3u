@@ -67,6 +67,9 @@ http://200.115.98.26:7000/play/a0a9/index.m3u8
 http://148.230.149.45:1021/play/a09e/index.m3u8
 http://148.230.149.45:1021/play/a08n/index.m3u8
 
+GUATEMALA
+#EXTINF:-1,tvg-logo="https://www.guatemala.com/fotos/2022/08/generico-1.png", Guatemala.com
+http://186.33.25.234:8125/play/a0dy/index.m3u8
 
 CNN ESP.
 #EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" group-title="NEWS",CNN ESPAÑOL
