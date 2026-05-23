@@ -63,7 +63,6 @@ http://190.105.128.198:5800/play/a015/index.m3u8
 
 A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
-http://200.115.98.26:7000/play/a0a9/index.m3u8
 http://148.230.149.45:1021/play/a09e/index.m3u8
 http://148.230.149.45:1021/play/a08n/index.m3u8
 
@@ -78,7 +77,7 @@ http://181.189.159.131:8000/play/a0gi/index.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", UNICABLE
-http://185.56.109.253/Unicable/playlist.m3u8
+
 https://tvpass.org/live/UnivisionEast/sd
 
 UNIVISION
@@ -98,7 +97,7 @@ http://201.216.147.90:8729/play/a0cf
 
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://200.115.98.26:7000/play/a00v/index.m3u8
+http://189.148.49.233:8000/play/a06l/index.m3u8
 
 LA LIGA GUATE (TIGOGT)
 #EXTINF:-1 tvg-logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ae.png",LA LIGA
