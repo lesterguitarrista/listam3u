@@ -297,6 +297,7 @@ http://201.216.147.90:8729/play/a0ca
 
 SONY CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY 
+http://45.173.74.2:2010/play/a09h/index.m3u8
 http://185.56.109.253/Sony/playlist.m3u8
 
 GOLDEN
@@ -306,7 +307,8 @@ http://201.151.118.136:8000/play/a009/index.m3u8?hls
 
 GOLDEN PREMIER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premiere HD
-http://200.115.98.26:7000/play/a04g/index.m3u8
+http://201.190.41.246:8822/play/a004/index.m3u8
+
 
 GOLDEN PREMIER 2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2 HD
