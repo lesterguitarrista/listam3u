@@ -384,13 +384,13 @@ https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
-http://200.115.98.26:7000/play/a052/index.m3u8
+http://45.166.93.156:9999/play/a0f3/index.m3u8
 
 
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
-http://181.13.252.102:8000/play/a02e/index.m3u8
+http://45.166.93.156:9999/play/a0hc/index.m3u8
 
 PEPPA PIG
 #EXTINF:-0 tvg-logo="https://toppng.com/uploads/preview/eppa-pig-molde-pig-png-pig-party-real-moms-fiestas-peppa-pig-logo-11562996894fi7teacoia.png" , PEPPA PIG
