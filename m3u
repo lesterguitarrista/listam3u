@@ -477,8 +477,7 @@ http://201.216.147.90:8729/play/a0ci
 
 TNT SERIES 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIES
-http://200.115.98.26:7000/play/a02f/index.m3u8
-http://190.60.52.28:5001/play/a097/index.m3u8
+http://45.166.93.156:9999/play/a0gr/index.m3u8
 
 
 
@@ -545,8 +544,7 @@ http://177.10.184.193:8000/play/a0do/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
-http://170.82.113.51:8899/play/a0oy/index.m3u8
-http://147.75.116.250:8586/play/a01r
+http://45.166.93.156:9999/play/a0f5/index.m3u8
 
 Cascara
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
@@ -650,8 +648,8 @@ http://190.60.52.28:5001/play/a0ap/index.m3u8
 
 HBO
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO HD" tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" group-title="CINE PREMIUM",CINE | HBO HD
-http://200.115.98.26:7000/play/a03a/index.m3u8
-http://190.60.52.28:5001/play/a09s/index.m3u8
+http://45.166.93.156:9999/play/a0im/index.m3u8
+
 
 HBO PLUS
 #EXTINF:-1,067 tvg-id="" tvg-name="HBO HD" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", HBO Plus HD
@@ -661,7 +659,7 @@ http://190.14.10.19:16000/play/a042/index.m3u8
 
 WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://i.postimg.cc/W3ccWnTP/file_00000000932c61f5a5237fcbf642273c.png" group-title="",Warner Channel 
-http://190.60.52.28:5001/play/a0d4/index.m3u8
+http://45.166.93.156:9999/play/a08k/index.m3u8
 
 
 HB2
