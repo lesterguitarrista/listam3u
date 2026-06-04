@@ -63,8 +63,7 @@ http://190.105.128.198:5800/play/a015/index.m3u8
 
 A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
-http://148.230.149.45:1021/play/a09e/index.m3u8
-http://148.230.149.45:1021/play/a08n/index.m3u8
+http://45.186.105.185:8000/play/a07x/index.m3u8?hl
 
 GUATEMALA
 #EXTINF:-1,tvg-logo="https://www.guatemala.com/fotos/2022/08/generico-1.png", Guatemala.com
@@ -77,7 +76,7 @@ http://181.189.159.131:8000/play/a0gi/index.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", UNICABLE
-
+http://45.186.105.185:8000/play/a07o/index.m3u8?hl
 https://tvpass.org/live/UnivisionEast/sd
 
 UNIVISION
@@ -112,15 +111,12 @@ https://acceso.mediosdecostarica.com:3873/multi_live/play_720.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
-https://rtv.fullhd-streaming.com:19360/retroxtv/retroxtv.m3u8
-https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
-https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
-https://video20.klm99.com:3580/live/retroxlive.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 
 RETRO X TV PLUS 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3922-800x450-FFFFFF.jpg", RETRO X PLUS
-https://rtv.fullhd-streaming.com:19360/retroxplustv/retroxplustv.m3u8
-https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
+
 
 RETRO PLUS 3
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://ia601605.us.archive.org/19/items/logo-retro-plus-582-x-198-ts-1680109231/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg" , RETRO PLUS 3
