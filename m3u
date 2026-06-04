@@ -53,6 +53,7 @@ https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
 
 TVAZTECA 7 MEXICO
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca MEXICO
+http://201.77.60.62:8002/play/a0fm/index.m3u8?hls
 http://190.105.128.198:5800/play/a01v/index.m3u8
 
 CANAL ANTIGUA
@@ -76,6 +77,7 @@ http://181.189.159.131:8000/play/a0gi/index.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", UNICABLE
+http://201.77.60.62:8002/play/a0od/index.m3u8?hls
 http://45.186.105.185:8000/play/a07o/index.m3u8?hl
 https://tvpass.org/live/UnivisionEast/sd
 
@@ -96,11 +98,15 @@ http://201.216.147.90:8729/play/a0cf
 
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://189.148.49.233:8000/play/a06l/index.m3u8
+http://201.77.60.62:8002/play/a0o8/index.m3u8?hls
 
 LA LIGA GUATE (TIGOGT)
 #EXTINF:-1 tvg-logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ae.png",LA LIGA
 http://181.119.108.27:7292/play/a0ae/index.m3u8
+
+CLASIC +
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
+http://201.77.60.62:8002/play/a0p6/index.m3u8?hls
 
 CLASICOAS TV COSTA RICA
 #EXTINF:-1 tvg-logo="https://radiocostarica.net/sites/default/files/styles/og_image/public/2025-07/Best%20Clasicos%20TV-Costa-Rica.png?itok=Ro5pKeyj", BestMusic Clasicos Tv Costa Rica
