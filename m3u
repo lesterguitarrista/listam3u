@@ -104,6 +104,10 @@ LA LIGA GUATE (TIGOGT)
 #EXTINF:-1 tvg-logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ae.png",LA LIGA
 http://181.119.108.27:7292/play/a0ae/index.m3u8
 
+Dsports 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DSports_logo_2022.svg/1280px-DSports_logo_2022.svg.png" , Dsports 1 HD
+http://157.100.248.242:8880/play/a0dy/index.m3u8?h
+
 CLASIC +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
 http://201.77.60.62:8002/play/a0p6/index.m3u8?hls
