@@ -165,6 +165,9 @@ SR. CINE MARVEL STUDIOS
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/marvel-studios-logo-image-png-701751694711690tidvpovywz.png" , CINE MARVEL STUDIOS
 http://200.115.120.1:8000/play/ca038/index.m3u8?h
 
+SR. CINE DC FILMS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a3/DC_Films_logo.jpg" , CINE DC FILMS
+http://200.115.120.1:8000/play/ca032/index.m3u8?h
 
 GTV
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ccd32011a9ab5faf76fa0c4978ef11be77c05539c994874b8e3ad5e985d8f746.png", GTV
