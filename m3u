@@ -345,21 +345,37 @@ http://201.151.118.136:8000/play/a00b/index.m3u8?hls
 
 FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
+http://190.102.247.126:8000/play/a00z/index.m3u8
 http://38.210.3.64:8090/play/a0gj/index.m3u8
-http://45.177.21.6:9000/play/a02z
-http://64.76.53.91:9002/play/a003
+
 
 FMH KIDS
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_KIDS.png" , FMH Kids
+http://190.102.247.126:8000/play/a007/index.m3u8
 http://38.210.3.64:8090/play/a0gk/index.m3u8
-http://45.177.21.6:9000/play/a030
-http://64.76.53.91:9002/play/a005
+
 
 FMH MOVIES
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_MOVIES.png" , FMH Movies
+http://190.102.247.126:8000/play/a00y/index.m3u8
 http://38.210.3.64:8090/play/a0gl/index.m3u8
-http://45.177.21.6:9000/play/a02y
-http://64.76.53.91:9002/play/a008
+
+MX PRIME
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_200,h_200,al_c/3.png" , MX PRIME
+http://190.102.247.126:8000/play/a010/index.m3u8
+
+MX SERIES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_7538e3dfbde04ca880bcb69a8b4c65f6~mv2.png/v1/fill/w_266,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" , MX SERIES
+http://190.102.247.126:8000/play/a016/index.m3u8
+
+MX CLASSIC
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_1e5ac32c6d154221ba12cc0fd77102e9~mv2.png/v1/fill/w_200,h_200,al_c/2.png" , MX CLASSIC
+http://190.102.247.126:8000/play/a01f/index.m3u8
+
+FlashBack
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/347-3471625_5-oclock-flashback-twist-flashback-png.png" , FLAHSBACK
+http://190.102.247.126:8000/play/a017/index.m3u8
+
 
 BITME
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1280px-BitMe_logo.svg.png", BITME
@@ -1787,6 +1803,7 @@ https://cdn.lawandcrime.net/rewind/playlist.m3u8
 
 DHE
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE HD
+http://190.93.229.30:8000/play/a0ce/index.m3u8u?hls
 http://190.92.10.66:4000/play/a00e/index.m3u8
 
 MACGYVER 24/7
@@ -1867,7 +1884,7 @@ http://190.14.10.19:16000/play/a07z/index.m3u8?hls
 
 E! Entertairment
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01k.png",E! Entertairment HD
-http://200.115.98.26:7000/play/a078/index.m3u8
+http://190.93.229.30:8000/play/a0an/index.m3u8u?hls
 
 TLC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Especiales y Documentales", TLC
