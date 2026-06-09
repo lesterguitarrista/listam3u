@@ -161,6 +161,11 @@ BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
+SR. CINE MARVEL STUDIOS
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/marvel-studios-logo-image-png-701751694711690tidvpovywz.png" , CINE MARVEL STUDIOS
+http://200.115.120.1:8000/play/ca038/index.m3u8?h
+
+
 GTV
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ccd32011a9ab5faf76fa0c4978ef11be77c05539c994874b8e3ad5e985d8f746.png", GTV
 https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
