@@ -263,6 +263,8 @@ COURT LEGENDARY
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2F4%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F44b8c938b34238f227a4030123f8dfcf.png" , Court legendary trials
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 
+#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/canallosasesinatosdemidsomer.png", Los Asesinatos de Midsomer
+https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
 
 MIDSOMER MUYDERS
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7f8GTeUL6q1DyXRwK9xIsWxvzX.png" ,Midsomer Murders
@@ -361,19 +363,19 @@ http://190.102.247.126:8000/play/a00y/index.m3u8
 http://38.210.3.64:8090/play/a0gl/index.m3u8
 
 MX PRIME
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_200,h_200,al_c/3.png" , MX PRIME
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_200,h_200,al_c/3.png", MX PRIME
 http://190.102.247.126:8000/play/a010/index.m3u8
 
 MX SERIES
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_7538e3dfbde04ca880bcb69a8b4c65f6~mv2.png/v1/fill/w_266,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" , MX SERIES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_7538e3dfbde04ca880bcb69a8b4c65f6~mv2.png/v1/fill/w_266,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png", MX SERIES
 http://190.102.247.126:8000/play/a016/index.m3u8
 
 MX CLASSIC
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_1e5ac32c6d154221ba12cc0fd77102e9~mv2.png/v1/fill/w_200,h_200,al_c/2.png" , MX CLASSIC
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c5adb2_1e5ac32c6d154221ba12cc0fd77102e9~mv2.png/v1/fill/w_200,h_200,al_c/2.png", MX CLASSIC
 http://190.102.247.126:8000/play/a01f/index.m3u8
 
 FlashBack
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/347-3471625_5-oclock-flashback-twist-flashback-png.png" , FLAHSBACK
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/347-3471625_5-oclock-flashback-twist-flashback-png.png", FLAHSBACK
 http://190.102.247.126:8000/play/a017/index.m3u8
 
 
@@ -1545,12 +1547,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXVARIOSXXXXXXXXXXXXXXXXXXXXXXXXX
 
 CSI MIAMI
 #EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5" group-title="Pluto", CSI Miami
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
 
 HECHIZADA
 #EXTINF:-1 tvg-id="" tvg-name="Hechizada" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/hechizada_plutotv_vbig.jpg" group-title="Pluto", Hechizada
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
 
 WALKER TEXAS
 #EXTINF:-1 tvg-id="" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/series/62e25c60be1ffb0014093a00/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&q=75&w=1200" group-title="Pluto", Walker Texas Ranger
@@ -1567,7 +1568,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa41
 
 HISTORIAS DE ULTRA TUMBA
 #EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Pluto",Historias de Ultratumba
-
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CANALES VARIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CANALES VARIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
