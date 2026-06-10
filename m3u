@@ -216,9 +216,14 @@ http://45.5.118.152:8000/play/a07r/index.m3u8
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-ANOS MARAVILLOSOS
-#EXTINF:-1 tvg-logo="https://archive.org/details/1684938017100", ANOS MARAVILLOSOS
-http://archive.org/download/gyjtyjtk/AosMaravilloso.m3u
+
+LOS EXPEDIENTES SECRETOS X
+#EXTINF:-1 tvg-logo="https://archive.org/details/1684938017100", LOS EXPEDIENTES SECRETOS X
+http://archive.org/download/ns_20210520/expedientes%20x.m3u
+
+COBRA KAI
+#EXTINF:-1 tvg-logo="https://archive.org/details/1684938017100", COBRA KAI
+https://archive.org/download/si2_20220111/CK.m3u
 
 CSI-MIAMI
 #EXTINF:-1 channel-id="632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-chno="4260" tvg-name="CSI: Miami en español" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" group-title="En Español",CSI: Miami en español
