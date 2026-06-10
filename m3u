@@ -260,7 +260,13 @@ https://ia800705.us.archive.org/28/items/kretinos-m-enamorando./ver2.mp4
 #EXTINF:-1 tvg-logo="",
 
 
+Familia P. Luche
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", Familia P. Luche
+http://xstr.cyou:8080/JARED34/675GTd/484859
 
+Cobra Kai
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", Cobra Kai 
+http://xstr.cyou:8080/JARED34/675GTd/641997
 
 
 ALERTA AEROPUERTO
@@ -446,11 +452,14 @@ https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 
-
+La Casa de Mickey Mouse
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", La Casa de Mickey Mouse
+http://xstr.cyou:8080/JARED34/675GTd/485400
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
@@ -568,18 +577,21 @@ https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 
 DRAGON BALL DAIMA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png", DRAGON BALL DAIMA
+http://xstr.cyou:8080/JARED34/675GTd/484496
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179035
 
 DRAGON BALL MAJINBU
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://www.dafont.com/forum/attach/orig/7/8/788166.png" group-title="24/7",24/7 | DRAGON BALL Z: MAJINBU
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179022
+http://xstr.cyou:8080/JARED34/675GTd/484503
 
 DRAGON BALL SUPER GOLDEN FREEZER
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://www.dafont.com/forum/attach/orig/7/8/788166.png" group-title="24/7",24/7 | DRAGON BALL Z: GOLDEN FREEZER
+http://xstr.cyou:8080/JARED34/675GTd/484504
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179030
 
 DRAGON BALL SUPER SAGA DE LOS DIOSES
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | DRAGON BALL SUPER SAGA DE LOS DIOSES
+http://xstr.cyou:8080/JARED34/675GTd/484507
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179029
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -741,8 +753,6 @@ Dragon Ball Z & Películas Completas
 https://ia801509.us.archive.org/3/items/in-shot-20260202-035147629/InShot_20260202_035147629.mp4
 
 
-#EXTINF:-1 tvg-id"" tvg-logo="",
-
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
@@ -752,7 +762,12 @@ https://ia801509.us.archive.org/3/items/in-shot-20260202-035147629/InShot_202602
 
 #EXTINF:-1 tvg-id"" tvg-logo="",
 
-
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",
+#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",
 
 
 PANTALLA CLASICA
