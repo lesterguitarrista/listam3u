@@ -96,6 +96,10 @@ TIGO SPORTS
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS
 http://201.216.147.90:8729/play/a0cf
 
+TIGO SPORTS SENAL 2
+#EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS2
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+
 TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 http://190.14.10.19:16000/play/a09v/index.m3u8?hls
@@ -154,6 +158,10 @@ NEXT
 #EXTINF:0 type="stream" channelId="-1" group="Movies;Music" logo="https://i.imgur.com/c2rF3SS.png", Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
+Nexxo
+#EXTINF:0 type="favorites" channelId="-1" group="Dominican Republic" logo="https://i.imgur.com/2OpCxa6.png", Nexxo TV 
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
 BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -165,6 +173,18 @@ http://200.115.120.1:8000/play/ca038/index.m3u8?h
 SR. CINE DC FILMS HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a3/DC_Films_logo.jpg" , CINE DC FILMS
 http://200.115.120.1:8000/play/ca032/index.m3u8?h
+
+Memorias TV Series
+#EXTINF:0 type="favorites" channelId="-1" group="Series" logo="https://i.imgur.com/ohCSMhY.png", Memorias TV Series 
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+
+Memorias TV Film 
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/vNfjW6Y.png", Memorias TV Film 
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+
+Memorias TV Toons 
+#EXTINF:0 type="favorites" channelId="-1" group="Kids" logo="https://i.imgur.com/2fiiNCz.png", Memorias TV Toons 
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
 GTV
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ccd32011a9ab5faf76fa0c4978ef11be77c05539c994874b8e3ad5e985d8f746.png", GTV
@@ -196,6 +216,9 @@ http://45.5.118.152:8000/play/a07r/index.m3u8
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ANOS MARAVILLOSOS
+#EXTINF:-1 tvg-logo="https://archive.org/details/1684938017100", ANOS MARAVILLOSOS
+http://archive.org/download/gyjtyjtk/AosMaravilloso.m3u
 
 CSI-MIAMI
 #EXTINF:-1 channel-id="632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-chno="4260" tvg-name="CSI: Miami en español" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" group-title="En Español",CSI: Miami en español
