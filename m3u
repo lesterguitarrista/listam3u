@@ -74,6 +74,7 @@ http://186.33.25.234:8125/play/a0dy/index.m3u8
 
 CNN ESP.
 #EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" group-title="NEWS",CNN ESPAÑOL
+http://190.60.45.197:2222/play/a030/index.m3u8
 http://152.230.229.66:8001/play/a009/index.m3u8
 http://45.172.92.111:8000/play/a02a/index.m3u8u?hls
 http://181.78.21.46:8009/play/a00q
@@ -372,11 +373,12 @@ GOLDEN
 http://190.14.10.19:16000/play/a05l/index.m3u8?hls
 http://181.66.249.173:8080/play/a06t/index.m3u8
 http://201.151.118.136:8000/play/a009/index.m3u8?hls
+http://45.190.184.79:5800/play/a02x/index.m3u8
 
 GOLDEN PREMIER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premiere HD
 http://201.190.41.246:8822/play/a004/index.m3u8
-
+http://45.190.184.79:5800/play/a00s/index.m3u8
 
 GOLDEN PREMIER 2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premiere 2 HD
@@ -624,7 +626,7 @@ http://181.177.233.98:8000/play/a03h/index.m3u8
 
 Claro Cinema
 #EXTINF:-1 tvg-id="Clarocinema.gt" tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy-WGi8wsE2igDpEwm1BYAGlOKHnBbjBzfQ&s" ,Claro cinema
-http://217.26.190.76:8888/play/a04z/index.m3u8
+http://45.190.184.79:5800/play/a03u/index.m3u8
 
 
 CANAL CLARO
@@ -726,17 +728,20 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 
 HBO FAMILY 
-#EXTINF:0 type="stream" channelId="-1" name="C/S• HBO FAMILY (HD) »1«" group="→ CINE & SERIES ←" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg", C/S• HBO FAMILY (HD) »1«
-http://cablemaxsigloxxi.com:8000/play/a07x/index.m3u8?hls
+#EXTINF:0 type="stream" channelId="-1" name="HBO FAMILY" group="CINE & SERIES" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",  HBO FAMILY
+http://181.78.74.146:18000/play/a00w
 http://190.60.52.28:5001/play/a0dv/index.m3u8
 http://190.14.10.19:16000/play/a043/index.m3u8
 
 SPACE
 #EXTINF:-1 tvg-id="space.mx" tvg-name="CINE | SPACE NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png" group-title="CINE PREMIUM",CINE | SPACE NORTE
+http://181.78.74.146:18000/play/a02u
 http://190.60.52.28:5001/play/a0ap/index.m3u8
 
 HBO
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE | HBO HD" tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" group-title="CINE PREMIUM",CINE | HBO HD
+http://181.65.191.173:8069/play/a0a0
+http://181.78.74.146:18000/play/a02q
 http://45.166.93.156:9999/play/a0im/index.m3u8
 
 
@@ -758,7 +763,7 @@ http://190.14.10.19:16000/play/a041/index.m3u8?hls
 
 HBO MUNDI
 #EXTINF:-1 tvg-id="hbo.mundi.mx" tvg-name="CINE | HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE PREMIUM",CINE | HBO MUNDI HD
-http://cablemaxsigloxxi.com:8000/play/a084/index.m3u8?hls
+http://181.65.191.173:8069/play/a0az
 
 
 Dragon Ball Z & Películas Completas
