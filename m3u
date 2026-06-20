@@ -74,6 +74,7 @@ http://186.33.25.234:8125/play/a0dy/index.m3u8
 
 CNN ESP.
 #EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" group-title="NEWS",CNN ESPAÑOL
+http://45.172.92.111:8000/play/a02a/index.m3u8u?hls
 http://181.78.21.46:8009/play/a00q
 
 
