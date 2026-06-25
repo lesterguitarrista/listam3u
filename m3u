@@ -546,12 +546,12 @@ http://45.5.119.43:4000/play/a0il/index.m3u8
 
  STAR
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",CINE  | STAR
-http://38.211.118.56:50002/play/a0013/index.m3u8
+http://190.238.43.117:9000/play/a0gx/index.m3u8
 
 
 SPACE
 #EXTINF:-1 group-title="-" tvg-logo="https://p7.hiclipart.com/preview/16/901/103/space-logo-television-channel-esporte-interativo-space.jpg" ,SPACE 75
-http://181.209.96.155:10000/play/a12u/index.m3u8
+http://190.238.43.117:9000/play/a0fl/index.m3u8
 http://190.60.52.28:5001/play/a0cc/index.m3u8
 
 SPACE AMERICA
