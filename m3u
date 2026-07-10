@@ -66,6 +66,7 @@ http://190.105.128.198:5800/play/a015/index.m3u8
 
 A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
+http://181.78.84.78:8910/play/a07u/index.m3u8?hls
 http://181.119.108.43:9001/play/a0kf/index.m3u8
 http://200.115.120.1:8000/play/ca060/index.m3u8?h
 
@@ -325,6 +326,7 @@ http://45.172.92.111:8000/play/a01c/index.m3u8u?hls
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
+http://103.111.42.4:9999/play/a005/index.m3u8?hls
 http://190.61.101.11:7050/play/a04l/index.m3u8?hls
 
 
@@ -569,6 +571,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 
 DRAGON BALL DAIMA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png", DRAGON BALL DAIMA
+http://200.115.120.1:8000/play/ca081/index.m3u8
 http://xstr.cyou:8080/JARED34/675GTd/484496
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179035
 
@@ -595,6 +598,7 @@ http://190.61.101.11:7050/play/a098/index.m3u8?hls
 
 Distrito Comedia
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
+http://200.229.147.210:9999/play/a01z/index.m3u8?hls
 http://201.151.118.136:8000/play/a007/index.m3u8?hls
 http://45.5.118.152:8000/play/a08q/index.m3u8
 http://181.177.233.98:8000/play/a03h/index.m3u8
