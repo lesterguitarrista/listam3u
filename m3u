@@ -388,6 +388,7 @@ http://185.56.109.253/Edge/playlist.m3u8
 
 GOLDEN PLUS
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" , GOLDEN PLUS
+http://181.119.215.61:8000/play/a0l6/index.m3u8?hls
 http://201.151.118.136:8000/play/a00b/index.m3u8?hls
 
 
@@ -759,6 +760,11 @@ http://190.14.10.19:16000/play/a041/index.m3u8?hls
 HBO MUNDI
 #EXTINF:-1 tvg-id="hbo.mundi.mx" tvg-name="CINE | HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE PREMIUM",CINE | HBO MUNDI HD
 http://181.65.191.173:8069/play/a0az
+
+
+HBO XTREME
+#EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
+http://181.119.215.61:8000/play/a0l6/index.m3u8?hls
 
 
 Dragon Ball Z & Películas Completas
@@ -1805,6 +1811,7 @@ http://200.115.120.1:8000/play/ca139/index.m3u8?h
 
 HBO XTREME
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
+http://181.119.215.61:8000/play/a0l6/index.m3u8?hls
 http://190.14.10.19:16000/play/a08k/index.m3u8?hls
 
 CINEMAX
