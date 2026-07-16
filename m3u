@@ -147,12 +147,13 @@ https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 
 RETRO X TV PLUS 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3922-800x450-FFFFFF.jpg", RETRO X PLUS
-https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/erinaca/chunks.m3u8?lb_backend_hint=7
 
 
 RETRO PLUS 3
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://ia601605.us.archive.org/19/items/logo-retro-plus-582-x-198-ts-1680109231/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg" , RETRO PLUS 3
 https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist_w440957503.m3u8
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
 TELE COSTA
 #EXTINF:-1 tvg-logo="https://ia601904.us.archive.org/11/items/img-0322_202604/IMG_0322.jpeg",TELECOSTA GUATEMALA 🇬🇹
