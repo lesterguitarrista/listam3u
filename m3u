@@ -337,8 +337,6 @@ http://190.121.128.220:19784/play/a03u/index.m3u8
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
-http://181.119.108.43:9001/play/a0ga/index.m3u8
-http://103.111.42.4:9999/play/a005/index.m3u8?hls
 http://190.61.101.11:7050/play/a04l/index.m3u8?hls
 http://45.173.231.22:8000/play/a07j/index.m3u8
 
@@ -354,7 +352,7 @@ http://181.119.108.43:9005/play/a04a/index.m3u8
 
 TCM
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png", TCM
-http://201.216.147.90:8729/play/a0dg
+http://181.78.50.91:8000/play/a039/index.m3u8
 
 SONY MOVIES
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SONY.png", Sony Movies HD
