@@ -42,7 +42,7 @@ http://190.105.128.198:5800/play/a066/index.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://e7.pngegg.com/pngimages/686/771/png-clipart-las-estrellas-televisa-television-channel-logo-star-television-angle.png",Las Estrellas
-http://181.78.4.250:8097/play/a0bv/index.m3u8
+http://190.60.39.221:8000/play/a06p/index.m3u8
 http://45.5.118.152:8000/play/a08a/index.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
@@ -128,7 +128,7 @@ http://181.119.108.27:7292/play/a0ae/index.m3u8
 
 CLASIC +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
-http://201.77.60.62:8002/play/a0p6/index.m3u8?hls
+http://190.60.39.221:8000/play/a03d/index.m3u8
 
 CLASIC + SERIES
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+ SERIES
@@ -335,7 +335,6 @@ DE PELICULA
 http://190.121.128.220:19784/play/a03u/index.m3u8
 
 
-
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
 http://181.119.108.43:9001/play/a0ga/index.m3u8
@@ -359,11 +358,11 @@ http://201.216.147.90:8729/play/a0dg
 
 SONY MOVIES
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SONY.png", Sony Movies HD
-http://201.216.147.90:8729/play/a0ca
+http://190.60.39.221:8000/play/a060/index.m3u8
 
 SONY CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY 
-http://170.247.204.9:8000/play/a01v/index.m3u8u?hls
+http://190.60.39.221:8000/play/a070/index.m3u8
 http://45.172.92.111:8000/play/a00y/index.m3u8u?hls
 
 
@@ -397,25 +396,50 @@ http://201.151.118.136:8000/play/a00b/index.m3u8?hls
 
 FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
+http://190.60.39.221:8000/play/a01v/index.m3u8
 http://38.210.3.64:8090/play/a0gj/index.m3u8
 http://190.102.247.126:8000/play/a00z/index.m3u8
 
 
-
 FMH KIDS
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_KIDS.png" , FMH Kids
+http://190.60.39.221:8000/play/a01w/index.m3u8
 http://38.210.3.64:8090/play/a0gk/index.m3u8
 http://190.102.247.126:8000/play/a007/index.m3u8
 
-
-
 FMH MOVIES
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_MOVIES.png" , FMH Movies
+http://190.60.39.221:8000/play/a01y/index.m3u8
 http://38.210.3.64:8090/play/a0gl/index.m3u8
 http://190.102.247.126:8000/play/a00y/index.m3u8
 
+FMH ATLAS
+#EXTINF:-1 tvg-id="FMH" tvg-logo="https://future-plus.co.uk/wp-content/uploads/2025/10/Atlas-FM.webp" , FMH ATLAS
+http://190.60.39.221:8000/play/a01u/index.m3u8
 
+FMH KIZZT
+#EXTINF:-1 tvg-id="FMH" tvg-logo="https://fmh.la/img/logo_kizzi.png" , FMH KIZZT
+http://190.60.39.221:8000/play/a01x/index.m3u8
 
+MEMORIAS CLASICC
+#EXTINF:-1 tvg-id="FMH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EzsRlj_9VTP6E411fbmAJkT3wgoN4BrawLi2l9UAbQ&s=10" , MEMORIAS CLASICC
+http://190.60.39.221:8000/play/a020/index.m3u8
+
+MEMORIAS SERIES
+#EXTINF:-1 tvg-id="FMH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLRHU-DLk2PF37F_ajMNrwCjdCjGKQpazKJp2H-MdXwg&s=10" , MEMORIAS SERIES 
+http://190.60.39.221:8000/play/a025/index.m3u8
+
+MEMORIAS FILM
+#EXTINF:-1 tvg-id="FMH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4up0H-6nnx-SMdE_vYghfh7806sOr4Kl0cQSpl2kMw&s=10" , MEMORIAS FILM
+http://190.60.39.221:8000/play/a022/index.m3u8
+
+MEMORIAS TOONS
+#EXTINF:-1 tvg-id="FMH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QZL-IQ_krIZ6AoAs08sZ94IYg8K5JZAShwoyXDvPlQ&s=10" , MEMORIAS TOONS
+http://190.60.39.221:8000/play/a026/index.m3u8
+
+MEMORIAS POP
+#EXTINF:-1 tvg-id="FMH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCFDT1WbDqnhfecKomGtRC3W2jDS-bZzz8RQcopUDyA&s=10" , MEMORIAS POP
+http://190.60.39.221:8000/play/a023/index.m3u8
 
 FlashBack
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/347-3471625_5-oclock-flashback-twist-flashback-png.png", FLAHSBACK
