@@ -557,7 +557,7 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 
 CINEMAX 
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
-http://45.5.119.43:4000/play/a0il/index.m3u8
+http://181.78.50.91:8000/play/a05c/index.m3u8
 
  STAR
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",CINE  | STAR
@@ -580,7 +580,7 @@ http://148.230.25.148:8500/play/a0ka/index.m3u8
 
 TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
-http://201.216.147.90:8729/play/a0ci
+http://181.78.50.91:8000/play/a01i/index.m3u8
 
 TNT SERIES 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIES
@@ -751,6 +751,7 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 HBO FAMILY 
 #EXTINF:0 type="stream" channelId="-1" name="HBO FAMILY" group="CINE & SERIES" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",  HBO FAMILY
+http://181.78.50.91:8000/play/a00p/index.m3u8
 http://181.78.74.146:18000/play/a00w
 http://190.60.52.28:5001/play/a0dv/index.m3u8
 http://190.14.10.19:16000/play/a043/index.m3u8
