@@ -75,9 +75,9 @@ http://181.119.108.43:9001/play/a0kf/index.m3u8
 http://200.115.120.1:8000/play/ca060/index.m3u8?h
 
 
-GUATEMALA
-#EXTINF:-1,tvg-logo="https://www.guatemala.com/fotos/2022/08/generico-1.png", Guatemala.com
-http://186.33.25.234:8125/play/a0dy/index.m3u8
+Barberena
+#EXTINF:-1,tvg-logo="https://www.guatemala.com/fotos/2022/08/generico-1.png", BARBE GT
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 CNN ESP.
 #EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" group-title="NEWS",CNN ESPAÑOL
