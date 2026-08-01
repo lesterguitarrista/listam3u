@@ -93,6 +93,8 @@ http://181.119.108.43:9001/play/a0pl/index.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", UNICABLE
+http://45.238.141.222:8000/play/a0pl/index.m3u8
+http://45.238.141.222:8000/play/a0pk/index.m3u8
 http://38.190.100.202:8000/play/a05s/index.m3u8
 
 UNIVISION
@@ -338,8 +340,8 @@ http://190.121.128.220:19784/play/a03u/index.m3u8
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
-http://190.61.101.11:7050/play/a04l/index.m3u8?hls
-http://45.173.231.22:8000/play/a07j/index.m3u8
+http://45.238.141.222:8000/play/a0or/index.m3u8
+http://45.167.1.138:8000/play/a06m
 
 TELENORD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg/250px-Teleoperadora_del_Nordeste_%28Telenord%29.jpg",
@@ -440,10 +442,6 @@ MEMORIAS POP
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCFDT1WbDqnhfecKomGtRC3W2jDS-bZzz8RQcopUDyA&s=10" , MEMORIAS POP
 http://190.60.39.221:8000/play/a023/index.m3u8
 
-FlashBack
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/347-3471625_5-oclock-flashback-twist-flashback-png.png", FLAHSBACK
-http://190.102.247.126:8000/play/a017/index.m3u8
-
 
 BITME
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1280px-BitMe_logo.svg.png", BITME
@@ -489,9 +487,6 @@ DISNEY CHANNEL
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 
-La Casa de Mickey Mouse
-#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", La Casa de Mickey Mouse
-http://xstr.cyou:8080/JARED34/675GTd/485400
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
@@ -560,7 +555,7 @@ CINEMAX
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
 http://181.78.50.91:8000/play/a05c/index.m3u8
 
- STAR
+STAR
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",CINE  | STAR
 http://190.238.43.117:9000/play/a0gx/index.m3u8
 
@@ -586,8 +581,6 @@ http://181.78.50.91:8000/play/a01i/index.m3u8
 TNT SERIES 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/302-3024895_logo-canal-tnt-series-hd-png-download.png" , TNT SERIES
 http://45.166.93.156:9999/play/a0gr/index.m3u8
-
-
 
 MR. BEAN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFTQvLsd/mrbean.jpg" group-title="Mas Series 🧟",Mr. Bean (ES)
@@ -777,6 +770,7 @@ http://190.14.10.19:16000/play/a042/index.m3u8
 
 WARNER ENG AND SPA
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="",Warner Channel 
+http://45.167.1.138:8000/play/a03q
 http://181.65.155.51:8000/play/a0ft/index.m3u8
 http://190.14.10.19:16000/play/a06m/index.m3u8?hls
 
