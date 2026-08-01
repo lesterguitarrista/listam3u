@@ -75,8 +75,8 @@ http://181.119.108.43:9001/play/a0kf/index.m3u8
 http://200.115.120.1:8000/play/ca060/index.m3u8?h
 
 
-Barberena
-#EXTINF:-1,tvg-logo="https://www.guatemala.com/fotos/2022/08/generico-1.png", BARBE GT
+BarberTV
+#EXTINF:-1,tvg-logo="https://static.wixstatic.com/media/7acae1_8dc4cf299fb34214ad9e49492ee42421~mv2.png/v1/fill/w_232,h_232,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo-BarbeTv.png", BARBE GT
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 CNN ESP.
