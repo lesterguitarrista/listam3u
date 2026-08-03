@@ -2,19 +2,20 @@
 
 CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
+http://38.95.86.246:61400/play/a03e/index.m3u8
 http://45.167.1.138:8000/play/a031
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 http://190.105.128.198:5800/play/a018/index.m3u8
 
 CANAL TN23
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
-http://190.115.3.141:9000/play/a0y2/index.m3u8
 http://181.119.108.43:9001/play/a079/index.m3u8
 http://200.115.120.1:8000/play/ca105/index.m3u8?h
-https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
+
 
 CANAL 7
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
+http://38.95.86.246:61400/play/a03d/index.m3u8
 http://45.167.1.138:8000/play/a030
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 http://190.105.128.198:5800/play/a017/index.m3u8
@@ -28,6 +29,7 @@ http://190.105.128.198:5800/play/a02o/index.m3u8
 
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
+http://38.95.86.246:61400/play/a02a/index.m3u8
 http://45.167.1.138:8000/play/a01u
 http://190.14.10.19:16000/play/a04m/index.m3u8
 http://181.189.142.237:40000/play/a04m
@@ -35,6 +37,7 @@ http://190.105.128.198:5800/play/a065/index.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
+http://38.95.86.246:61400/play/a02b/index.m3u8
 http://45.167.1.138:8000/play/a01v
 http://190.14.10.19:16000/play/a04n/index.m3u8
 http://181.189.142.237:40000/play/a08t
@@ -50,6 +53,7 @@ http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
+http://38.95.86.246:61400/play/a03c/index.m3u8
 http://181.119.210.234:4000/play/a040/index.m3u8
 http://181.119.108.43:9001/play/a0ke/index.m3u8
 http://45.167.1.138:8000/play/a02z
@@ -64,6 +68,7 @@ http://190.105.128.198:5800/play/a01v/index.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Canal_Antigua_2016.png/revision/latest?cb=20210618133521&path-prefix=es" group-title="GUATEMALA", Canal Antigua
+http://38.95.86.246:61400/play/a03b/index.m3u8
 http://45.167.1.138:8000/play/a02y
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 http://190.105.128.198:5800/play/a015/index.m3u8
@@ -347,9 +352,8 @@ https://fox.hostlagarto.com:8081/telenord10/tracks-v1a1/mono.m3u8
 
 AMC SERIES
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHohMY2EmFTC7LnVKLmzi3hUFU0zHjCYQf-d5T5Dmvg&s=10", AMC Series 
-http://148.230.149.45:1021/play/a0ad/index.m3u8
-http://181.119.108.43:9005/play/a04a/index.m3u8
-
+http://191.97.15.251:8000/play/a00o/index.m3u8
+http://181.65.191.173:8069/play/a08v
 
 TCM
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png", TCM
@@ -387,6 +391,7 @@ http://181.65.191.173:8069/play/a04o
 
 GOLDEN EDGE
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge
+http://191.97.15.251:8000/play/a00t/index.m3u8
 http://45.173.231.22:8000/play/a0cy/index.m3u8
 http://185.56.109.253/Edge/playlist.m3u8
 
