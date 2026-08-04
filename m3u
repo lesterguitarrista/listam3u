@@ -127,8 +127,6 @@ TUDN
 http://138.59.177.78:9999/play/a07z/index.m3u8
 
 
-
-
 CLASIC +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
 http://190.60.39.221:8000/play/a03d/index.m3u8
@@ -244,10 +242,6 @@ LOS EXPEDIENTES SECRETOS X
 #EXTINF:-1 tvg-logo="https://archive.org/details/1684938017100", LOS EXPEDIENTES SECRETOS X
 http://archive.org/download/ns_20210520/expedientes%20x.m3u
 
-COBRA KAI
-#EXTINF:-1 tvg-logo="https://archive.org/details/1684938017100", COBRA KAI
-https://archive.org/download/si2_20220111/CK.m3u
-
 CSI-MIAMI
 #EXTINF:-1 channel-id="632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-chno="4260" tvg-name="CSI: Miami en español" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" group-title="En Español",CSI: Miami en español
 https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
@@ -309,9 +303,6 @@ OPERATION REPO
 #EXTINF:-1 tvg-id="Choppertown.us"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Operation_Repo.jpg/revision/latest?cb=20231220192233", Choppertown (720p) [Not 24/7]
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 
-COURT LEGENDARY
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2F4%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F44b8c938b34238f227a4030123f8dfcf.png" , Court legendary trials
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 
 #EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/canallosasesinatosdemidsomer.png", Los Asesinatos de Midsomer
 https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
@@ -339,7 +330,6 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 DE PELICULA
 #EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="CINE | DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA
 http://190.121.128.220:19784/play/a03u/index.m3u8
-
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
@@ -497,6 +487,7 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
+http://138.59.177.78:9999/play/a0l1/index.m3u8
 http://190.234.82.52:8000/play/a0mb/index.m3u8
 http://45.166.93.156:9999/play/a0hc/index.m3u8
 
@@ -510,8 +501,8 @@ https://amg02757-amg02757c6-samsung-es-6836.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 
 TOONCAST
 #EXTINF:-1 tvg-name="Little Baby Bum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/960px-Logo_de_Tooncast.svg.png" group-title="",TOONCAST NIENKE
-http://190.7.19.197:232/play/a01w/index.m3u8
-http://181.119.93.83:8000/play/a1jj/index.m3u8
+http://138.59.177.78:9999/play/a0lh/index.m3u8
+http://38.190.100.202:8000/play/a02o/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxOTROSxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
