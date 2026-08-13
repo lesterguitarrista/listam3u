@@ -553,18 +553,15 @@ STV
 #EXTINF:-28 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-SERIES RETRO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4QJ3ZKX.png" group-title="Series Retro", 📺 Series Retro
-http://147.75.116.250:8586/play/a0cz
 
 AXN 
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="Peliculas y Series ",AXN HD
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+http://181.65.191.173:8069/play/a02a
 
 
 CINEMAX 
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="Peliculas y Series",CINE  | CINEMAX HD
-http://138.59.177.78:9999/play/a0ki/index.m3u8
+http://181.65.191.173:8069/play/a03w
 http://181.78.50.91:8000/play/a05c/index.m3u8
 
 STAR
@@ -581,15 +578,13 @@ http://45.173.231.22:8000/play/a04x/index.m3u8
 
 SPACE AMERICA
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" ,SPACE 2
+http://181.65.191.173:8069/play/a03z
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
-http://148.230.25.148:8500/play/a12i/index.m3u8
-http://148.230.25.148:8500/play/a0ka/index.m3u8
 
 
 TNT DUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" ,TNT DUAL
-http://138.59.177.78:9999/play/a0nn/index.m3u8
-http://138.59.177.78:9999/play/a0mx/index.m3u8
+http://181.65.191.173:8069/play/a03b
 http://181.78.50.91:8000/play/a01i/index.m3u8
 
 TNT SERIES 
@@ -608,34 +603,13 @@ DRAGON BALL SUPER
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | DRAGON BALL SUPER
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 
-DRAGON BALL
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/448-4481377_dragon-ball-super-logo-png-dragonball-super-logo.png" group-title="Mas Series 🧟",Dragon Ball  Super| Goku 
-http://186.194.160.110:9002/play/a0gv/index.m3u8
 
-DRAGON BALL Super
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: ZAGA EL DESPERTAR DE MAJIN BOO" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb3ffa7f-b0fd-4dae-a002-1eb7d733026e/d8wfb1f-1c47f2ad-58c6-4d9c-bc27-bebd143c2ca9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ViM2ZmYTdmLWIwZmQtNGRhZS1hMDAyLTFlYjdkNzMzMDI2ZVwvZDh3ZmIxZi0xYzQ3ZjJhZC01OGM2LTRkOWMtYmMyNy1iZWJkMTQzYzJjYTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.t7x_r472evfENrMZK4kZarweUjCZx4SAg71ODpUPHPY" group-title="24/7",24/7 | DRAGON BALL Z: ZAGA EL DESPERTAR DE MAJIN BOO
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179036
-https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
-
-DRAGON BALL DAIMA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png", DRAGON BALL DAIMA
+Adult Swim
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/524-5244521_adult-swim-logo-png-png-download-cross-transparent.png", Adult Swim
 http://181.65.155.51:8000/play/a0oo/index.m3u8
-http://xstr.cyou:8080/JARED34/675GTd/484496
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179035
 
-DRAGON BALL MAJINBU
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://www.dafont.com/forum/attach/orig/7/8/788166.png" group-title="24/7",24/7 | DRAGON BALL Z: MAJINBU
-http://xstr.cyou:8080/JARED34/675GTd/484503
 
-DRAGON BALL SUPER GOLDEN FREEZER
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://www.dafont.com/forum/attach/orig/7/8/788166.png" group-title="24/7",24/7 | DRAGON BALL Z: GOLDEN FREEZER
-http://xstr.cyou:8080/JARED34/675GTd/484504
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179030
 
-DRAGON BALL SUPER SAGA DE LOS DIOSES
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | DRAGON BALL SUPER SAGA DE LOS DIOSES
-http://xstr.cyou:8080/JARED34/675GTd/484507
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/179029
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -647,10 +621,7 @@ http://190.61.101.11:7050/play/a098/index.m3u8?hls
 Distrito Comedia
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
 http://190.108.80.138:8000/play/a0gd/index.m3u8
-http://200.229.147.210:9999/play/a01z/index.m3u8?hls
-http://201.151.118.136:8000/play/a007/index.m3u8?hls
-http://45.5.118.152:8000/play/a08q/index.m3u8
-http://181.177.233.98:8000/play/a03h/index.m3u8
+
 
 
 Claro Cinema
@@ -723,6 +694,18 @@ Mas Tv Toto
 #EXTINF:-1 tvg-id"mastv.gt" tvg-logo="https://static.wixstatic.com/media/7acae1_0f0f413f6c58499f91b93187b809edd3~mv2.png/v1/fill/w_762,h_762,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/mastv_toto.png", Mas tv TOTO
 https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
 
+PANTALLA CLASICA
+#EXTINF:-1 tvg-id="classicchannel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", PANTALLA CLASICA
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
+
+
+RETRO TV
+#EXTINF:-1 tvg-id="RetroTv.mx" tvg-logo="https://image.winudf.com/v2/image1/cmV0cm8udHZvbmxpbmUyMDIzX3NjcmVlbl8wXzE3MDQ3MjU5NTZfMDc2/screen-0.jpg?fakeurl=1&type=.jpg", Retro Tv
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+
+FMTV
+#EXTINF:-1 tvg-id="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" , FMTV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 RETROPALMARES
 #EXTINF:-1 tvg-id"retropalmares.cr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1MpcNtt8Gv-C9dVhoP94HG6YmUq-PJz1a6dypksufhiQPxmYPMnSVWEYwp_boWiecTPZRhi92zIAotugjHwRfQJIxCqxGhsZTlVZ6vufMaUz_eZupEJ7aVufwwJrYtaTMsTDYw_2Cmn-GgvaEykn35VE96ZkL32aG4pcWEGaOSw3Nw3YLxFbsFOqeKOBy/s1280/TV%20RETRO%20PALMARES.png", Retro Palmares
@@ -760,9 +743,7 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 HBO FAMILY 
 #EXTINF:0 type="stream" channelId="-1" name="HBO FAMILY" group="CINE & SERIES" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",  HBO FAMILY
 http://181.78.50.91:8000/play/a00p/index.m3u8
-http://181.78.74.146:18000/play/a00w
-http://190.60.52.28:5001/play/a0dv/index.m3u8
-http://190.14.10.19:16000/play/a043/index.m3u8
+
 
 SPACE
 #EXTINF:-1 tvg-id="space.mx" tvg-name="CINE | SPACE NORTE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png" group-title="CINE PREMIUM",CINE | SPACE NORTE
@@ -778,7 +759,6 @@ http://45.166.93.156:9999/play/a0im/index.m3u8
 
 HBO PLUS
 #EXTINF:-1,067 tvg-id="" tvg-name="HBO HD" tvg-logo="https://archive.org/download/1684938017100/1684938017100.png", HBO Plus HD
-http://187.245.231.226:8000/play/a0ms/index.m3u8
 http://190.14.10.19:16000/play/a042/index.m3u8
 
 
@@ -825,22 +805,6 @@ https://ia801509.us.archive.org/3/items/in-shot-20260202-035147629/InShot_202602
 #EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",
 #EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",
 
-
-PANTALLA CLASICA
-#EXTINF:-1 tvg-id="classicchannel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="Cine y Series", PANTALLA CLASICA
-https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
-
-Barbetv
-#EXTINF:-1 tvg-id="comoantes.gt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOusZ2bwDeroQ6x7SZCGsHOLimY3pXpTyn9oGgK921GfBGo_MuiDBNnRuY7lkQs3T8i8&usqp=CAU" ,Como Antes Gt
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-
-RETRO TV
-#EXTINF:-1 tvg-id="RetroTv.mx" tvg-logo="https://image.winudf.com/v2/image1/cmV0cm8udHZvbmxpbmUyMDIzX3NjcmVlbl8wXzE3MDQ3MjU5NTZfMDc2/screen-0.jpg?fakeurl=1&type=.jpg", Retro Tv
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
-
-FMTV
-#EXTINF:-1 tvg-id="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" , FMTV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 
 
@@ -1973,15 +1937,17 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 DISCOVERY SCINCE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Especiales y Documentales", Discovery Science
-http://190.60.52.28:5001/play/a0eu/index.m3u8
+http://181.65.191.173:8069/play/a04k
 
 DISCOVERY TURBO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Especiales y Documentales", Discovery Turbo
-http://190.60.52.28:5001/play/a0cj/index.m3u8
+http://181.65.191.173:8069/play/a03p
 
 DISCOVERY WORLD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Especiales y Documentales", Discovery World
 http://190.14.10.19:16000/play/a07z/index.m3u8?hls
+
+
 
 E! Entertairment
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8200/playlist/tvg-logo/a01k.png",E! Entertairment HD
