@@ -2,8 +2,8 @@
 
 CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
-http://167.250.223.26:9998/play/a02u/index.m3u8
 http://38.95.86.246:61400/play/a03e/index.m3u8
+http://167.250.223.26:9998/play/a02u/index.m3u8
 http://45.167.1.138:8000/play/a031
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 http://190.105.128.198:5800/play/a018/index.m3u8
@@ -16,8 +16,8 @@ http://200.115.120.1:8000/play/ca105/index.m3u8?h
 
 CANAL 7
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
-http://167.250.223.26:9998/play/a02t/index.m3u8
 http://38.95.86.246:61400/play/a03d/index.m3u8
+http://167.250.223.26:9998/play/a02t/index.m3u8
 http://45.167.1.138:8000/play/a030
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
 http://190.105.128.198:5800/play/a017/index.m3u8
