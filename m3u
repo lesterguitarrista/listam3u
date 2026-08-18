@@ -126,8 +126,6 @@ http://201.216.147.90:8729/play/a0cf
 
 TIGO SPORTS SENAL 2
 #EXTINF:-1 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA", TIGO SPORTS2
-http://181.119.108.43:9001/play/a07a/index.m3u8
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 http://167.250.223.26:9998/play/a05o/index.m3u8
 
 TUDN
@@ -204,10 +202,9 @@ BAYRES TV
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1",Bayres TV (720p)
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-
-
 Memorias TV Series
 #EXTINF:0 type="favorites" channelId="-1" group="Series" logo="https://i.imgur.com/ohCSMhY.png", Memorias TV Series 
+http://190.110.96.238:8000/play/a0i5/index.m3u8
 http://45.172.92.111:8000/play/a031/index.m3u8u?hls
 
 Memorias TV Toons 
@@ -351,6 +348,7 @@ https://fox.hostlagarto.com:8081/telenord10/tracks-v1a1/mono.m3u8
 
 AMC SERIES
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHohMY2EmFTC7LnVKLmzi3hUFU0zHjCYQf-d5T5Dmvg&s=10", AMC Series 
+http://38.252.213.209:8000/play/a0an
 http://191.97.15.251:8000/play/a00o/index.m3u8
 http://181.65.191.173:8069/play/a08v
 
@@ -494,7 +492,7 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
-http://181.119.93.83:8000/play/a12l
+http://38.252.213.209:8000/play/a08q
 http://45.166.93.156:9999/play/a0hc/index.m3u8
 
 PEPPA PIG
