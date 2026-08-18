@@ -189,6 +189,9 @@ WOW MOVIES
 #EXTINF:-1 tvg-logo="https://iptv.wow-iptv.com/img/logo/WOWmovies.png" ,  WOW MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
+FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" , FX 
+http://181.78.82.130:8000/play/a0ef/index.m3u8
 
 NEXT 
 #EXTINF:0 type="stream" channelId="-1" group="Movies;Music" logo="https://i.imgur.com/c2rF3SS.png", Next HD (480p)
