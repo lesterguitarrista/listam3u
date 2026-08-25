@@ -582,13 +582,13 @@ http://181.78.50.91:8000/play/a05c/index.m3u8
 
 STAR
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",CINE  | STAR
+https://i2iptvi2.interos.com.co/play/a0c4/index.m3u8
 http://190.238.43.117:9000/play/a0gx/index.m3u8
 
 
 SPACE
 #EXTINF:-1 group-title="-" tvg-logo="https://p7.hiclipart.com/preview/16/901/103/space-logo-television-channel-esporte-interativo-space.jpg" ,SPACE 75
-http://45.173.231.22:8000/play/a067/index.m3u8
-http://45.173.231.22:8000/play/a04x/index.m3u8
+https://i2iptvi2.interos.com.co/play/a0c3/index.m3u8
 
 
 
