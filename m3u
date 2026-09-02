@@ -247,6 +247,7 @@ http://190.14.10.19:16000/play/a03y/index.m3u8?hls
 
 CARTOONITO
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
+http://190.108.91.206:9050/play/a0bg/index.m3u8
 http://190.14.10.19:16000/play/a02c/index.m3u8?hls
 
 13 Festival
@@ -1704,8 +1705,7 @@ http://148.230.28.85:8002/play/037
 
 A&E
 #EXTINF:-1 tvg-id="AyE.mx" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="FAMILIA" , A&E
-http://190.60.52.28:5001/play/a0e0/index.m3u8
-http://45.172.92.111:8000/play/a020/index.m3u8
+http://138.121.113.175:8000/play/a03x/index.m3u8
 
 AMC
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png" , AMC HD
@@ -1720,12 +1720,12 @@ http://45.167.1.138:8000/play/a00c
 
 SONY
 #EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" , SONY 
-http://190.60.52.28:5001/play/a0al/index.m3u8
-http://190.60.52.28:5001/play/a0gf/index.m3u8
-http://45.172.92.111:8000/play/a00y/index.m3u8
+http://138.121.113.175:8000/play/a03s/index.m3u8
+
 
 NAT GEO
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" ,Nat Geo HD
+http://138.121.113.175:8000/play/a03v/index.m3u8
 http://190.14.10.19:16000/play/a07v/index.m3u8?hls
 
 H&H
@@ -1734,8 +1734,7 @@ http://200.115.120.1:8000/play/ca057/index.m3u8?h
 
 HISTORY CHANNEL
 #EXTINF:-1 tvg-id="History.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa-ZYDFxGiirWUPBDKFjUAjjeaaIXK6O0sz_rJ4lvpQ&s",History
-http://190.60.52.28:5001/play/a0ag/index.m3u8
-http://45.173.12.70:8000/play/a055/index.m3u8
+http://190.108.91.206:9050/play/a045/index.m3u8
 
 HISTORY CHANNEL 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", History 2
@@ -1743,11 +1742,11 @@ http://190.14.10.19:16000/play/a05b/index.m3u8?hls
 
 SPACE
 #EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" ,Space
-http://190.60.52.28:5001/play/a0ap/index.m3u8
+http://138.121.113.175:8000/play/a05m/index.m3u8
 
 TNT
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT 
-http://190.60.52.28:5001/play/a0bp/index.m3u8
+http://138.121.113.175:8000/play/a08p/index.m3u8
 
 TNT MEXICO
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
@@ -1756,11 +1755,12 @@ http://148.230.25.148:8500/play/a0nh/index.m3u8
 
 TNT SERIES
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
+http://138.121.113.175:8000/play/a08p/index.m3u8
 http://200.115.120.1:8000/play/ca035/index.m3u8?h
 
 AXN
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://190.60.52.28:5001/play/a0an/index.m3u8
+http://138.121.113.175:8000/play/a03u/index.m3u8
 
 TMC
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",  TCM
@@ -1780,6 +1780,7 @@ http://190.105.128.198:5800/play/a04h/index.m3u8
 
 UNIVERSAL CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_Universal_Channel.svg/2560px-Logo_Universal_Channel.svg.png" group-title="Cine y Series", Universal Channel
+http://138.121.113.175:8000/play/a041/index.m3u8
 http://200.115.120.1:8000/play/ca142/index.m3u8?h
 
 UNIVERSAL CRIME
@@ -1822,30 +1823,32 @@ http://190.60.52.28:5001/play/a0am/index.m3u8
 
 HBO POP
 #EXTINF:-1 tvg-id="HBOPOP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",HBO POP
-http://200.115.120.1:8000/play/ca138/index.m3u8?h
+http://138.121.113.175:8000/play/a04z/index.m3u8
 
 HBO FAMILY
 #EXTINF:-1 tvg-id="us_hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family
 http://190.14.10.19:16000/play/a043/index.m3u8?hls
+http://138.121.113.175:8000/play/a081/index.m3u8
 
 HBO PLUS
 #EXTINF:-1 tvg-id="HBOPlusE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (E)
-http://190.60.52.28:5001/play/a0b7/index.m3u8
+http://138.121.113.175:8000/play/a07z/index.m3u8
 
 HBO2
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
+http://138.121.113.175:8000/play/a080/index.m3u8
 
 
 HBO SIGNATURE
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",HBO Signature
 http://200.115.120.1:8000/play/ca139/index.m3u8?h
-
+http://138.121.113.175:8000/play/a052/index.m3u8
 
 HBO XTREME
 #EXTINF:-1 tvg-id="Maxprime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" ,HBO XTREME
 http://181.119.215.61:8000/play/a0l6/index.m3u8?hls
 http://190.14.10.19:16000/play/a08k/index.m3u8?hls
+http://138.121.113.175:8000/play/a051/index.m3u8
 
 CINEMAX
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX
@@ -1855,12 +1858,12 @@ http://190.14.10.19:16000/play/a07c/index.m3u8?hls
 
 CINEMAX 2
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" ,CINEMAX 2
-http://190.60.52.28:5001/play/a0a5/index.m3u8
+http://138.121.113.175:8000/play/a037/index.m3u8
 
 
 STARCHANNEL us
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
-http://190.60.52.28:5001/play/a0au/index.m3u8
+http://138.121.113.175:8000/play/a08k/index.m3u8
 
 STARCHannel lat
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",Star Channel
@@ -1877,12 +1880,12 @@ http://190.105.128.198:5800/play/a06q/index.m3u8
 
 AMC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",AMC MX
-http://179.60.51.134:8888/AMC/index.m3u8
+http://138.121.113.175:8000/play/a04p/index.m3u8
 
 USA
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1853523518459138048/UIBxZUIW_400x400.jpg",USA 
-http://190.60.52.28:5001/play/a0ew/index.m3u8
-http://45.172.92.111:8000/play/a014/index.m3u8
+http://138.121.113.175:8000/play/a04t/index.m3u8
+
 
 FILM END ARTS
 #EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & Arts
