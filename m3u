@@ -595,7 +595,7 @@ http://181.78.50.91:8000/play/a05c/index.m3u8
 
 STAR
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="Peliculas y Series",CINE  | STAR
-https://i2iptvi2.interos.com.co/play/a0c4/index.m3u8
+http://138.121.113.175:8000/play/a08k/index.m3u8
 http://190.238.43.117:9000/play/a0gx/index.m3u8
 
 
