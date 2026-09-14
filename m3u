@@ -132,6 +132,13 @@ TUDN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 http://138.59.177.78:9999/play/a07z/index.m3u8
 
+TELESISTEMA CR.
+#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema
+https://k20.usastreams.com:8081/telesistema/index.m3u8
+
+RETROPALMARES
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/479_Retro_TV_Palmares.png", RETRO TV PALMARES 
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
 CLASIC +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
