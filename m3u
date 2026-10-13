@@ -130,10 +130,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
 CLASIC +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
+http://167.250.133.214:8000/play/a02c
 http://190.60.39.221:8000/play/a03d/index.m3u8
 
 CLASIC + SERIES
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+ SERIES
+http://45.172.92.111:8000/play/a037/index.m3u8
 http://45.172.92.111:8000/play/a037/index.m3u8u?hls
 
 CLASICOAS TV COSTA RICA
@@ -148,7 +150,8 @@ http://38.190.100.202:8000/play/a05k/index.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8?lb_backend_hint=6
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 RETRO X TV PLUS 
@@ -158,16 +161,15 @@ https://lbgo.bozztv.com/ssh101/ssh101/erinaca/chunks.m3u8?lb_backend_hint=7
 
 RETRO PLUS 3
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://ia601605.us.archive.org/19/items/logo-retro-plus-582-x-198-ts-1680109231/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg" , RETRO PLUS 3
-https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist_w440957503.m3u8
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+https://srt01.logicahost.com.br/senal1/tracks-v1a1/mono.ts.m3u8?ChileTv
 
 RETRO PLUS 2
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://ia601605.us.archive.org/19/items/logo-retro-plus-582-x-198-ts-1680109231/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg" , RETRO PLUS 2
-https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
+https://srt01.logicahost.com.br/senal2/tracks-v1a1/mono.ts.m3u8?ChileTv
 
 RETRO PLUS 1
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://ia601605.us.archive.org/19/items/logo-retro-plus-582-x-198-ts-1680109231/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg" , RETRO PLUS 1
-https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1463797368.m3u8
+https://srt01.logicahost.com.br/senal1/tracks-v1a1/mono.ts.m3u8?ChileTv
 
 
 TELE COSTA
@@ -212,11 +214,11 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 Memorias TV Series
 #EXTINF:0 type="favorites" channelId="-1" group="Series" logo="https://i.imgur.com/ohCSMhY.png", Memorias TV Series 
-http://190.110.96.238:8000/play/a0i5/index.m3u8
-http://45.172.92.111:8000/play/a031/index.m3u8u?hls
+http://190.131.243.54:9000/play/a0l5/index.m3u8
 
 Memorias TV Toons 
 #EXTINF:0 type="favorites" channelId="-1" group="Kids" logo="https://i.imgur.com/2fiiNCz.png", Memorias TV Toons 
+http://181.225.96.98:8000/play/a026/index.m3u8
 http://38.7.195.44:8000/play/a0bs
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
@@ -466,8 +468,7 @@ http://190.60.39.221:8000/play/a023/index.m3u8
 BITME
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1280px-BitMe_logo.svg.png", BITME
 http://138.59.177.78:9999/play/a00l/index.m3u8
-http://181.78.8.199:8000/play/a0ga/index.m3u8
-http://185.56.109.253/BitMe/playlist.m3u8
+
 
 para mas  >  http://168.228.44.241:9997/playlist.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxMUSICA LESTERxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -630,8 +631,9 @@ Adult Swim
 http://200.62.239.170:830/play/a07t/index.m3u8
 http://181.65.155.51:8000/play/a0oo/index.m3u8
 
-
-
+DRAGON BALL TV
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | GOKU TV
+http://38.3.162.3:18009/play/a0i8/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
