@@ -2,51 +2,43 @@
 
 CANAL 3
 #EXTINF:-1 tvg-id="CANAL3" tvg-name="CANAL3" tvg-logo="https://seeklogo.com/images/C/canal-3-el-super-canal-logo-26F5EF2804-seeklogo.com.png" group-title=“GUATEMALA”, CANAL3 
+http://45.5.118.139:8000/play/a0h5/index.m3u8
 http://38.95.86.246:61400/play/a03e/index.m3u8
 http://167.250.223.26:9998/play/a02u/index.m3u8
-http://45.167.1.138:8000/play/a031
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
-http://190.105.128.198:5800/play/a018/index.m3u8
+
 
 CANAL TN23
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
-http://181.119.108.43:9001/play/a079/index.m3u8
-http://200.115.120.1:8000/play/ca105/index.m3u8?h
+http://45.5.118.139:8000/play/a04b/index.m3u8
 
 
 CANAL 7
 #EXTINF:-1 tvg-id="CANAL 7" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png" group-title=“GUATEMALA”, CANAL 7
+http://45.5.118.139:8000/play/a0h4/index.m3u8
 http://38.95.86.246:61400/play/a03d/index.m3u8
 http://167.250.223.26:9998/play/a02t/index.m3u8
-http://45.167.1.138:8000/play/a030
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
-http://190.105.128.198:5800/play/a017/index.m3u8
+
 
 GUATEVISION
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://e7.pngegg.com/pngimages/197/120/png-clipart-guatevision-television-channel-azteca-guatemala-canal-antigua-others-television-text.png",Guatevision
+http://45.5.118.139:8000/play/a0fw/index.m3u8
 http://167.250.223.26:9998/play/a00t/index.m3u8
 http://45.167.1.138:8000/play/a00p
-http://185.56.109.253/Guatevision/playlist.m3u8
-http://38.44.109.41:8003/play/a02p/index.m3u8
-http://190.105.128.198:5800/play/a02o/index.m3u8
+
 
 CANAL 13
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Canal13GT2023-present.png/revision/latest?cb=20230607212710",Canal 13
+http://45.5.118.139:8000/play/a0jj/index.m3u8
 http://167.250.223.26:9998/play/a01t/index.m3u8
 http://38.95.86.246:61400/play/a02a/index.m3u8
-http://45.167.1.138:8000/play/a01u
-http://190.14.10.19:16000/play/a04m/index.m3u8
-http://181.189.142.237:40000/play/a04m
-http://190.105.128.198:5800/play/a065/index.m3u8
+
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
+http://45.5.118.139:8000/play/a0jk/index.m3u8
 http://167.250.223.26:9998/play/a01u/index.m3u8
 http://38.95.86.246:61400/play/a02b/index.m3u8
-http://45.167.1.138:8000/play/a01v
-http://190.14.10.19:16000/play/a04n/index.m3u8
-http://181.189.142.237:40000/play/a08t
-http://190.105.128.198:5800/play/a066/index.m3u8
+
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://e7.pngegg.com/pngimages/686/771/png-clipart-las-estrellas-televisa-television-channel-logo-star-television-angle.png",Las Estrellas
@@ -58,30 +50,29 @@ http://185.56.109.253/CanalDeLasEstrellas/playlist.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
+http://45.5.118.139:8000/play/a0h3/index.m3u8
 http://167.250.223.26:9998/play/a02s/index.m3u8
 http://38.95.86.246:61400/play/a03c/index.m3u8
 http://181.119.210.234:4000/play/a040/index.m3u8
-http://181.119.108.43:9001/play/a0ke/index.m3u8
-http://45.167.1.138:8000/play/a02z
-http://181.189.142.237:40000/play/a08v
-https://channel1-tva.duin.dev/tv/streaming/0/stream.m3u8?token=
+
 
 TVAZTECA 7 MEXICO
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca MEXICO
+http://45.5.118.139:8000/play/a05q/index.m3u8
 http://181.119.215.61:8000/play/a07s/index.m3u8?hls
 http://201.77.60.62:8002/play/a0fm/index.m3u8?hls
 http://190.105.128.198:5800/play/a01v/index.m3u8
 
 CANAL ANTIGUA
 #EXTINF:-1 tvg-id="Canal Antigua" tvg-name="Canal Antigua" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Canal_Antigua_2016.png/revision/latest?cb=20210618133521&path-prefix=es" group-title="GUATEMALA", Canal Antigua
+http://45.5.118.139:8000/play/a0h2/index.m3u8
 http://167.250.223.26:9998/play/a02r/index.m3u8
 http://38.95.86.246:61400/play/a03b/index.m3u8
-http://45.167.1.138:8000/play/a02y
-https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-http://190.105.128.198:5800/play/a015/index.m3u8
+
 
 A+ Guate
 #EXTINF:-1 tvg-id"playmedios.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%2B_Guate_logo.webp/200px-A%2B_Guate_logo.webp.png?20221229053445",A+ Guate
+http://45.5.118.139:8000/play/a07x/index.m3u8
 http://181.78.84.78:8910/play/a07u/index.m3u8?hls
 http://181.119.108.43:9001/play/a0kf/index.m3u8
 http://200.115.120.1:8000/play/ca060/index.m3u8?h
@@ -105,9 +96,9 @@ http://181.119.108.43:9001/play/a0pl/index.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", UNICABLE
+http://45.5.118.139:8000/play/a07o/index.m3u8
 http://45.238.141.222:8000/play/a0pl/index.m3u8
-http://45.238.141.222:8000/play/a0pk/index.m3u8
-http://38.190.100.202:8000/play/a05s/index.m3u8
+
 
 UNIVISION
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UNIVISION" tvg-logo="https://e7.pngegg.com/pngimages/618/904/png-clipart-univision-doral-logo-television-channel-times-communications-television-text.png" group-title="FAMILIA",Univision Panregional 
@@ -293,7 +284,7 @@ EL  CHAVO
 http://38.252.215.33:8000/play/a01i/index.m3u8
 
 
-## mas canales aca http://tv.proyectox.vip:8080/get.php?username=Epifaniasdelosjueces34&password=77Q9vrGBKk&type=m3u 
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIDEOS MUSICALES PROPIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIDEOS MUSICALES PROPIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -364,8 +355,7 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/2000.m3u8
 
 DE PELICULA
 #EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="CINE | DE PELÍCULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA
-http://181.119.93.83:8000/play/a0sx
-http://190.121.128.220:19784/play/a03u/index.m3u8
+http://45.5.118.139:8000/play/a06i/index.m3u8
 
 DE PELICULA CLASICO
 #EXTINF:-1 tvg-id="CLARO2: DE PELICULA" tvg-name="CINE | DE PELÍCULA PLUS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-title="CINE PREMIUM",CINE | DE PELÍCULA PLUS
@@ -389,20 +379,21 @@ http://138.121.113.175:8000/play/a04q/index.m3u8
 
 SONY MOVIES
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SONY.png", Sony Movies HD
-http://190.60.39.221:8000/play/a060/index.m3u8
+http://45.5.118.139:8000/play/a04g/index.m3u8
 
 SONY CHANNEL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY 
+http://45.5.118.139:8000/play/a0hp/index.m3u8
 http://190.60.39.221:8000/play/a070/index.m3u8
 http://45.172.92.111:8000/play/a00y/index.m3u8u?hls
 
 
 GOLDEN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" , GOLDEN
+http://45.5.118.139:8000/play/a0jv/index.m3u8
 http://190.14.10.19:16000/play/a05l/index.m3u8?hls
 http://181.66.249.173:8080/play/a06t/index.m3u8
-http://201.151.118.136:8000/play/a009/index.m3u8?hls
-http://45.190.184.79:5800/play/a02x/index.m3u8
+
 
 GOLDEN PREMIER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es",Golden Premiere HD
@@ -492,6 +483,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/sancrisvision/chunks.m3u8
 
 MC
 #EXTINF:-1 tvg-id="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", MC
+http://45.5.118.139:8000/play/a067/index.m3u8
 http://45.167.1.138:8000/play/a02t
 http://201.216.147.90:8729/play/a0dh
 
@@ -647,8 +639,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXX
 
 Canal 5 Mexico
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="MEXICO" , Canal 5 
-http://45.5.118.152:8000/play/a03i/index.m3u8
-http://190.61.101.11:7050/play/a098/index.m3u8?hls
+http://45.5.118.139:8000/play/a05o/index.m3u8
 
 Distrito Comedia
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Comedia" , Distrito Comedia
@@ -664,7 +655,7 @@ http://45.190.184.79:5800/play/a03u/index.m3u8
 
 CANAL CLARO
 #EXTINF:-1 tvg-id="Clarocinema.gt" tvg-logo"https://static.wikia.nocookie.net/logosfake/images/2/20/Canal_Claro_Latin_Atlansia.svg/revision/latest?cb=20200723175019" , Canal Claro 
-http://177.10.184.193:8000/play/a0do/index.m3u8
+http://45.5.118.139:8000/play/a0fv/index.m3u8
 
 Caracol
 #EXTINF:-1 tvg-id="Caracol.cl" tvg-logo"https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png", Caracol
