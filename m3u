@@ -511,15 +511,11 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
-http://200.62.239.170:830/play/a01v/index.m3u8
-http://138.121.113.175:8000/play/a054/index.m3u8
-http://38.252.213.209:8000/play/a08q
-http://45.166.93.156:9999/play/a0hc/index.m3u8
+http://45.5.117.188:8000/play/a003/index.m3u8
 
 PEPPA PIG
 #EXTINF:-0 tvg-logo="https://toppng.com/uploads/preview/eppa-pig-molde-pig-png-pig-party-real-moms-fiestas-peppa-pig-logo-11562996894fi7teacoia.png" , PEPPA PIG
-http://181.119.93.83:8000/play/a12o
-http://200.115.120.1:8000/play/ca009/index.m3u8
+http://45.5.117.188:8000/play/a01n/index.m3u8
 
 NICK JR.
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Nick_Jr._logo_2023.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" ,NICK JR.
