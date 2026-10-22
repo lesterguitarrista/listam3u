@@ -9,6 +9,7 @@ http://167.250.223.26:9998/play/a02u/index.m3u8
 
 CANAL TN23
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
+https://d2h2wh04y3aqtb.cloudfront.net/hls/by1ualyjwslr/7_4/index.m3u8h
 http://45.5.118.139:8000/play/a04b/index.m3u8
 
 
@@ -35,7 +36,9 @@ http://38.95.86.246:61400/play/a02a/index.m3u8
 
 CANAL 11
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png",Canal 11
-https://d2h2wh04y3aqtb.cloudfront.net/hls/by1ualyjwslr/7_4/index.m3u8http://167.250.223.26:9998/play/a01u/index.m3u8
+http://38.95.86.246:61400/play/a02b/index.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net/hls/by1ualyjwslr/7_4/index.m3u8h
+http://167.250.223.26:9998/play/a01u/index.m3u8
 http://45.5.118.139:8000/play/a0jk/index.m3u8
 http://38.95.86.246:61400/play/a02b/index.m3u8
 
