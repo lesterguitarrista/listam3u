@@ -86,8 +86,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 CNN ESP.
 #EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" group-title="NEWS",CNN ESPAÑOL
-
-http://130.94.110.130:8000/play/a0kw/index.m3u8
+http://199.188.103.176:8000/play/a099/index.m3u8http://130.94.110.130:8000/play/a0kw/index.m3u8
 http://181.78.9.204:8000/play/a02p/index.m3u8
 
 
@@ -516,6 +515,9 @@ http://200.62.239.170:830/play/a06h/index.m3u8
 http://181.119.93.83:8000/play/a127
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 
+PLIM PLIM TV
+#EXTINF:-1 tvg-logo=¨https://foros.forounivers.com/uploads/monthly_2024_02/large.PlimPlimTV.png.7ac3106baf391b06e8ea24798f9a5968.png¨, Plim Plim TV
+http://199.188.103.176:8000/play/a0fj/index.m3u8
 
 BABY TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjRWy0td/babytv.jpg" group-title="Premium | Latino",Baby TV NIENKE
