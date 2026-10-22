@@ -88,8 +88,9 @@ BarberTV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 CNN ESP.
-#EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" group-title="NEWS",CNN ESPAÑOL
-http://199.188.103.176:8000/play/a099/index.m3u8http://130.94.110.130:8000/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-chno="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original¨ group-title="NEWS",CNN ESPAÑOL
+http://199.188.103.176:8000/play/a099/index.m3u8
+http://130.94.110.130:8000/play/a0kw/index.m3u8
 http://181.78.9.204:8000/play/a02p/index.m3u8
 
 
