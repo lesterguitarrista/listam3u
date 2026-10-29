@@ -257,11 +257,13 @@ http://45.166.93.156:9999/play/a0f1/index.m3u8
 
 CARTOON NETWORK
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
+http://45.188.229.33:8000/play/a1d1/index.m3u8
 http://181.78.9.204:8000/play/a01p/index.m3u8
 http://190.14.10.19:16000/play/a03y/index.m3u8?hls
 
 CARTOONITO
 #EXTINF:-1 tvg-id="CartoonNetworkNorthAtlantic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoonito
+http://45.188.229.33:8000/play/a1jp/index.m3u8
 http://181.78.9.204:8000/play/a00h/index.m3u8
 http://190.108.91.206:9050/play/a0bg/index.m3u8
 
