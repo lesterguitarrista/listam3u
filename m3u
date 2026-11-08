@@ -45,6 +45,7 @@ http://38.95.86.246:61400/play/a02b/index.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://e7.pngegg.com/pngimages/686/771/png-clipart-las-estrellas-televisa-television-channel-logo-star-television-angle.png",Las Estrellas
+http://speedtest.sanfelipedigital.com.prod.hosts.ooklaserver.net:8000/play/a0d4
 http://45.188.229.33:8000/play/a18z/index.m3u8
 http://168.228.44.241:9997/play/a077/index.m3u8
 http://38.199.241.97:8000/play/a00e/index.m3u8
@@ -510,7 +511,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/sancrisvision/chunks.m3u8
 
 MC
 #EXTINF:-1 tvg-id="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", MC
-
+http://speedtest.sanfelipedigital.com.prod.hosts.ooklaserver.net:8000/play/a0co
 http://45.5.118.139:8000/play/a067/index.m3u8
 http://45.167.1.138:8000/play/a02t
 http://201.216.147.90:8729/play/a0dh
