@@ -45,8 +45,9 @@ http://38.95.86.246:61400/play/a02b/index.m3u8
 
 LAS ESTRELLAS
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://e7.pngegg.com/pngimages/686/771/png-clipart-las-estrellas-televisa-television-channel-logo-star-television-angle.png",Las Estrellas
-http://38.59.135.250:8001/play/a0d4/index.m3u8
 http://speedtest.sanfelipedigital.com.prod.hosts.ooklaserver.net:8000/play/a0d4
+http://45.188.229.33:8000/play/a1d8/index.m3u8
+http://38.59.135.250:8001/play/a0d4/index.m3u8
 http://45.188.229.33:8000/play/a18z/index.m3u8
 http://168.228.44.241:9997/play/a077/index.m3u8
 http://38.199.241.97:8000/play/a00e/index.m3u8
