@@ -511,6 +511,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/sancrisvision/chunks.m3u8
 
 MC
 #EXTINF:-1 tvg-id="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png", MC
+http://45.5.116.228:8000/play/a04u/index.m3u8
 http://speedtest.sanfelipedigital.com.prod.hosts.ooklaserver.net:8000/play/a0co
 http://45.5.118.139:8000/play/a067/index.m3u8
 http://45.167.1.138:8000/play/a02t
