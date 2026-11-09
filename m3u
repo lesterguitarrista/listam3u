@@ -9,6 +9,7 @@ http://167.250.223.26:9998/play/a02u/index.m3u8
 
 CANAL TN23
 #EXTINF:-1 tvg-id="TN23" tvg-name="TN23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title=“GUATEMALA”, TN23
+https://dlaznbhr6a7r9.cloudfront.net/0_3/index.m3u8
 https://d2h2wh04y3aqtb.cloudfront.net/hls/by1ualyjwslr/7_4/index.m3u8h
 http://45.5.118.139:8000/play/a04b/index.m3u8
 
