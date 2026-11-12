@@ -810,6 +810,7 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 HBO FAMILY 
 #EXTINF:0 type="stream" channelId="-1" name="HBO FAMILY" group="CINE & SERIES" logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg",  HBO FAMILY
+http://148.227.219.186:3000/play/a00p/index.m3u8
 http://200.108.187.214:8000/play/a0cu/index.m3u8
 http://190.233.81.191:8000/play/a09e/index.m3u8
 http://45.5.118.139:8000/play/a0l5/index.m3u8
