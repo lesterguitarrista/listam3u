@@ -166,6 +166,9 @@ CANAL MEGA CINE TV
 #EXTINF:-1  tvg-logo="https://megacinetv.net/logo/megacinetv.png", MEGACINE TV
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
+PRUEBA
+#EXTINF:-1  tvg-logo="https://megacinetv.net/logo/megacinetv.png", PRUEBA 
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 CLASIC +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
@@ -468,7 +471,33 @@ GOLDEN PLUS
 http://45.188.229.33:8000/play/a1jg/index.m3u8
 http://38.224.22.255:8000/play/a032/index.m3u8
 
+UNIVERSAL CINEMA ESTE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", UNIVERSAL CINEMA ESTE HD
+http://45.130.161.15:8000/play/a038/index.m3u8
 
+UNIVERSAL COMEDY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7VC0daZr0i_BQ-6l4ssfcPUNFldF60UbUnRaKqxCcA&s=10", UNIVERSAL COMEDY HD
+http://45.130.161.15:8000/play/a03j/index.m3u8
+
+UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/UniversalCrime.png/revision/latest?cb=20240130201708&path-prefix=es", UNIVERSAL CRIME HD
+http://45.130.161.15:8000/play/a03i/index.m3u8
+
+UNIVERSAL PREMIERE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdfx8smNktkeJLIf5gtRTpU60o5EHqLI0lnZnO5DkRg&s=10", UNIVERSAL PREMIERE HD
+http://45.130.161.15:8000/play/a03f/index.m3u8
+
+UNIVERSAL PREMIERE O
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdfx8smNktkeJLIf5gtRTpU60o5EHqLI0lnZnO5DkRg&s=10", UNIVERSAL PREMIERE O HD
+http://45.130.161.15:8000/play/a03g/index.m3u8
+
+UNIVERSAL REALITY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/f5/UniversalReality.png/revision/latest?cb=20240130202326&path-prefix=es", UNIVERSAL REALITY HD
+http://45.130.161.15:8000/play/a03h/index.m3u8
+
+UNIVERSAL
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail", Universal
+http://45.130.161.15:8000/play/a04b/index.m3u8
 
 FMH FAMILY
 #EXTINF:-1 tvg-id="FMH" tvg-logo="https://static.srv.win.i.mtvreg.com/cache/logos256/FMH_FAMILY.png" , FMH Family
@@ -688,9 +717,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 
 Adult Swim
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/524-5244521_adult-swim-logo-png-png-download-cross-transparent.png", Adult Swim
-http://181.78.79.131:8000/play/a0pk
-http://200.62.239.170:830/play/a07t/index.m3u8
-http://181.65.155.51:8000/play/a0oo/index.m3u8
+http://45.130.161.15:8000/play/a01u/index.m3u8
 
 DRAGON BALL TV
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | GOKU TV
