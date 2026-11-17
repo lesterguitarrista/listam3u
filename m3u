@@ -148,7 +148,24 @@ https://k20.usastreams.com:8081/telesistema/index.m3u8
 
 RETROPALMARES
 #EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/479_Retro_TV_Palmares.png", RETRO TV PALMARES 
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/tvretropalm2020/chunks.m3u8
+
+RETRO HITS
+#EXTINF:-1  tvg-logo="https://tvretropalmares.com/storage/canales/retrohits-logo-nlQBNuHQ.png", RETRO HITS
+https://183.giatvcdn.com/ssh101/ssh101/retrohitsmusic/chunks.m3u8
+
+RETRO CITY CINEMA
+#EXTINF:-1  tvg-logo="https://tvretropalmares.com/storage/canales/retrocitycinema-logo-MI2SbSF8.png", RETROCITY CINEMA
+https://183.giatvcdn.com/ssh101/ssh101/retrocitycinema/chunks.m3u8
+
+POPCORN CENTRAL
+#EXTINF:-1  tvg-logo="https://popcorncentraltv.com/wp-content/uploads/2025/08/logow-1024x665.png", POPCORN CENTRAL
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_480.m3u8
+
+CANAL MEGA CINE TV
+#EXTINF:-1  tvg-logo="https://megacinetv.net/logo/megacinetv.png", MEGACINE TV
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
 
 CLASIC +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
@@ -221,7 +238,8 @@ http://45.5.118.152:8000/play/a05x/index.m3u8
 
 WOW MOVIES
 #EXTINF:-1 tvg-logo="https://iptv.wow-iptv.com/img/logo/WOWmovies.png" ,  WOW MOVIES
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
 
 FX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" , FX 
@@ -251,7 +269,7 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
 GTV
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ccd32011a9ab5faf76fa0c4978ef11be77c05539c994874b8e3ad5e985d8f746.png", GTV
-https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
+https://guastream.com:3954/multi_live/play_480.m3u8
 
 APAMIMES 
 #EXTINF:-1 tvg-logo="https://www.africaorigin.net/upload/source/Apanines%20TV.png" , APANINES
