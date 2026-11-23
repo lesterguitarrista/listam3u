@@ -166,9 +166,9 @@ CANAL MEGA CINE TV
 #EXTINF:-1  tvg-logo="https://megacinetv.net/logo/megacinetv.png", MEGACINE TV
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
-PRUEBA
-#EXTINF:-1  tvg-logo="https://megacinetv.net/logo/megacinetv.png", PRUEBA 
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+MI PELICULA
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJuuvqJe-EqcAlPFdBQTImm5UEswZdUW-WvaX3OlsYprVuN9nRak15i4&s=10", Mi Pelicula
+http://38.210.105.10:8000/play/a09l/index.m3u8
 
 CLASIC +
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fejkowe-logaekranowe/images/1/15/CLASSIC%2B_1.png/revision/latest?cb=20200622131634&path-prefix=pl", Classic+
@@ -234,6 +234,10 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 ENT Family
 #EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://static.elektamedia.com/ch/entf.png", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+ENT CLASSIC
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://www.40mediagroup.com/channels/ent-classic.webp", ENT CLASSIC
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
 CANAL CHINIQUE
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_222,h_222,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_C100tvchinique.png",CHINIQUE
@@ -708,6 +712,7 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 
 DRAGON BALL  
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | GOKU TV
+http://38.3.162.3:18009/play/a0i8/index.m3u8
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
 DRAGON BALL SUPER 
