@@ -192,7 +192,7 @@ http://38.190.100.202:8000/play/a05k/index.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
-https://stream-retroxtv.site/w/DQgd7F88Na3BT9zkFm7UOHbc.m3u8
+https://stream-retroxtv.site/w/fn6vEch01tmViLRA26XCWWRY.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8?lb_backend_hint=6
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
@@ -205,7 +205,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/erinaca/chunks.m3u8?lb_backend_hint=7
 
 RETRO PLUS 3
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://ia601605.us.archive.org/19/items/logo-retro-plus-582-x-198-ts-1680109231/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg" , RETRO PLUS 3
-https://srt01.logicahost.com.br/senal1/tracks-v1a1/mono.ts.m3u8?ChileTv
+https://video06.logicahost.com.br/aretroplustv03/aretroplustv03/main_stream.m3u8
 
 RETRO PLUS 2
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://ia601605.us.archive.org/19/items/logo-retro-plus-582-x-198-ts-1680109231/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg" , RETRO PLUS 2
