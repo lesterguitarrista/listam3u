@@ -583,10 +583,24 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-🧟",Los Simpsons | Casita del Horror (LATAM)
+Los Simpsons 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6
+
+El PATO DARWING
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1c/f1/73/1cf1735682d9bf181a4320686c2083df.jpg",El Pato Darkwing
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/356.m3u8
+
+LA PANTERA ROSA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/40/35/fd/4035fd50756c96bc668643c98f246ef3.png",La Pantera Rosa
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8
+
+LOS CABALLEROS DEL ZODIACO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oCtmg7vY9geQT3jEmvAsKS5Wjbr.png",Caballeros del Zodiaco
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/100.m3u8
+
+
 
 
 
@@ -717,9 +731,17 @@ DRAGON BALL
 http://38.3.162.3:18009/play/a0i8/index.m3u8
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
+DRAGON BALL Z
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Dragon_Ball_Z_Logo_A.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Dragon Ball Z
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/307.m3u8
+
+DRAGON BALL GT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Dragon Ball GT
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/303.m3u8
+
 DRAGON BALL SUPER 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | DRAGON BALL SUPER
-https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/305.m3u8
 
 
 Adult Swim
@@ -728,7 +750,7 @@ http://45.130.161.15:8000/play/a01u/index.m3u8
 
 DRAGON BALL TV
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | GOKU TV
-http://38.3.162.3:18009/play/a0i8/index.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/301.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
