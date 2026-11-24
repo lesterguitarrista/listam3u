@@ -309,6 +309,10 @@ http://38.224.48.4:8000/play/a0x1/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+EXPEDIENTES SECRETOS X 24/7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/The_X-Files_title_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Los Expedientes Secretos X
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/623.m3u8
+
 LOS EXPEDIENTES SECRETOS X
 #EXTINF:-1 tvg-logo="https://archive.org/details/1684938017100", LOS EXPEDIENTES SECRETOS X
 http://archive.org/download/ns_20210520/expedientes%20x.m3u
@@ -338,8 +342,13 @@ EL  CHAVO
 https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
 http://38.252.215.33:8000/play/a01i/index.m3u8
 
+CANTINFLAS
+#EXTINF:-1 tvg-logo="https://hrexach.wordpress.com/wp-content/uploads/2014/09/can10.png",Cantinflas
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/123.m3u8
 
-
+PATO AVENTURAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Patoaventuras_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Patoaventuras
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/758.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIDEOS MUSICALES PROPIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIDEOS MUSICALES PROPIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -974,6 +983,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxGUIAS PARA CANALESxxXXXXXXXXXXXXX
 #EXTINF:-1 group-title="PELICULAS" type="movie"
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPELICULAS PRUEBAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+SPIDER-MAN UN NUEVO DIA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",Spider-Man: Un nuevo día (2026)
+https://ok.ru/video/16459960289805
+
 13 FANTASMAS
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.postimg.cc/HkSssw-Hm/13.jpg", 13 Fantasmas | 2001 | Latino
 https://vod3.cf.dmcdn.net/sec2(5qozLYYqm8GDdM7imeWz3w5g49AH2dDn28hQHL3t16eJlWemN_lSTaq85SDPp4UK1ADLVZMXfUDvu7vAc6KZiEG6HduAFAVNAgJ9_wxc2HUiKkRCAjA5l8f7o42MIcGgkzssOiXEAgKmjCMf0PTaUEjg843t9gk5YIEhfWPxGt8avi5hyZ0xQo6t_lA_TWTHlPcWlN9teAkOK2JfBH0gFQ)/video/fmp4/598051564/h264_aac_hd/4/manifest.m3u8
