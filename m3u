@@ -192,16 +192,11 @@ http://38.190.100.202:8000/play/a05k/index.m3u8
 
 RETRO X TV
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/canal-retroxtv.jpg", RETRO X TV
-https://stream-retroxtv.site/w/fn6vEch01tmViLRA26XCWWRY.m3u8
-https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8
-https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8?lb_backend_hint=6
-https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8
 
 RETRO X TV PLUS 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3922-800x450-FFFFFF.jpg", RETRO X PLUS
-https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8
-https://lbgo.bozztv.com/ssh101/ssh101/erinaca/chunks.m3u8?lb_backend_hint=7
-
+https://stream-retroxtv.site/w/QNibZ7nyJCWBSqNgme03EG4r.m3u8
 
 RETRO PLUS 3
 #EXTINF:-1 tvg-id"megacine" tvg-logo="https://ia601605.us.archive.org/19/items/logo-retro-plus-582-x-198-ts-1680109231/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg" , RETRO PLUS 3
@@ -340,7 +335,12 @@ https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
 
 X-MEN lester
 #EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/x-men-logo-07-freelogovectors.net_-180x113.png", X-MEN 
+https://183.giatvcdn.com/giatvplayout7/giatv-210703/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
+
+CUESTOS DE LA CRIPTA
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons",Cuentos de la Cripta
+https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
 
 EL  CHAVO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/El_chavo_animado_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", EL CHAVO
@@ -354,6 +354,10 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/123.m3u8
 PATO AVENTURAS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Patoaventuras_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",Patoaventuras
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/758.m3u8
+
+EL HOMBRE ARAÑA
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210702.jpg?1758864551" group-title="Retro Toons",El Hombre Araña - 24/7
+https://183.giatvcdn.com/giatvplayout7/giatv-210702/playlist.
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIDEOS MUSICALES PROPIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX VIDEOS MUSICALES PROPIOS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -614,8 +618,9 @@ LOS CABALLEROS DEL ZODIACO
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oCtmg7vY9geQT3jEmvAsKS5Wjbr.png",Caballeros del Zodiaco
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/100.m3u8
 
-
-
+CANAL LMS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Retro Toons",Canal LMS
+https://183.giatvcdn.com/ssh101/ssh101/canallms/playlist.m3u8
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxNIENKExxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -757,6 +762,9 @@ DRAGON BALL SUPER
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z: EL EMPERADOR FREEZER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1280px-Dragon_Ball_Super.png" group-title="24/7",24/7 | DRAGON BALL SUPER
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/305.m3u8
 
+DRAGON BALL SUPER OP 2
+#EXTINF:-1 tvg-logo="https://ssh101.com/img/dbsuperlat.jpg" group-title="Retro Toons",Dragon Ball Super Latino
+https://183.giatvcdn.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 
 Adult Swim
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/524-5244521_adult-swim-logo-png-png-download-cross-transparent.png", Adult Swim
@@ -858,6 +866,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
 
 RETRO TV
 #EXTINF:-1 tvg-id="RetroTv.mx" tvg-logo="https://image.winudf.com/v2/image1/cmV0cm8udHZvbmxpbmUyMDIzX3NjcmVlbl8wXzE3MDQ3MjU5NTZfMDc2/screen-0.jpg?fakeurl=1&type=.jpg", Retro Tv
+https://stream.enlineatv.net/hls/retrotv/index.m3u
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 FMTV
@@ -866,6 +875,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 RETROPALMARES
 #EXTINF:-1 tvg-id"retropalmares.cr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1MpcNtt8Gv-C9dVhoP94HG6YmUq-PJz1a6dypksufhiQPxmYPMnSVWEYwp_boWiecTPZRhi92zIAotugjHwRfQJIxCqxGhsZTlVZ6vufMaUz_eZupEJ7aVufwwJrYtaTMsTDYw_2Cmn-GgvaEykn35VE96ZkL32aG4pcWEGaOSw3Nw3YLxFbsFOqeKOBy/s1280/TV%20RETRO%20PALMARES.png", Retro Palmares
+https://183.giatvcdn.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
 
@@ -881,6 +891,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 
 GOGOPLAY TV
 #EXTINF:-1 tvg-id"gogoplayhd" tvg-logo="https://ofutbol.jdoxx.com/files/channels/679e0c1UYB.png", GOGOPLAY TV
+https://183.giatvcdn.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
 
