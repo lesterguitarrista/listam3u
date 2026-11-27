@@ -235,6 +235,10 @@ ENT Family
 #EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://static.elektamedia.com/ch/entf.png", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
+ENT CHANNEL
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://www.40mediagroup.com/channels/ent-channel.webp", ENT CHANNEL
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
 ENT CLASSIC
 #EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://www.40mediagroup.com/channels/ent-classic.webp", ENT CLASSIC
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
@@ -765,6 +769,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXCANALES VARIADOS PELICULASXXXXXXXXXX
 
 Canal 5 Mexico
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="MEXICO" , Canal 5 
+http://45.186.106.194:9999/play/a06q/index.m3u8
 http://167.249.23.102:8000/play/a0hv/index.m3u8
 
 Distrito Comedia
