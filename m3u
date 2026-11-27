@@ -304,7 +304,7 @@ http://190.108.91.206:9050/play/a0bg/index.m3u8
 
 13 Festival
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg/revision/latest?cb=20230902024552&path-prefix=es", 13 FESTIVALES
-
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRUEBASXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -437,9 +437,6 @@ http://200.108.187.214:8000/play/a0bt/index.m3u8
 http://45.238.141.222:8000/play/a0or/index.m3u8
 http://45.167.1.138:8000/play/a06m
 
-TELENORD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg/250px-Teleoperadora_del_Nordeste_%28Telenord%29.jpg", TELENORD
-https://fox.hostlagarto.com:8081/telenord10/tracks-v1a1/mono.m3u8
 
 AMC SERIES
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHohMY2EmFTC7LnVKLmzi3hUFU0zHjCYQf-d5T5Dmvg&s=10", AMC Series 
