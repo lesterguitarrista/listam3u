@@ -59,6 +59,7 @@ http://190.60.39.221:8000/play/a06p/index.m3u8
 
 TVAZTECA GT
 #EXTINF:-1 tvg-id="TvAzteca Guate" tvg-name="TvAzteca Guate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title=“GUATEMALA”, TvAzteca Guate
+http://154.12.110.211:9000/play/a06j/index.m3u8
 http://167.250.223.26:9998/play/a02s/index.m3u8
 http://45.5.118.139:8000/play/a0h3/index.m3u8
 http://167.250.223.26:9998/play/a02s/index.m3u8
