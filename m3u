@@ -106,9 +106,7 @@ http://181.78.9.204:8000/play/a02p/index.m3u8
 
 A&E
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/20/19/4/imgbin-a-e-networks-logo-television-iphonex-nBcGZSSrE2usTp2T2JCamKn4U.jpg" ,A&E
-http://181.78.106.127:5000/play/a0q9/index.m3u8
-http://200.123.40.1:8000/play/a03y/index.m3u8
-http://181.78.9.204:8000/play/a00k/index.m3u8
+http://191.97.62.126:9000/play/a0f9/index.m3u8
 
 UNICABLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unicable2007.png/960px-Unicable2007.png", UNICABLE
